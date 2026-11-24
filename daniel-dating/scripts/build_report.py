@@ -46,15 +46,19 @@ a = s_[s_.role == "anchor"].dropna(subset=["loo_pred"])
 b, c = np.polyfit(a.loo_pred, a.anchor_date, 1)
 mae = int(round((a.anchor_date - (b * a.loo_pred + c)).abs().mean(), -1))
 
-imperial = ""
-ip = os.path.join(RES, "imperial_aramaic_note.html")
+# Imperial (Achaemenid) Aramaic: snippets written by imperial_integrate.py; empty fallbacks if absent
+imp = {"imp_fig": "", "imp_corpus": "Persian-era Aramaic documents: not yet included", "imp_short": "Persian-era Aramaic documents: not yet included",
+       "imp_legend": "", "imp_table": "", "imp_para": "", "imp_limit": "Persian-era Aramaic outside the Bible was not included."}
+ip = os.path.join(RES, "imperial", "report_snippets.json")
 if os.path.exists(ip):
-    imperial = open(ip).read().strip()
+    imp.update(json.load(open(ip)))
 
 out = (tpl.replace("{{timeline}}", charts["timeline"]).replace("{{hebmodel}}", charts["hebmodel"])
           .replace("{{hebvars}}", charts["hebvars"]).replace("{{aramaic}}", charts["aramaic"])
           .replace("{{claims}}", claims_html).replace("{{pers_words}}", str(pers)).replace("{{a4_words}}", str(a4))
-          .replace("{{mae}}", f"about {mae}").replace("{{imperial}}", imperial))
+          .replace("{{mae}}", f"about {mae}"))
+for k, v in imp.items():
+    out = out.replace("{{" + k + "}}", v)
 assert "{{" not in out, [l for l in out.splitlines() if "{{" in l][:3]
 open(os.path.join(REP, "index.html"), "w").write(out)
 print("wrote", len(out), "bytes; pers", pers, "a4", a4, "mae", mae)

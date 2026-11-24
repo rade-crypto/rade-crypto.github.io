@@ -1,0 +1,339 @@
+<title>Dating Daniel's Prophecies</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif+Hebrew:wght@400;600&display=swap">
+<style>
+/* Layout: one reading column (~68ch) with charts and tables allowed to run wider; lapis-blue accent after the glazed bricks of Babylon */
+:root {
+  --bg: #f4f5f7; --surface: #ffffff; --fg: #151920; --fg2: #464d5b; --muted: #737a89; --line: #dcdfe5; --soft: #eceef2;
+  --accent: #1d4a9e; --accent-soft: #e3eaf7;
+  --s-blue: #2a78d6; --s-orange: #eb6834; --s-aqua: #1baf7a; --grid: #e4e7ec;
+  --good: #0a8a0a; --warn: #b07800; --serious: #c4562b; --crit: #c23434;
+  --f-head: "Archivo", "Helvetica Neue", Arial, sans-serif;
+  --f-body: "Source Serif 4", Georgia, "Times New Roman", serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+  --f-heb: "Noto Serif Hebrew", "SBL Hebrew", "Times New Roman", serif;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #0e1116; --surface: #161a21; --fg: #e7e9ee; --fg2: #b3b9c5; --muted: #8b92a1; --line: #2a303a; --soft: #1d222b;
+  --accent: #86a8ec; --accent-soft: #1b2638;
+  --s-blue: #3987e5; --s-orange: #d95926; --s-aqua: #199e70; --grid: #252b35;
+  --good: #3fb23f; --warn: #e0a520; --serious: #ec835a; --crit: #e66767; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #0e1116; --surface: #161a21; --fg: #e7e9ee; --fg2: #b3b9c5; --muted: #8b92a1; --line: #2a303a; --soft: #1d222b;
+  --accent: #86a8ec; --accent-soft: #1b2638;
+  --s-blue: #3987e5; --s-orange: #d95926; --s-aqua: #199e70; --grid: #252b35;
+  --good: #3fb23f; --warn: #e0a520; --serious: #ec835a; --crit: #e66767; color-scheme: dark }
+* { box-sizing: border-box }
+body { background: var(--bg); color: var(--fg); font-family: var(--f-body); font-size: 17px; line-height: 1.6;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); padding-block: 0 64px }
+.wrap { max-width: 860px; margin: 0 auto }
+.col { max-width: 68ch }
+header { padding-block: 48px 8px }
+.eyebrow { font-family: var(--f-head); font-size: 12px; letter-spacing: .12em; text-transform: uppercase; color: var(--accent); font-weight: 600 }
+h1 { font-family: var(--f-head); font-weight: 700; font-size: clamp(2rem, 5vw, 3.1rem); line-height: 1.05; letter-spacing: -.015em; margin: 10px 0 14px; text-wrap: balance }
+h2 { font-family: var(--f-head); font-weight: 650; font-size: 1.55rem; line-height: 1.2; margin: 0 0 10px; text-wrap: balance }
+h3 { font-family: var(--f-head); font-weight: 600; font-size: 1.08rem; margin: 26px 0 6px }
+.lede { font-size: 1.15rem; color: var(--fg2); max-width: 64ch; margin: 0 }
+p { margin: 0 0 14px }
+section { padding-block: 40px 8px; border-top: 1px solid var(--line); margin-top: 32px }
+.sec-num { font-family: var(--f-mono); font-size: 13px; color: var(--muted); display: block; margin-bottom: 4px }
+.verdict { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 22px 24px; margin: 28px 0 8px }
+.verdict h2 { font-size: 1.15rem; margin-bottom: 8px; color: var(--accent) }
+.verdict p:last-child { margin-bottom: 0 }
+.figs { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 12px; margin: 18px 0 0 }
+.fig { padding: 14px 16px; background: var(--surface); border: 1px solid var(--line); border-radius: 8px; min-width: 0 }
+.fig b { display: block; font-family: var(--f-head); font-size: 1.85rem; line-height: 1.1; font-variant-numeric: tabular-nums }
+.fig span { display: block; font-size: 14px; color: var(--fg2); line-height: 1.4; margin-top: 4px }
+.chartbox { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 14px 10px 8px; margin: 18px 0 8px; overflow-x: auto }
+.chartbox svg { display: block; width: 100%; min-width: 600px; height: auto }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 18px; font-family: var(--f-head); font-size: 13px; color: var(--fg2); padding: 6px 10px 4px }
+.legend span { display: inline-flex; align-items: center; gap: 6px }
+.lg { width: 12px; height: 12px; display: inline-block }
+.caption { font-size: 14px; color: var(--muted); margin: 4px 2px 0 }
+svg .ct { font-family: var(--f-head); font-size: 13px; font-weight: 600; fill: var(--fg) }
+svg .tick { font-family: var(--f-mono); font-size: 11px; fill: var(--muted) }
+svg .ann { font-family: var(--f-head); font-size: 12px; fill: var(--fg2) }
+svg .ann.muted { fill: var(--muted) }
+svg .rl { font-family: var(--f-head); font-size: 12.5px; fill: var(--fg) }
+svg .rl.strong { font-weight: 700 }
+svg .rs { font-family: var(--f-body); font-size: 11px; fill: var(--muted) }
+svg .gl { font-family: var(--f-head); font-size: 11px; font-weight: 700; fill: var(--accent); letter-spacing: .06em; text-transform: uppercase }
+svg .grid { stroke: var(--grid); stroke-width: 1 }
+svg .rowline { stroke: var(--grid); stroke-width: 1 }
+svg .axis { stroke: var(--muted); stroke-width: 1 }
+svg .bar { fill: var(--s-blue) } svg .bar.fut { fill: var(--s-orange) }
+svg .dot { fill: var(--s-blue); stroke: var(--surface); stroke-width: 2 }
+svg .dot.fut { fill: var(--s-orange) }
+svg .span { stroke: var(--s-blue); stroke-width: 2; opacity: .45 }
+svg .span.fut { stroke: var(--s-orange) }
+svg .cp { stroke: var(--fg2); stroke-width: 1.2; stroke-dasharray: 4 3 }
+svg .m-dan { fill: var(--s-orange); stroke: var(--surface); stroke-width: 2 }
+svg .m-danq { fill: var(--surface); stroke: var(--s-orange); stroke-width: 2.2 }
+svg .m-ezra, svg .m-per { fill: var(--fg2); stroke: var(--surface); stroke-width: 1.5 }
+svg .m-qum { fill: var(--s-aqua); stroke: var(--surface); stroke-width: 1.5 }
+svg .m-qum2 { fill: var(--surface); stroke: var(--s-aqua); stroke-width: 2.2 }
+svg .m-c6 { fill: var(--s-blue); stroke: var(--surface); stroke-width: 1.5 }
+svg .m-cla { fill: var(--muted); stroke: var(--surface); stroke-width: 1.5; opacity: .8 }
+svg .m-anchor { fill: var(--s-blue); stroke: var(--surface); stroke-width: 1.5 }
+svg .truth { stroke: var(--fg2); stroke-width: 2 }
+svg .ci { stroke: var(--s-orange); stroke-width: 2.5; opacity: .55; stroke-linecap: round }
+svg [data-tip] { cursor: default }
+svg [data-tip]:hover { stroke: var(--fg); stroke-width: 2 }
+.tip { position: fixed; z-index: 20; pointer-events: none; max-width: 300px; background: var(--fg); color: var(--bg); font-family: var(--f-head); font-size: 13px; line-height: 1.35; padding: 7px 10px; border-radius: 6px; box-shadow: 0 4px 14px rgba(0,0,0,.18) }
+.tbl { overflow-x: auto; margin: 14px 0 6px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface) }
+table { border-collapse: collapse; width: 100%; font-size: 15px }
+th, td { text-align: left; vertical-align: top; padding: 9px 12px; border-bottom: 1px solid var(--line) }
+th { font-family: var(--f-head); font-size: 12.5px; font-weight: 600; color: var(--fg2); letter-spacing: .02em; background: var(--soft) }
+tr:last-child td { border-bottom: 0 }
+td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; font-family: var(--f-mono); font-size: 13.5px }
+.heb { font-family: var(--f-heb); font-size: 1.08em; direction: rtl; unicode-bidi: isolate }
+.mono { font-family: var(--f-mono); font-size: .88em }
+.pill { display: inline-block; font-family: var(--f-head); font-size: 11.5px; font-weight: 600; padding: 1px 8px; border-radius: 99px; border: 1px solid currentColor; white-space: nowrap; line-height: 1.5 }
+.p-hit { color: var(--good) } .p-partial { color: var(--warn) } .p-miss { color: var(--crit) } .p-vague { color: var(--muted) }
+.v-ok { color: var(--good); font-weight: 600 } .v-bad { color: var(--crit); font-weight: 600 } .v-mid { color: var(--warn); font-weight: 600 }
+details.seg { border-bottom: 1px solid var(--line); padding: 2px 0 }
+details.seg:last-of-type { border-bottom: 0 }
+details.seg summary { cursor: pointer; padding: 10px 12px; display: flex; flex-wrap: wrap; gap: 4px 12px; align-items: baseline; list-style: none }
+details.seg summary::-webkit-details-marker { display: none }
+details.seg summary::before { content: "+"; font-family: var(--f-mono); color: var(--accent); width: 1ch }
+details.seg[open] summary::before { content: "−" }
+details.seg summary:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; border-radius: 6px }
+.sref { font-family: var(--f-mono); font-size: 13px; color: var(--accent); min-width: 7ch }
+.slab { font-family: var(--f-head); font-weight: 600; font-size: 14.5px; flex: 1 1 260px; min-width: 0 }
+.sstat { font-family: var(--f-mono); font-size: 12.5px; color: var(--muted) }
+.claims { list-style: none; margin: 0; padding: 0 12px 12px 32px; display: grid; gap: 8px }
+.claims li { display: grid; grid-template-columns: 72px 1fr; gap: 10px; font-size: 15px; line-height: 1.45 }
+.claims li small { display: block; color: var(--muted); font-size: 13px; margin-top: 2px }
+.callout { background: var(--accent-soft); border-radius: 8px; padding: 14px 18px; margin: 16px 0 }
+.callout p:last-child { margin-bottom: 0 }
+ul.plain { padding-left: 1.2em; margin: 0 0 14px } ul.plain li { margin-bottom: 6px }
+.two { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 16px }
+.two > div { min-width: 0 }
+.card { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 16px 18px }
+.card h3 { margin-top: 0 }
+footer { margin-top: 48px; padding-top: 18px; border-top: 1px solid var(--line); font-size: 14px; color: var(--muted) }
+a { color: var(--accent) }
+@media (max-width: 520px) { body { font-size: 16px } .claims li { grid-template-columns: 1fr; gap: 2px } .claims { padding-left: 14px } }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important } }
+</style>
+
+<div class="wrap">
+<header>
+  <div class="eyebrow">A text-based study · Hebrew, Aramaic, Greek and the ancient historians</div>
+  <h1>Dating Daniel's Prophecies</h1>
+  <p class="lede">When were the kingdom prophecies of Daniel written? This study leaves the commentaries aside and asks the text itself: its grammar and vocabulary set against dated Hebrew and Aramaic corpora, its loanwords, and every checkable historical claim set against the ancient sources.</p>
+</header>
+
+<div class="verdict">
+  <h2>The answer the evidence gives</h2>
+  <p>Every line of evidence points the same way. The prophecies of Daniel 8 and 11 are accurate in remarkable detail up to the years 167–166 BCE. For what came next they are wrong. Their Hebrew and Aramaic belong with texts of the 4th to 2nd centuries BCE, not with the real 6th-century writers Ezekiel, Haggai and Zechariah. The best-supported conclusion is that the visions in their present form were written in Judea during the persecution under Antiochus IV, around 167–164 BCE, before news of his death in late 164 BCE arrived. The court stories of chapters 1–6 preserve some older Babylonian memories, but they too show Persian-period and later features.</p>
+  <div class="figs">
+    <div class="fig"><b>94%</b><span>score for 86 checkable claims about events up to 166 BCE</span></div>
+    <div class="fig"><b>8%</b><span>score for 12 claims about 165–163 BCE, the predicted end</span></div>
+    <div class="fig"><b>~165 BCE</b><span>where a change-point model puts the break (95%: 166–165)</span></div>
+    <div class="fig"><b>~100×</b><span>more words per year for Antiochus IV's reign than for the Persian empire</span></div>
+  </div>
+</div>
+
+<section id="method">
+  <span class="sec-num">How it was done</span>
+  <h2>Primary data only</h2>
+  <div class="col">
+  <p>Every result here comes from data that can be checked. The full Masoretic text of the Hebrew Bible with word-level grammar (the ETCBC database) was used, along with the morphologically tagged Dead Sea Scrolls (about 500,000 words of Hebrew and Aramaic written in the 3rd to 1st centuries BCE). The Greek tests used a search of 36 million words of Greek literature and 5 million words of papyri. The history comes from the ancient authors themselves: Herodotus, Polybius, Livy, Diodorus, Appian, 1–2 Maccabees, Josephus, and the Babylonian chronicles and king lists. No interpretive commentary was used to decide anything.</p>
+  <p>Several of these tests were not practical before. One is a dating model that reads every word of 34 dated texts and is checked by predicting each text while blind to it. Another is a control that scores the scroll copies of old books against their medieval counterparts. Others are a claim-by-claim audit with a statistical break-point, and a full-corpus search for when a Greek word changed meaning. All code and outputs are in the project folder listed at the end.</p>
+  </div>
+</section>
+
+<section id="prophecy">
+  <span class="sec-num">1 · The prophecies themselves</span>
+  <h2>Sharp up to 166 BCE, wrong after it</h2>
+  <div class="col">
+  <p>Daniel 8 and 11 are the kingdom visions that name their own subjects: the ram is "the kings of Media and Persia," the goat is "the king of Greece" (8:20–21), and chapter 11 begins with the kings of Persia and the coming of Greece (11:2). That lets each verse be lined up with the history it describes. The text was divided into 23 passages and 107 separate claims. Each claim was checked against the ancient sources and scored <span class="pill p-hit">hit</span> <span class="pill p-partial">partial</span> <span class="pill p-miss">miss</span>, or set aside as <span class="pill p-vague">vague</span> when too general to test.</p>
+  </div>
+  <div class="chartbox">
+    {{timeline}}
+    <div class="legend"><span><i class="lg" style="background:var(--s-blue);border-radius:2px"></i>events up to 166 BCE</span><span><i class="lg" style="background:var(--s-orange);border-radius:50%"></i>the "time of the end" (11:40–45) and its day counts (12:11–12)</span><span><i class="lg" style="border-top:2px dashed var(--fg2);height:0;width:16px"></i>estimated break</span></div>
+  </div>
+  <p class="caption">Top: how many words of prophecy are spent on each decade of history. Bottom: each passage's share of checkable claims that match the record (partial = half). Hover a mark for details.</p>
+  <div class="col">
+  <h3>Two patterns</h3>
+  <p><strong>The focus sharpens toward 167 BCE.</strong> The whole Persian empire, 220 years and ten kings, gets {{pers_words}} words: three unnamed kings and a rich fourth who attacks Greece. Then the text skips 142 years without a word. The ten years of Antiochus IV up to 166 BCE get {{a4_words}} words, about a hundred times as many per year. They take in his first and second Egyptian campaigns, a Roman envoy turning him back ("ships of Kittim," 11:30, the Day of Eleusis in Polybius 29.27), the plunder of the Temple, and the "abomination of desolation" set on the altar in December 167 (1 Maccabees 1:54).</p>
+  <p><strong>Then the accuracy collapses.</strong> Daniel 11:40–45 continues with the same king. It predicts a final war with Egypt, the conquest of Egypt, Libya and Cush, and his death in the land of Israel "between the sea and the glorious holy mountain." None of it happened. Rome had already forbidden another Egyptian war. Antiochus went east, and every ancient source puts his death in Persia or Babylonia (Polybius 31.9: "he died at Tabae in Persia"). A Babylonian king list records the news of his death in the month Kislev of 164 BCE. The Temple's rededication that same month is not mentioned as having happened; 8:14 and 12:11–12 still look forward to it.</p>
+  <p>A Bayesian change-point test on the claims, ordered by date, puts the break at about 165 BCE, with 95% of the probability between 166 and 165. If partial matches are counted as failures, the break moves to about 167 BCE. Either way the break falls in a single three-year window.</p>
+  <div class="callout">
+  <p><strong>The futurist reading.</strong> Some readers take 11:36–45 or 11:40–45 as a jump to a far-future figure. The Hebrew gives no signal of a new subject: "the king" and "the king of the north" continue from the preceding verses. Even on that reading the result stands: the text is precise up to the 160s BCE and then stops being checkable. A 6th-century prophet would have no reason to see the 170s in close-up and the Persian empire as a blur.</p>
+  </div>
+  </div>
+  <h3>All 107 claims with the evidence</h3>
+  <div class="tbl">{{claims}}</div>
+</section>
+
+<section id="hebrew">
+  <span class="sec-num">2 · The Hebrew of Daniel 1 and 8–12</span>
+  <h2>It reads like Ezra, Nehemiah and Chronicles</h2>
+  <div class="col">
+  <p>A dating model was trained on 34 texts with broadly agreed dates. They run from Samuel–Kings through the 6th-century prophets and the Persian-era books to 17 compositions from Qumran. The model uses 89 features chosen to be insensitive to genre: frequencies of closed-class words (prepositions, conjunctions, particles, pronouns), verb-stem proportions and suffix rates. Spelling was left out entirely. Each text was dated by a model that had never seen it. The typical error was {{mae}} years, and 74% of texts were placed in the right period.</p>
+  <p>As a control, the Dead Sea Scroll copies of Samuel, Isaiah, Jeremiah and Ezekiel were scored. They sit next to their medieval Masoretic counterparts, so the model is measuring the language, not the database it came from.</p>
+  </div>
+  <div class="chartbox">
+    {{hebmodel}}
+    <div class="legend"><span><i class="lg" style="background:var(--s-blue);border-radius:50%"></i>comparison text, model estimate</span><span><i class="lg" style="border-left:2px solid var(--fg2);width:2px"></i>its conventional date</span><span><i class="lg" style="background:var(--s-orange);border-radius:50%"></i>Daniel, with 90% bootstrap range</span></div>
+  </div>
+  <p class="caption">Estimates are calibrated against the comparison texts' out-of-sample predictions. Hover for values.</p>
+  <div class="col">
+  <p>Daniel's Hebrew as a whole comes out at about 300 BCE. Its nearest neighbours are Nehemiah, Ezra, Chronicles and the Qumran Hodayot. The period classifier gives it a 4% probability of belonging with the 6th-century texts. Chapters 8 and 10, which are vision reports in the style of Ezekiel and Zechariah, lean earlier. Chapters 11–12 lean later. The single-text error is wide, so language alone cannot tell the 4th century from the 2nd. It does set Daniel apart from its supposed contemporaries.</p>
+  <h3>Three choices that separate the 6th century from later writers</h3>
+  <p>The clearest evidence is in places where a writer had to choose between two equivalent forms. Because the measure is a choice, genre matters little.</p>
+  </div>
+  <div class="chartbox">
+    {{hebvars}}
+    <div class="legend"><span><i class="lg" style="background:var(--muted);clip-path:polygon(50% 0,100% 100%,0 100%)"></i>Classical prose</span><span><i class="lg" style="background:var(--s-blue);border-radius:2px"></i>6th century</span><span><i class="lg" style="background:var(--fg2);transform:rotate(45deg) scale(.8)"></i>Persian era</span><span><i class="lg" style="border:2px solid var(--s-aqua);border-radius:50%"></i>Qumran</span><span><i class="lg" style="background:var(--s-orange);border-radius:50%"></i>Daniel</span></div>
+  </div>
+  <div class="col">
+  <p>For "kingdom," Daniel always uses <span class="heb">מלכות</span> (16 of 16), where the 6th-century prophets almost always use <span class="heb">ממלכה</span>. In the long form of "and I did…" (<span class="heb">ואתפללה</span>), Daniel writes it 56% of the time, against 3% in the 6th-century texts and 50% in Ezra–Nehemiah. For object pronouns, Daniel attaches them to the verb in every case (19 of 19). On all three, Daniel sits with the Persian-era books and Qumran.</p>
+  </div>
+</section>
+
+<section id="aramaic">
+  <span class="sec-num">3 · The Aramaic of Daniel 2:4b–7:28</span>
+  <h2>Later than Ezra, earlier-looking than Qumran</h2>
+  <div class="col">
+  <p>Six grammatical features change between the Aramaic of the Persian chancery and the Aramaic of the Hellenistic period. Each was counted in the consonantal text alone, with no medieval vowels: Ezra 4–7 (documents dated by the text to the 6th–5th centuries), Daniel, and about 46,000 words of non-biblical Aramaic from Qumran (3rd–1st centuries BCE).</p>
+  </div>
+  <div class="chartbox">
+    {{aramaic}}
+    <div class="legend"><span><i class="lg" style="background:var(--fg2);border-radius:2px"></i>Ezra (Persian era)</span><span><i class="lg" style="background:var(--s-aqua);transform:rotate(45deg) scale(.8)"></i>Qumran Aramaic</span><span><i class="lg" style="background:var(--s-orange);border-radius:50%"></i>Daniel, Masoretic text</span><span><i class="lg" style="border:2px solid var(--s-orange);border-radius:50%"></i>Daniel, Qumran copies</span></div>
+  </div>
+  <div class="col">
+  <p>On four of the six features Daniel's Aramaic is later than Ezra's. Daniel always writes "their" as <span class="mono">-hwn</span> (36 of 36), while Ezra still uses the older <span class="mono">-hm</span> 42% of the time. On the causative prefix, Daniel is as conservative as Ezra. Against the literary Aramaic of Qumran, Daniel looks older on every feature. Its word order also has more object-before-verb clauses than Ezra (58% against 36%), a trait of eastern chancery Aramaic. {{imperial}}</p>
+  <p><strong>Was the text modernised by later scribes?</strong> This can be tested directly, because Qumran preserves copies of Daniel from the late 2nd century BCE onward. They agree with the Masoretic text on these features, and where they differ they are slightly more modern (24% vs 15% for the newer causative prefix, 43% vs 25% for the newer reflexive prefix). Copying pushed forms forward, not back, so the Masoretic Daniel is if anything the older form of the text.</p>
+  <p>Typologically, then, Daniel's Aramaic sits between Persian-era Ezra and Hellenistic Qumran. That fits stories composed in the late Persian or early Hellenistic period. It also fits a 2nd-century writer of chapter 7 working in an established literary register. It does not fit a 6th-century author, whose Aramaic should look at least as old as Ezra's documents.</p>
+  </div>
+</section>
+
+<section id="words">
+  <span class="sec-num">4 · Loanwords, names and usage</span>
+  <h2>Persian titles, Greek instruments, later spellings</h2>
+  <div class="two">
+    <div class="card">
+      <h3>Persian loanwords</h3>
+      <p>Daniel uses 19 Persian words (69 occurrences), most of them Achaemenid administrative terms: satrap, treasurer, judge, magistrate, counsellor, minister, law (<span class="mono">dāta</span>), mystery (<span class="mono">rāza</span>). In 3:2–3 a whole list of Persian titles staffs Nebuchadnezzar's court (605–562 BCE), decades before the Persian empire existed. In Hebrew, Daniel shares <span class="heb">פרתמים</span> "nobles" only with Esther, and <span class="heb">אפדן</span> "palace" (11:45) is the Old Persian <span class="mono">apadāna</span>.</p>
+    </div>
+    <div class="card">
+      <h3>Greek instruments (Dan 3:5–15)</h3>
+      <p><span class="mono">qytrs</span> = kitharis (Homer onward, so no help). <span class="mono">psntryn</span> = psaltērion, first attested c. 300 BCE (Theophrastus, <i>Hist. pl.</i> 5.7.6). <span class="mono">swmpnyh</span> = symphōnia. In 85 occurrences from before the Hellenistic age it always means harmony or agreement, never an instrument. Its first concrete musical use is in Polybius, describing Antiochus IV dancing to it (26.1, 30.26). As a named instrument in a list it appears only in the Greek translations of Daniel. Much Hellenistic literature is lost, so this is suggestive, not proof.</p>
+    </div>
+  </div>
+  <div class="tbl"><table>
+    <thead><tr><th>Usage test</th><th>6th-century writers</th><th>Later writers</th><th>Daniel</th></tr></thead>
+    <tbody>
+      <tr><td>Spelling of the king's name (Akkadian Nabû-kudurri-uṣur)</td><td>Jeremiah 29 of 37 and Ezekiel 4 of 4 use the closer form <span class="heb">נבוכדראצר</span></td><td>Kings, Chronicles, Ezra, Nehemiah, Esther use <span class="heb">נבוכדנאצר</span></td><td class="v-bad">32 of 32 later form</td></tr>
+      <tr><td>"Chaldeans" as a guild of diviners</td><td>Jeremiah, Ezekiel, Kings, Isaiah: always an ethnic or dynastic name (73 uses)</td><td>Greek writers from Herodotus 1.181 on: a priestly caste</td><td class="v-bad">about 8 of 12 uses professional</td></tr>
+      <tr><td>The sage "Daniel"</td><td>Ezekiel 14:14, 20; 28:3: a hero of the distant past named with Noah and Job, spelled <span class="heb">דנאל</span></td><td>Ezra 8:2, Nehemiah 10:7: a priest Daniel; Hananiah, Mishael and Azariah also appear in Nehemiah's lists</td><td class="v-mid">spelled <span class="heb">דניאל</span></td></tr>
+    </tbody></table></div>
+</section>
+
+<section id="frame">
+  <span class="sec-num">5 · The historical frame</span>
+  <h2>Hazy about the 6th century, exact about the 2nd</h2>
+  <div class="col"><p>The stories and dates that frame the visions describe the 6th century, the author's supposed present. Checked against Babylonian and Persian records, they show a mix of authentic memory and error. That is the reverse of the pattern in chapter 11, where the 2nd century is right in detail.</p></div>
+  <div class="tbl"><table>
+    <thead><tr><th>Daniel says</th><th>The ancient record</th><th>Verdict</th></tr></thead>
+    <tbody>
+      <tr><td>Belshazzar ruled Babylon at its fall (ch. 5)</td><td>Bēl-šarra-uṣur, son of Nabonidus, ran Babylon while his father stayed ten years at Teima (Nabonidus Chronicle; Verse Account). The Greek historians do not name him.</td><td class="v-ok">Correct, a real early memory</td></tr>
+      <tr><td>Daniel made "third ruler in the kingdom" (5:7, 29)</td><td>Fits Nabonidus first, Belshazzar second</td><td class="v-ok">Consistent</td></tr>
+      <tr><td>Belshazzar is "king," "son of Nebuchadnezzar"</td><td>Never titled king; son of Nabonidus, who was not of Nebuchadnezzar's line</td><td class="v-bad">Inaccurate</td></tr>
+      <tr><td>"Darius the Mede," son of Ahasuerus, aged 62, takes Babylon before Cyrus (5:31; 6:29; 9:1)</td><td>Cyrus' army took Babylon in October 539; tablets are dated to Cyrus as king of Babylon at once. Media had fallen to Cyrus in 550. Darius I was a Persian and the father, not the son, of Ahasuerus (Xerxes).</td><td class="v-bad">No such king</td></tr>
+      <tr><td>120 satraps over the kingdom (6:2)</td><td>Behistun lists 23 lands; Herodotus 3.89 counts 20 satrapies</td><td class="v-bad">Does not match</td></tr>
+      <tr><td>Siege of Jerusalem in Jehoiakim's 3rd year, 606/605 (1:1)</td><td>Babylonian Chronicle: Carchemish and tribute from Syria, no siege of Jerusalem. Jeremiah 25:1, 36:9, 29 treat Babylon as still a future threat. The wording follows 2 Kgs 24:1 and 2 Chr 36:6–7.</td><td class="v-bad">Not supported</td></tr>
+      <tr><td>Nebuchadnezzar's seven years as a beast (ch. 4)</td><td>No record. The Qumran <i>Prayer of Nabonidus</i> (4Q242) tells it of Nabonidus at Teima: seven years of illness, a Jewish diviner "from the exiles," and gods "of silver and gold, bronze, iron, wood, stone, clay," the same list as Dan 5:4, 23</td><td class="v-mid">A Nabonidus story transferred</td></tr>
+      <tr><td>Four Persian kings in all (11:2)</td><td>Ten in Ptolemy's Canon from Cyrus to Darius III. The Hebrew Bible names exactly four.</td><td class="v-mid">Persian period known only in outline</td></tr>
+    </tbody></table></div>
+</section>
+
+<section id="numbers">
+  <span class="sec-num">6 · The day counts</span>
+  <h2>Three different numbers, all too long</h2>
+  <div class="col"><p>1 Maccabees dates the altar's desecration to December 167 BCE and the rededication to December 164 BCE, exactly three years later (1,094–1,104 days). Daniel gives three different figures. Counted from the Maccabean dates:</p></div>
+  <div class="tbl"><table>
+    <thead><tr><th>Daniel's figure</th><th>Counted</th><th>Lands about</th><th>What happened</th></tr></thead>
+    <tbody>
+      <tr><td>2,300 evenings and mornings = 1,150 days (8:14)</td><td>back from the rededication</td><td class="num">Oct 167 BCE</td><td>plausible start of the suppression of the daily offering</td></tr>
+      <tr><td>1,290 days (12:11)</td><td>from the desecration</td><td class="num">Jun 163 BCE</td><td>nothing; Antiochus dead six months, Temple already restored</td></tr>
+      <tr><td>1,335 days (12:12)</td><td>from the desecration</td><td class="num">Aug 163 BCE</td><td>nothing</td></tr>
+    </tbody></table></div>
+  <div class="col"><p>A writer who knew the date of the rededication would be expected to give the real interval. Successive, lengthening figures look like a hope recalculated while the outcome was still unknown. This is an inference; the arithmetic itself is in the project files.</p></div>
+</section>
+
+<section id="reuse">
+  <span class="sec-num">7 · Text reuse</span>
+  <h2>What Daniel draws on</h2>
+  <div class="col">
+  <p>A search for content-word sequences and rare words that Daniel shares with other books turned up these borrowings:</p>
+  <ul class="plain">
+    <li>Daniel 1:1–2 shares wording with 2 Kings 24:1 ("Jehoiakim became his servant three years") and 2 Chronicles 36:6–7 (the Temple vessels placed in the king's temple in Babylon). Chronicles is a 4th-century book.</li>
+    <li>"The first year of Cyrus king of Persia" (1:21; 10:1) repeats 2 Chronicles 36:22 and Ezra 1:1.</li>
+    <li>Daniel 9:2 reads Jeremiah's seventy years "in the books," treating Jeremiah as written scripture. 2 Chronicles 36:21 joins the same two ideas.</li>
+    <li>"Ships of Kittim" (11:30) and "the latter days" (10:14) come from Balaam's oracle (Numbers 24:14, 24).</li>
+    <li><span class="heb">דראון</span> "contempt" (12:2) occurs only here and in Isaiah 66:24, a post-exilic chapter. The "wise" who "make many righteous" (12:3) echo Isaiah 52:13 and 53:11.</li>
+    <li>The man "clothed in linen" (10:5; 12:6–7) and his burnished-bronze appearance (10:6) come from Ezekiel 1:7 and 9–10.</li>
+  </ul>
+  <p>By the late 2nd or early 1st century BCE the book was scripture at Qumran: 4Q174 quotes Daniel 12:10 "as it is written in the book of Daniel the prophet."</p>
+  </div>
+</section>
+
+<section id="early">
+  <span class="sec-num">8 · The other side</span>
+  <h2>Evidence that points earlier, and how much it weighs</h2>
+  <div class="col">
+  <ul class="plain">
+    <li><strong>Belshazzar.</strong> The author knew that Babylon's last ruler on the spot was Belshazzar, which the Greek historians had forgotten. This shows access to genuine Babylonian tradition. Such traditions were still alive in the Hellenistic period: Berossus wrote c. 280 BCE, and the Qumran Prayer of Nabonidus preserves another one.</li>
+    <li><strong>Conservative Aramaic.</strong> On every measured feature Daniel's Aramaic is older-looking than the Qumran literature. It keeps the old causative prefix and uses object-first order more than Ezra. This argues against a date as late as the 1st century and fits stories older than the visions.</li>
+    <li><strong>Early acceptance.</strong> Copies of Daniel exist from the late 2nd century BCE, and Qumran calls it "Daniel the prophet." Fifty years is short, but enough for a book whose central prediction, the restoration of the Temple, came true within months.</li>
+    <li><strong>Daniel 8:25.</strong> "He shall be broken, but not by human hand" fits Antiochus' death by illness. It names no place, and it sits beside 11:45, which names the wrong one.</li>
+  </ul>
+  <p>These points explain the older material in the court stories. They do not explain why precision peaks in the 160s, why the predictions fail after 165 BCE, or why the Hebrew of the visions is later than that of the real 6th-century writers.</p>
+  </div>
+</section>
+
+<section id="verdict">
+  <span class="sec-num">9 · Conclusion</span>
+  <h2>Verdict and confidence</h2>
+  <div class="two">
+    <div class="card"><h3>Visions, chapters 7–12</h3><p>Written 167–164 BCE, before the rededication (Dec 164) and before news of Antiochus IV's death could reach Judea. <strong>Confidence: high.</strong> Four independent kinds of evidence agree: the accuracy break, the focus on the 170s–160s, the Hebrew, and the day counts.</p></div>
+    <div class="card"><h3>Court stories, chapters 1–6</h3><p>Language, Persian titles and Greek instrument names point to the late Persian or early Hellenistic period (4th–3rd century BCE). They carry older Babylonian memories (Belshazzar, Nabonidus at Teima) and were set into the book in the 2nd century. <strong>Confidence: moderate.</strong></p></div>
+  </div>
+  <div class="col">
+  <h3>What would change this</h3>
+  <p>A manuscript of Daniel 11 dated before about 200 BCE. A Babylonian tablet naming a Median king Darius between Nabonidus and Cyrus. A Greek or Aramaic text from before 330 BCE using <span class="mono">symphōnia</span> for an instrument. Or an ancient report of Antiochus IV dying in Judea.</p>
+  <h3>Limits</h3>
+  <p>The Hebrew model's error for a single text is large (about ±120 years), and genre still leaks into it. Ezra's Aramaic is documentary and Qumran's is literary. Scoring claims involves judgment, so every claim and its evidence is listed above for audit. The Greek search lacks the TLG and the inscriptions. Persian-era Aramaic outside the Bible could not be fully included.</p>
+  </div>
+</section>
+
+<footer>
+  <p>Data: ETCBC BHSA 2021 and DSS 2.0.5 (via Text-Fabric); Perseus canonical-greekLit, First1KGreek and papyri.info; ancient authors in Loeb, Perseus and LacusCurtius translations; Babylonian chronicles in van der Spek's translations. Code and full outputs: <span class="mono">daniel-dating/</span> on branch <span class="mono">claude/stoic-brahmagupta-qi2ebb</span> of rade-crypto/rade-crypto.github.io.</p>
+</footer>
+</div>
+<div class="tip" id="tip" hidden></div>
+<script>
+(function () {
+  var tip = document.getElementById('tip');
+  function show(e, el) {
+    tip.textContent = el.getAttribute('data-tip'); tip.hidden = false;
+    var x = (e.touches ? e.touches[0].clientX : e.clientX), y = (e.touches ? e.touches[0].clientY : e.clientY);
+    var w = tip.offsetWidth, h = tip.offsetHeight;
+    var left = Math.min(window.innerWidth - w - 10, Math.max(10, x + 14));
+    var top = y - h - 12; if (top < 10) top = y + 18;
+    tip.style.left = left + 'px'; tip.style.top = top + 'px';
+  }
+  document.querySelectorAll('[data-tip]').forEach(function (el) {
+    el.addEventListener('mousemove', function (e) { show(e, el); });
+    el.addEventListener('mouseleave', function () { tip.hidden = true; });
+    el.addEventListener('touchstart', function (e) { show(e, el); }, { passive: true });
+  });
+  document.addEventListener('touchstart', function (e) { if (!e.target.closest('[data-tip]')) tip.hidden = true; }, { passive: true });
+})();
+</script>

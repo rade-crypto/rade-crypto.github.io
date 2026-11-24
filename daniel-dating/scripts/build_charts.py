@@ -137,6 +137,15 @@ def chart_aramaic():
         ("causative prefix", "causative: h- vs ʾ-", "prefix ʾ-"),
     ]
     corp = {"Ezra (MT)": "ezra", "Daniel (MT)": "dan", "Daniel (Qumran MSS)": "danq", "Qumran Aramaic (all non-biblical)": "qum"}
+    # optional: Persian-era papyri counts (results/imperial/imperial_features.csv: feature, corpus, n_old, n_new)
+    ipath = os.path.join(RES, "imperial", "imperial_features.csv")
+    if os.path.exists(ipath):
+        imp = pd.read_csv(ipath)
+        imp["n"] = imp.n_old + imp.n_new
+        imp["share_younger"] = imp.n_new / imp.n.where(imp.n > 0)
+        imp = imp[imp.corpus == "Persian-era papyri"]
+        df = pd.concat([df, imp[["feature", "corpus", "n_old", "n_new", "n", "share_younger"]]], ignore_index=True)
+        corp = {"Persian-era papyri": "pap", **corp}
     rows = []
     for f, sub, young in feats:
         vals = {}
@@ -146,8 +155,8 @@ def chart_aramaic():
                 r = r.iloc[0]
                 vals[k] = (r.share_younger, r.n, f"{c}: {r.n_new} of {r.n} use the later form ({young}) = {r.share_younger:.0%}")
         rows.append((f.replace("3mp", "3rd pl.").replace("2mp", "2nd pl."), sub, vals))
-    series = {"ezra": ("square", "m-ezra"), "qum": ("diamond", "m-qum"), "danq": ("ring", "m-danq"), "dan": ("circle", "m-dan")}
-    return dotplot(rows, series, "Aramaic: share of the later form in Ezra, Daniel and Qumran Aramaic", "share of the later form")
+    series = {"pap": ("square", "m-c6"), "ezra": ("tri", "m-ezra"), "qum": ("diamond", "m-qum"), "danq": ("ring", "m-danq"), "dan": ("circle", "m-dan")}
+    return dotplot(rows, series, "Aramaic: share of the later form in Persian-era papyri, Ezra, Daniel and Qumran Aramaic", "share of the later form")
 
 # ------------------------------------------------------------------ chart 3: Hebrew date model
 def chart_hebrew_model():
