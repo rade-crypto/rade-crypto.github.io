@@ -8,7 +8,8 @@ S  specificity (0-3): one point each for a named agent, a time limit, a distinct
 M  plain reading matches (0-3): 3 all stated elements; 2 main element, some details not; 1 only with a different
    agent/time than the text states; 0 no match.
 U  unexpected when written (0-2): 2 contrary to the situation; 1 uncertain; 0 already under way.
-I  independent of the text (0-1): 1 actors and recorders unaware of / unmoved by the prophecy.
+I  independent of the text (0-1): 1 actors and recorders unaware of / unmoved by the prophecy; 0.5 when only some
+   of the outcome was in the hands of people moved by the text.
 """
 import os, pandas as pd
 R = [  # id, P, E, S, M, U, I, note
@@ -59,9 +60,9 @@ R = [  # id, P, E, S, M, U, I, note
 ("C07",2,2,2,2,1,0,"Onias cited this very prophecy when founding his temple"),
 ("C08",1,2,1,1,1,1,"Alexander, not Judah, sold Tyrians and Gazans"),
 ("D01",2,3,2,1,1,1,"Book attested before 70 CE (4Q174; 1 Macc), but 9:24-27 not in any scroll; timeline does not reach 70 CE without a gap"),
-("D02",3,3,1,1,1,1,"In 4QXII; but kings and sacrifice existed 515 BCE-70 CE"),
-("D03",3,3,1,2,2,0,"Survival as a distinct people through 2,500 yrs of dispersion; Assyria/Babylonia ended, Egypt/Persia did not; identity kept by communities holding these texts (I=0)"),
-("D04",3,3,2,2,2,0,"Texts in scrolls ~2,000 yrs before 1948 (1QIsa-a, Mas1d, 4QXII-g); return from Iraq, Egypt, Ethiopia, Iran, N. lands; no precedent for a return after ~1,800 yrs. Misses/open: one Davidic king (Ezek 37:22,24), Philistia/Edom/Moab and sea of Egypt (Isa 11:14-15); 'north' = Babylon in Jeremiah's usage (6:22); actors knew the texts (I=0)"),
+("D02",3,3,1,2,1,1,"In 4QXII-c,g; matches from 70 CE (temple destroyed and Jerusalem barred by Rome - imposed from outside); 'seek David their king' not fulfilled; kings and sacrifice also existed 515 BCE-70 CE"),
+("D03",3,3,1,2,2,0.5,"Survival as a distinct people through 2,500 yrs of dispersion; Assyria/Babylonia ended, Egypt/Persia did not; I=0.5: staying distinct was their choice; physical survival and the end of Assyria/Babylonia were not"),
+("D04",3,3,2,2,2,0.5,"Texts in scrolls ~2,000 yrs before 1948 (1QIsa-a, Mas1d, 4QXII-g); return from Iraq, Egypt, Ethiopia, Iran, N. lands; no precedent for a return after ~1,800 yrs. Misses/open: one Davidic king (Ezek 37:22,24), Philistia/Edom/Moab and sea of Egypt (Isa 11:14-15); 'north' = Babylon in Jeremiah's usage (6:22); I=0.5: the wish to return came from the texts, but the scattering, the loss of temple and king, the expulsions that drove immigration, and the events that made return possible were done by outsiders not acting on the texts"),
 ]
 df = pd.DataFrame(R, columns=["id","P","E","S","M","U","I","note"])
 df["total"] = df[["P","E","S","M","U","I"]].sum(axis=1)

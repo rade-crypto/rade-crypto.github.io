@@ -30,3 +30,9 @@ Return (Isa 11:11-12; Jer 16:14-15; Ezek 36:24; 37:21-22; Amos 9:14-15): P3 E3 S
 and the ONLY top case whose prior writing is physically proven (scrolls ~2,000 years before 1948).
 Weaknesses: the returnees knew and were moved by these texts; accompanying details (one Davidic king,
 Philistia/Edom/Moab, drying the sea of Egypt) have not happened. Survival (Jer 30:11; 31:35-37): 11.
+
+Second correction (independence): scoring the return prophecies I=0 treated the whole outcome as if it were up to
+people who knew the texts. Only the WISH to return and to stay distinct was theirs. The scattering (Assyria, Babylon,
+Rome), the loss of temple and king (Rome, 70/135 CE), the expulsions that drove most immigration, and the events that
+made return possible were the acts of outsiders not acting on these texts. Re-scored I=0.5: return 12.5 (first),
+survival 11.5; Hos 3:4-5 re-scored 11.
