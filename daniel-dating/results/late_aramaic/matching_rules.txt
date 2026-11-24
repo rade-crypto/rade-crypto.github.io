@@ -1,0 +1,18 @@
+Normalisation: NFD; strip HTML tags; delete (...) variant/additions and [...] editorial supplements (stateful across verses); maqaf/paseq/sof-pasuq -> space; delete U+0591-U+05C7 marks; keep only U+05D0-U+05EA; final letters ךםןףץ -> כמנפצ.
+
+3mp suffix: A) ^(ו|ד|וד|כ)?(ל|ב|עמ|על|מנ|קדמ|בינ|אחרי|כל|כול|מינ|ית|לות)(הומ|המ)$ = old, ...(הונ)$ = new; B) ^(.{2,})(יהומ|יהמ)$ = old, ^(.{2,})יהונ$ = new; excluded verb forms יהון/ויהון/דיהון/ודיהון ('they will be'). Defective -הן not counted (= 3fp in Targumic Aramaic, and בכן/לכן analogues show the defective spelling is not the 3mp suffix).
+
+2mp suffix: A) ^(ו|ד|וד|כ)?(ל|ב|עמ|על|מנ|קדמ|בינ|אחרי|כל|כול|מינ|ית|לות)(כומ|כמ)$ = old, ...(כונ)$ = new; B) ^(.{2,})(יכומ|יכמ)$ = old, ^(.{2,})יכונ$ = new; excluded יחיכון (verb, Isa 13:21; 16:10; 34:14). Defective -כן not counted (בכן = 'then').
+
+3mp pronoun: ^(ו|ד|וד)?(המו|המונ|המ)$ = old; ^(ו|ד|וד)?(אנונ|אינונ|אנינ|אינינ)$ = new. All המון hits (10, TJ) are 'multitude' and excluded by hand. ה-prefixed האנון/האינון ('those', demonstrative use) not counted, reported in notes.
+
+plural demonstrative: ^(ו|ד|וד|ה|וה|כ|ב|ל|מ|דה)?(אלה|אלכ|אילכ)$ = old; ...(אלינ|אילינ|אלנ|אילנ)$ = new. All אלה/לאלה/ואלה hits hand-checked = 'God' or PN Elah -> excluded (so n_old counts only אלך/אילך). Bare אילן/אלן (no ה-) = 'tree' except Josh 17:2, 19:51, Gen 6:9; מאילין 1Kgs 5:3 and כאילין Isa 35:6 = 'harts', excluded. ה-prefixed האלין/האילן ('these', attributive) included.
+
+relative particle: standalone ^ו?זי$ = old vs ^ו?די$ = new (counts in n_old/n_new). Proclitic ד- estimated separately (see notes).
+
+'earth': ^(ו|ד|ב|ל|מ|כ|וב|ול|ומ|וכ|וד|דב|דל|דמ|דכ)?(ארק|ארע)(א|ה|יה|י|כ|יכ|כונ|הונ|נא|תא|תנא|תהונ)?$ (all forms of the noun incl. suffixed/construct); ארק = old, ארע = new. Adjectives ארעי(ת)א/ארעאה/ארעית/ארעין 'lower' and verb וארעימו fall outside the suffix set; וארע 1Sam 30:21 (verb 'met') excluded.
+
+t-stem prefix: Candidates: new ^(ו|ד|וד|ל|ול|דל)?((את|אית)[א-ת]{3,}|(אשת|אסת|אזד|אצט|אצד)[א-ת]{2,})$; old same with הת / השת|הסת|הזד|הצט. New candidates kept only if the prefix aleph is vocalised with hireq (Targums; MA classified by hand), and minus nouns/existentials (אתת- 'wife', אתרגוש- 'tumult', איתוהי/איתיכון 'he is/you are', אסתלקות, אצטלון 'robes', אשתיתי 'I drank'). Old candidates: all are interrogative ha- + imperfect except להתנבאה (Judg 5:7).
+
+causative prefix: Explicit list, optional proclitic ו/ד/וד. Aphel (new): נפק 'bring out': אפיק, אפיקו, אפיקית; סלק 'bring up': אסיק, אסיקו, אסיקית, אסקו, אסקית; עלל 'bring in': אעיל, אעילו, אעילית; אתי 'bring': אייתי, אייתיו, אייתיאו, אייתית, איתי, איתיו, איתיאו, איתית, איתיאת; ידע 'make known': אודע, אודעו, אודעית; יסף 'add': אוסיפ, אוסיפו, אוסיפית; קום 'raise': אקימ, אקימו, אקימית; חזי 'show': אחזי, אחזיו, אחזיאו; תוב 'return': אתיב, אתיבו, אתיבית; שכח 'find': אשכח, אשכחו, אשכחית; כרז 'proclaim': אכריז, אכריזו; עדי 'remove': אעדי, אעדיו, אעדיאו, אעדיאת; גלי 'exile/reveal': אגלי, אגליו, אגליאו; שני 'change': אשני, אשניו, אשניאו; יקד 'burn': אוקיד, אוקידו; גיח 'wage (war)': אגיח, אגיחו; יבל 'carry': אוביל, אובילו. Haphel (old): the same forms with initial ה instead of א (הפיק, הסיק, העיל, היתי, הודע, הוסיף, הקים, החזי, התיב, השכח, ...) plus הנפק, הנפיק, הנפקו, הנפיקו, הנסק, הנסיק, הנעל, הנעיל, הנעלו, הכרז, הכרזו, היבל, היבלו, השכחת. Aphel tokens whose aleph has segol/tsere (peal 1cs imperfects) dropped.
+

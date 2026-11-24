@@ -73,7 +73,7 @@ svg .m-dan { fill: var(--s-orange); stroke: var(--surface); stroke-width: 2 }
 svg .m-danq { fill: var(--surface); stroke: var(--s-orange); stroke-width: 2.2 }
 svg .m-ezra, svg .m-per { fill: var(--fg2); stroke: var(--surface); stroke-width: 1.5 }
 svg .m-qum { fill: var(--s-aqua); stroke: var(--surface); stroke-width: 1.5 }
-svg .m-qum2 { fill: var(--surface); stroke: var(--s-aqua); stroke-width: 2.2 }
+svg .m-targ { fill: var(--surface); stroke: var(--fg2); stroke-width: 2; stroke-dasharray: 2 2 } svg .m-qum2 { fill: var(--surface); stroke: var(--s-aqua); stroke-width: 2.2 }
 svg .m-c6 { fill: var(--s-blue); stroke: var(--surface); stroke-width: 1.5 }
 svg .m-cla { fill: var(--muted); stroke: var(--surface); stroke-width: 1.5; opacity: .8 }
 svg .m-anchor { fill: var(--s-blue); stroke: var(--surface); stroke-width: 1.5 }
@@ -145,7 +145,7 @@ a { color: var(--accent) }
   <ul class="plain">
     <li>the full Masoretic text of the Hebrew Bible with word-level grammar (ETCBC database);</li>
     <li>the morphologically tagged Dead Sea Scrolls, about 500,000 words of Hebrew and Aramaic from the 3rd to 1st centuries BCE;</li>
-    <li>about 21,000 fully legible words of dated Persian-era Aramaic: 799 Elephantine papyri and ostraca (Berlin ERC database, 5th century BCE) and ten Arshama letters, plus 4th-century ostraca from Idumea and 3rd–2nd-century inscriptions from Mt Gerizim;</li>
+    <li>about 21,000 fully legible words of dated Persian-era Aramaic: 799 Elephantine papyri and ostraca (Berlin ERC database, 5th century BCE) and ten Arshama letters, plus 4th-century ostraca from Idumea, 3rd–2nd-century inscriptions from Mt Gerizim, and about 177,000 words of the Targums (2nd–3rd centuries CE);</li>
     <li>36 million words of Greek literature, 5 million words of Greek papyri and 3.9 million words of Greek inscriptions.</li>
   </ul>
   <p>All language counts use the consonantal text only; the medieval vowel signs are never used as evidence. No interpretive commentary was used to decide anything.</p>
@@ -161,11 +161,12 @@ a { color: var(--accent) }
     <li>the Persian-era papyri: 799 Elephantine documents (5th century BCE) and ten Arshama letters, about 21,000 fully legible words;</li>
     <li>Ezra 4:8–6:18 and 7:12–26, documents the text itself dates to the late 6th and 5th centuries BCE;</li>
     <li>Daniel 2:4b–7:28;</li>
-    <li>about 46,000 words of non-biblical Aramaic from Qumran, written in the 3rd to 1st centuries BCE.</li>
+    <li>about 46,000 words of non-biblical Aramaic from Qumran, written in the 3rd to 1st centuries BCE;</li>
+    <li>for the late end of the timeline, about 177,000 words of the Targums Onkelos and Jonathan (2nd–3rd centuries CE).</li>
   </ul>
   </div>
   <div class="chartbox">
-    <svg viewBox="0 0 760 344" role="img" aria-label="Aramaic: share of the later form in Persian-era papyri, Ezra, Daniel and Qumran Aramaic" class="chart" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+    <svg viewBox="0 0 760 344" role="img" aria-label="Aramaic: share of the later form from the 5th-century BCE papyri to the Targums" class="chart" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
 <line x1="230.0" x2="230.0" y1="20" y2="298" class="grid"/><text x="230.0" y="314" class="tick" text-anchor="middle">0%</text>
 <line x1="357.0" x2="357.0" y1="20" y2="298" class="grid"/><text x="357.0" y="314" class="tick" text-anchor="middle">25%</text>
 <line x1="484.0" x2="484.0" y1="20" y2="298" class="grid"/><text x="484.0" y="314" class="tick" text-anchor="middle">50%</text>
@@ -175,75 +176,82 @@ a { color: var(--accent) }
 <text x="218" y="42.0" class="rl" text-anchor="end">3rd pl. suffix</text>
 <text x="218" y="55.0" class="rs" text-anchor="end">&#x27;their&#x27;: -hm vs -hwn</text>
 <line x1="230.0" x2="738.0" y1="43.0" y2="43.0" class="rowline"/>
-<rect x="224.5" y="29.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 0 of 97 later form = 0%"/>
-<path d="M523.1,32.0 L530.1,44.5 L516.1,44.5Z" class="m-ezra" data-tip="Ezra: 15 of 26 later form = 58%"/>
-<path d="M735.3,36.0 L742.3,43.0 L735.3,50.0 L728.3,43.0Z" class="m-qum" data-tip="Qumran Aramaic: 556 of 559 later form = 99%"/>
-<circle cx="691.8" cy="47.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 20 of 22 later form = 91%"/>
-<circle cx="738.0" cy="51.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 36 of 36 later form = 100%"/>
+<rect x="224.5" y="27.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 0 of 97 later form = 0%"/>
+<path d="M523.1,30.0 L530.1,42.5 L516.1,42.5Z" class="m-ezra" data-tip="Ezra: 15 of 26 later form = 58%"/>
+<path d="M735.3,34.0 L742.3,41.0 L735.3,48.0 L728.3,41.0Z" class="m-qum" data-tip="Qumran Aramaic: 556 of 559 later form = 99%"/>
+<circle cx="738.0" cy="45.0" r="6" class="m-targ" data-tip="Targums (Onkelos and Jonathan): 2635 of 2635 later form = 100%"/>
+<circle cx="691.8" cy="49.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 20 of 22 later form = 91%"/>
+<circle cx="738.0" cy="53.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 36 of 36 later form = 100%"/>
 <text x="218" y="76.0" class="rl" text-anchor="end">2nd pl. suffix</text>
 <text x="218" y="89.0" class="rs" text-anchor="end">&#x27;your (pl.)&#x27;: -km vs -kwn</text>
 <line x1="230.0" x2="738.0" y1="77.0" y2="77.0" class="rowline"/>
-<rect x="224.5" y="63.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 0 of 85 later form = 0%"/>
-<path d="M314.7,66.0 L321.7,78.5 L307.7,78.5Z" class="m-ezra" data-tip="Ezra: 1 of 6 later form = 17%"/>
-<path d="M729.8,70.0 L736.8,77.0 L729.8,84.0 L722.8,77.0Z" class="m-qum" data-tip="Qumran Aramaic: 122 of 124 later form = 98%"/>
-<circle cx="738.0" cy="81.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 2 of 2 later form = 100%"/>
-<circle cx="738.0" cy="85.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 9 of 9 later form = 100%"/>
+<rect x="224.5" y="61.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 0 of 85 later form = 0%"/>
+<path d="M314.7,64.0 L321.7,76.5 L307.7,76.5Z" class="m-ezra" data-tip="Ezra: 1 of 6 later form = 17%"/>
+<path d="M729.8,68.0 L736.8,75.0 L729.8,82.0 L722.8,75.0Z" class="m-qum" data-tip="Qumran Aramaic: 122 of 124 later form = 98%"/>
+<circle cx="738.0" cy="79.0" r="6" class="m-targ" data-tip="Targums (Onkelos and Jonathan): 1284 of 1284 later form = 100%"/>
+<circle cx="738.0" cy="83.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 2 of 2 later form = 100%"/>
+<circle cx="738.0" cy="87.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 9 of 9 later form = 100%"/>
 <text x="218" y="110.0" class="rl" text-anchor="end">3rd pl. pronoun</text>
 <text x="218" y="123.0" class="rs" text-anchor="end">&#x27;they&#x27;: hmw(n) vs ʾnwn</text>
 <line x1="230.0" x2="738.0" y1="111.0" y2="111.0" class="rowline"/>
-<rect x="224.5" y="97.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 0 of 49 later form = 0%"/>
-<path d="M280.8,100.0 L287.8,112.5 L273.8,112.5Z" class="m-ezra" data-tip="Ezra: 1 of 10 later form = 10%"/>
-<path d="M704.6,104.0 L711.6,111.0 L704.6,118.0 L697.6,111.0Z" class="m-qum" data-tip="Qumran Aramaic: 71 of 76 later form = 93%"/>
-<circle cx="433.2" cy="115.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 2 of 5 later form = 40%"/>
-<circle cx="484.0" cy="119.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 3 of 6 later form = 50%"/>
+<rect x="224.5" y="95.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 0 of 49 later form = 0%"/>
+<path d="M280.8,98.0 L287.8,110.5 L273.8,110.5Z" class="m-ezra" data-tip="Ezra: 1 of 10 later form = 10%"/>
+<path d="M704.6,102.0 L711.6,109.0 L704.6,116.0 L697.6,109.0Z" class="m-qum" data-tip="Qumran Aramaic: 71 of 76 later form = 93%"/>
+<circle cx="738.0" cy="113.0" r="6" class="m-targ" data-tip="Targums (Onkelos and Jonathan): 350 of 350 later form = 100%"/>
+<circle cx="433.2" cy="117.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 2 of 5 later form = 40%"/>
+<circle cx="484.0" cy="121.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 3 of 6 later form = 50%"/>
 <text x="218" y="144.0" class="rl" text-anchor="end">plural demonstrative</text>
 <text x="218" y="157.0" class="rs" text-anchor="end">&#x27;these&#x27;: ʾlh/ʾlk vs ʾlyn</text>
 <line x1="230.0" x2="738.0" y1="145.0" y2="145.0" class="rowline"/>
-<rect x="224.5" y="131.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 0 of 37 later form = 0%"/>
-<path d="M230.0,134.0 L237.0,146.5 L223.0,146.5Z" class="m-ezra" data-tip="Ezra: 0 of 5 later form = 0%"/>
-<path d="M703.8,138.0 L710.8,145.0 L703.8,152.0 L696.8,145.0Z" class="m-qum" data-tip="Qumran Aramaic: 83 of 89 later form = 93%"/>
-<circle cx="447.7" cy="149.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 3 of 7 later form = 43%"/>
-<circle cx="399.3" cy="153.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 5 of 15 later form = 33%"/>
+<rect x="224.5" y="129.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 0 of 37 later form = 0%"/>
+<path d="M230.0,132.0 L237.0,144.5 L223.0,144.5Z" class="m-ezra" data-tip="Ezra: 0 of 5 later form = 0%"/>
+<path d="M703.8,136.0 L710.8,143.0 L703.8,150.0 L696.8,143.0Z" class="m-qum" data-tip="Qumran Aramaic: 83 of 89 later form = 93%"/>
+<circle cx="738.0" cy="147.0" r="6" class="m-targ" data-tip="Targums (Onkelos and Jonathan): 458 of 458 later form = 100%"/>
+<circle cx="447.7" cy="151.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 3 of 7 later form = 43%"/>
+<circle cx="399.3" cy="155.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 5 of 15 later form = 33%"/>
 <text x="218" y="178.0" class="rl" text-anchor="end">causative prefix</text>
 <text x="218" y="191.0" class="rs" text-anchor="end">causative: h- vs ʾ-</text>
 <line x1="230.0" x2="738.0" y1="179.0" y2="179.0" class="rowline"/>
-<rect x="245.6" y="165.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 8 of 193 later form = 4%"/>
-<path d="M254.2,168.0 L261.2,180.5 L247.2,180.5Z" class="m-ezra" data-tip="Ezra: 1 of 21 later form = 5%"/>
-<path d="M630.6,172.0 L637.6,179.0 L630.6,186.0 L623.6,179.0Z" class="m-qum" data-tip="Qumran Aramaic: 235 of 298 later form = 79%"/>
-<circle cx="230.0" cy="183.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 0 of 34 later form = 0%"/>
-<circle cx="245.9" cy="187.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 3 of 96 later form = 3%"/>
+<rect x="245.6" y="163.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 8 of 193 later form = 4%"/>
+<path d="M254.2,166.0 L261.2,178.5 L247.2,178.5Z" class="m-ezra" data-tip="Ezra: 1 of 21 later form = 5%"/>
+<path d="M630.6,170.0 L637.6,177.0 L630.6,184.0 L623.6,177.0Z" class="m-qum" data-tip="Qumran Aramaic: 235 of 298 later form = 79%"/>
+<circle cx="736.6" cy="181.0" r="6" class="m-targ" data-tip="Targums (Onkelos and Jonathan): 714 of 716 later form = 100%"/>
+<circle cx="230.0" cy="185.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 0 of 34 later form = 0%"/>
+<circle cx="245.9" cy="189.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 3 of 96 later form = 3%"/>
 <text x="218" y="212.0" class="rl" text-anchor="end">relative particle</text>
 <text x="218" y="225.0" class="rs" text-anchor="end">spelling: zy vs dy</text>
 <line x1="230.0" x2="738.0" y1="213.0" y2="213.0" class="rowline"/>
-<rect x="227.0" y="199.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 5 of 1025 later form = 0%"/>
-<path d="M738.0,202.0 L745.0,214.5 L731.0,214.5Z" class="m-ezra" data-tip="Ezra: 95 of 95 later form = 100%"/>
-<path d="M734.9,206.0 L741.9,213.0 L734.9,220.0 L727.9,213.0Z" class="m-qum" data-tip="Qumran Aramaic: 966 of 972 later form = 99%"/>
-<circle cx="738.0" cy="217.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 158 of 158 later form = 100%"/>
-<circle cx="738.0" cy="221.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 249 of 249 later form = 100%"/>
+<rect x="227.0" y="197.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 5 of 1025 later form = 0%"/>
+<path d="M738.0,200.0 L745.0,212.5 L731.0,212.5Z" class="m-ezra" data-tip="Ezra: 95 of 95 later form = 100%"/>
+<path d="M734.9,204.0 L741.9,211.0 L734.9,218.0 L727.9,211.0Z" class="m-qum" data-tip="Qumran Aramaic: 966 of 972 later form = 99%"/>
+<circle cx="738.0" cy="215.0" r="6" class="m-targ" data-tip="Targums (Onkelos and Jonathan): 2310 of 2310 later form = 100%"/>
+<circle cx="738.0" cy="219.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 158 of 158 later form = 100%"/>
+<circle cx="738.0" cy="223.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 249 of 249 later form = 100%"/>
 <text x="218" y="246.0" class="rl" text-anchor="end">&#x27;this&#x27;</text>
 <text x="218" y="259.0" class="rs" text-anchor="end">spelling: znh vs dnh</text>
 <line x1="230.0" x2="738.0" y1="247.0" y2="247.0" class="rowline"/>
-<rect x="243.4" y="233.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 7 of 188 later form = 4%"/>
-<path d="M738.0,236.0 L745.0,248.5 L731.0,248.5Z" class="m-ezra" data-tip="Ezra: 24 of 24 later form = 100%"/>
-<path d="M738.0,240.0 L745.0,247.0 L738.0,254.0 L731.0,247.0Z" class="m-qum" data-tip="Qumran Aramaic: 300 of 300 later form = 100%"/>
-<circle cx="738.0" cy="251.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 20 of 20 later form = 100%"/>
-<circle cx="738.0" cy="255.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 33 of 33 later form = 100%"/>
+<rect x="243.4" y="231.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 7 of 188 later form = 4%"/>
+<path d="M738.0,234.0 L745.0,246.5 L731.0,246.5Z" class="m-ezra" data-tip="Ezra: 24 of 24 later form = 100%"/>
+<path d="M738.0,238.0 L745.0,245.0 L738.0,252.0 L731.0,245.0Z" class="m-qum" data-tip="Qumran Aramaic: 300 of 300 later form = 100%"/>
+<circle cx="738.0" cy="253.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 20 of 20 later form = 100%"/>
+<circle cx="738.0" cy="257.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 33 of 33 later form = 100%"/>
 <text x="218" y="280.0" class="rl" text-anchor="end">&#x27;earth&#x27;</text>
 <text x="218" y="293.0" class="rs" text-anchor="end">spelling: ʾrq vs ʾrʿ</text>
 <line x1="230.0" x2="738.0" y1="281.0" y2="281.0" class="rowline"/>
-<rect x="351.5" y="267.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 7 of 28 later form = 25%"/>
-<path d="M738.0,270.0 L745.0,282.5 L731.0,282.5Z" class="m-ezra" data-tip="Ezra: 1 of 1 later form = 100%"/>
-<path d="M738.0,274.0 L745.0,281.0 L738.0,288.0 L731.0,281.0Z" class="m-qum" data-tip="Qumran Aramaic: 244 of 244 later form = 100%"/>
-<circle cx="738.0" cy="285.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 11 of 11 later form = 100%"/>
-<circle cx="738.0" cy="289.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 19 of 19 later form = 100%"/>
+<rect x="351.5" y="265.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 7 of 28 later form = 25%"/>
+<path d="M738.0,268.0 L745.0,280.5 L731.0,280.5Z" class="m-ezra" data-tip="Ezra: 1 of 1 later form = 100%"/>
+<path d="M738.0,272.0 L745.0,279.0 L738.0,286.0 L731.0,279.0Z" class="m-qum" data-tip="Qumran Aramaic: 244 of 244 later form = 100%"/>
+<circle cx="738.0" cy="283.0" r="6" class="m-targ" data-tip="Targums (Onkelos and Jonathan): 1617 of 1617 later form = 100%"/>
+<circle cx="738.0" cy="287.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 11 of 11 later form = 100%"/>
+<circle cx="738.0" cy="291.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 19 of 19 later form = 100%"/>
 </svg>
-    <div class="legend"><span><i class="lg" style="background:var(--s-blue);border-radius:2px"></i>Persian-era papyri (5th c.)</span><span><i class="lg" style="background:var(--fg2);clip-path:polygon(50% 0,100% 100%,0 100%)"></i>Ezra</span><span><i class="lg" style="background:var(--s-aqua);transform:rotate(45deg) scale(.8)"></i>Qumran Aramaic</span><span><i class="lg" style="background:var(--s-orange);border-radius:50%"></i>Daniel, Masoretic text</span><span><i class="lg" style="border:2px solid var(--s-orange);border-radius:50%"></i>Daniel, Qumran copies</span></div>
+    <div class="legend"><span><i class="lg" style="background:var(--s-blue);border-radius:2px"></i>Persian-era papyri (5th c.)</span><span><i class="lg" style="background:var(--fg2);clip-path:polygon(50% 0,100% 100%,0 100%)"></i>Ezra</span><span><i class="lg" style="background:var(--s-aqua);transform:rotate(45deg) scale(.8)"></i>Qumran Aramaic</span><span><i class="lg" style="border:2px dashed var(--fg2);border-radius:50%"></i>Targums (2nd–3rd c. CE)</span><span><i class="lg" style="background:var(--s-orange);border-radius:50%"></i>Daniel, Masoretic text</span><span><i class="lg" style="border:2px solid var(--s-orange);border-radius:50%"></i>Daniel, Qumran copies</span></div>
   </div>
-  <div class="tbl"><table><thead><tr><th>Feature (older / later form)</th><th class="num">Persian-era papyri<br>5th c. BCE</th><th class="num">Ezra</th><th class="num">Daniel<br>Masoretic</th><th class="num">Daniel<br>Qumran copies</th><th class="num">Qumran Aramaic<br>3rd–1st c. BCE</th></tr></thead><tbody><tr><td>&#x27;their&#x27;: -hm / -hwn</td><td class="num">97 / 0<br><small>0%</small></td><td class="num">11 / 15<br><small>58%</small></td><td class="num">0 / 36<br><small>100%</small></td><td class="num">2 / 20<br><small>91%</small></td><td class="num">3 / 556<br><small>99%</small></td></tr><tr><td>&#x27;your&#x27; (pl.): -km / -kwn</td><td class="num">85 / 0<br><small>0%</small></td><td class="num">5 / 1<br><small>17%</small></td><td class="num">0 / 9<br><small>100%</small></td><td class="num">0 / 2<br><small>100%</small></td><td class="num">2 / 122<br><small>98%</small></td></tr><tr><td>&#x27;they&#x27;: hmw(n) / ʾnwn</td><td class="num">49 / 0<br><small>0%</small></td><td class="num">9 / 1<br><small>10%</small></td><td class="num">3 / 3<br><small>50%</small></td><td class="num">3 / 2<br><small>40%</small></td><td class="num">5 / 71<br><small>93%</small></td></tr><tr><td>&#x27;these&#x27;: ʾlh, ʾlk / ʾlyn</td><td class="num">37 / 0<br><small>0%</small></td><td class="num">5 / 0<br><small>0%</small></td><td class="num">10 / 5<br><small>33%</small></td><td class="num">4 / 3<br><small>43%</small></td><td class="num">6 / 83<br><small>93%</small></td></tr><tr><td>causative: h- / ʾ- (perfect-type forms)</td><td class="num">185 / 8<br><small>4%</small></td><td class="num">20 / 1<br><small>5%</small></td><td class="num">93 / 3<br><small>3%</small></td><td class="num">34 / 0<br><small>0%</small></td><td class="num">63 / 235<br><small>79%</small></td></tr><tr><td>spelling &#x27;which&#x27;: zy / dy</td><td class="num">1020 / 5<br><small>0%</small></td><td class="num">0 / 95<br><small>100%</small></td><td class="num">0 / 249<br><small>100%</small></td><td class="num">0 / 158<br><small>100%</small></td><td class="num">6 / 966<br><small>99%</small></td></tr><tr><td>spelling &#x27;this&#x27;: znh / dnh</td><td class="num">181 / 7<br><small>4%</small></td><td class="num">0 / 24<br><small>100%</small></td><td class="num">0 / 33<br><small>100%</small></td><td class="num">0 / 20<br><small>100%</small></td><td class="num">0 / 300<br><small>100%</small></td></tr><tr><td>spelling &#x27;earth&#x27;: ʾrq / ʾrʿ</td><td class="num">21 / 7<br><small>25%</small></td><td class="num">0 / 1<br><small>100%</small></td><td class="num">0 / 19<br><small>100%</small></td><td class="num">0 / 11<br><small>100%</small></td><td class="num">0 / 244<br><small>100%</small></td></tr><tr><td>reflexive: ht- / ʾt- (not a time marker)</td><td class="num">1 / 33<br><small>97%</small></td><td class="num">1 / 0<br><small>0%</small></td><td class="num">12 / 6<br><small>33%</small></td><td class="num">–</td><td class="num">27 / 95<br><small>78%</small></td></tr></tbody></table></div><p class="caption">Counts of older / later forms, with the share of the later form. Papyri: Elephantine (Berlin ERC database, 799 documents, 19,903 fully legible words) and ten Arshama letters (1,040 words); only fully legible words counted. Every hit is listed with its TAD number and line in the project files. Mt Gerizim inscriptions (3rd–2nd c. BCE): zy 32 / dy 9, znh 2 / dnh 5, causative h- 24 / ʾ- 0.</p>
+  <div class="tbl"><table><thead><tr><th>Feature (older / later form)</th><th class="num">Persian-era papyri<br>5th c. BCE</th><th class="num">Ezra</th><th class="num">Daniel<br>Masoretic</th><th class="num">Daniel<br>Qumran copies</th><th class="num">Qumran Aramaic<br>3rd–1st c. BCE</th><th class="num">Targums<br>2nd–3rd c. CE</th></tr></thead><tbody><tr><td>&#x27;their&#x27;: -hm / -hwn</td><td class="num">97 / 0<br><small>0%</small></td><td class="num">11 / 15<br><small>58%</small></td><td class="num">0 / 36<br><small>100%</small></td><td class="num">2 / 20<br><small>91%</small></td><td class="num">3 / 556<br><small>99%</small></td><td class="num">0 / 2635<br><small>100%</small></td></tr><tr><td>&#x27;your&#x27; (pl.): -km / -kwn</td><td class="num">85 / 0<br><small>0%</small></td><td class="num">5 / 1<br><small>17%</small></td><td class="num">0 / 9<br><small>100%</small></td><td class="num">0 / 2<br><small>100%</small></td><td class="num">2 / 122<br><small>98%</small></td><td class="num">0 / 1284<br><small>100%</small></td></tr><tr><td>&#x27;they&#x27;: hmw(n) / ʾnwn</td><td class="num">49 / 0<br><small>0%</small></td><td class="num">9 / 1<br><small>10%</small></td><td class="num">3 / 3<br><small>50%</small></td><td class="num">3 / 2<br><small>40%</small></td><td class="num">5 / 71<br><small>93%</small></td><td class="num">0 / 350<br><small>100%</small></td></tr><tr><td>&#x27;these&#x27;: ʾlh, ʾlk / ʾlyn</td><td class="num">37 / 0<br><small>0%</small></td><td class="num">5 / 0<br><small>0%</small></td><td class="num">10 / 5<br><small>33%</small></td><td class="num">4 / 3<br><small>43%</small></td><td class="num">6 / 83<br><small>93%</small></td><td class="num">0 / 458<br><small>100%</small></td></tr><tr><td>causative: h- / ʾ- (perfect-type forms)</td><td class="num">185 / 8<br><small>4%</small></td><td class="num">20 / 1<br><small>5%</small></td><td class="num">93 / 3<br><small>3%</small></td><td class="num">34 / 0<br><small>0%</small></td><td class="num">63 / 235<br><small>79%</small></td><td class="num">2 / 714<br><small>100%</small></td></tr><tr><td>spelling &#x27;which&#x27;: zy / dy</td><td class="num">1020 / 5<br><small>0%</small></td><td class="num">0 / 95<br><small>100%</small></td><td class="num">0 / 249<br><small>100%</small></td><td class="num">0 / 158<br><small>100%</small></td><td class="num">6 / 966<br><small>99%</small></td><td class="num">0 / 2310<br><small>100%</small></td></tr><tr><td>spelling &#x27;this&#x27;: znh / dnh</td><td class="num">181 / 7<br><small>4%</small></td><td class="num">0 / 24<br><small>100%</small></td><td class="num">0 / 33<br><small>100%</small></td><td class="num">0 / 20<br><small>100%</small></td><td class="num">0 / 300<br><small>100%</small></td><td class="num">–</td></tr><tr><td>spelling &#x27;earth&#x27;: ʾrq / ʾrʿ</td><td class="num">21 / 7<br><small>25%</small></td><td class="num">0 / 1<br><small>100%</small></td><td class="num">0 / 19<br><small>100%</small></td><td class="num">0 / 11<br><small>100%</small></td><td class="num">0 / 244<br><small>100%</small></td><td class="num">0 / 1617<br><small>100%</small></td></tr><tr><td>reflexive: ht- / ʾt- (not a time marker)</td><td class="num">1 / 33<br><small>97%</small></td><td class="num">1 / 0<br><small>0%</small></td><td class="num">12 / 6<br><small>33%</small></td><td class="num">–</td><td class="num">27 / 95<br><small>78%</small></td><td class="num">1 / 1760<br><small>100%</small></td></tr></tbody></table></div><p class="caption">Counts of older / later forms, with the share of the later form. Papyri: Elephantine (Berlin ERC database, 799 documents, 19,903 fully legible words) and ten Arshama letters (1,040 words); only fully legible words counted. Targums: Onkelos (Pentateuch, 82,706 words) and Jonathan (Joshua–Kings, Isaiah, 94,519 words) from Sefaria. Every hit is listed with its reference in the project files. Mt Gerizim inscriptions (3rd–2nd c. BCE): zy 32 / dy 9, znh 2 / dnh 5, causative h- 24 / ʾ- 0.</p>
   <div class="col">
   
-  <p><strong>Grammar.</strong> On the four grammatical features that changed ("their," "your" plural, "they," "these"), the 5th-century papyri use the old form in all 268 cases. Ezra uses the later form in 17 of 47 cases, Daniel in 53 of 66, and Qumran Aramaic in 832 of 848. Daniel writes "their" only as <span class="mono">-hwn</span> (36 of 36); in the papyri it is <span class="mono">-hm</span> or <span class="mono">-hwm</span> 97 times out of 97.</p>
-  <p><strong>The causative prefix goes the other way.</strong> Counting only the verb forms in which the prefix is always written, Daniel has the old <span class="mono">h-</span> in 93 of 96 cases, the same proportion as the papyri (185 of 193) and Ezra (20 of 21). The literary Aramaic of Qumran has switched to <span class="mono">ʾ-</span> (235 of 298). On this feature Daniel looks Persian-era. Formal inscriptions from Mt Gerizim (3rd–2nd century BCE) also keep <span class="mono">h-</span> (24 of 24), so the old prefix survived in formal writing into the Hellenistic period.</p>
+  <p><strong>Grammar.</strong> On the four grammatical features that changed ("their," "your" plural, "they," "these"), the 5th-century papyri use the old form in all 268 cases. Ezra uses the later form in 17 of 47 cases, Daniel in 53 of 66, Qumran Aramaic in 832 of 848, and the Targums of the 2nd–3rd centuries CE in all 4,727. Daniel writes "their" only as <span class="mono">-hwn</span> (36 of 36); in the papyri it is <span class="mono">-hm</span> or <span class="mono">-hwm</span> 97 times out of 97.</p>
+  <p><strong>The causative prefix goes the other way.</strong> Counting only the verb forms in which the prefix is always written, Daniel has the old <span class="mono">h-</span> in 93 of 96 cases, the same proportion as the papyri (185 of 193) and Ezra (20 of 21). The literary Aramaic of Qumran has switched to <span class="mono">ʾ-</span> (235 of 298), and the Targums almost completely (714 of 716). On this feature Daniel looks Persian-era. Formal inscriptions from Mt Gerizim (3rd–2nd century BCE) also keep <span class="mono">h-</span> (24 of 24), so the old prefix survived in formal writing into the Hellenistic period.</p>
   <p><strong>Spelling.</strong> Daniel always uses the later spellings with <span class="mono">d</span> for older <span class="mono">z</span> (<span class="mono">dy</span> "which," <span class="mono">dnh</span> "this") and <span class="mono">ʿ</span> for older <span class="mono">q</span> (<span class="mono">ʾrʿ</span> "earth"), as do Ezra and Qumran. The papyri keep the old spellings about 98% of the time. Copyists can update spelling, so this counts for less than grammar.</p>
   <p><strong>Not a time marker.</strong> The reflexive prefix (<span class="mono">ht-</span> vs <span class="mono">ʾt-</span>) cannot date anything. The papyri already write <span class="mono">ʾt-</span> (33 of 34), while Daniel and Ezra prefer <span class="mono">ht-</span>, a convention of Biblical Aramaic. An earlier version of this report used it, together with a looser count of the causative prefix, to argue that chapter 7 is later than chapters 2–6. With valid features the difference disappears (2 of 11 later forms vs 9 of 106, p = 0.28), so that claim is withdrawn.</p>
   <p><strong>Was the text modernised by later scribes?</strong> Qumran copies of Daniel from the late 2nd century BCE onward have the same later forms as the Masoretic text, in about the same proportions. There is one exception: 4QDan<sup>a</sup> writes "from them" with the older <span class="mono">-hm</span> twice (2:41–42), where the Masoretic text has <span class="mono">-hwn</span>. Some standardisation happened in copying, but the later forms were already dominant in the earliest surviving copies.</p>

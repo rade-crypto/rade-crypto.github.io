@@ -139,7 +139,8 @@ def chart_aramaic():
         ("'this'", "spelling", "spelling: znh vs dnh"),
         ("'earth'", "spelling", "spelling: ʾrq vs ʾrʿ"),
     ]
-    corp = {"Persian-era papyri": "pap", "Ezra": "ezra", "Daniel (Masoretic)": "dan", "Daniel (Qumran copies)": "danq", "Qumran Aramaic": "qum"}
+    corp = {"Persian-era papyri": "pap", "Ezra": "ezra", "Daniel (Masoretic)": "dan", "Daniel (Qumran copies)": "danq", "Qumran Aramaic": "qum",
+            "Targums (Onkelos and Jonathan)": "targ"}
     names = {"3mp suffix": "3rd pl. suffix", "2mp suffix": "2nd pl. suffix", "3mp pronoun": "3rd pl. pronoun",
              "plural demonstrative": "plural demonstrative", "causative prefix": "causative prefix",
              "relative particle": "relative particle", "'this'": "'this'", "'earth'": "'earth'"}
@@ -154,8 +155,8 @@ def chart_aramaic():
                 if n:
                     vals[k] = (r.n_new / n, n, f"{c}: {r.n_new} of {n} later form = {r.n_new/n:.0%}")
         rows.append((names[f], sub, vals))
-    series = {"pap": ("square", "m-c6"), "ezra": ("tri", "m-ezra"), "qum": ("diamond", "m-qum"), "danq": ("ring", "m-danq"), "dan": ("circle", "m-dan")}
-    return dotplot(rows, series, "Aramaic: share of the later form in Persian-era papyri, Ezra, Daniel and Qumran Aramaic", "share of the later form")
+    series = {"pap": ("square", "m-c6"), "ezra": ("tri", "m-ezra"), "qum": ("diamond", "m-qum"), "targ": ("ring", "m-targ"), "danq": ("ring", "m-danq"), "dan": ("circle", "m-dan")}
+    return dotplot(rows, series, "Aramaic: share of the later form from the 5th-century BCE papyri to the Targums", "share of the later form")
 
 # ------------------------------------------------------------------ chart 3: Hebrew date model
 def chart_hebrew_model():
