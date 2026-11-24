@@ -1,0 +1,51 @@
+id,refs,target,n_verses,dss_scrolls,dss_verses_covered,lxx_verses_present,event_date,narrative_includes_fulfilment
+A01,Isa 7:4-9; 7:16; 8:1-4,Damascus and Samaria,11,1Q8(2); 1Qisaa(11); 4Q59(3); 4Q60(3),11,11,-732,False
+A02,Isa 7:8,Ephraim (Israel),1,1Qisaa(1),1,1,-720,False
+A03,Isa 17:1-3,Damascus,3,1Qisaa(3),3,3,-732,False
+A04,Amos 1:3-5,Damascus / Aram,3,4Q82(3); 5Q4(3); Mur88(1),3,3,-732,False
+A05,Amos 5:27; 6:14; 7:17; 9:4,Israel (northern kingdom),4,4Q78(1); 4Q82(2); Mur88(2),3,4,-720,False
+A06,Amos 7:9; 7:11,House of Jeroboam II,2,4Q78(2); 4Q82(2); Mur88(2),2,2,-746,False
+A07,Hos 1:4-5,House of Jehu; kingdom of Israel,2,,0,2,-722,False
+A08,Hos 10:5-8; 11:5; 14:1,Samaria and its calf image,6,4Q78(1); 4Q82(5),6,6,-720,False
+A09,Mic 1:6-7,Samaria,2,4Q82(1); Mur88(2),2,2,-720,False
+A10,Isa 20:1-6,Egypt and Cush,6,1Q8(2); 1Qisaa(6); 4Q55(6); 4Q56(4); 4Q60(3),6,6,-671,False
+A11,Isa 10:24-34; 14:24-27; 30:31; 31:8,Assyria at Jerusalem,17,1Qisaa(17); 4Q57(10); 4Q59(2),17,17,-701,False
+A12,Isa 37:33-35,Sennacherib and Jerusalem,3,1Qisaa(3),3,3,-701,True
+A13,Isa 37:7,Sennacherib,1,1Q8(1); 1Qisaa(1),1,1,-681,True
+A14,Isa 39:5-7,Hezekiah's house and Babylon,3,1Q8(3); 1Qisaa(3); 4Q56(3),3,3,-597,True
+A15,Mic 3:12,Jerusalem / Temple Mount,1,4Q82(1); Mur88(1),1,1,-586,False
+A16,Nah 1:8; 1:14; 2:2-14; 3:1-19,Nineveh,34,4Q82(8); Mur88(34),34,34,-612,False
+A17,Zeph 2:13-15,Assyria / Nineveh,3,4Q77(3); 4Q78(2); Mur88(3),3,3,-612,False
+A18,Isa 23:1-18,Tyre and Sidon,18,1Q8(5); 1Qisaa(18); 4Q55(12); 4Q57(11),18,18,-677,False
+A19,Zeph 2:4-7,Philistine cities,4,Mur88(4),4,4,-604,False
+B01,Jer 20:4-6; 21:4-10; 25:9-11; 32:28-29; 34:2; 37:8-10; 38:17-18,Jerusalem and Judah,21,4Q72(6),6,21,-586,False
+B02,Jer 22:18-19; 36:30,Jehoiakim,3,4Q72(2),2,3,-598,False
+B03,Jer 22:24-30,Coniah (Jehoiachin),7,4Q72(5),5,7,-597,False
+B04,Jer 34:4-5,Zedekiah,2,,0,2,-586,False
+B05,Ezek 12:12-13,'The prince' (Zedekiah),2,,0,2,-586,False
+B06,Jer 25:1-14; 29:10,Babylon's dominion,15,4Q72(2),2,15,-539,False
+B07,Jer 28:16-17,Hananiah,2,,0,2,-593,True
+B08,Jer 44:26-30,Pharaoh Hophra (Apries); Judeans in Egypt,5,,0,5,-567,False
+B09,Jer 43:8-13; 46:13-26; Ezek 29:17-20; 30:10-12,Egypt and Nebuchadnezzar,27,2Q13(4); 4Q72a(3),4,26,-568,False
+B10,Ezek 29:9-16; 30:13,Egypt's future,9,,0,9,-343,False
+B11,Ezek 26:1-14; 26:19-21; 27:36; 28:19,Tyre,19,,0,19,-332,False
+B12,Jer 47:1-7,"Philistines (Gaza, Ashkelon)",7,2Q13(7),7,7,-604,False
+B13,Jer 49:28-33,Kedar and Hazor (Arabs),6,,0,6,-599,False
+B14,Jer 48:1-47; 49:1-6; Ezek 25:1-11,Moab and Ammon,64,2Q13(19),19,61,-582,False
+B15,Jer 49:7-22; Ezek 25:12-14; 35:1-15; Obad 1-21; Isa 34:5-17; Mal 1:2-5,Edom,72,1Qisaa(13); 2Q13(1); 4Q82(15); Mas1d(5); Mur88(21),40,57,-552,False
+B16a,Isa 13:17-19; 21:2; 21:9; Jer 51:11; 51:27-28; 51:31,Babylon's capture,9,1Q8(3); 1Qisaa(5); 4Q55(2); 4Q56(2),5,9,-539,False
+B16b,Isa 13:19-22; 14:22-23; Jer 50:13; 50:39-40; 51:26; 51:29; 51:37; 51:43; 51:62,Babylon's future,14,1Q8(1); 1Qisaa(6); 4Q57(1); 4Q59(2),6,14,100,False
+B17,Isa 44:24-28; 45:1-7; 45:13; 46:1-2; 47:1-15; 48:14,Cyrus and Babylon,31,1Q8(28); 1Qisaa(31); 4Q56(7); 4Q57(8); 4Q58(9),31,31,-539,False
+B18,Hab 1:5-11,The Chaldeans,7,Mur88(7),7,7,-605,False
+C01,Hag 2:20-23,Kingdoms of the nations; Zerubbabel,4,4Q80(2); Mur88(4),4,4,-515,False
+C02,Hag 2:6-9,The Second Temple,4,Mur88(3),3,4,-19,False
+C03,Zech 4:9; 6:12-13,Zerubbabel and the temple,3,,0,3,-515,False
+C04,Zech 9:1-8,"Syria, Phoenicia, Philistia",8,,0,8,-332,False
+C05,Zech 9:13-16,Zion and Yavan (Greece),4,,0,4,-164,False
+C06,Obad 17-21,"Edom, Philistia, Samaria, Gilead",5,Mur88(5),5,5,-108,False
+C07,Isa 19:18-25,Egypt,8,1Q8(7); 1Qisaa(8); 4Q55(2); 4Q56(8),8,8,-160,False
+C08,Joel 4:4-8,"Tyre, Sidon, Philistia",5,4Q78(2); 4Q82(5); Mur88(5),5,5,-332,False
+D01,Dan 9:24-27,Jerusalem and the sanctuary,4,,0,4,70,False
+D02,Hos 3:4-5,Israel,2,4Q78(1); 4Q82(2),2,2,70,False
+D03,Jer 30:11; 46:28; Amos 9:8-9,Jacob/Israel among the nations,4,2Q13(1); Mur88(2),3,3,100,False
+D04,Isa 11:11-16; Amos 9:14-15; Ezek 37:21-22,Return from dispersion,10,1Qisaa(6); 4Q55(5); 4Q57(4); 4Q59(2); 4Q82(2); Mur88(2),8,10,1948,False
