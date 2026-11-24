@@ -371,6 +371,24 @@ a { color: var(--accent) }
   <p class="caption">Estimates are calibrated against the comparison texts' out-of-sample predictions. Hover for values.</p>
   <div class="col">
   <p>Daniel's Hebrew as a whole comes out at about 300 BCE. Its nearest neighbours are Nehemiah, Ezra, Chronicles and the Qumran Hodayot. The period classifier gives it a 4% probability of belonging with the 6th-century texts. Chapters 8 and 10, which are vision reports in the style of Ezekiel and Zechariah, lean earlier. Chapters 11–12 lean later. The single-text error is wide, so language alone cannot tell the 4th century from the 2nd. It does set Daniel apart from its supposed contemporaries.</p>
+  <div class="callout">
+  <p><strong>What a score of "about 300 BCE" means.</strong> It is not a date of writing. The model compresses everything written in biblical-style Hebrew after the Persian period into the same zone. Dated compositions of the 2nd–1st centuries BCE, scored blind, come out just as early as Daniel:</p>
+  </div>
+  <div class="tbl"><table>
+    <thead><tr><th>Text</th><th class="num">Actually written</th><th class="num">Model score (blind)</th></tr></thead>
+    <tbody>
+      <tr><td>Temple Scroll</td><td class="num">c. 150 BCE</td><td class="num">381 BCE</td></tr>
+      <tr><td>Pesharim (Qumran commentaries)</td><td class="num">c. 60 BCE</td><td class="num">363 BCE</td></tr>
+      <tr><td>Apocryphon of Jeremiah</td><td class="num">c. 150 BCE</td><td class="num">357 BCE</td></tr>
+      <tr><td>Jubilees (Hebrew)</td><td class="num">c. 160 BCE</td><td class="num">343 BCE</td></tr>
+      <tr><td><strong>Daniel 8–12</strong></td><td class="num">?</td><td class="num"><strong>349 BCE</strong></td></tr>
+      <tr><td><strong>Daniel, all Hebrew</strong></td><td class="num">?</td><td class="num"><strong>332 BCE</strong></td></tr>
+      <tr><td>Ezra / Nehemiah</td><td class="num">c. 400 BCE</td><td class="num">338 / 326 BCE</td></tr>
+      <tr><td>Ezekiel / Haggai / Zechariah 1–8</td><td class="num">c. 580–518 BCE</td><td class="num">490 / 527 / 580 BCE</td></tr>
+    </tbody></table></div>
+  <div class="col">
+  <p>Daniel's Hebrew therefore cannot be told apart from 2nd-century literary Hebrew, and it is clearly separate from the 6th-century prophets. Writers of the Hellenistic period who wrote in a scriptural style used late-biblical Hebrew rather than the Hebrew they spoke (which shows up in Mishnaic forms such as <span class="heb">ש</span>, and in Ben Sira). The language does not make Daniel older than the events it describes. It fits any date from the late Persian period to the 2nd century BCE.</p>
+  </div>
   <p><strong>Two more checks of the model.</strong> The Hebrew inscriptions from Lachish, Arad, Siloam, Mesad Hashavyahu and Ketef Hinnom, dated by archaeology to about 700–587 BCE, were never used in training. Scored blind, they came out at about 600 BCE, closest to Samuel, Hosea and Haggai. The Community Rule, War Scroll and Hodayot are each annotated in two different databases, and each copy was matched to its own counterpart as nearest neighbour. Adding Mishnaic Hebrew (Pirqe Avot, Mekhilta, c. 200–250 CE) as a later anchor leaves Daniel where it was, at about 340 BCE.</p>
   <h3>Word choices that changed over time</h3>
   <p>The clearest evidence is in places where a writer had to choose between two equivalent forms. Because the measure is a choice, genre matters little.</p>
