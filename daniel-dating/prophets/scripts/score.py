@@ -48,7 +48,7 @@ R = [  # id, P, E, S, M, U, I, note
 ("B15",1,2,0,1,1,1,"Edomites vanished as a people; land not uninhabited (Petra)"),
 ("B16a",1,3,2,2,1,1,"539 taken by Cyrus (ruler of Media), 'without battle'; gods returned not shattered"),
 ("B16b",3,2,1,1,1,1,"1QIsa-a (205-90 BCE) older than abandonment; desolation came ~600 yrs after the conquest the text names; bricks quarried (Jer 51:26)"),
-("B17",1,3,3,2,0,1,"Gates opened without battle; Bel and Nebo not taken captive; text speaks to Cyrus's own time"),
+("B17",1,3,3,2,0,1,"Gates opened without battle (Nabonidus Chronicle); Bel and Nebo not taken captive. DATE UNDECIDED: heading (Isa 1:1) and Ben Sira 48:24-25 assign it to Isaiah son of Amoz -> U=2, total 12; if written in the 540s -> U=0, total 10. Verb tense cannot decide (prophetic perfect, cf. Amos 5:2)"),
 ("B18",1,3,1,3,0,1,"Babylon's rise"),
 ("C01",1,2,1,0,1,1,"Persian empire not overthrown; Zerubbabel vanishes"),
 ("C02",2,2,1,1,1,0,"Herod's temple grander; 'peace in this place' did not follow"),

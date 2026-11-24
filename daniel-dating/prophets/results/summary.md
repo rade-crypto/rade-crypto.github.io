@@ -17,3 +17,10 @@ the precise, well-matched claims (Isa 8, Isa 20, Amos, Hosea, Nahum) rest on int
 
 Base rate: 'desolate forever' predictions about named foreign cities: 3 came true in the long run
 (Nineveh, Babylon, Memphis), 9 did not (results/desolation_base_rate.csv).
+
+Correction (Cyrus, Isa 44:28-45:1): an earlier draft dated these chapters to Cyrus's lifetime because they address
+exiles in the present tense. That is not valid evidence: Hebrew prophecy routinely describes future events as
+present or past (e.g. Amos 5:2 'fallen is virgin Israel', decades before 722). The evidence available - the book
+heading (Isa 1:1), Ben Sira 48:24-25 (c. 190 BCE) and the Great Isaiah Scroll (one continuous book) - presents it
+as Isaiah's; language measurement cannot separate Isa 40-55 from Isa 1-39. Its date is undecided by the data;
+under the heading's date it ties Isa 8:1-4 for first place (score 12), under a 540s date it scores 10.
