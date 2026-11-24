@@ -1,0 +1,95 @@
+<svg viewBox="0 0 760 669" role="img" aria-label="Hebrew dating model: estimated date of each text, out-of-sample, calibrated" class="chart" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+<line x1="200.0" x2="200.0" y1="22" y2="619" class="grid"/><text x="200.0" y="635" class="tick" text-anchor="middle">800</text>
+<line x1="267.5" x2="267.5" y1="22" y2="619" class="grid"/><text x="267.5" y="635" class="tick" text-anchor="middle">700</text>
+<line x1="335.0" x2="335.0" y1="22" y2="619" class="grid"/><text x="335.0" y="635" class="tick" text-anchor="middle">600</text>
+<line x1="402.5" x2="402.5" y1="22" y2="619" class="grid"/><text x="402.5" y="635" class="tick" text-anchor="middle">500</text>
+<line x1="470.0" x2="470.0" y1="22" y2="619" class="grid"/><text x="470.0" y="635" class="tick" text-anchor="middle">400</text>
+<line x1="537.5" x2="537.5" y1="22" y2="619" class="grid"/><text x="537.5" y="635" class="tick" text-anchor="middle">300</text>
+<line x1="605.0" x2="605.0" y1="22" y2="619" class="grid"/><text x="605.0" y="635" class="tick" text-anchor="middle">200</text>
+<line x1="672.5" x2="672.5" y1="22" y2="619" class="grid"/><text x="672.5" y="635" class="tick" text-anchor="middle">100</text>
+<line x1="740.0" x2="740.0" y1="22" y2="619" class="grid"/><text x="740.0" y="635" class="tick" text-anchor="middle">0</text>
+<text x="470.0" y="659" class="tick" text-anchor="middle">estimated date of the language, years BCE (each text scored blind)</text>
+<text x="8" y="42.5" class="gl">Classical</text>
+<text x="190" y="62.5" class="rl" text-anchor="end">Samuel</text>
+<line x1="335.0" x2="335.0" y1="52.5" y2="64.5" class="truth"/>
+<circle cx="383.8" cy="58.5" r="4.5" class="m-anchor" data-tip="Samuel: conventional date c. 600 BCE; model estimate without seeing it c. 528 BCE"/>
+<text x="190" y="81.5" class="rl" text-anchor="end">Kings</text>
+<line x1="355.2" x2="355.2" y1="71.5" y2="83.5" class="truth"/>
+<circle cx="421.5" cy="77.5" r="4.5" class="m-anchor" data-tip="Kings: conventional date c. 570 BCE; model estimate without seeing it c. 472 BCE"/>
+<text x="190" y="100.5" class="rl" text-anchor="end">Judges</text>
+<line x1="335.0" x2="335.0" y1="90.5" y2="102.5" class="truth"/>
+<circle cx="398.4" cy="96.5" r="4.5" class="m-anchor" data-tip="Judges: conventional date c. 600 BCE; model estimate without seeing it c. 506 BCE"/>
+<text x="8" y="118.5" class="gl">6th century</text>
+<text x="190" y="138.5" class="rl" text-anchor="end">Jeremiah</text>
+<line x1="341.8" x2="341.8" y1="128.5" y2="140.5" class="truth"/>
+<circle cx="340.5" cy="134.5" r="4.5" class="m-anchor" data-tip="Jeremiah: conventional date c. 590 BCE; model estimate without seeing it c. 592 BCE"/>
+<text x="190" y="157.5" class="rl" text-anchor="end">Ezekiel</text>
+<line x1="348.5" x2="348.5" y1="147.5" y2="159.5" class="truth"/>
+<circle cx="391.8" cy="153.5" r="4.5" class="m-anchor" data-tip="Ezekiel: conventional date c. 580 BCE; model estimate without seeing it c. 516 BCE"/>
+<text x="190" y="176.5" class="rl" text-anchor="end">Haggai</text>
+<line x1="389.0" x2="389.0" y1="166.5" y2="178.5" class="truth"/>
+<circle cx="358.0" cy="172.5" r="4.5" class="m-anchor" data-tip="Haggai: conventional date c. 520 BCE; model estimate without seeing it c. 566 BCE"/>
+<text x="190" y="195.5" class="rl" text-anchor="end">Zechariah 1-8</text>
+<line x1="390.4" x2="390.4" y1="185.5" y2="197.5" class="truth"/>
+<circle cx="310.2" cy="191.5" r="4.5" class="m-anchor" data-tip="Zechariah 1-8: conventional date c. 518 BCE; model estimate without seeing it c. 637 BCE"/>
+<text x="190" y="214.5" class="rl" text-anchor="end">Isaiah 40-55</text>
+<line x1="375.5" x2="375.5" y1="204.5" y2="216.5" class="truth"/>
+<circle cx="336.0" cy="210.5" r="4.5" class="m-anchor" data-tip="Isaiah 40-55: conventional date c. 540 BCE; model estimate without seeing it c. 599 BCE"/>
+<text x="8" y="232.5" class="gl">Persian era</text>
+<text x="190" y="252.5" class="rl" text-anchor="end">Ezra</text>
+<line x1="470.0" x2="470.0" y1="242.5" y2="254.5" class="truth"/>
+<circle cx="530.1" cy="248.5" r="4.5" class="m-anchor" data-tip="Ezra: conventional date c. 400 BCE; model estimate without seeing it c. 311 BCE"/>
+<text x="190" y="271.5" class="rl" text-anchor="end">Nehemiah</text>
+<line x1="470.0" x2="470.0" y1="261.5" y2="273.5" class="truth"/>
+<circle cx="541.1" cy="267.5" r="4.5" class="m-anchor" data-tip="Nehemiah: conventional date c. 400 BCE; model estimate without seeing it c. 295 BCE"/>
+<text x="190" y="290.5" class="rl" text-anchor="end">Chronicles</text>
+<line x1="503.8" x2="503.8" y1="280.5" y2="292.5" class="truth"/>
+<circle cx="481.3" cy="286.5" r="4.5" class="m-anchor" data-tip="Chronicles: conventional date c. 350 BCE; model estimate without seeing it c. 383 BCE"/>
+<text x="190" y="309.5" class="rl" text-anchor="end">Esther</text>
+<line x1="537.5" x2="537.5" y1="299.5" y2="311.5" class="truth"/>
+<circle cx="520.3" cy="305.5" r="4.5" class="m-anchor" data-tip="Esther: conventional date c. 300 BCE; model estimate without seeing it c. 325 BCE"/>
+<text x="8" y="327.5" class="gl">Qumran, 2nd-1st c.</text>
+<text x="190" y="347.5" class="rl" text-anchor="end">Jubilees Hebrew</text>
+<line x1="632.0" x2="632.0" y1="337.5" y2="349.5" class="truth"/>
+<circle cx="525.6" cy="343.5" r="4.5" class="m-anchor" data-tip="Jubilees Hebrew: conventional date c. 160 BCE; model estimate without seeing it c. 318 BCE"/>
+<text x="190" y="366.5" class="rl" text-anchor="end">Temple Scroll</text>
+<line x1="638.8" x2="638.8" y1="356.5" y2="368.5" class="truth"/>
+<circle cx="491.1" cy="362.5" r="4.5" class="m-anchor" data-tip="Temple Scroll: conventional date c. 150 BCE; model estimate without seeing it c. 369 BCE"/>
+<text x="190" y="385.5" class="rl" text-anchor="end">MMT</text>
+<line x1="638.8" x2="638.8" y1="375.5" y2="387.5" class="truth"/>
+<circle cx="595.6" cy="381.5" r="4.5" class="m-anchor" data-tip="MMT: conventional date c. 150 BCE; model estimate without seeing it c. 214 BCE"/>
+<text x="190" y="404.5" class="rl" text-anchor="end">Damascus Document</text>
+<line x1="672.5" x2="672.5" y1="394.5" y2="406.5" class="truth"/>
+<circle cx="623.3" cy="400.5" r="4.5" class="m-anchor" data-tip="Damascus Document: conventional date c. 100 BCE; model estimate without seeing it c. 173 BCE"/>
+<text x="190" y="423.5" class="rl" text-anchor="end">Community Rule</text>
+<line x1="672.5" x2="672.5" y1="413.5" y2="425.5" class="truth"/>
+<circle cx="704.8" cy="419.5" r="4.5" class="m-anchor" data-tip="Community Rule: conventional date c. 100 BCE; model estimate without seeing it c. 52 BCE"/>
+<text x="190" y="442.5" class="rl" text-anchor="end">War Scroll</text>
+<line x1="689.4" x2="689.4" y1="432.5" y2="444.5" class="truth"/>
+<circle cx="566.0" cy="438.5" r="4.5" class="m-anchor" data-tip="War Scroll: conventional date c. 75 BCE; model estimate without seeing it c. 258 BCE"/>
+<text x="190" y="461.5" class="rl" text-anchor="end">Hodayot</text>
+<line x1="672.5" x2="672.5" y1="451.5" y2="463.5" class="truth"/>
+<circle cx="632.1" cy="457.5" r="4.5" class="m-anchor" data-tip="Hodayot: conventional date c. 100 BCE; model estimate without seeing it c. 160 BCE"/>
+<text x="8" y="479.5" class="gl">Daniel</text>
+<text x="190" y="499.5" class="rl strong" text-anchor="end">Daniel 1</text>
+<line x1="480.6" x2="611.8" y1="495.5" y2="495.5" class="ci"/>
+<circle cx="538.6" cy="495.5" r="5.5" class="m-dan" data-tip="Daniel 1: estimated c. 298 BCE (bootstrap 90%: 384-190 BCE)"/>
+<text x="190" y="518.5" class="rl strong" text-anchor="end">Daniel 8</text>
+<line x1="359.3" x2="516.9" y1="514.5" y2="514.5" class="ci"/>
+<circle cx="431.1" cy="514.5" r="5.5" class="m-dan" data-tip="Daniel 8: estimated c. 458 BCE (bootstrap 90%: 564-331 BCE)"/>
+<text x="190" y="537.5" class="rl strong" text-anchor="end">Daniel 9</text>
+<line x1="450.3" x2="582.4" y1="533.5" y2="533.5" class="ci"/>
+<circle cx="521.7" cy="533.5" r="5.5" class="m-dan" data-tip="Daniel 9: estimated c. 323 BCE (bootstrap 90%: 429-234 BCE)"/>
+<text x="190" y="556.5" class="rl strong" text-anchor="end">Daniel 10</text>
+<line x1="386.8" x2="524.5" y1="552.5" y2="552.5" class="ci"/>
+<circle cx="450.9" cy="552.5" r="5.5" class="m-dan" data-tip="Daniel 10: estimated c. 428 BCE (bootstrap 90%: 523-319 BCE)"/>
+<text x="190" y="575.5" class="rl strong" text-anchor="end">Daniel 11</text>
+<line x1="487.4" x2="585.2" y1="571.5" y2="571.5" class="ci"/>
+<circle cx="531.5" cy="571.5" r="5.5" class="m-dan" data-tip="Daniel 11: estimated c. 309 BCE (bootstrap 90%: 374-229 BCE)"/>
+<text x="190" y="594.5" class="rl strong" text-anchor="end">Daniel 12</text>
+<line x1="466.9" x2="644.0" y1="590.5" y2="590.5" class="ci"/>
+<circle cx="580.0" cy="590.5" r="5.5" class="m-dan" data-tip="Daniel 12: estimated c. 237 BCE (bootstrap 90%: 405-142 BCE)"/>
+<text x="190" y="613.5" class="rl strong" text-anchor="end">Daniel, all Hebrew</text>
+<line x1="473.3" x2="570.8" y1="609.5" y2="609.5" class="ci"/>
+<circle cx="535.8" cy="609.5" r="5.5" class="m-dan" data-tip="Daniel, all Hebrew: estimated c. 303 BCE (bootstrap 90%: 395-251 BCE)"/>
+</svg>

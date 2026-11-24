@@ -85,7 +85,7 @@ SEGMENTS = [
         ("after some years the two make an alliance", "hit", "end of 2nd Syrian War c. 252: App 65"),
         ("the daughter of the king of the south comes to the king of the north to make an agreement", "hit", "Berenice daughter of Ptolemy II marries Antiochus II: App 65; Just 27.1"),
         ("she will not retain her strength", "hit", "App 65; Just 27.1"),
-        ("he (Antiochus II) and his power will not last", "hit", "Antiochus II dies 246: App 65"),
+        ("he (Antiochus II) and his power will not last", "hit", "Antiochus II dies summer 246: App 65; BKL obv. 12-13 (Abu SE 66)"),
         ("she is given up, with those who brought her and her child/supporter", "hit", "Berenice, her infant son and attendants killed at Antioch: Just 27.1; Polyaenus 8.50"),
     ]),
     dict(id="11:7-9", ch=11, v=(7, 9), label="Ptolemy III's invasion (3rd Syrian War)", span=(246, 240), claims=[
@@ -106,7 +106,7 @@ SEGMENTS = [
         ("the king of the north returns with a larger army after some years", "hit", "after the eastern anabasis 212-205: Pol 11.34, 16.18"),
         ("many rise against the king of the south", "hit", "pact of Philip V and Antiochus III: Pol 15.20; Egyptian revolts"),
         ("violent men of your people rise up to fulfil a vision but fail", "vague", "no clear record"),
-        ("he builds siege mounds and takes a fortified city", "hit", "Sidon 199/198 (after Panium): Pol 16.18, Jos 12.131-132"),
+        ("he builds siege mounds and takes a fortified city", "hit", "siege of Gaza (Pol 16.18.2, 16.22a) and of the Ptolemaic garrison in Jerusalem's citadel (Jos 12.133-136)"),
         ("the southern forces, even picked troops, cannot stand", "hit", "Panium 200: Pol 16.18-19"),
         ("he stands in the 'beautiful land' with destruction in his hand", "hit", "Judea taken 200-198: Jos 12.133-144"),
     ]),

@@ -1,0 +1,40 @@
+<svg viewBox="0 0 760 208" role="img" aria-label="Hebrew: share of the later variant" class="chart" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+<line x1="230.0" x2="230.0" y1="20" y2="162" class="grid"/><text x="230.0" y="178" class="tick" text-anchor="middle">0%</text>
+<line x1="357.0" x2="357.0" y1="20" y2="162" class="grid"/><text x="357.0" y="178" class="tick" text-anchor="middle">25%</text>
+<line x1="484.0" x2="484.0" y1="20" y2="162" class="grid"/><text x="484.0" y="178" class="tick" text-anchor="middle">50%</text>
+<line x1="611.0" x2="611.0" y1="20" y2="162" class="grid"/><text x="611.0" y="178" class="tick" text-anchor="middle">75%</text>
+<line x1="738.0" x2="738.0" y1="20" y2="162" class="grid"/><text x="738.0" y="178" class="tick" text-anchor="middle">100%</text>
+<text x="484.0" y="200" class="tick" text-anchor="middle">share of the later variant</text>
+<text x="218" y="42.0" class="rl" text-anchor="end">word for &#x27;kingdom&#x27;</text>
+<text x="218" y="55.0" class="rs" text-anchor="end">mamlākâ vs malkût</text>
+<line x1="230.0" x2="738.0" y1="43.0" y2="43.0" class="rowline"/>
+<path d="M274.8,28.0 L281.8,40.5 L267.8,40.5Z" class="m-cla" data-tip="Classical prose (Gen-Kings): 3 of 34 = 9% later form"/>
+<rect x="285.5" y="33.5" width="11" height="11" rx="2" class="m-c6" data-tip="6th c. (Jer, Ezek, Hag, Zech 1-8): 3 of 25 = 12% later form"/>
+<path d="M600.5,36.0 L607.5,43.0 L600.5,50.0 L593.5,43.0Z" class="m-per" data-tip="Persian era (Ezra-Neh, Chr, Esth): 62 of 85 = 73% later form"/>
+<circle cx="579.1" cy="47.0" r="6" class="m-qum2" data-tip="Qumran Hebrew: 123 of 179 = 69% later form"/>
+<circle cx="738.0" cy="51.0" r="6.5" class="m-dan" data-tip="Daniel: 16 of 16 = 100% later form"/>
+<text x="218" y="76.0" class="rl" text-anchor="end">1st sg. wayyiqtol</text>
+<text x="218" y="89.0" class="rs" text-anchor="end">&#x27;and I did&#x27;: short vs long form</text>
+<line x1="230.0" x2="738.0" y1="77.0" y2="77.0" class="rowline"/>
+<path d="M273.6,62.0 L280.6,74.5 L266.6,74.5Z" class="m-cla" data-tip="Classical prose (Gen-Kings): 14 of 163 = 9% later form"/>
+<rect x="241.0" y="67.5" width="11" height="11" rx="2" class="m-c6" data-tip="6th c. (Jer, Ezek, Hag, Zech 1-8): 5 of 154 = 3% later form"/>
+<path d="M465.3,70.0 L472.3,77.0 L465.3,84.0 L458.3,77.0Z" class="m-per" data-tip="Persian era (Ezra-Neh, Chr, Esth): 44 of 95 = 46% later form"/>
+<circle cx="522.1" cy="81.0" r="6" class="m-qum2" data-tip="Qumran Hebrew: 23 of 40 = 57% later form"/>
+<circle cx="512.2" cy="85.0" r="6.5" class="m-dan" data-tip="Daniel: 10 of 18 = 56% later form"/>
+<text x="218" y="110.0" class="rl" text-anchor="end">object pronoun</text>
+<text x="218" y="123.0" class="rs" text-anchor="end">ʾēt+suffix vs verbal suffix</text>
+<line x1="230.0" x2="738.0" y1="111.0" y2="111.0" class="rowline"/>
+<path d="M545.9,96.0 L552.9,108.5 L538.9,108.5Z" class="m-cla" data-tip="Classical prose (Gen-Kings): 1920 of 3088 = 62% later form"/>
+<rect x="536.8" y="101.5" width="11" height="11" rx="2" class="m-c6" data-tip="6th c. (Jer, Ezek, Hag, Zech 1-8): 629 of 1023 = 61% later form"/>
+<path d="M655.5,104.0 L662.5,111.0 L655.5,118.0 L648.5,111.0Z" class="m-per" data-tip="Persian era (Ezra-Neh, Chr, Esth): 335 of 400 = 84% later form"/>
+<circle cx="645.0" cy="115.0" r="6" class="m-qum2" data-tip="Qumran Hebrew: 1570 of 1922 = 82% later form"/>
+<circle cx="738.0" cy="119.0" r="6.5" class="m-dan" data-tip="Daniel: 19 of 19 = 100% later form"/>
+<text x="218" y="144.0" class="rl" text-anchor="end">1st sg. pronoun</text>
+<text x="218" y="157.0" class="rs" text-anchor="end">ʾānōkî vs ʾănî</text>
+<line x1="230.0" x2="738.0" y1="145.0" y2="145.0" class="rowline"/>
+<path d="M516.8,130.0 L523.8,142.5 L509.8,142.5Z" class="m-cla" data-tip="Classical prose (Gen-Kings): 293 of 519 = 56% later form"/>
+<rect x="662.0" y="135.5" width="11" height="11" rx="2" class="m-c6" data-tip="6th c. (Jer, Ezek, Hag, Zech 1-8): 236 of 274 = 86% later form"/>
+<path d="M719.5,138.0 L726.5,145.0 L719.5,152.0 L712.5,145.0Z" class="m-per" data-tip="Persian era (Ezra-Neh, Chr, Esth): 53 of 55 = 96% later form"/>
+<circle cx="638.1" cy="149.0" r="6" class="m-qum2" data-tip="Qumran Hebrew: 245 of 305 = 80% later form"/>
+<circle cx="716.8" cy="153.0" r="6.5" class="m-dan" data-tip="Daniel: 23 of 24 = 96% later form"/>
+</svg>
