@@ -84,51 +84,51 @@
 <line x1="58" x2="742" y1="320.0" y2="320.0" class="grid"/><text x="50" y="324.0" class="tick" text-anchor="end">50%</text>
 <line x1="58" x2="742" y1="250.0" y2="250.0" class="grid"/><text x="50" y="254.0" class="tick" text-anchor="end">100%</text>
 <line x1="74.7" x2="435.0" y1="250.0" y2="250.0" class="span"/>
-<circle cx="254.9" cy="250.0" r="5.5" class="dot" data-tip="Dan 8:3-4 (550-334 BCE): Ram: Media-Persia expands. 3 hit, 0 partial, 0 miss, 0 too vague; score 100%"/>
+<circle cx="254.9" cy="250.0" r="5.5" class="dot" data-tip="Dan 8:3-4 (550-334 BCE): Ram: Media-Persia expands. 3 match, 0 partly, 0 no match, 0 too vague; score 100%"/>
 <line x1="435.0" x2="490.1" y1="250.0" y2="250.0" class="span"/>
-<circle cx="462.6" cy="250.0" r="5.5" class="dot" data-tip="Dan 8:5-8 (334-301 BCE): Goat: Alexander; four horns. 4 hit, 0 partial, 0 miss, 0 too vague; score 100%"/>
+<circle cx="462.6" cy="250.0" r="5.5" class="dot" data-tip="Dan 8:5-8 (334-301 BCE): Goat: Alexander; four horns. 4 match, 0 partly, 0 no match, 0 too vague; score 100%"/>
 <line x1="700.3" x2="713.6" y1="269.6" y2="269.6" class="span"/>
-<circle cx="707.0" cy="269.6" r="5.5" class="dot" data-tip="Dan 8:9-12 (175-167 BCE): Little horn: Antiochus IV. 5 hit, 2 partial, 0 miss, 2 too vague; score 86%"/>
+<circle cx="707.0" cy="269.6" r="5.5" class="dot" data-tip="Dan 8:9-12 (175-167 BCE): Little horn: Antiochus IV. 5 match, 2 partly, 0 no match, 2 too vague; score 86%"/>
 <line x1="713.6" x2="718.6" y1="320.0" y2="320.0" class="span"/>
-<circle cx="716.1" cy="320.0" r="5.5" class="dot" data-tip="Dan 8:13-14 (167-164 BCE): 2300 evening-mornings. 0 hit, 1 partial, 0 miss, 0 too vague; score 50%"/>
+<circle cx="716.1" cy="320.0" r="5.5" class="dot" data-tip="Dan 8:13-14 (167-164 BCE): 2300 evening-mornings. 0 match, 1 partly, 0 no match, 0 too vague; score 50%"/>
 <line x1="700.3" x2="718.6" y1="250.0" y2="250.0" class="span"/>
-<circle cx="709.5" cy="250.0" r="5.5" class="dot" data-tip="Dan 8:23-25 (175-164 BCE): Interpretation: the bold-faced king. 4 hit, 0 partial, 0 miss, 1 too vague; score 100%"/>
+<circle cx="709.5" cy="250.0" r="5.5" class="dot" data-tip="Dan 8:23-25 (175-164 BCE): Interpretation: the bold-faced king. 4 match, 0 partly, 0 no match, 1 too vague; score 100%"/>
 <line x1="108.0" x2="191.5" y1="250.0" y2="250.0" class="span"/>
-<circle cx="149.8" cy="250.0" r="5.5" class="dot" data-tip="Dan 11:2 (530-480 BCE): Persia: 3 kings + a 4th rich king vs Greece. 3 hit, 0 partial, 0 miss, 0 too vague; score 100%"/>
+<circle cx="149.8" cy="250.0" r="5.5" class="dot" data-tip="Dan 11:2 (530-480 BCE): Persia: 3 kings + a 4th rich king vs Greece. 3 match, 0 partly, 0 no match, 0 too vague; score 100%"/>
 <line x1="431.7" x2="490.1" y1="250.0" y2="250.0" class="span"/>
-<circle cx="460.9" cy="250.0" r="5.5" class="dot" data-tip="Dan 11:3-4 (336-301 BCE): Alexander and the partition. 5 hit, 0 partial, 0 miss, 0 too vague; score 100%"/>
+<circle cx="460.9" cy="250.0" r="5.5" class="dot" data-tip="Dan 11:3-4 (336-301 BCE): Alexander and the partition. 5 match, 0 partly, 0 no match, 0 too vague; score 100%"/>
 <line x1="465.1" x2="523.5" y1="250.0" y2="250.0" class="span"/>
-<circle cx="494.3" cy="250.0" r="5.5" class="dot" data-tip="Dan 11:5 (316-281 BCE): Ptolemy I and Seleucus I. 2 hit, 0 partial, 0 miss, 0 too vague; score 100%"/>
+<circle cx="494.3" cy="250.0" r="5.5" class="dot" data-tip="Dan 11:5 (316-281 BCE): Ptolemy I and Seleucus I. 2 match, 0 partly, 0 no match, 0 too vague; score 100%"/>
 <line x1="571.8" x2="581.8" y1="250.0" y2="250.0" class="span"/>
-<circle cx="576.8" cy="250.0" r="5.5" class="dot" data-tip="Dan 11:6 (252-246 BCE): Berenice&#x27;s marriage and murder. 5 hit, 0 partial, 0 miss, 0 too vague; score 100%"/>
+<circle cx="576.8" cy="250.0" r="5.5" class="dot" data-tip="Dan 11:6 (252-246 BCE): Berenice&#x27;s marriage and murder. 5 match, 0 partly, 0 no match, 0 too vague; score 100%"/>
 <line x1="581.8" x2="591.9" y1="250.0" y2="250.0" class="span"/>
-<circle cx="586.8" cy="250.0" r="5.5" class="dot" data-tip="Dan 11:7-9 (246-240 BCE): Ptolemy III&#x27;s invasion (3rd Syrian War). 5 hit, 0 partial, 0 miss, 0 too vague; score 100%"/>
+<circle cx="586.8" cy="250.0" r="5.5" class="dot" data-tip="Dan 11:7-9 (246-240 BCE): Ptolemy III&#x27;s invasion (3rd Syrian War). 5 match, 0 partly, 0 no match, 0 too vague; score 100%"/>
 <line x1="623.6" x2="630.2" y1="250.0" y2="250.0" class="span"/>
-<circle cx="626.9" cy="250.0" r="5.5" class="dot" data-tip="Dan 11:10-12 (221-217 BCE): Antiochus III and Raphia. 5 hit, 0 partial, 0 miss, 0 too vague; score 100%"/>
+<circle cx="626.9" cy="250.0" r="5.5" class="dot" data-tip="Dan 11:10-12 (221-217 BCE): Antiochus III and Raphia. 5 match, 0 partly, 0 no match, 0 too vague; score 100%"/>
 <line x1="655.2" x2="661.9" y1="250.0" y2="250.0" class="span"/>
-<circle cx="658.6" cy="250.0" r="5.5" class="dot" data-tip="Dan 11:13-16 (202-198 BCE): 5th Syrian War: Panium, Sidon, Judea. 5 hit, 0 partial, 0 miss, 1 too vague; score 100%"/>
+<circle cx="658.6" cy="250.0" r="5.5" class="dot" data-tip="Dan 11:13-16 (202-198 BCE): 5th Syrian War: Panium, Sidon, Judea. 5 match, 0 partly, 0 no match, 1 too vague; score 100%"/>
 <line x1="663.6" x2="670.3" y1="250.0" y2="250.0" class="span"/>
-<circle cx="666.9" cy="250.0" r="5.5" class="dot" data-tip="Dan 11:17 (197-193 BCE): Cleopatra I given to Ptolemy V. 3 hit, 0 partial, 0 miss, 0 too vague; score 100%"/>
+<circle cx="666.9" cy="250.0" r="5.5" class="dot" data-tip="Dan 11:17 (197-193 BCE): Cleopatra I given to Ptolemy V. 3 match, 0 partly, 0 no match, 0 too vague; score 100%"/>
 <line x1="663.6" x2="680.3" y1="250.0" y2="250.0" class="span"/>
-<circle cx="671.9" cy="250.0" r="5.5" class="dot" data-tip="Dan 11:18-19 (197-187 BCE): Coastlands, Rome, death in Elymais. 4 hit, 0 partial, 0 miss, 0 too vague; score 100%"/>
+<circle cx="671.9" cy="250.0" r="5.5" class="dot" data-tip="Dan 11:18-19 (197-187 BCE): Coastlands, Rome, death in Elymais. 4 match, 0 partly, 0 no match, 0 too vague; score 100%"/>
 <line x1="680.3" x2="700.3" y1="273.8" y2="273.8" class="span"/>
-<circle cx="690.3" cy="273.8" r="5.5" class="dot" data-tip="Dan 11:20 (187-175 BCE): Seleucus IV and the tax-collector. 2 hit, 1 partial, 0 miss, 0 too vague; score 83%"/>
+<circle cx="690.3" cy="273.8" r="5.5" class="dot" data-tip="Dan 11:20 (187-175 BCE): Seleucus IV and the tax-collector. 2 match, 1 partly, 0 no match, 0 too vague; score 83%"/>
 <line x1="700.3" x2="708.6" y1="278.0" y2="278.0" class="span"/>
-<circle cx="704.5" cy="278.0" r="5.5" class="dot" data-tip="Dan 11:21-24 (175-170 BCE): Antiochus IV&#x27;s accession and conduct. 3 hit, 2 partial, 0 miss, 1 too vague; score 80%"/>
+<circle cx="704.5" cy="278.0" r="5.5" class="dot" data-tip="Dan 11:21-24 (175-170 BCE): Antiochus IV&#x27;s accession and conduct. 3 match, 2 partly, 0 no match, 1 too vague; score 80%"/>
 <line x1="708.6" x2="710.3" y1="261.2" y2="261.2" class="span"/>
-<circle cx="709.5" cy="261.2" r="5.5" class="dot" data-tip="Dan 11:25-28 (170-169 BCE): First Egyptian campaign 170/169. 5 hit, 1 partial, 0 miss, 0 too vague; score 92%"/>
+<circle cx="709.5" cy="261.2" r="5.5" class="dot" data-tip="Dan 11:25-28 (170-169 BCE): First Egyptian campaign 170/169. 5 match, 1 partly, 0 no match, 0 too vague; score 92%"/>
 <line x1="712.0" x2="712.0" y1="250.0" y2="250.0" class="span"/>
-<circle cx="712.0" cy="250.0" r="5.5" class="dot" data-tip="Dan 11:29-30a (168-168 BCE): Second campaign 168: Day of Eleusis. 3 hit, 0 partial, 0 miss, 0 too vague; score 100%"/>
+<circle cx="712.0" cy="250.0" r="5.5" class="dot" data-tip="Dan 11:29-30a (168-168 BCE): Second campaign 168: Day of Eleusis. 3 match, 0 partly, 0 no match, 0 too vague; score 100%"/>
 <line x1="712.0" x2="713.6" y1="250.0" y2="250.0" class="span"/>
-<circle cx="712.8" cy="250.0" r="5.5" class="dot" data-tip="Dan 11:30b-31 (168-167 BCE): Persecution and the &#x27;abomination&#x27;. 5 hit, 0 partial, 0 miss, 0 too vague; score 100%"/>
+<circle cx="712.8" cy="250.0" r="5.5" class="dot" data-tip="Dan 11:30b-31 (168-167 BCE): Persecution and the &#x27;abomination&#x27;. 5 match, 0 partly, 0 no match, 0 too vague; score 100%"/>
 <line x1="713.6" x2="715.3" y1="266.8" y2="266.8" class="span"/>
-<circle cx="714.5" cy="266.8" r="5.5" class="dot" data-tip="Dan 11:32-35 (167-166 BCE): Martyrs, the wise, &#x27;a little help&#x27;. 3 hit, 1 partial, 0 miss, 1 too vague; score 88%"/>
+<circle cx="714.5" cy="266.8" r="5.5" class="dot" data-tip="Dan 11:32-35 (167-166 BCE): Martyrs, the wise, &#x27;a little help&#x27;. 3 match, 1 partly, 0 no match, 1 too vague; score 88%"/>
 <line x1="710.3" x2="717.0" y1="306.0" y2="306.0" class="span"/>
-<circle cx="713.6" cy="306.0" r="5.5" class="dot" data-tip="Dan 11:36-39 (169-165 BCE): The king&#x27;s religious self-exaltation. 1 hit, 4 partial, 0 miss, 2 too vague; score 60%"/>
+<circle cx="713.6" cy="306.0" r="5.5" class="dot" data-tip="Dan 11:36-39 (169-165 BCE): The king&#x27;s religious self-exaltation. 1 match, 4 partly, 0 no match, 2 too vague; score 60%"/>
 <line x1="717.0" x2="718.6" y1="376.0" y2="376.0" class="span fut"/>
-<circle cx="717.8" cy="376.0" r="5.5" class="dot fut" data-tip="Dan 11:40-45 (165-164 BCE): &#x27;Time of the end&#x27;: predicted final war and death. 0 hit, 2 partial, 8 miss, 0 too vague; score 10%"/>
+<circle cx="717.8" cy="376.0" r="5.5" class="dot fut" data-tip="Dan 11:40-45 (165-164 BCE): &#x27;Time of the end&#x27;: predicted final war and death. 0 match, 2 partly, 8 no match, 0 too vague; score 10%"/>
 <line x1="718.6" x2="720.3" y1="390.0" y2="390.0" class="span fut"/>
-<circle cx="719.5" cy="390.0" r="5.5" class="dot fut" data-tip="Dan 12:11-12 (164-163 BCE): 1,290 and 1,335 days. 0 hit, 0 partial, 2 miss, 0 too vague; score 0%"/>
+<circle cx="719.5" cy="390.0" r="5.5" class="dot fut" data-tip="Dan 12:11-12 (164-163 BCE): 1,290 and 1,335 days. 0 match, 0 partly, 2 no match, 0 too vague; score 0%"/>
 <text x="708.3" y="387.0" class="ann" text-anchor="end">11:40-45 and 12:11-12, the predicted end</text>
 <line x1="716.1" x2="716.1" y1="246" y2="390" class="cp"/><text x="708.1" y="352.0" class="ann" text-anchor="end">break ~165 BCE</text>
 <line x1="58" x2="742" y1="390" y2="390" class="axis"/>

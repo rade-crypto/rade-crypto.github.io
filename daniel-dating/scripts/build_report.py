@@ -12,6 +12,7 @@ esc = lambda s: html.escape(str(s), quote=True)
 charts = json.load(open(os.path.join(RES, "charts", "charts.json")))
 tpl = open(os.path.join(REP, "template.html")).read()
 
+LABEL = {"hit": "matches", "partial": "partly", "miss": "no match", "vague": "too vague"}
 # claims list
 seg = pd.read_csv(os.path.join(RES, "prophecy_segments.csv"))
 cl = pd.read_csv(os.path.join(RES, "prophecy_claims.csv"))
@@ -20,9 +21,9 @@ for _, s in seg.iterrows():
     if s["n_claims"] == 0:
         continue
     rows = cl[cl.verses == s["id"]]
-    stat = f'{s["hits"]} hit · {s["partial"]} partial · {s["misses"]} miss' + (f' · {s["vague"]} vague' if s["vague"] else "")
+    stat = f'{s["hits"]} match · {s["partial"]} partly · {s["misses"]} no match' + (f' · {s["vague"]} too vague' if s["vague"] else "")
     lis = "".join(
-        f'<li><span><span class="pill p-{esc(r.status)}">{esc(r.status)}</span></span>'
+        f'<li><span><span class="pill p-{esc(r.status)}">{esc(LABEL.get(r.status, r.status))}</span></span>'
         f'<span>{esc(r.claim)}<small>{esc(r["ancient evidence"]) if isinstance(r["ancient evidence"], str) and r["ancient evidence"] else "no specific record"}</small></span></li>'
         for _, r in rows.iterrows())
     parts.append(f'<details class="seg"><summary><span class="sref">Dan {esc(s["id"])}</span>'

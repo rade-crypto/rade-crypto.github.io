@@ -70,8 +70,8 @@ def chart_timeline():
         mid = (y0 + y1) / 2
         fut = str(r["future"]) == "True"
         cls = "dot fut" if fut else "dot"
-        tip = (f'Dan {r["id"]} ({r["span"]}): {r["label"]}. {r["hits"]} hit, {r["partial"]} partial, '
-               f'{r["misses"]} miss, {r["vague"]} too vague; score {r["accuracy"]:.0%}')
+        tip = (f'Dan {r["id"]} ({r["span"]}): {r["label"]}. {r["hits"]} match, {r["partial"]} partly, '
+               f'{r["misses"]} no match, {r["vague"]} too vague; score {r["accuracy"]:.0%}')
         s.append(f'<line x1="{X(y0):.1f}" x2="{X(y1):.1f}" y1="{YB(r["accuracy"]):.1f}" y2="{YB(r["accuracy"]):.1f}" class="span{" fut" if fut else ""}"/>')
         s.append(f'<circle cx="{X(mid):.1f}" cy="{YB(r["accuracy"]):.1f}" r="5.5" class="{cls}" data-tip="{esc(tip)}"/>')
     s.append(f'<text x="{X(163)-12:.1f}" y="{YB(0.05)+4:.1f}" class="ann" text-anchor="end">11:40-45 and 12:11-12, the predicted end</text>')
