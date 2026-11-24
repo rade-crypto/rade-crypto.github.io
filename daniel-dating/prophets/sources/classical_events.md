@@ -1,0 +1,612 @@
+# Classical, Jewish, epigraphic and numismatic sources for events tested against the Hebrew prophets
+
+Primary-source wording with exact citations, collected Nov 2026. Every Greek, Latin, Hebrew or Aramaic quotation was copied from the edition at the URL given (download copies are in the session scratchpad, `prophets_classical/`). Where a source does **not** say what is often claimed, this is stated. The same rows are in `classical_events.csv`.
+
+Conventions: Perseus = Perseus Digital Library hopper text (Greek/Latin editions named per row); LacusCurtius = Bill Thayer's site (public-domain Loeb translations); "tr. mine" = literal working translation. Ellipses (...) mark omissions; [square brackets] mark editorial supplements or my glosses.
+
+
+## E01. Tyre besieged and taken by Alexander
+
+*Date:* Jan-Aug 332 BCE (Arrian: month Hekatombaion, archon Niketes)
+
+**Bottom line.** All four Alexander historians report a mole, a long siege (seven months in Diodorus, Curtius and Plutarch) and mass killing/enslavement. **Only Diodorus and Curtius connect the mole with "Old Tyre" (Palaetyrus)**: Diodorus says Alexander demolished Old Tyre while the stones were carried (link implied by the article "the stones"); Curtius says explicitly that Old Tyre supplied the stones and Lebanon the timber. **Arrian and Plutarch do not mention Old Tyre at all**; Arrian only says stones and timber were plentiful. No source says the island city was razed or left uninhabited; Diodorus says Alexander installed a new king, and Curtius says Tyre was "reborn after its destruction" and in his own day was at peace under Rome. Casualty figures differ: Arrian ~8,000 killed, ~30,000 sold; Diodorus >7,000 killed, 2,000 crucified, >13,000 captives; Curtius 6,000 killed, 2,000 crucified, 15,000 smuggled to Sidon.
+
+- **Anab. 2.18.3**: Arrian, Anabasis (Greek ed. A. G. Roos via Perseus; tr. E. J. Chinnock 1884)
+  - *Original:* ἀλλὰ λίθων τε πολλῶν ἀφθονία ἦν καὶ ὕλης, ἥντινα τοῖς λίθοις ἄνωθεν ἐπεφόρουν, χάρακές τε οὐ χαλεπῶς κατεπήγνυντο ἐν τῷ πηλῷ καὶ αὐτὸς ὁ πηλὸς ξύνδεσμος τοῖς λίθοις ἐς τὸ ἐπιμένειν ἐγίγνετο.
+  - *Translation:* But there was an abundant supply of stones and wood, which they put on the top of the stones. Stakes were easily fixed down firmly in the mud, which itself served as a cement to the stones to hold them firm. (Chinnock)
+  - *Note:* Mole materials: stones, timber, stakes, mud. Arrian does NOT say where the stones came from. I checked the Greek of 2.15-24: Old Tyre / Palaetyrus is never mentioned (the only "old" words are the "very ancient temple of Heracles" in Tyre, 2.16, and an "ancient custom", 2.24.5). Chinnock's own footnote 311 says the Old Tyre detail comes from Curtius, not Arrian.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0530:book=2:chapter=18> ; <https://archive.org/details/theanabasisofale46976gut>
+- **Anab. 2.21 (sections 3-7)**: Arrian, Anabasis (tr. mine, literal)
+  - *Original:* ἦν δὲ αὐτοῖς καὶ τὰ τείχη τὰ κατὰ τὸ χῶμα τό τε ὕψος εἰς πεντήκοντα καὶ ἑκατὸν μάλιστα πόδας ... λίθοις μεγάλοις ἐν γύψῳ κειμένοις ξυμπεπηγότα ... λίθοι πολλοὶ ἐς τὸ πέλαγος προβεβλημένοι ἐξεῖργον αὐτῶν τὴν ἐγγὺς προσβολήν ... ἐξάπτοντες οὖν βρόχους τῶν λίθων ἀπὸ τοῦ χώματος ἀνέσπων αὐτοὺς ἔξω τῆς θαλάσσης, ἔπειτα μηχαναῖς μετεωρίσαντες κατὰ βάθους ἀφίεσαν
+  - *Translation:* Their walls facing the mole were about 150 feet high ... built of large stones set in mortar ... many stones thrown out into the sea [in front of the walls] kept them from attacking at close range ... So, fastening nooses round the stones, they hauled them out of the sea from the mole, then lifted them with machines and dropped them into deep water.
+  - *Note:* These were Tyrian defensive blocks in front of the island wall, cleared by the Macedonians and dumped in deep water; not stones from Old Tyre.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0530:book=2:chapter=21>
+- **Anab. 2.24.4-6**: Arrian, Anabasis (tr. Chinnock)
+  - *Original:* ἀπέθανον δὲ τῶν μὲν Τυρίων ἐς ὀκτακισχιλίους ... ἐν δὲ τῇ πάσῃ πολιορκίᾳ μάλιστα ἐς τετρακοσίους [Μακεδόνων]. ... τοὺς δὲ ἄλλους ἠνδραπόδισε, καὶ ἐπράθησαν Τυρίων τε καὶ τῶν ξένων ὅσοι ἐγκατελήφθησαν μάλιστα ἐς τρισμυρίους. ... Τύρος μὲν δὴ οὕτως ἑάλω ἐπὶ ἄρχοντος Νικήτου Ἀθήνησι μηνὸς Ἑκατομβαιῶνος.
+  - *Translation:* About 8,000 of the Tyrians were killed ... In the whole siege about 400 Macedonians were slain. ... The rest of the prisoners were reduced to slavery; all the Tyrians and mercenary troops, to the number of about 30,000, who had been captured, being sold. ... Thus then was Tyre captured in the month Hecatombaion, when Anicetus [Gk. Niketes] was archon at Athens.
+  - *Note:* Amnesty for those who fled into the temple of Heracles, incl. King Azemilkos and Carthaginian envoys (2.24.5). Alexander then sacrificed and held a procession and games in the temple (2.24.6). Arrian says nothing about razing the city or leaving it empty.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0530:book=2:chapter=24> ; <https://archive.org/details/theanabasisofale46976gut>
+- **Diod. 17.40.5**: Diodorus Siculus, Library (Greek ed. Vogel-Fischer via Perseus; tr. C. B. Welles, Loeb 1963, via LacusCurtius)
+  - *Original:* εὐθὺς οὖν καθαιρῶν τὴν παλαιὰν λεγομένην Τύρον καὶ πολλῶν μυριάδων κομιζουσῶν τοὺς λίθους χῶμα κατεσκεύαζε δίπλεθρον τῷ πλάτει.
+  - *Translation:* Immediately he demolished what was called Old Tyre and set many tens of thousands of men to work carrying stones to construct a mole two plethra in width. (Welles)
+  - *Note:* SUPPORTS the claim that Alexander pulled down Old Tyre while building the mole. Literally "pulling down the so-called Old Tyre, and with many myriads carrying THE stones, he built a mole two plethra (c. 60 m) wide": the stones are linked to Old Tyre by the article and the shared sentence, not by an explicit "from". 17.40.4: the island lay 4 stades from the shore.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0083:book=17:chapter=40:section=5> ; <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/17C*.html>
+- **Diod. 17.42.6**: Diodorus Siculus (tr. Welles)
+  - *Original:* ἐκ τῆς ὀρεινῆς ἐκκόπτων ὑπερμεγέθη δένδρα παρεκόμιζε καὶ σὺν αὐτοῖς τοῖς κλάδοις ἐγχώσας ἐνέφραξε τὴν βίαν τοῦ κλύδωνος.
+  - *Translation:* He sent to the mountain and felling huge trees, he brought them branches and all and, placing them besides the mole, broke the force of the waves. (Welles)
+  - *Note:* Timber from the mountains used after a NW gale damaged the mole (17.42.5).
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0083:book=17:chapter=42:section=6> ; <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/17C*.html>
+- **Diod. 17.46.3-6**: Diodorus Siculus (tr. Welles)
+  - *Original:* μαχόμενοι πλὴν ὀλίγων ἅπαντες κατεκόπησαν, ὄντες πλείους τῶν ἑπτακισχιλίων. ὁ δὲ βασιλεὺς τέκνα μὲν καὶ γυναῖκας ἐξηνδραποδίσατο, τοὺς δὲ νέους πάντας, ὄντας οὐκ ἐλάττους τῶν δισχιλίων, ἐκρέμασε. ... τὰ ὑπολειφθέντα γενέσθαι πλείω τῶν μυρίων καὶ τρισχιλίων. ... πολιορκηθέντες μῆνας ἑπτά. ... τῆς μὲν Τυρίων πόλεως κατέστησε βασιλέα τὸν ὀνομαζόμενον Βαλώνυμον
+  - *Translation:* All except a few were cut down fighting, in number more than seven thousand. The king sold the women and children into slavery and crucified all the men of military age. These were not less than two thousand. Although most of the non-combatants had been removed to Carthage, those who remained to become captives were found to be more than thirteen thousand. ... after a resistance of seven months. ... He installed as king of Tyre a man named Ballonymus. (Welles)
+  - *Note:* Tyre continued as a city with a king after the capture. Curtius (4.1.15ff.) tells the same gardener-king story about Sidon (Abdalonymus), so Diodorus may have confused the cities.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0083:book=17:chapter=46> ; <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/17C*.html>
+- **Curt. 4.2.18 (cf. 4.2.4; 4.3.9)**: Quintus Curtius Rufus, Historiae Alexandri (Latin ed. Hedicke via Perseus; tr. mine)
+  - *Original:* Magna vis saxorum ad manum erat Tyro Vetere praebente, materies ex Libano monte ratibus et turribus faciendis advehebatur. [4.2.4: esse templum Herculis extra urbem in ea sede, quam Palaetyron ipsi vocent] [4.3.9: Totas autem arbores cum ingentibus ramis in altum iaciebant, deinde saxis onerabant]
+  - *Translation:* A great quantity of stones was at hand, Old Tyre supplying them; timber for making rafts and towers was brought from Mount Lebanon. [4.2.4: (the envoys said) there was a temple of Hercules outside the city, at the site they themselves call Palaetyrus.] [4.3.9: (for the second mole) they threw whole trees with their huge branches into the deep, then loaded them with stones.]
+  - *Note:* The ONLY ancient source that says explicitly that the mole stones came from Old Tyre. Curtius wrote in the 1st c. CE (Claudius or Vespasian).
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0536:book=4:chapter=2:section=18> ; <https://www.thelatinlibrary.com/curtius/curtius4.shtml>
+- **Curt. 4.4.15-18**: Curtius Rufus (tr. mine)
+  - *Original:* XV milia hoc furto subducta saevitiae sunt. ... intra munimenta urbis VI milia armatorum trucidata sunt. Triste deinde spectaculum victoribus ira praebuit regis: II milia, in quibus occidendis defecerat rabies, crucibus adfixi per ingens litoris spatium pependerunt.
+  - *Translation:* 15,000 were saved from the slaughter by this stealth [the Sidonians hid Tyrians on their ships and took them to Sidon]. ... within the city defences 6,000 armed men were butchered. Then the king's anger gave the victors a grim sight: 2,000, for whose killing the frenzy had run out, were fastened to crosses and hung along a great stretch of the shore.
+  - *Note:* 4.4.18: the Carthaginian envoys were spared.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0536:book=4:chapter=4:section=15>
+- **Curt. 4.4.19-21**: Curtius Rufus (tr. mine)
+  - *Original:* Tyros septimo mense, quam oppugnari coepta erat, capta est ... Multis ergo casibus defuncta et post excidium renata nunc tandem longa pace cuncta refovente sub tutela Romanae mansuetudinis adquiescit.
+  - *Translation:* Tyre was taken in the seventh month after the siege began ... So, having come through many disasters and been reborn after its destruction, it now at last rests under the protection of Roman gentleness, a long peace restoring everything.
+  - *Note:* A 1st-century CE witness that Tyre was rebuilt and flourishing.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0536:book=4:chapter=4:section=21>
+- **Plut. Alex. 24.3; 25.2**: Plutarch, Alexander (Greek via Perseus; tr. B. Perrin, Loeb 1919)
+  - *Original:* Τύρον δὲ πολιορκῶν ἑπτὰ μῆνας χώμασι καὶ μηχαναῖς καὶ τριήρεσι διακοσίαις ἐκ θαλάττης ... [25.2] ἀπεῖπον οἱ Τύριοι: καὶ τὴν πόλιν εἷλε κατ᾽ ἐκείνην τὴν ἡμέραν.
+  - *Translation:* But Tyre he besieged for seven months, with moles, and engines-of-war, and two hundred triremes by sea ... [25.2] and the Tyrians gave up the fight. So Alexander took the city on that day. (Perrin)
+  - *Note:* Plutarch gives no casualty figures and says nothing about Old Tyre or where the mole material came from.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0243:chapter=24> ; <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0129:chapter=24:section=3>
+
+
+## E02. Tyre before and after: Nebuchadnezzar's siege; Tyre in the Roman period; Tyre in 1697; today
+
+*Date:* c. 586-573 BCE; 1st c. BCE-1st c. CE; 1697 CE; modern
+
+**Bottom line.** Josephus quotes "the records of the Phoenicians" for a **13-year siege** of Tyre by Nebuchadnezzar under Ithobaal, followed by a king (Baal), a series of judges, and kings fetched from Babylon. **The annals report a siege, not a capture or destruction**; the monarchy continued. Strabo (Augustan) describes Tyre as rebuilt, densely built with many-storeyed houses, wealthy from purple dye and shipping, and autonomous. Maundrell (1697) found ruins, no entire house, and a few poor people living in vaults and "subsisting chiefly upon fishing".
+
+- **C. Ap. 1.156-159**: Josephus, Against Apion (Greek ed. Niese via Perseus; tr. W. Whiston 1737)
+  - *Original:* ἐπ᾽ Ἰθωβάλου τοῦ βασιλέως ἐπολιόρκησε Ναβουχοδονόσορος τὴν Τύρον ἐπ᾽ ἔτη δεκατρία. μετὰ τοῦτον ἐβασίλευσε Βαὰλ ἔτη δέκα. μετὰ τοῦτον δικασταὶ κατεστάθησαν ... [1.158] μετεπέμψαντο Μέρβαλον ἐκ τῆς Βαβυλῶνος ... [1.159] ἑβδόμῳ μὲν γὰρ ἔτει τῆς Ναβουχοδονοσόρου βασιλείας ἤρξατο πολιορκεῖν Τύρον, τεσσαρεσκαιδεκάτῳ δ᾽ ἔτει τῆς Εἰρώμου Κῦρος ὁ Πέρσης τὸ κράτος παρέλαβεν.
+  - *Translation:* "Nabuchodonosor besieged Tyre for thirteen years in the days of Ithobal, their king; after him reigned Baal, ten years; after him were judges appointed, who judged the people: Ecnibalus, the son of Baslacus, two months; Chelbes, the son of Abdeus, ten months; Abbar, the high priest, three months; Mitgonus and Gerastratus, the sons of Abdelemus, were judges six years; after whom Balatorus reigned one year; after his death they sent and fetched Merbalus from Babylon, who reigned four years; after his death they sent for his brother Hirom, who reigned twenty years. Under his reign Cyrus became king of Persia." So that the whole interval is fifty-four years besides three months; for in the seventh year of the reign of Nebuchadnezzar he began to besiege Tyre, and Cyrus the Persian took the kingdom in the fourteenth year of Hirom. (Whiston)
+  - *Note:* Says only "besieged" (ἐπολιόρκησε); it does NOT say Tyre was taken or destroyed. Kings fetched "from Babylon" imply Babylonian overlordship. ("Seventh year" of Nebuchadnezzar as start of the siege is Josephus' own reckoning; the Greek has "6 years" for the two judges as a numeral sign.)
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0215:book=1:section=156> ; <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0216:book=1:whiston%20section=21>
+- **Ant. 10.228**: Josephus, Antiquities (Greek ed. Niese; tr. Whiston)
+  - *Original:* Φιλόστρατος ἐν ταῖς Ἰνδικαῖς καὶ Φοινικικαῖς ἱστορίαις, ὅτι οὗτος ὁ βασιλεὺς ἐπολιόρκησε τὴν Τύρον ἔτεσι τρισὶ καὶ δέκα βασιλεύοντος κατ᾽ ἐκεῖνον τὸν καιρὸν Ἰθωβάλου τῆς Τύρου.
+  - *Translation:* ...as does Philostrates in his Accounts both of India and of Phoenicia, say, that this king besieged Tyre thirteen years, while at the same time Ethbaal reigned at Tyre. (Whiston)
+  - *Note:* Again "besieged", with no outcome stated.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0145:book=10:section=228> ; <https://archive.org/details/antiquitiesofthe02848gut>
+- **Strabo 16.2.23**: Strabo, Geography (Greek ed. Meineke via Perseus; tr. H. C. Hamilton & W. Falconer)
+  - *Original:* Τύρος δ᾽ ἐστὶν ὅλη νῆσος σχεδόν τι συνῳκισμένη ... συνῆπται δὲ χώματι πρὸς τὴν ἤπειρον, ὃ κατεσκεύασε πολιορκῶν Ἀλέξανδρος ... ἐνταῦθα δέ φασι πολυστέγους τὰς οἰκίας * ὥστε καὶ τῶν ἐν Ῥώμῃ μᾶλλον ... ἠτύχησε δὲ καὶ ὑπ᾽ Ἀλεξάνδρου πολιορκίᾳ ληφθεῖσα: ἀλλὰ τῶν τοιούτων συμφορῶν κατέστη κρείττων καὶ ἀνέλαβεν αὑτὴν τῇ τε ναυτιλίᾳ ... καὶ τοῖς πορφυρείοις ... πλουσίαν δὲ διὰ τὴν τοιαύτην ἀνδρείαν.
+  - *Translation:* Tyre is wholly an island, built nearly in the same manner as Aradus. It is joined to the continent by a mound, which Alexander raised, when he was besieging it. ... The houses here, it is said, consist of many stories, of more even than at Rome ... It sustained great injury when it was taken by siege by Alexander, but it rose above these misfortunes, and recovered itself both by the skill of the people in the art of navigation ... and by (the export of) purple-dyed manufactures ... the source of its wealth. Their independence was secured to them ... by the kings of Syria, but also by the Romans. (Hamilton-Falconer)
+  - *Note:* Tyre in Strabo's day (late 1st c. BCE / early 1st c. CE): rebuilt, densely populated, rich, autonomous. Compare Curtius 4.4.21 (E01).
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0197:book=16:chapter=2:section=23> ; <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0239:book=16:chapter=2:section=23>
+- **Entry of 20 March 1697 (O.S.)**: Henry Maundrell, A Journey from Aleppo to Jerusalem at Easter A.D. 1697 (in T. Wright ed., Early Travels in Palestine, Bohn 1848; Gutenberg ebook 40131 as mirrored on archive.org)
+  - *Original:* This city, standing in the sea upon a peninsula, promises at a distance something very magnificent; but, when you come to it, you find no similitude of that glory for which it was so renowned in ancient times ... On the north side it has an old Turkish ungarrisoned castle, besides which you see nothing here but a mere Babel of broken walls, pillars, vaults, &c., there being not so much as one entire house left. Its present inhabitants are only a few poor wretches, harbouring themselves in the vaults, and subsisting chiefly upon fishing, who seem to be preserved in this place by Divine Providence, as a visible argument how God has fulfilled his word concerning Tyre, viz. that it should be as the top of a rock, a place for fishers to dry their nets on.
+  - *Translation:* (English original)
+  - *Note:* Maundrell also saw the sand-covered isthmus over Alexander's mole ("covered all over with sand which the sea casts upon it") and the standing east end of the cathedral. Note the travel account is itself framed by the Ezekiel prophecy. gutenberg.org refused automated access (HTTP 503, retry-after 6 h); the archive.org copy of the same Gutenberg text was used.
+  - *URL:* <https://archive.org/details/earlytravelsinpa40131gut>
+- **Modern Tyre (Sur, Lebanon)**: Factual note (not from a primary source; not verified online in this run)
+  - *Translation:* Tyre (Arabic Sur) is a living city and port in southern Lebanon, among the country's larger cities, with a fishing harbour; the former island is permanently joined to the mainland by the sand isthmus that formed over Alexander's mole; its archaeological sites were inscribed on the UNESCO World Heritage List in 1984.
+  - *Note:* UNESCO's site refused automated access (HTTP 403) and Wikidata/Wikimedia APIs refused (rate limit), so these facts are from general knowledge and should be checked before use.
+  - *URL:* <https://whc.unesco.org/en/list/299/>
+
+
+## E03. Gaza besieged and taken by Alexander
+
+*Date:* autumn 332 BCE (c. 2 months after Tyre)
+
+**Bottom line.** Arrian: all the defenders died fighting; **women and children were sold into slavery; Alexander repopulated the city from the neighbouring peoples and used it as a fortress**. Curtius: about 10,000 Persians and Arabs fell; the commander Batis (Betis) was dragged alive behind a chariot. Curtius does not mention enslavement; Arrian does not mention Batis' fate. Strabo later calls Gaza "razed by Alexander and remaining deserted", which conflicts with Arrian's resettlement and with Gaza's documented role in the 2nd-1st c. BCE (see E06).
+
+- **Anab. 2.27.7 (cf. 2.25.4)**: Arrian, Anabasis (tr. Chinnock)
+  - *Original:* καὶ ἀπέθανον πάντες αὐτοῦ μαχόμενοι ὡς ἕκαστοι ἐτάχθησαν: παῖδας δὲ καὶ γυναῖκας ἐξηνδραπόδισεν αὐτῶν Ἀλέξανδρος. τὴν πόλιν δὲ ξυνοικίσας ἐκ τῶν περιοίκων ἐχρῆτο ὅσα φρουρίῳ ἐς τὸν πόλεμον.
+  - *Translation:* So that they were all slain fighting there, as each man had been stationed. Alexander sold their wives and children into slavery; and having peopled the city again from the neighbouring settlers, he made use of it as a fortified post for the war. (Chinnock)
+  - *Note:* 2.25.4: Gaza held by the eunuch Batis with Arab mercenaries. Arrian gives no figure for the dead.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0530:book=2:chapter=27> ; <https://archive.org/details/theanabasisofale46976gut>
+- **Curt. 4.6.7; 4.6.25-30**: Curtius Rufus (Latin ed. Hedicke via Perseus; tr. mine)
+  - *Original:* Praeerat urbi Betis, eximiae in regem suum fidei ... [4.6.29] Per talos enim spirantis lora traiecta sunt, religatumque ad currum traxere circa urbem equi gloriante rege, Achillen, a quo genus ipse deduceret, imitatum se esse poena in hostem capienda. [4.6.30] Cecidere Persarum Arabumque circa X milia, nec Macedonibus incruenta victoria fuit.
+  - *Translation:* Betis commanded the city, a man of outstanding loyalty to his king ... [4.6.29] Thongs were passed through the ankles of the still-breathing man, and horses dragged him, tied to a chariot, around the city, the king boasting that he had imitated Achilles, from whom he claimed descent, in punishing an enemy. [4.6.30] About 10,000 Persians and Arabs fell, and the victory was not bloodless for the Macedonians either.
+  - *Note:* Batis was taken alive after fighting (4.6.25-26) and stayed silent before Alexander (4.6.27-28). The Latin Library page of Curtius 4 lacks most of 4.6.15-29, so the Perseus text was used.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0536:book=4:chapter=6:section=29>
+- **Strabo 16.2.30**: Strabo, Geography (tr. Hamilton-Falconer)
+  - *Original:* ὑπέρκειται δὲ καὶ ἡ πόλις ἐν ἑπτὰ σταδίοις, ἔνδοξός ποτε γενομένη, κατεσπασμένη δ᾽ ὑπὸ Ἀλεξάνδρου καὶ μένουσα ἔρημος.
+  - *Translation:* The city is situated inland at the distance of seven stadia. It was once famous, but was razed by Alexander, and remains uninhabited. (Hamilton-Falconer)
+  - *Note:* Strabo says only "Alexander". This conflicts with Arrian 2.27.7 (resettled at once). Josephus Ant. 13.364 reports that Alexander JANNAEUS razed Gaza c. 96 BCE, and Ant. 14.88 that Gabinius rebuilt it (see next row and E06).
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0197:book=16:chapter=2:section=30> ; <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0239:book=16:chapter=2:section=30>
+- **Ant. 14.87-88**: Josephus, Antiquities (Greek ed. Niese; tr. mine)
+  - *Original:* καὶ ἀνεκτίσθησαν Σαμάρεια καὶ Ἄζωτος καὶ Σκυθόπολις καὶ Ἀνθηδὼν καὶ Ῥάφεια καὶ Ἄδωρα Μάρισά τε καὶ Γάζα καὶ ἄλλαι οὐκ ὀλίγαι ... βεβαίως οἰκηθῆναι τότε συνέβαινε τὰς πόλεις πολὺν χρόνον ἐρήμους γενομένας.
+  - *Translation:* And Samaria, Azotus, Scythopolis, Anthedon, Raphia, Adora, Marisa, Gaza and not a few others were rebuilt ... and it then came about that the cities, which had been deserted for a long time, were securely inhabited.
+  - *Note:* Gabinius (proconsul of Syria, 57-55 BCE) ordered the destroyed cities rebuilt.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0145:book=14:section=88>
+
+
+## E04. Nineveh after its fall (612 BCE)
+
+*Date:* 612 BCE fall; later witnesses 401 BCE - 4th c. CE
+
+**Bottom line.** Herodotus records only that the Medes took Ninus. Ctesias (via Diodorus) has an oracle about the river becoming the city's enemy, a flood that broke 20 stades of wall, and the city "levelled to the ground", **but he names the river as the Euphrates (Nineveh lies on the Tigris)** and mixes the story with the Sardanapallus legend. Xenophon (401 BCE) passed a huge deserted walled city "Mespila", **but he never names Nineveh or the Assyrians**; he says the Medes once lived there (the identification with Nineveh is modern). Strabo: Nineveh "was wiped out immediately" after the Assyrian fall. Lucian (2nd c. CE satire): "not a trace left". **Against the "no trace" claims**, Tacitus (Annals 12.13, events of 49 CE) reports that the city of Ninos was captured, and Ammianus (4th c.) calls Nineveh "a great city of Adiabene".
+
+- **Hdt. 1.106.2**: Herodotus, Histories (Greek ed. Hude via Perseus; tr. A. D. Godley, Loeb 1920)
+  - *Original:* καὶ τήν τε Νίνον εἷλον (ὡς δὲ εἷλον ἐν ἑτέροισι λόγοισι δηλώσω) καὶ τοὺς Ἀσσυρίους ὑποχειρίους ἐποιήσαντο πλὴν τῆς Βαβυλωνίης μοίρης.
+  - *Translation:* And they took Ninus (how, I will describe in a later part of my history), and brought all Assyria except the province of Babylon under their rule. (Godley)
+  - *Note:* No flood, no Babylonian allies, no description of destruction. The promised "Assyrian logoi" do not survive.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0125:book=1:chapter=106:section=2> ; <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0126:book=1:chapter=106:section=2>
+- **Diod. 2.26.9; 2.27.1-3; 2.28.7**: Diodorus Siculus (Ctesias' version), tr. C. H. Oldfather, Loeb (via LacusCurtius)
+  - *Original:* [Greek not retrieved; English only]
+  - *Translation:* [2.26.9] Now there was a prophecy which had come down to him from his ancestors: "No enemy will ever take Ninus by storm unless the river shall first become the city's enemy." ... [2.27.1] in the third year, after there had been heavy and continuous rains, it came to pass that the Euphrates, running very full, both inundated a portion of the city and broke down the walls for a distance of twenty stades. [2.27.2] At this the king, believing that the oracle had been fulfilled ... built an enormous pyre ... [2.28.7] Arbaces, however, showing clemency towards the inhabitants of the city, settled them in villages and returned to each man his personal possessions, but the city he levelled to the ground. (Oldfather)
+  - *Note:* Ctesias' chronology and names are legendary (Sardanapallus, Arbaces; "more than 1,300 years" of empire, 2.28.8). The river is called the Euphrates. Greek text not retrieved: the Perseus Greek Diodorus returned errors for Book 2, and the Scaife viewer is behind a bot check.
+  - *URL:* <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/2A*.html>
+- **Xen. Anab. 3.4.7, 3.4.10-12**: Xenophon, Anabasis (Greek ed. Marchant via Perseus; tr. C. L. Brownson, Loeb)
+  - *Original:* [3.4.7] ἐνταῦθα πόλις ἦν ἐρήμη μεγάλη, ὄνομα δ᾽ αὐτῇ ἦν Λάρισα: ᾤκουν δ᾽ αὐτὴν τὸ παλαιὸν Μῆδοι. [3.4.10] ἐντεῦθεν δ᾽ ἐπορεύθησαν σταθμὸν ἕνα παρασάγγας ἓξ πρὸς τεῖχος ἔρημον μέγα ... ὄνομα δὲ ἦν τῇ πόλει Μέσπιλα: Μῆδοι δ᾽ αὐτήν ποτε ᾤκουν. [3.4.11] ... τοῦ δὲ τείχους ἡ περίοδος ἓξ παρασάγγαι. [3.4.12] ... Ζεὺς δὲ βροντῇ κατέπληξε τοὺς ἐνοικοῦντας, καὶ οὕτως ἑάλω.
+  - *Translation:* [3.4.7] Here was a large deserted city; its name was Larisa, and it was inhabited in ancient times by the Medes. [3.4.10] From this place they marched one stage, six parasangs, to a great stronghold, deserted and lying in ruins. The name of this city was Mespila, and it was once inhabited by the Medes. [3.4.11] ... the circuit of the wall was six parasangs. [3.4.12] ... Zeus, however, terrified the inhabitants with thunder, and thus the city was taken. (Brownson)
+  - *Note:* Xenophon does NOT name Nineveh or mention Assyria; he attributes both cities to the Medes and their capture to "the king of the Persians". Equating Mespila with Nineveh and Larisa with Calah (Nimrud) is a modern identification (e.g., Brownson's footnotes), not Xenophon's statement.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0201:book=3:chapter=4:section=10> ; <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0202:book=3:chapter=4:section=10>
+- **Strabo 16.1.3**: Strabo, Geography (tr. Hamilton-Falconer)
+  - *Original:* ἡ μὲν οὖν Νίνος πόλις ἠφανίσθη παραχρῆμα μετὰ τὴν τῶν Σύρων κατάλυσιν. πολὺ δὲ μείζων ἦν τῆς Βαβυλῶνος, ἐν πεδίῳ κειμένη τῆς Ἀτουρίας.
+  - *Translation:* The city Nineveh was destroyed immediately upon the overthrow of the Syrians [i.e. Assyrians]. It was much larger than Babylon, and situated in the plain of Aturia. (Hamilton-Falconer)
+  - *Note:* ἠφανίσθη = "was made to disappear / wiped out".
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0197:book=16:chapter=1:section=3> ; <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0239:book=16:chapter=1:section=3>
+- **Lucian, Charon 23**: Lucian, Charon or the Inspectors (Greek & tr. A. M. Harmon, Loeb)
+  - *Original:* ἡ Νίνος μέν, ὦ πορθμεῦ, ἀπόλωλεν ἤδη καὶ οὐδὲ ἴχνος ἔτι λοιπὸν αὐτῆς, οὐδ᾽ ἂν εἴποις ὅπου ποτὲ ἦν· ἡ Βαβυλὼν δέ σοι ἐκείνη ἐστὶν ἡ εὔπυργος, ἡ τὸν μέγαν περίβολον, οὐ μετὰ πολὺ καὶ αὐτὴ ζητηθησομένη ὥσπερ ἡ Νίνος
+  - *Translation:* As for Nineveh, ferryman, it is already gone and there is not a trace of it left now; you couldn't even say where it was. But there you have Babylon, the city of the beautiful towers and the great wall, which will itself soon have to be searched for like Nineveh. (Harmon)
+  - *Note:* A comic dialogue (2nd c. CE) set in a mythical time; rhetorical, not a site report. Contradicted for Lucian's own era by Tacitus Ann. 12.13 (next row).
+  - *URL:* <https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg023/tlg0062.tlg023.perseus-grc2.xml> ; <https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0062/tlg023/tlg0062.tlg023.perseus-eng2.xml>
+- **Tac. Ann. 12.13**: Tacitus, Annals (Latin, The Latin Library; tr. mine)
+  - *Original:* sed capta in transitu urbs Ninos, vetustissima sedes Assyriae, [et] castellum insigne fama, quod postremo inter Darium atque Alexandrum proelio Persarum illic opes conciderant.
+  - *Translation:* But on the way the city of Ninos, the most ancient seat of Assyria, was captured, and a fortress famous because in the last battle between Darius and Alexander the power of the Persians had fallen there.
+  - *Note:* Event of 49 CE (Meherdates' march through Adiabene): a settlement called Ninos existed and was worth capturing.
+  - *URL:* <https://www.thelatinlibrary.com/tacitus/tac.ann12.shtml>
+- **Amm. 18.7.1; 23.6.22**: Ammianus Marcellinus, Res Gestae (Latin, The Latin Library; tr. J. C. Rolfe, Loeb, via LacusCurtius)
+  - *Original:* [18.7.1] Postquam reges Nineve Adiabenae ingenti civitate transmissa ... [23.6.22] In hac Adiabena Ninus est civitas, quae olim Persidis regna possederat, nomen Nini potentissimi quondam regis Samiramidis mariti declarans
+  - *Translation:* [18.7.1] After the kings had passed by Nineveh, a great city of Adiabene ... [23.6.22] In this Adiabena is the city of Ninus, which once possessed the rule over Persia, perpetuating the name of Ninus, once a most powerful king and the husband of Semiramis. (Rolfe)
+  - *Note:* Eyewitness of 359 CE (Ammianus was on the Persian front). Shows a town of that name in the 4th century.
+  - *URL:* <https://www.thelatinlibrary.com/ammianus/18.shtml> ; <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Ammian/18*.html> ; <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Ammian/23*.html>
+- **Later settlement at Nineveh (Kuyunjik / Nebi Yunus)**: Factual note (not verified from primary sources in this run)
+  - *Translation:* Excavations at Kuyunjik have reported Hellenistic, Parthian and Roman-period occupation, including Greek inscriptions and sculpture; the medieval and modern city of Mosul lies across the Tigris. These points come from general knowledge of the excavation record and were not checked against reports here.
+  - *Note:* Use Tacitus and Ammianus (above) as the primary-source evidence for a later town named Ninos/Nineve.
+
+
+## E05. Babylon after the Persian conquest (539 BCE) and its decline
+
+*Date:* 539 BCE capture; witnesses to 116 CE and 19th-20th c.
+
+**Bottom line.** Herodotus and Xenophon: Cyrus drained/diverted the Euphrates and entered along the riverbed during a festival; **the city was captured, not destroyed** (Herodotus 3.159: Cyrus did not touch the walls or gates; Darius later pulled down the wall and gates). Berossus says Cyrus ordered the outer walls demolished and that Nabonidus surrendered and was exiled to Carmania. Xenophon's romance has an unnamed king killed. Decline was gradual: Xerxes destroyed the temple of Bel (Arrian, Strabo); Seleucia drew the population away (Strabo, Pliny); Diodorus says only a small part was inhabited and most of the area inside the walls was farmed; Strabo quotes "a great desert is the great city". **Yet Babylon was not empty**: a Greek inscription of 166 BCE honours Antiochus IV as "founder of the city", Strabo mentions a Chaldaean quarter, and Pliny and Pausanias say the temple of Bel still stood. Trajan (116 CE) saw "mounds, stones and ruins". Pausanias admits he never saw Babylon or met an eyewitness. In the 19th-20th c. the ruins were quarried for bricks (Hillah, the Hindiya dam) and villages (Kweiresh, Jumjuma) lay inside the old city area.
+
+- **Hdt. 1.191.2-6**: Herodotus (tr. Godley)
+  - *Original:* οἱ Πέρσαι ... κατὰ τὸ ῥέεθρον τοῦ Εὐφρήτεω ποταμοῦ ὑπονενοστηκότος ἀνδρὶ ὡς ἐς μέσον μηρὸν μάλιστά κῃ, κατὰ τοῦτο ἐσήισαν ἐς τὴν Βαβυλῶνα. ... κατακληίσαντες γὰρ ἂν πάσας τὰς ἐς τὸν ποταμὸν πυλίδας ἐχούσας ... τυχεῖν γάρ σφι ἐοῦσαν ὁρτήν, χορεύειν τε τοῦτον τὸν χρόνον καὶ ἐν εὐπαθείῃσι εἶναι
+  - *Translation:* the Persians ... made their way into Babylon by the channel of the Euphrates, which had now sunk to a depth of about the middle of a man's thigh. ... for then they would have shut all the gates that opened on the river and mounted the walls that ran along the river banks, and so caught their enemies in a trap. ... they were dancing and celebrating a holiday which happened to fall then. (Godley)
+  - *Note:* Cyrus diverted the river into the marsh-lake (1.191.3). Herodotus does not say the city was damaged.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0125:book=1:chapter=191> ; <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0126:book=1:chapter=191>
+- **Hdt. 3.159.1**: Herodotus (tr. Godley)
+  - *Original:* Δαρεῖος δὲ ἐπείτε ἐκράτησε τῶν Βαβυλωνίων, τοῦτο μὲν σφέων τὸ τεῖχος περιεῖλε καὶ τὰς πύλας πάσας ἀπέσπασε: τὸ γὰρ πρότερον ἑλὼν Κῦρος τὴν Βαβυλῶνα ἐποίησε τούτων οὐδέτερον
+  - *Translation:* When Darius was master of the Babylonians, he destroyed their walls and tore away all their gates, neither of which Cyrus had done at the first taking of Babylon; moreover he impaled about three thousand men ...; as for the rest, he gave them back their city to live in. (Godley)
+  - *Note:* Contradicts Berossus (next rows) on who demolished walls.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0125:book=3:chapter=159:section=1> ; <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0126:book=3:chapter=159:section=1>
+- **Xen. Cyr. 7.5.15-16, 7.5.25-30, 7.5.33**: Xenophon, Cyropaedia (Greek ed. Marchant via Perseus; tr. W. Miller, Loeb)
+  - *Original:* [7.5.15] ὁ δὲ Κῦρος ἐπειδὴ ἑορτὴν τοιαύτην ἐν τῇ Βαβυλῶνι ἤκουσεν εἶναι, ἐν ᾗ πάντες Βαβυλώνιοι ὅλην τὴν νύκτα πίνουσι καὶ κωμάζουσιν, ἐν ταύτῃ, ἐπειδὴ τάχιστα συνεσκότασε, λαβὼν πολλοὺς ἀνθρώπους ἀνεστόμωσε τὰς τάφρους πρὸς τὸν ποταμόν. [7.5.30] καὶ τοῦτον μὲν οἱ σὺν Γαδάτᾳ καὶ Γωβρύᾳ ἐχειροῦντο
+  - *Translation:* [7.5.15] Then, when he heard that a certain festival had come round in Babylon, during which all Babylon was accustomed to drink and revel all night long, Cyrus took a large number of men, just as soon as it was dark, and opened up the heads of the trenches at the river. [7.5.16] ... the bed of the river, where it traversed the city, became passable for men. [7.5.30] And Gadatas and Gobryas and their followers overpowered him [the king] ... [7.5.33] when day dawned ... they surrendered the citadels, too. (Miller)
+  - *Note:* The Cyropaedia is a didactic historical romance. The king is unnamed. No destruction of the city is described.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0203:book=7:chapter=5:section=15> ; <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0204:book=7:chapter=5:section=15>
+- **C. Ap. 1.150-153**: Berossus, Babyloniaca, quoted by Josephus, Against Apion (Greek ed. Niese; tr. Whiston)
+  - *Original:* Κῦρος δὲ Βαβυλῶνα καταλαβόμενος καὶ συντάξας τὰ ἔξω τῆς πόλεως τείχη κατασκάψαι διὰ τὸ λίαν αὐτῷ πραγματικὴν καὶ δυσάλωτον φανῆναι τὴν πόλιν ἀνέζευξεν ἐπὶ Βορσίππων ... χρησάμενος Κῦρος φιλανθρώπως καὶ δοὺς οἰκητήριον αὐτῷ Καρμανίαν ἐξέπεμψεν ἐκ τῆς Βαβυλωνίας.
+  - *Translation:* Hereupon Cyrus took Babylon, and gave order that the outer walls of the city should be demolished, because the city had proved very troublesome to him, and cost him a great deal of pains to take it. He then marched away to Borsippus, to besiege Nabonnedus; but as Nabonnedus did not sustain the siege, but delivered himself into his hands, he was at first kindly used by Cyrus, who gave him Carmania, as a place for him to inhabit in, but sent him out of Babylonia. (Whiston)
+  - *Note:* Berossus (c. 280 BCE, Babylonian priest): Nabonidus was not killed; "outer walls" demolished by Cyrus (contra Herodotus 3.159). The city itself is not said to be destroyed.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0215:book=1:section=152> ; <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0216:book=1:whiston%20section=20>
+- **Anab. 7.17.1-3**: Arrian, Anabasis (tr. Chinnock)
+  - *Original:* ὁ γὰρ τοῦ Βήλου νεὼς ἐν μέσῃ τῇ πόλει ἦν τῶν Βαβυλωνίων, μεγέθει τε μέγιστος καὶ ἐκ πλίνθου ὀπτῆς ἐν ἀσφάλτῳ ἡρμοσμένης. τοῦτον τὸν νεών, ὥσπερ καὶ τὰ ἄλλα ἱερὰ τὰ Βαβυλωνίων, Ξέρξης κατέσκαψεν, ὅτε ἐκ τῆς Ἑλλάδος ὀπίσω ἀπενόστησεν
+  - *Translation:* For in the middle of the city of the Babylonians was the temple of Belus, an edifice very great in size, constructed of baked bricks which were cemented together with bitumen. This temple had been razed to the ground by Xerxes, when he returned from Greece; as were also all the other sacred buildings of the Babylonians. Some say that Alexander had formed the resolution to rebuild it upon the former foundations; and for this reason he ordered the Babylonians to carry away the mound. (Chinnock)
+  - *Note:* 7.17.3-4: the Chaldaeans were enjoying the god's revenues and so (Alexander suspected) wanted him to stay away.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0530:book=7:chapter=17> ; <https://archive.org/details/theanabasisofale46976gut>
+- **Diod. 2.9.9**: Diodorus Siculus (tr. Oldfather, via LacusCurtius)
+  - *Original:* [Greek not retrieved]
+  - *Translation:* But all these were later carried off as spoil by the kings of the Persians, while as for the palaces and the other buildings, time has either entirely effaced them or left them in ruins; and in fact of Babylon itself but a small part is inhabited at this time, and most of the area within its walls is given over to agriculture. (Oldfather)
+  - *Note:* Diodorus wrote c. 60-30 BCE. Babylon still partly inhabited.
+  - *URL:* <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/2A*.html>
+- **Strabo 16.1.5-6**: Strabo, Geography (tr. Hamilton-Falconer)
+  - *Original:* ἔστι δὲ καὶ ὁ τοῦ Βήλου τάφος αὐτόθι, νῦν μὲν κατεσκαμμένος, Ξέρξης δ᾽ αὐτὸν κατέσπασεν, ὥς φασιν ... κατήρειψαν τῆς πόλεως τὰ μὲν οἱ Πέρσαι τὰ δ᾽ ὁ χρόνος καὶ ἡ τῶν Μακεδόνων ὀλιγωρία ... καὶ μάλιστα ἐπειδὴ τὴν Σελεύκειαν ἐπὶ τῷ Τίγρει ... ἐτείχισε Σέλευκος ὁ Νικάτωρ ... ἡ μὲν γέγονε Βαβυλῶνος μείζων ἡ δ᾽ ἔρημος ἡ πολλή ... ἐρημία μεγάλη 'στὶν ἡ Μεγάλη πόλις. [16.1.6] ἀφώριστο δ᾽ ἐν τῇ Βαβυλῶνι κατοικία τοῖς ἐπιχωρίοις φιλοσόφοις τοῖς Χαλδαίοις
+  - *Translation:* The tomb also of Belus is there. At present it is in ruins, having been demolished, as it is said, by Xerxes ... the city was dilapidated, partly by the Persians, partly by time, and, through the indifference of the Macedonians ..., particularly after Seleucus Nicator had fortified Seleucia on the Tigris ... At present it [Seleucia] is larger than Babylon; the other is in great part deserted, so that no one would hesitate to apply to it what one of the comic writers said of Megalopolitae in Arcadia, "The great city is a great desert." [16.1.6] In Babylon a residence was set apart for the native philosophers called Chaldaeans. (Hamilton-Falconer)
+  - *Note:* "In great part deserted" (ἔρημος ἡ πολλή), not wholly; Chaldaean astronomers still had a quarter there.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0197:book=16:chapter=1:section=5> ; <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0239:book=16:chapter=1:section=5>
+- **Plin. NH 6.121-122**: Pliny the Elder, Natural History (Latin, LacusCurtius text; tr. mine)
+  - *Original:* Babylon, Chaldaicarum gentium caput, diu summam claritatem inter urbes obtinuit toto orbe ... durat adhuc ibi Iovis Beli templum; inventor hic fuit sideralis scientiae. cetero ad solitudinem rediit exhausta vicinitate Seleuciae, ob id conditae a Nicatore intra XL lapidem
+  - *Translation:* Babylon, capital of the Chaldaean peoples, long held the greatest fame among the cities of the whole world ... The temple of Jupiter Belus still survives there; he was the discoverer of the science of the stars. For the rest it has reverted to a desert, drained [of people] by the neighbourhood of Seleucia, founded for that purpose by Nicator within 40 miles.
+  - *Note:* Pliny d. 79 CE. 6.122 adds that Seleucia had 600,000 urban inhabitants and that the Parthians founded Ctesiphon to drain Seleucia in turn.
+  - *URL:* <https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Pliny_the_Elder/6*.html>
+- **Paus. 8.33.3; 4.31.5**: Pausanias, Description of Greece (Greek ed. Spiro via Perseus; tr. W. H. S. Jones, Loeb)
+  - *Original:* [8.33.3] Βαβυλῶνος δὲ τοῦ μὲν Βήλου τὸ ἱερὸν λείπεται, Βαβυλῶνος δὲ ταύτης, ἥντινα εἶδε πόλεων τῶν τότε μεγίστην ἥλιος, οὐδὲν ἔτι ἦν εἰ μὴ τεῖχος [4.31.5] τὰ μὲν οὖν Βαβυλωνίων ἢ τὰ Μεμνόνεια τὰ ἐν Σούσοις τείχη τοῖς Περσικοῖς οὔτε εἶδον οὔτε ἄλλων περὶ αὐτῶν ἤκουσα αὐτοπτούντων
+  - *Translation:* [8.33.3] At Babylon the sanctuary of Belus still is left, but of the Babylon that was the greatest city of its time under the sun nothing remains but the wall. [4.31.5] I have not seen the walls at Babylon or the walls of Memnon at Susa in Persia, nor have I heard the account of any eye-witness. (Jones)
+  - *Note:* Pausanias (c. 150-180 CE) admits in 4.31.5 that his statement is not based on autopsy or eyewitnesses. Both Pliny and Pausanias say the temple of Bel still stood.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0159:book=8:chapter=33:section=3> ; <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0160:book=8:chapter=33:section=3> ; <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0160:book=4:chapter=31:section=5>
+- **Dio 68.30.1 (cf. 68.27.1)**: Cassius Dio, Roman History (Greek ed. Boissevain via Perseus; tr. E. Cary, Loeb, via LacusCurtius)
+  - *Original:* μαθὼν δὲ ταῦτα ὁ Τραϊανὸς ἐν Βαβυλῶνι (καὶ γὰρ ἐκεῖσε ἦλθε κατά τε τὴν φήμην, ἧς οὐδὲν ἄξιον εἶδεν ὅ τι μὴ χώματα καὶ λίθους καὶ ἐρείπια, καὶ διὰ τὸν Ἀλέξανδρον, ᾧ καὶ ἐνήγισεν ἐν τῷ οἰκήματι ἐν ᾧ ἐτετελευτήκει)
+  - *Translation:* Trajan learned of this at Babylon; for he had gone there both because of its fame - though he saw nothing but mounds and stones and ruins to justify this - and because of Alexander, to whose spirit he offered sacrifice in the room where he had died. (Cary)
+  - *Note:* Year 116 CE; text survives in Xiphilinus' epitome. Boissevain's apparatus: "ἐν Βαβυλῶνι" is Tillemont's correction (Xiphilinus mss: πλοίῳ), and "λίθους" a conjecture (mss: μύθους). 68.27.1: Trajan also saw the asphalt of Babylon's walls.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0593:book=68:chapter=30:section=1> ; <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/68*.html>
+- **OGIS 253, lines 1-7**: Greek dedication from Babylon, OGIS 253 (W. Dittenberger, Orientis Graeci Inscriptiones Selectae I, 1903, no. 253; ed. pr. U. Koehler 1900, B. Haussoullier 1900-01)
+  - *Original:* Βασιλεύοντος Ἀντιόχου θ[εοῦ,] σωτῆρος τῆς Ἀσίας καὶ κτίσ[του] τῆς πόλεως, ἔτους ϛμʹ καὶ [ρʹ, τῶι] ἀγῶνι Χαριστηρίοις ὑπὸ [τρίτην] ἀπιόντος Ὑπερβερεταίου, [Ἀντιόχωι] θεῶι Ἐπιφανε[ῖ δῶρο]ν ἀνέθηκεν Φίλιππος Ἀ[- - -] ...
+  - *Translation:* In the reign of Antiochus, [god,] saviour of Asia and founder of the city, in the year 146, at the contest of the Charisteria, on the [third day before] the end of Hyperberetaios, Philippos ... dedicated [this gift to Antiochus] the god Epiphanes ...
+  - *Note:* Reading transcribed from the OCR of Dittenberger p. 413-414 (restorations in brackets as printed there; the OCR is noisy, so check against the printed page). Seleucid year 146 = 167/6 BCE; Hyperberetaios = Aug./Sept. 166 BCE (Dittenberger). Limestone fragments said to come from Babylon, taken to Berlin; Koehler doubted the provenance (thought Antioch), Haussoullier defended Babylon (stone seen in Baghdad first). Shows Babylon as a functioning Greek polis honouring Antiochus IV as its "founder" (re-founder).
+  - *URL:* <https://archive.org/details/orientisgraeciin01dittuoft>
+- **B. Haussoullier, Klio 9 (1909); SEG 7.39 (citation from memory, unverified)**: Gymnasium victor list from Babylon (c. 110 BCE)
+  - *Original:* [not retrieved]
+  - *Translation:* [not retrieved]
+  - *Note:* Klio vol. 9 (1909) is not on archive.org (only vol. 9 of the Beihefte), and PHI epigraphy was off-limits. Not documented in this run.
+- **pp. 10-11; 13-14**: Robert Koldewey, The Excavations at Babylon (tr. A. S. Johns, London: Macmillan 1914)
+  - *Original:* The buildings of ancient Babylon, with their excellent kiln bricks, served even in antiquity, perhaps in Roman times, certainly in Parthian days, as a quarry for common use. Later centuries appear to have done less to destroy the ruins, but in modern times the quarrying for bricks has assumed far more important dimensions. About twenty years ago, when the Euphrates first began to pour its life-giving waters into the Hindiyeh ... an attempt was made to head back the river into its old bed by building up a dam, the Sedde ... Building was carried on year after year ... and that with bricks from Babylon. ... [pp. 13-14] The villages on the left bank of the Euphrates - Kweiresh, where our house is, and Djumdjumma farther south - are so buried among the green date palms that one can scarcely catch a glimpse of even a wall. On the other bank are Sindjar and Ananeh
+  - *Translation:* (English translation of German original, 1913)
+  - *Note:* Koldewey's city plan (Fig. 1) marks the villages of Kweiresh (DK), Djumdjumma (DD), Sindjar and Ananeh within the ruin field. p. 213: "As Hilleh was founded in the eleventh century A.D., we may assume that Babylon ceased to be inhabited at that time" (referring to the Amran mound).
+  - *URL:* <https://archive.org/details/ldpd_10797913_000>
+- **pp. 395; 412**: A. H. Layard, Discoveries among the Ruins of Nineveh and Babylon (New York: Putnam 1853)
+  - *Original:* [p. 395] Hillah may contain about eight or nine thousand inhabitants. ... The houses, chiefly built of bricks taken from the ruins of ancient Babylon, are small and mean. [p. 412, on the Kasr] This ruin has for ages been the mine from which the builders of cities rising after the fall of Babylon have obtained their materials. To this day there are men who have no other trade than that of gathering bricks from this vast heap and taking them for sale to the neighbouring towns and villages, and even to Baghdad. There is scarcely a house in Hillah which is not almost entirely built with them
+  - *Translation:* (English original)
+  - *Note:* Page numbers are those of the New York (Putnam) 1853 edition scanned on archive.org; other editions may paginate differently.
+  - *URL:* <https://archive.org/details/discoveriesamong00laya>
+- **pp. 21; 23**: C. J. Rich, Memoir on the Ruins of Babylon (3rd ed., London 1818)
+  - *Original:* [p. 21] This ruin is called Jumjuma (Calvary), and gives its name to a village a little to the left of it. [p. 23] not more than two hundred yards from its northern extremity is a ravine (G) hollowed out by those who dig for bricks, in length near a hundred yards, and thirty feet wide by forty or fifty deep.
+  - *Translation:* (English original)
+  - *Note:* Rich (visited 1811) also notes the village of Tahmasia west of Hilla "must occupy part of the site of Babylon" (p. 40).
+  - *URL:* <https://archive.org/details/memoironruinsofb00rich>
+
+
+## E06. Edom/Idumea, Nabataeans, Philistia, Samaria and the Hasmonean conquests
+
+*Date:* 312 BCE (Antigonus vs Nabataeans); 163-c. 80 BCE (Maccabees, Hyrcanus, Jannaeus); 70 CE; 106 CE
+
+**Bottom line.** In 312 BCE the Nabataeans were still tent-dwelling nomads using "a certain rock" (Petra) as a refuge, and the Dead Sea lay "in the satrapy of Idumaea". Judas fought "the sons of Esau" in Idumea and at Hebron and destroyed altars at Azotus; Jonathan burned Azotus and its temple of Dagon; Jonathan besieged Gaza, which then submitted with hostages. John Hyrcanus took Shechem and Gerizim (the Samaritan temple "became deserted"), forced the Idumeans to be circumcised so that "they were thereafter Jews", and destroyed Samaria by diverting streams; Alexander Jannaeus razed Gaza after a one-year siege. Strabo says the Idumeans "are Nabataeans" who joined the Jews. **Note**: the "Bosor" burned by Judas (1 Macc 5:28) is in Gilead, not Bozrah of Edom; 1 Macc 13:43 in the Vaticanus text says Simon besieged "Gaza", but 13:53, 14:7, 14:34 and Josephus Ant. 13.215 show the city was Gazara (Gezer). In 70 CE Idumean leaders tried to surrender to Titus; after 70 the Idumeans no longer appear as a separate people, while "Idumaea/Gebalene" survives as a place name (Eusebius).
+
+- **Ant. 13.254-256**: Josephus, Antiquities (Greek ed. Niese; tr. Whiston)
+  - *Original:* Σίκιμά τε πρὸς τούτοις καὶ Γαριζεὶν τό τε Κουθαίων γένος, ὃ περιοικεῖ τὸν εἰκασθέντα τῷ ἐν Ἱεροσολύμοις ἱερῷ ναόν ... συνέβη δὲ τὸν ναὸν τοῦτον ἔρημον γενέσθαι μετὰ ἔτη διακόσια.
+  - *Translation:* and besides these, Shechem and Gerizzim, and the nation of the Cutheans, who dwelt at the temple which resembled that temple which was at Jerusalem, and which Alexander permitted Sanballat ... to build ...; which temple was now deserted two hundred years after it was built. (Whiston)
+  - *Note:* Josephus says the Gerizim temple "became deserted/desolate" (ἔρημον γενέσθαι); he does not describe a demolition here. Campaign after the death of Antiochus VII (129 BCE).
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0145:book=13:section=256> ; <https://archive.org/details/antiquitiesofthe02848gut>
+- **Ant. 13.257-258**: Josephus, Antiquities (Greek ed. Niese; tr. Whiston)
+  - *Original:* Ὑρκανὸς δὲ καὶ τῆς Ἰδουμαίας αἱρεῖ πόλεις Ἄδωρα καὶ Μάρισαν, καὶ ἅπαντας τοὺς Ἰδουμαίους ὑπὸ χεῖρα ποιησάμενος ἐπέτρεψεν αὐτοῖς μένειν ἐν τῇ χώρᾳ, εἰ περιτέμνοιντο τὰ αἰδοῖα καὶ τοῖς Ἰουδαίων νόμοις χρήσασθαι θέλοιεν. οἱ δὲ πόθῳ τῆς πατρίου γῆς καὶ τὴν περιτομὴν καὶ τὴν ἄλλην τοῦ βίου δίαιταν ὑπέμειναν τὴν αὐτὴν Ἰουδαίοις ποιήσασθαι. κἀκείνοις αὐτοῖς χρόνος ὑπῆρχεν ὥστε εἶναι τὸ λοιπὸν Ἰουδαίους.
+  - *Translation:* Hyrcanus took also Dora and Marissa, cities of Idumea, and subdued all the Idumeans; and permitted them to stay in that country, if they would circumcise their genitals, and make use of the laws of the Jews; and they were so desirous of living in the country of their forefathers, that they submitted to the use of circumcision, and of the rest of the Jewish ways of living; at which time therefore this befell them, that they were hereafter no other than Jews. (Whiston)
+  - *Note:* "No other than Jews" is Whiston's paraphrase; the Greek says literally "so that they were thereafter Jews".
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0145:book=13:section=257> ; <https://archive.org/details/antiquitiesofthe02848gut>
+- **Ant. 13.281 (context 13.275-281)**: Josephus, Antiquities (Greek ed. Niese; tr. Whiston)
+  - *Original:* Ὑρκανὸς μὲν οὖν τὴν πόλιν ἑλὼν ἐνιαυτῷ πολιορκήσας οὐκ ἠρκέσθη μόνῳ τούτῳ, ἀλλὰ καὶ πᾶσαν αὐτὴν ἠφάνισεν ἐπίκλυστον τοῖς χειμάρροις ποιήσας: διασκάψας γὰρ αὐτὴν ὥστ᾽ εἰς χαράδρας μεταπεσεῖν τὰ σημεῖα τοῦ γενέσθαι ποτὲ πόλιν αὐτὴν ἀφείλετο.
+  - *Translation:* And when Hyrcanus had taken that city [Samaria], which was not done till after a year's siege, he was not contented with doing that only, but he demolished it entirely, and brought rivulets to it to drown it, for he dug such hollows as might let the water run under it; nay, he took away the very marks that there had ever been such a city there. (Whiston)
+  - *Note:* Samaria was rebuilt by Gabinius (Ant. 14.88, see E03) and refounded by Herod as Sebaste (Strabo 16.2.34).
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0145:book=13:section=281> ; <https://archive.org/details/antiquitiesofthe02848gut>
+- **Ant. 13.364 (context 13.356-364)**: Josephus, Antiquities (Greek ed. Niese; tr. Whiston)
+  - *Original:* τῶν δὲ βουλευτῶν ἦσαν οἱ πάντες πεντακόσιοι συμφυγόντες εἰς τὸ τοῦ Ἀπόλλωνος ἱερόν ... ὁ δὲ Ἀλέξανδρος τούτους τε ἀναιρεῖ καὶ τὴν πόλιν αὐτοῖς ἐπικατασκάψας ὑπέστρεψεν εἰς Ἱεροσόλυμα ἐνιαυτῷ πολιορκήσας.
+  - *Translation:* but the senators, who were in all five hundred, fled to Apollo's temple, (for this attack happened to be made as they were sitting,) whom Alexander slew; and when he had utterly overthrown their city, he returned to Jerusalem, having spent a year in that siege. (Whiston)
+  - *Note:* Gaza under Alexander Jannaeus (c. 96 BCE): betrayed by Lysimachus; inhabitants killed, some burned their houses and killed their own families (13.362-363).
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0145:book=13:section=364> ; <https://archive.org/details/antiquitiesofthe02848gut>
+- **Ant. 13.395-397**: Josephus, Antiquities (Greek ed. Niese; tr. mine)
+  - *Original:* Κατὰ δὴ τοῦτον τὸν καιρὸν ἤδη τῶν Σύρων καὶ Ἰδουμαίων καὶ Φοινίκων πόλεις εἶχον οἱ Ἰουδαῖοι πρὸς θαλάσσῃ μὲν Στράτωνος πύργον Ἀπολλωνίαν Ἰόππην Ἰάμνειαν Ἄζωτον Γάζαν Ἀνθηδόνα Ῥάφειαν Ῥινοκόρουρα, ἐν δὲ τῇ μεσογαίᾳ κατὰ τὴν Ἰδουμαίαν Ἄδωρα καὶ Μάρισαν καὶ ὅλην Ἰδουμαίαν, Σαμάρειαν ... Πέλλαν, ταύτην κατέσκαψεν ὑποσχομένων τῶν ἐνοικούντων ἐς πάτρια τῶν Ἰουδαίων ἔθη μεταβαλεῖσθαι
+  - *Translation:* At this time the Jews already held these cities of the Syrians, Idumeans and Phoenicians: on the coast Strato's Tower, Apollonia, Joppa, Jamnia, Azotus, Gaza, Anthedon, Raphia, Rhinocorura; inland, towards Idumea, Adora, Marisa and all Idumea, Samaria, Mount Carmel, Mount Tabor, Scythopolis, Gadara ... Heshbon, Medaba ... Pella - this one he razed because its inhabitants would not promise to change to the ancestral customs of the Jews.
+  - *Note:* End of Jannaeus' reign (c. 76 BCE). The Greek of 13.397 as printed here has no negative (literally "the inhabitants having promised"), which contradicts the razing; translators usually read it as "would not promise".
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0145:book=13:section=395>
+- **Strabo 16.2.34**: Strabo, Geography (tr. Hamilton-Falconer)
+  - *Original:* τῆς δ᾽ Ἰουδαίας τὰ μὲν ἑσπέρια ἄκρα τὰ πρὸς τῷ Κασίῳ κατέχουσιν Ἰδουμαῖοί τε καὶ ἡ λίμνη. Ναβαταῖοι δ᾽ εἰσὶν οἱ Ἰδουμαῖοι, κατὰ στάσιν δ᾽ ἐκπεσόντες ἐκεῖθεν προσεχώρησαν τοῖς Ἰουδαίοις καὶ τῶν νομίμων τῶν αὐτῶν ἐκείνοις ἐκοινώνησαν
+  - *Translation:* The western extremities of Judaea towards Casius are occupied by Idumaeans, and by the lake [Sirbonis]. The Idumaeans are Nabataeans. When driven from their country by sedition, they passed over to the Jews, and adopted their customs. (Hamilton-Falconer)
+  - *Note:* Strabo's version: voluntary adoption of Jewish customs after an internal revolt; contrast Josephus (forced circumcision).
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0197:book=16:chapter=2:section=34> ; <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0239:book=16:chapter=2:section=34>
+- **Diod. 19.94.2-4; 19.95.1-2; 19.97.1-5; 19.98.1**: Diodorus Siculus (tr. R. M. Geer, Loeb, via LacusCurtius)
+  - *Original:* [Greek not retrieved]
+  - *Translation:* [19.94.3] It is their custom neither to plant grain, set out any fruit-bearing tree, use wine, nor construct any house; and if anyone is found acting contrary to this, death is his penalty. ... [19.94.4] the Nabataeans far surpass the others in wealth although they are not much more than ten thousand in number. [19.95.1-2] ... leaving on a certain rock their possessions and their old men, also their women and their children. This place is exceedingly strong but unwalled, and it is distant two days' journey from the settled country. ... Covering the twenty-two hundred stades from the district of Idumaea in three days ... [19.97.1] they sent their property to the rock and posted there a garrison ... since there was a single artificial approach. [19.98.1] [the Dead Sea] lies along the middle of the satrapy of Idumaea. (Geer)
+  - *Note:* 312 BCE: Antigonus' general Athenaeus seized the rock and was then destroyed by c. 8,000 Nabataeans (19.95.5); Demetrius' attack failed and he accepted gifts and hostages (19.97.6). Geer's note 79: "This natural stronghold may be the later Petra"; Geer's note 80 calls the 2,200 stades "corrupt" since 19.98.1 puts the rock 300 stades from the Dead Sea. Idumaea is already an administrative district (satrapy/eparchy) in 312 BCE. Greek text not retrieved (Perseus Greek errors for Book 19).
+  - *URL:* <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/19E*.html>
+- **1 Macc 5:3, 5:65, 5:68**: 1 Maccabees (Greek: Brenton/Bagster Septuagint text, ebible grcbrent; English: KJV Apocrypha text in ebible eng-Brenton)
+  - *Original:* [5:3] Καὶ ἐπολέμει Ἰούδας πρὸς τοὺς υἱοὺς Ἡσαῦ ἐν τῇ Ἰδουμαίᾳ τὴν Ἀκραβαττίνην ... [5:65] ἐπολέμουν τοὺς υἱοὺς Ἡσαῦ ἐν τῇ γῇ πρὸς Νότον, καὶ ἐπάταξε τὴν Χεβρὼν καὶ τὰς θυγατέρας αὐτῆς, καὶ καθεῖλε τὸ ὀχύρωμα αὐτῆς ... [5:68] Καὶ ἐξέκλινεν Ἰούδας εἰς Ἄζωτον γῆν ἀλλοφύλων, καὶ καθεῖλε τοὺς βωμοὺς αὐτῶν, καὶ τὰ γλυπτὰ τῶν θεῶν αὐτῶν κατέκαυσε πυρὶ
+  - *Translation:* [5:3] Then Judas fought against the children of Esau in Idumea at Acrabattine, because they besieged Israel: and he gave them a great overthrow ... [5:65] fought against the children of Esau in the land toward the south, where he smote Hebron, and the towns thereof, and pulled down the fortress of it, and burned the towers thereof round about. [5:68] So Judas turned to Azotus in the land of the Philistines, and when he had pulled down their altars, and burned their carved images with fire, and spoiled their cities, he returned into the land of Judea. (KJV Apocrypha)
+  - *Note:* Events of 163 BCE. Hebron counted as Idumean territory. 5:28 "Bosor" (Βοσόρ), burned by Judas, is in Gilead (with Maspha, Carnaim, 5:35-44), NOT Bozrah of Edom.
+  - *URL:* <https://ebible.org/find/details.php?id=grcbrent> ; <https://ebible.org/eng-Brenton/>
+- **1 Macc 10:83-85; 11:4**: 1 Maccabees (Brenton Greek; KJV Apocrypha English)
+  - *Original:* [10:84] Καὶ ἐνεπύρισεν Ἰωνάθαν τὴν Ἄζωτον καὶ τὰς πόλεις τὰς κύκλῳ αὐτῆς, καὶ ἔλαβε τὰ σκῦλα αὐτῶν, καὶ τὸ ἱερὸν Δαγὼν καὶ τοὺς συμφυγόντας εἰς αὐτὸ ἐνεπύρισε πυρί. [10:85] ... εἰς ἄνδρας ὀκτακισχιλίους.
+  - *Translation:* [10:84] But Jonathan set fire on Azotus, and the cities round about it, and took their spoils; and the temple of Dagon, with them that were fled into it, he burned with fire. [10:85] Thus there were burned and slain with the sword well nigh eight thousand men. [11:4] they shewed him the temple of Dagon that was burnt, and Azotus and the suburbs thereof that were destroyed. (KJV Apocrypha)
+  - *Note:* c. 147 BCE. 10:83: the fugitives entered Beth-dagon (Βηθδαγών), "their idol's temple".
+  - *URL:* <https://ebible.org/find/details.php?id=grcbrent> ; <https://ebible.org/eng-Brenton/>
+- **1 Macc 11:60-62**: 1 Maccabees (Brenton Greek; KJV Apocrypha English)
+  - *Original:* [11:61] Καὶ ἀπῆλθεν ἐκεῖθεν εἰς Γάζαν, καὶ ἀπέκλεισαν οἱ ἀπὸ Γάζης, καὶ περιεκάθισε περὶ αὐτὴν, καὶ ἐνεπύρισε τὰ περιπόλια αὐτῆς πυρὶ ... [11:62] καὶ ἔλαβε τοὺς υἱοὺς ἀρχόντων αὐτῶν εἰς ὅμηρα
+  - *Translation:* [11:61] From whence he went to Gaza, but they of Gaza shut him out; wherefore he laid siege unto it, and burned the suburbs thereof with fire, and spoiled them. [11:62] Afterward, when they of Gaza made supplication unto Jonathan, he made peace with them, and took the sons of their chief men for hostages, and sent them to Jerusalem. (KJV Apocrypha)
+  - *Note:* Gaza a functioning, walled city c. 145 BCE (contrast Strabo 16.2.30).
+  - *URL:* <https://ebible.org/find/details.php?id=grcbrent> ; <https://ebible.org/eng-Brenton/>
+- **1 Macc 13:43-48 (cf. 13:53; 14:7, 34)**: 1 Maccabees (Brenton Greek; KJV Apocrypha English)
+  - *Original:* [13:43] Ἐν ταῖς ἡμέραις ἐκείναις παρενέβαλε Σίμων ἐπὶ Γάζαν ... [13:47] καὶ ἐξέβαλεν αὐτοὺς ἐκ τῆς πόλεως, καὶ ἐκαθάρισε τὰς οἰκίας ἐν αἷς ἦν τὰ εἴδωλα ... [13:48] καὶ κατῴκισεν ἐκεῖ ἄνδρας οἵτινες τὸν νόμον ποιοῦσι
+  - *Translation:* [13:43] In those days Simon camped against Gaza ... [13:47] but put them out of the city, and cleansed the houses wherein the idols were ... [13:48] and placed such men there as would keep the law, and made it stronger than it was before, and built therein a dwelling place for himself. (KJV Apocrypha)
+  - *Note:* TEXTUAL NOTE: this Vaticanus-based text reads "Gaza", but 13:53 ("he dwelt in Gazara", ἐν Γαζάροις), 14:7 and 14:34 ("Gazara that bordereth upon Azotus") and Josephus Ant. 13.215 ("Σίμων Γάζαρά τε πόλιν") show that the city expelled and resettled with Jews was Gazara (Gezer), not Gaza. Do not use 13:43-48 as evidence about Gaza.
+  - *URL:* <https://ebible.org/find/details.php?id=grcbrent> ; <https://ebible.org/eng-Brenton/>
+- **BJ 6.378-380**: Josephus, Jewish War (Greek ed. Niese; tr. mine)
+  - *Original:* Κατὰ ταύτας τὰς ἡμέρας οἱ τῶν Ἰδουμαίων ἡγεμόνες κρύφα συνελθόντες ἐβουλεύσαντο περὶ παραδόσεως σφῶν αὐτῶν, καὶ πέμψαντες ἄνδρας πέντε πρὸς Τίτον ἱκέτευον δοῦναι δεξιὰν αὐτοῖς. ... παρασκευαζομένων δὲ ἀποχωρεῖν αἰσθάνεται Σίμων, καὶ πέντε μὲν τοὺς ἀπελθόντας πρὸς Τίτον εὐθέως ἀναιρεῖ, τοὺς δὲ ἡγεμόνας ... συλλαβὼν εἵργνυσι
+  - *Translation:* In these days the leaders of the Idumeans met secretly and deliberated about surrendering, and sent five men to Titus begging him to give them his pledge. ... Simon perceived that they were preparing to leave; he immediately killed the five who had gone to Titus and arrested and imprisoned the leaders, the most notable of whom was James son of Sosas.
+  - *Note:* The last appearance of the Idumeans as a distinct group in Josephus' narrative of 70 CE.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0147:book=6:section=378>
+- **Dio 68.14.5**: Cassius Dio (Greek ed. Boissevain; tr. Cary)
+  - *Original:* κατὰ δὲ τὸν αὐτὸν τοῦτον χρόνον καὶ Πάλμας τῆς Συρίας ἄρχων τὴν Ἀραβίαν τὴν πρὸς τῇ Πέτρᾳ ἐχειρώσατο καὶ Ῥωμαίων ὑπήκοον ἐποιήσατο.
+  - *Translation:* About this time, Palma, the governor of Syria, subdued the part of Arabia around Petra and made it subject to the Romans. (Cary)
+  - *Note:* Annexation of the Nabataean kingdom (106 CE). Petra continued as a Roman city.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0593:book=68:chapter=14:section=5> ; <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/68*.html>
+- **Onomasticon s.v. Bosor; Arkem; Seir/Gebalene; Thaiman**: Eusebius, Onomasticon (tr. C. Umhau Wolf 1971, tertullian.org)
+  - *Original:* [Greek not retrieved]
+  - *Translation:* [Bosor] ... This is Bostra a metropolis of Arabia. There is also another Bosor, city of Esau, now in the hills of Idumea which Isaia mentions saying, "Who is this coming from Edom? The one in red garments from Bosor?" [Arkem] According to Josephus this is Petra the famous city of Palestine. [Seir] ... Others call it Edom. It is around Petra (now) called the Gebalene. [Thaiman] It is even now a village Thaiman about fifteen (five) miles from Petra. (A garrison of Roman) soldiers are (is) stationed there.
+  - *Note:* Early 4th c. CE: Bozrah of Edom still identified "in the hills of Idumea"; Petra a "famous city"; "Edom" survives as the region Gebalene. Wolf's parentheses are his supplements.
+  - *URL:* <https://www.tertullian.org/fathers/eusebius_onomasticon_02_trans.htm>
+- **Idumeans after 70 CE; Buseirah; Petra**: Factual note (general knowledge; not verified online in this run)
+  - *Translation:* After 70 CE the Idumeans are not mentioned as a separate ethnic group in the historical record; "Idumaea" survives as a regional name (Eusebius above). Bozrah is generally identified with Buseirah, a village in the Tafila governorate of southern Jordan, whose excavated Iron Age town did not long survive the Persian period. Petra remained an important city in Roman and Byzantine times, declined after earthquakes (notably 363 CE) and was later largely abandoned; it is now an archaeological site (UNESCO 1985).
+  - *Note:* Treat as background only; not drawn from the primary texts collected here.
+
+
+## E07. Jerusalem and its Temple under Antiochus IV and the rededication
+
+*Date:* Kislev 145 SE (Dec 167 BCE) - Kislev 148 SE (Dec 164 BCE)
+
+**Bottom line.** 1 Maccabees dates the "abomination of desolation" on the altar to **15 Kislev, year 145** (Seleucid era), the first pagan sacrifice to **25 Kislev 145**, and the rededication to **25 Kislev 148**, i.e. exactly three years after the profanation, "on the same day". The sanctuary was "desolate", the gates burned, shrubs grew in the courts, priests' chambers were pulled down. 2 Maccabees adds the renaming of the Temple to Zeus Olympios and of Gerizim to Zeus Xenios. (Conversion: counted from spring 311 BCE (Babylonian/Jewish reckoning) Kislev 145 SE = Dec 167 BCE and Kislev 148 = Dec 164 BCE; counted from autumn 312 (Macedonian reckoning) each would fall one year earlier. Dec 167 and Dec 164 are the usual dates.)
+
+- **1 Macc 1:29-32**: 1 Maccabees (Brenton Greek; KJV Apocrypha English)
+  - *Original:* [1:29] Καὶ μετὰ δύο ἔτη ἡμερῶν ἀπέστειλεν ὁ βασιλεὺς ἄρχοντα φορολογίας ... [1:30] καὶ ἐπέπεσεν ἐπὶ τὴν πόλιν ἐξάπινα ... [1:31] Καὶ ἔλαβε τὰ σκῦλα τῆς πόλεως, καὶ ἐνεπύρισεν αὐτὴν πυρὶ, καὶ καθεῖλε τοὺς οἴκους αὐτῆς καὶ τὰ τείχη αὐτῆς κύκλῳ. [1:32] Καὶ ᾐχμαλώτευσαν τὰς γυναῖκας καὶ τὰ τέκνα
+  - *Translation:* [1:29] And after two years fully expired, the king sent his chief collector of tribute unto the cities of Juda ... [1:30] he fell suddenly upon the city, and smote it very sore, and destroyed much people of Israel. [1:31] And when he had taken the spoils of the city, he set it on fire, and pulled down the houses and walls thereof on every side. [1:32] But the women and children took they captive, and possessed the cattle. (KJV Apocrypha)
+  - *Note:* "Two years" after the plundering of the Temple in 143 SE (1:20), i.e. 145 SE = 167 BCE.
+  - *URL:* <https://ebible.org/find/details.php?id=grcbrent> ; <https://ebible.org/eng-Brenton/>
+- **1 Macc 1:33-40**: 1 Maccabees (Brenton Greek; KJV Apocrypha English)
+  - *Original:* [1:33] Καὶ ᾠκοδόμησαν τὴν πόλιν Δαυὶδ τείχει μεγάλῳ καὶ ἰσχυρῷ ... καὶ ἐγένετο αὐτοῖς εἰς ἄκραν. ... [1:38] καὶ ἐγένετο κατοικία ἀλλοτρίων ... [1:39] Τὸ ἁγίασμα αὐτῆς ἠρημώθη ὡς ἔρημος, αἱ ἑορταὶ αὐτῆς ἐστράφησαν εἰς πένθος
+  - *Translation:* [1:33] Then builded they the city of David with a great and strong wall, [and] with mighty towers, and made it a stronghold for them. ... [1:37] Thus they shed innocent blood on every side of the sanctuary, and defiled it: [1:38] insomuch that the inhabitants of Jerusalem fled because of them: whereupon [the city] was made an habitation of strangers ... [1:39] Her sanctuary was laid waste like a wilderness, her feasts were turned into mourning, her sabbaths into reproach, her honour into contempt. (KJV Apocrypha)
+  - *Note:* The Akra garrison remained until Simon (1 Macc 13:49-52; 14:7). 1:39-40 is poetic lament.
+  - *URL:* <https://ebible.org/find/details.php?id=grcbrent> ; <https://ebible.org/eng-Brenton/>
+- **1 Macc 1:54, 1:59**: 1 Maccabees (Brenton Greek; KJV Apocrypha English)
+  - *Original:* [1:54] Καὶ τῇ πεντεκαιδεκάτῃ ἡμέρᾳ Χασελεῦ, τῷ πέμπτῳ καὶ τεσσαρακοστῷ καὶ ἑκατοστῷ ἔτει, ᾠκοδόμησαν βδέλυγμα ἐρημώσεως ἐπὶ τὸ θυσιαστήριον ... [1:59] Καὶ τῇ πέμπτῃ καὶ εἰκάδι τοῦ μηνὸς θυσιάζοντες ἐπὶ τὸν βωμὸν ὃς ἦν ἐπὶ τοῦ θυσιαστηρίου.
+  - *Translation:* [1:54] Now the fifteenth day of [the month] Casleu, in the hundred forty and fifth year, they set up the abomination of desolation upon the altar, and builded idol altars throughout the cities of Juda on every side; [1:59] Now the five and twentieth day of the month they did sacrifice upon the idol altar, which was upon the altar of God. (KJV Apocrypha)
+  - *Note:* βδέλυγμα ἐρημώσεως = the phrase of Dan 11:31 / 12:11 (LXX/Theodotion).
+  - *URL:* <https://ebible.org/find/details.php?id=grcbrent> ; <https://ebible.org/eng-Brenton/>
+- **1 Macc 4:36-38**: 1 Maccabees (Brenton Greek; KJV Apocrypha English)
+  - *Original:* [4:36] ἀναβῶμεν καθαρίσαι τὰ ἅγια καὶ ἐγκαινίσαι. [4:38] Καὶ ἴδον τὸ ἁγίασμα ἠρημωμένον, καὶ τὸ θυσιαστήριον βεβηλωμένον, καὶ τὰς πύλας κατακεκαυμένας, καὶ ἐν ταῖς αὐλαῖς φυτὰ πεφυκότα ὡς ἐν δρυμῷ ἢ ὡς ἐν ἑνὶ τῶν ὀρέων, καὶ τὰ παστοφόρια καθῃρημένα.
+  - *Translation:* [4:36] let us go up to cleanse and dedicate the sanctuary. [4:38] And when they saw the sanctuary desolate, and the altar profaned, and the gates burned up, and shrubs growing in the courts as in a forest, or in one of the mountains, yea, and the priests' chambers pulled down (KJV Apocrypha)
+  - *URL:* <https://ebible.org/find/details.php?id=grcbrent> ; <https://ebible.org/eng-Brenton/>
+- **1 Macc 4:43-47**: 1 Maccabees (Brenton Greek; KJV Apocrypha English)
+  - *Original:* [4:43] ... καὶ ᾖραν τοὺς λίθους τοῦ μιασμοῦ εἰς τόπον ἀκάθαρτον. [4:46] καὶ ἀπέθεντο τοὺς λίθους ἐν τῷ ὄρει τοῦ οἴκου ... μέχρι τοῦ παραγενηθῆναι προφήτην τοῦ ἀποκριθῆναι περὶ αὐτῶν. [4:47] Καὶ ἔλαβον λίθους ὁλοκλήρους κατὰ τὸν νόμον, καὶ ᾠκοδόμησαν τὸ θυσιαστήριον καινὸν κατὰ τὸ πρότερον.
+  - *Translation:* [4:43] who cleansed the sanctuary, and bare out the defiled stones into an unclean place. [4:46] and laid up the stones in the mountain of the temple in a convenient place, until there should come a prophet to shew what should be done with them. [4:47] Then they took whole stones according to the law, and built a new altar according to the former (KJV Apocrypha)
+  - *Note:* Note 4:46: no prophet was available at the time.
+  - *URL:* <https://ebible.org/find/details.php?id=grcbrent> ; <https://ebible.org/eng-Brenton/>
+- **1 Macc 4:52-54, 4:59-60**: 1 Maccabees (Brenton Greek; KJV Apocrypha English)
+  - *Original:* [4:52] Καὶ ὤρθρισαν τοπρωῒ τῇ πέμπτῃ καὶ εἰκάδι τοῦ μηνὸς τοῦ ἐννάτου· οὗτος ὁ μὴν Χασελεῦ τοῦ ὀγδόου καὶ τεσσαρακοστοῦ καὶ ἑκατοστοῦ ἔτους. [4:54] Κατὰ τὸν καιρὸν καὶ κατὰ τὴν ἡμέραν ἐν ᾗ ἐβεβήλωσαν αὐτὸ τὰ ἔθνη, ἐν ἐκείνῃ ἐνεκαινίσθη ... [4:59] ... ἡμέρας ὀκτὼ, ἀπὸ τῆς πέμπτης καὶ εἰκάδος τοῦ μηνὸς Χασελεῦ
+  - *Translation:* [4:52] Now on the five and twentieth day of the ninth month, which [is called] the month Casleu, in the hundred forty and eighth year, they rose up betimes in the morning, [4:53] and offered sacrifice according to the law upon the new altar ... [4:54] At what time and day the heathen had profaned it, even in that was it dedicated with songs ... [4:59] ... by the space of eight days, from the five and twentieth day of the month Casleu, with mirth and gladness. [4:60] At that time also they builded up the mount Sion with high walls and strong towers round about, lest the Gentiles should come and tread it down, as they had done before. (KJV Apocrypha)
+  - *Note:* 25 Kislev 145 (first pagan sacrifice, 1:59) to 25 Kislev 148 = exactly 3 years; 15 Kislev 145 (abomination set up, 1:54) to 25 Kislev 148 = 3 years 10 days.
+  - *URL:* <https://ebible.org/find/details.php?id=grcbrent> ; <https://ebible.org/eng-Brenton/>
+- **2 Macc 6:1-7; 10:5**: 2 Maccabees (Brenton Greek; KJV Apocrypha English)
+  - *Original:* [6:2] μολῦναι δὲ καὶ τὸν ἐν Ἱεροσολύμοις νεὼν, καὶ προσονομάσαι Διὸς Ὀλυμπίου, καὶ τὸν ἐν Γαριζὶν ... Διὸς Ξενίου. [6:4] Τὸ μὲν γὰρ ἱερὸν ἀσωτίας καὶ κώμων ἐπεπλήρωτο ὑπὸ τῶν ἐθνῶν ... [6:6] Ἦν δʼ οὔτε σαββατίζειν, οὔτε πατρῴους ἑορτὰς διαφυλάττειν, οὔτε ἁπλῶς Ἰουδαῖον ὁμολογεῖν εἶναι. [10:5] Ἐν ᾗ δὲ ἡμέρᾳ ὁ νεὼς ὑπὸ ἀλλοφύλων ἐβεβηλώθη, συνέβη κατὰ τὴν αὐτὴν ἡμέραν τὸν καθαρισμὸν γενέσθαι τοῦ ναοῦ, τῇ πέμπτῃ καὶ εἰκάδι τοῦ αὐτοῦ μηνὸς, ὅς ἐστι Χασελεῦ.
+  - *Translation:* [6:1] Not long after this the king sent an old man of Athens to compel the Jews to depart from the laws of their fathers ... [6:2] and to pollute also the temple in Jerusalem, and to call it the temple of Jupiter Olympius; and that in Garizim, of Jupiter the defender of strangers ... [6:4] for the temple was filled with riot and revelling by the Gentiles, who dallied with harlots ... [6:5] The altar also was filled with profane things ... [6:6] Neither was it lawful for a man to keep sabbath days or ancient feasts, or to profess himself at all to be a Jew. [6:7] ... when the feast of Bacchus was kept, the Jews were compelled to go in procession to Bacchus, carrying ivy. [10:5] Now upon the same day that the strangers profaned the temple, on the very same day it was cleansed again, even the five and twentieth [day] of the same month, which is Casleu. (KJV Apocrypha)
+  - *Note:* 2 Maccabees gives no Seleucid year for the profanation.
+  - *URL:* <https://ebible.org/find/details.php?id=grcbrent> ; <https://ebible.org/eng-Brenton/>
+
+
+## E08. Jerusalem and the Temple destroyed by Titus
+
+*Date:* 10 Lous/Ab 70 CE (Temple burned); city razed afterwards (BJ 7.1)
+
+**Bottom line.** Josephus: the Temple burned on **10 Lous (Ab)**, "the same month and day" as the Babylonian burning, in Vespasian's second year; Titus had not wanted it burned (Josephus' claim). The soldiers brought their standards into the Temple court opposite the east gate and sacrificed to them. Titus then ordered the whole city and Temple razed, leaving three towers and part of the west wall, so that visitors would not believe it had ever been inhabited. Josephus, Tacitus and Suetonius all report a Jewish oracle that "men from Judaea would rule the world", which all three apply to Vespasian. In Antiquities 10.276 Josephus says Daniel wrote about the Roman empire and that "it would be made desolate by them".
+
+- **BJ 6.249-250**: Josephus, Jewish War (Greek ed. Niese; tr. Whiston)
+  - *Original:* τοῦ δ᾽ ἄρα κατεψήφιστο μὲν τὸ πῦρ ὁ θεὸς πάλαι, παρῆν δ᾽ ἡ εἱμαρμένη χρόνων περιόδοις ἡμέρα δεκάτη Λώου μηνός, καθ᾽ ἣν καὶ πρότερον ὑπὸ τοῦ τῶν Βαβυλωνίων βασιλέως ἐνεπρήσθη.
+  - *Translation:* But as for that house, God had, for certain, long ago doomed it to the fire; and now that fatal day was come, according to the revolution of ages; it was the tenth day of the month Lous, [Ab,] upon which it was formerly burnt by the king of Babylon. (Whiston)
+  - *Note:* Contrast Mishnah Taanit 4:6 (E09), which puts the destruction on the 9th of Av.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0147:book=6:section=250> ; <https://archive.org/details/thewarsofthejews02850gut>
+- **BJ 6.266**: Josephus, Jewish War (tr. Whiston)
+  - *Original:* ὁ μὲν οὖν ναὸς οὕτως ἄκοντος Καίσαρος ἐμπίπραται.
+  - *Translation:* And thus was the holy house burnt down, without Caesar's approbation. (Whiston)
+  - *Note:* Josephus wrote under Flavian patronage; his claim that Titus opposed the burning is disputed by a later source (Sulpicius Severus, Chron. 2.30, not collected here).
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0147:book=6:section=266> ; <https://archive.org/details/thewarsofthejews02850gut>
+- **BJ 6.268-270**: Josephus, Jewish War (tr. mine)
+  - *Original:* καὶ μῆνα γοῦν, ὡς ἔφην, καὶ ἡμέραν ἐτήρησεν τὴν αὐτήν, ἐν ᾗ πρότερον ὑπὸ Βαβυλωνίων ὁ ναὸς ἐνεπρήσθη. καὶ ἀπὸ μὲν τῆς πρώτης αὐτοῦ κτίσεως ... μέχρι τῆς νῦν ἀναιρέσεως, ἣ γέγονεν ἔτει δευτέρῳ τῆς Οὐεσπασιανοῦ ἡγεμονίας, ἔτη συνάγεται χίλια ἑκατὸν τριάκοντα, πρὸς δὲ μῆνες ἑπτὰ καὶ πεντεκαίδεκα ἡμέραι: ἀπὸ δὲ τῆς ὕστερον, ἣν ἔτει δευτέρῳ Κύρου βασιλεύοντος ἐποιήσατο Ἀγγαῖος, ἔτη μέχρι τῆς ὑπὸ Οὐεσπασιανοῦ ἁλώσεως τριακονταεννέα πρὸς ἑξακοσίοις καὶ ἡμέραι τεσσαρακονταπέντε.
+  - *Translation:* Fate kept the same month and day, as I said, on which the temple had earlier been burned by the Babylonians. From its first foundation by King Solomon to its present destruction, which took place in the second year of Vespasian's reign, the total is 1,130 years, 7 months and 15 days; from the later [rebuilding] made by Haggai in the second year of King Cyrus to the capture under Vespasian, 639 years and 45 days.
+  - *Note:* Josephus' internal chronology (useful for comparing with Dan 9 calculations).
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0147:book=6:section=268>
+- **BJ 6.312-313**: Josephus, Jewish War (tr. Whiston)
+  - *Original:* τὸ δ᾽ ἐπᾶραν αὐτοὺς μάλιστα πρὸς τὸν πόλεμον ἦν χρησμὸς ἀμφίβολος ὁμοίως ἐν τοῖς ἱεροῖς εὑρημένος γράμμασιν, ὡς κατὰ τὸν καιρὸν ἐκεῖνον ἀπὸ τῆς χώρας αὐτῶν τις ἄρξει τῆς οἰκουμένης. τοῦθ᾽ οἱ μὲν ὡς οἰκεῖον ἐξέλαβον ... ἐδήλου δ᾽ ἄρα τὴν Οὐεσπασιανοῦ τὸ λόγιον ἡγεμονίαν ἀποδειχθέντος ἐπὶ Ἰουδαίας αὐτοκράτορος.
+  - *Translation:* But now, what did the most elevate them in undertaking this war, was an ambiguous oracle that was also found in their sacred writings, how, "about that time, one from their country should become governor of the habitable earth." The Jews took this prediction to belong to themselves in particular, and many of the wise men were thereby deceived in their determination. Now this oracle certainly denoted the government of Vespasian, who was appointed emperor in Judea. (Whiston)
+  - *Note:* Josephus does not say which scripture. 6.311 mentions another oracle: the city would fall when the Temple became four-square.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0147:book=6:section=312> ; <https://archive.org/details/thewarsofthejews02850gut>
+- **BJ 6.316**: Josephus, Jewish War (tr. Whiston)
+  - *Original:* Ῥωμαῖοι δὲ ... κομίσαντες τὰς σημαίας εἰς τὸ ἱερὸν καὶ θέμενοι τῆς ἀνατολικῆς πύλης ἄντικρυς ἔθυσάν τε αὐταῖς αὐτόθι καὶ τὸν Τίτον μετὰ μεγίστων εὐφημιῶν ἀπέφηναν αὐτοκράτορα.
+  - *Translation:* And now the Romans, upon the flight of the seditious into the city, and upon the burning of the holy house itself, and of all the buildings round about it, brought their ensigns to the temple and set them over against its eastern gate; and there did they offer sacrifices to them, and there did they make Titus imperator with the greatest acclamations of joy. (Whiston)
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0147:book=6:section=316> ; <https://archive.org/details/thewarsofthejews02850gut>
+- **BJ 7.1-3**: Josephus, Jewish War (tr. Whiston)
+  - *Original:* κελεύει Καῖσαρ ἤδη τήν τε πόλιν ἅπασαν καὶ τὸν νεὼν κατασκάπτειν, πύργους μὲν ὅσοι τῶν ἄλλων ὑπερανειστήκεσαν καταλιπόντας, Φασάηλον Ἱππικὸν Μαριάμμην, τεῖχος δ᾽ ὅσον ἦν ἐξ ἑσπέρας τὴν πόλιν περιέχον ... τὸν δ᾽ ἄλλον ἅπαντα τῆς πόλεως περίβολον οὕτως ἐξωμάλισαν οἱ κατασκάπτοντες, ὡς μηδεπώποτ᾽ οἰκηθῆναι πίστιν ἂν ἔτι παρασχεῖν τοῖς προσελθοῦσι.
+  - *Translation:* Caesar gave orders that they should now demolish the entire city and temple, but should leave as many of the towers standing as were of the greatest eminency; that is, Phasaelus, and Hippicus, and Mariamne; and so much of the wall as enclosed the city on the west side. ... but for all the rest of the wall, it was so thoroughly laid even with the ground by those that dug it up to the foundation, that there was left nothing to make those that came thither believe it had ever been inhabited. (Whiston)
+  - *Note:* 7.5: the Tenth Legion left as garrison. Note the partial exceptions (three towers, west wall).
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0147:book=7:section=1> ; <https://archive.org/details/thewarsofthejews02850gut>
+- **Ant. 10.276**: Josephus, Antiquities (Greek ed. Niese; tr. Whiston)
+  - *Original:* καὶ δὴ ταῦτα ἡμῶν συνέβη παθεῖν τῷ ἔθνει ὑπὸ Ἀντιόχου τοῦ Ἐπιφανοῦς, καθὼς εἶδεν ὁ Δανίηλος καὶ πολλοῖς ἔτεσιν ἔμπροσθεν ἀνέγραψε τὰ γενησόμενα. τὸν αὐτὸν δὲ τρόπον ὁ Δανίηλος καὶ περὶ τῆς Ῥωμαίων ἡγεμονίας ἀνέγραψε, καὶ ὅτι ὑπ᾽ αὐτῶν ἐρημωθήσεται.
+  - *Translation:* And indeed it so came to pass, that our nation suffered these things under Antiochus Epiphanes, according to Daniel's vision, and what he wrote many years before they came to pass. In the very same manner Daniel also wrote concerning the Roman government, and that our country should be made desolate by them. (Whiston)
+  - *Note:* Niese's Greek has only "and that it would be made desolate by them" (subject unexpressed); Whiston supplies "our country". Written c. 93/94 CE, after the event.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0145:book=10:section=276> ; <https://archive.org/details/antiquitiesofthe02848gut>
+- **Tac. Hist. 5.13**: Tacitus, Histories (Latin, The Latin Library; tr. A. J. Church & W. J. Brodribb via Perseus)
+  - *Original:* pluribus persuasio inerat antiquis sacerdotum litteris contineri eo ipso tempore fore ut valesceret Oriens profectique Iudaea rerum potirentur. Quae ambages Vespasianum ac Titum praedixerat ... Multitudinem obsessorum omnis aetatis, virile ac muliebre secus, sexcenta milia fuisse accepimus
+  - *Translation:* In most there was a firm persuasion, that in the ancient records of their priests was contained a prediction of how at this very time the East was to grow powerful, and rulers, coming from Judaea, were to acquire universal empire. These mysterious prophecies had pointed to Vespasian and Titus ... I have heard that the total number of the besieged, of every age and both sexes, amounted to six hundred thousand. (Church & Brodribb)
+  - *Note:* The same chapter reports portents: the temple doors opened and a voice said "the gods are departing". Tacitus' narrative breaks off before the fall of the city.
+  - *URL:* <https://www.thelatinlibrary.com/tacitus/tac.hist5.shtml> ; <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0080:book=5:chapter=13>
+- **Suet. Vesp. 4.5**: Suetonius, Divus Vespasianus (Latin & tr. J. C. Rolfe, Loeb, via LacusCurtius)
+  - *Original:* Percrebuerat Oriente toto vetus et constans opinio esse in fatis ut eo tempore Iudaea profecti rerum potirentur. Id de imperatore Romano, quantum postea eventu paruit, praedictum Iudaei ad se trahentes rebellarunt
+  - *Translation:* There had spread over all the Orient an old and established belief, that it was fated at that time for men coming from Judaea to rule the world. This prediction, referring to the emperor of Rome, as afterwards appeared from the event, the people of Judaea took to themselves; accordingly they revolted. (Rolfe)
+  - *URL:* <https://penelope.uchicago.edu/Thayer/L/Roman/Texts/Suetonius/12Caesars/Vespasian*.html> ; <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Vespasian*.html>
+
+
+## E09. Aelia Capitolina and the "ploughing" of Jerusalem
+
+*Date:* c. 130-135 CE
+
+**Bottom line.** Cassius Dio (via Xiphilinus): Hadrian founded Aelia Capitolina on the site of Jerusalem and a temple of Jupiter on the site of the Temple, and this **caused** the Bar Kokhba war; Eusebius instead places the renaming **after** the war. The colony's foundation coin (RPC III 3964) shows a veiled figure ploughing with two oxen, legend COL AEL KAPIT COND. The Mishnah says that on 9 Av "the city was ploughed" (ונחרשה העיר); a baraita in the Bavli says "the wicked Turnus Rufus ploughed the Heikhal (Temple)"; Jerome says the Temple was ploughed by "Turannius Rufus" (older printed editions: "T. Annius Rufus"). **The coin itself does not say what ground was ploughed**; linking it to the Temple Mount is an inference.
+
+- **Dio 69.12.1-2**: Cassius Dio (Greek ed. Boissevain via Perseus; tr. Cary via LacusCurtius)
+  - *Original:* ἐς δὲ τὰ Ἱεροσόλυμα πόλιν αὐτοῦ ἀντὶ τῆς κατασκαφείσης οἰκίσαντος, ἣν καὶ Αἰλίαν Καπιτωλῖναν ὠνόμασε, καὶ ἐς τὸν τοῦ ναοῦ τοῦ θεοῦ τόπον ναὸν τῷ Διὶ ἕτερον ἀντεγείραντος πόλεμος οὔτε μικρὸς οὔτ᾽ ὀλιγοχρόνιος ἐκινήθη. Ἰουδαῖοι γὰρ δεινόν τι ποιούμενοι τὸ ἀλλοφύλους τινὰς ἐς τὴν πόλιν σφῶν οἰκισθῆναι καὶ τὸ ἱερὰ ἀλλότρια ἐν αὐτῇ ἱδρυθῆναι
+  - *Translation:* At Jerusalem he founded a city in place of the one which had been razed to the ground, naming it Aelia Capitolina, and on the site of the temple of the god he raised a new temple to Jupiter. This brought on a war of no slight importance nor of brief duration, for the Jews deemed it intolerable that foreign races should be settled in their city and foreign religious rites planted there. (Cary)
+  - *Note:* Book 69 survives only in Xiphilinus' 11th-c. epitome.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0593:book=69:chapter=12:section=1> ; <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/69*.html>
+- **Dio 69.14.1-2**: Cassius Dio (tr. Cary)
+  - *Original:* φρούρια μὲν αὐτῶν πεντήκοντα τά γε ἀξιολογώτατα, κῶμαι δὲ ἐνακόσιαι καὶ ὀγδοήκοντα καὶ πέντε ὀνομαστόταται κατεσκάφησαν, ἄνδρες δὲ ὀκτὼ καὶ πεντήκοντα μυριάδες ἐσφάγησαν ... ὥστε πᾶσαν ὀλίγου δεῖν τὴν Ἰουδαίαν ἐρημωθῆναι
+  - *Translation:* Fifty of their most important outposts and nine hundred and eighty-five of their most famous villages were razed to the ground. Five hundred and eighty thousand men were slain in the various raids and battles ... Thus nearly the whole of Judaea was made desolate. (Cary)
+  - *Note:* Apparatus: κατεσκάφησαν (Zonaras) vs κατεστράφησαν (Xiphilinus).
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0593:book=69:chapter=14:section=1> ; <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/69*.html>
+- **HE 4.6.4**: Eusebius, Ecclesiastical History (tr. A. C. McGiffert, NPNF 2nd ser. vol. 1, 1890, via CCEL)
+  - *Original:* [Greek not retrieved]
+  - *Translation:* And thus, when the city had been emptied of the Jewish nation and had suffered the total destruction of its ancient inhabitants, it was colonized by a different race, and the Roman city which subsequently arose changed its name and was called Aelia, in honor of the emperor Aelius Adrian. (McGiffert)
+  - *Note:* Eusebius puts the colony AFTER the war (HE 4.6.3: after the fall of Bethar Jews were banned from the district), unlike Dio 69.12, where the foundation causes the war.
+  - *URL:* <https://www.ccel.org/ccel/schaff/npnf201.iii.ix.vi.html>
+- **RPC III 3964**: Coin: Roman Provincial Coinage III no. 3964 (Aelia Capitolina, Hadrian; = Meshorer, Aelia 2; Kadman, Aelia 1; specimen BMC Palestine Aelia 2)
+  - *Original:* Obv. IMP CAES TRAIANO HADRIANO AVG P P; Rev. COL (A)EL KAPIT COND
+  - *Translation:* Obv.: "To Emperor Caesar Trajan Hadrian Augustus, father of the fatherland"; laureate, draped and cuirassed bust of Hadrian. Rev.: "the colony of Aelia Capitolina, founded" (col(onia) Ael(ia) Kapit(olina) cond(ita); RPC notes it may stand for Coloniae Aeliae Capitolinae conditori, "to the founder of the colony"); veiled figure ploughing right with two oxen; behind, vexillum. Copper alloy, avg. 23 mm, 10.24 g; 31 specimens recorded.
+  - *Note:* RPC III 3963 (same issue) has rev. COL AEL KAP with a temple enclosing Minerva, Jupiter seated and Juno (Capitoline triad). The RPC page gives no year within Hadrian's reign. The legionary number on the vexillum is unread (LEV/LXF proposed).
+  - *URL:* <https://rpc.ashmus.ox.ac.uk/coins/3/3964>
+- **m. Taanit 4:6**: Mishnah Taanit (Hebrew text: Torat Emet via Sefaria; tr. mine)
+  - *Original:* בְּתִשְׁעָה בְאָב נִגְזַר עַל אֲבוֹתֵינוּ שֶׁלֹּא יִכָּנְסוּ לָאָרֶץ, וְחָרַב הַבַּיִת בָּרִאשׁוֹנָה וּבַשְּׁנִיָּה, וְנִלְכְּדָה בֵיתָר, וְנֶחְרְשָׁה הָעִיר.
+  - *Translation:* On the Ninth of Av it was decreed against our fathers that they should not enter the Land, and the House [Temple] was destroyed the first and the second time, and Betar was captured, and the city was ploughed.
+  - *Note:* The Mishnah says "the city" (העיר) was ploughed, not the Temple. It puts both destructions on 9 Av (Josephus: 10 Lous/Ab). The same Mishnah lists for 17 Tammuz: "Apostomos burned the Torah and set up an idol (צלם) in the Heikhal".
+  - *URL:* <https://www.sefaria.org/Mishnah_Taanit.4.6>
+- **b. Taanit 29a**: Babylonian Talmud, Taanit (Aramaic/Hebrew: William Davidson edition via Sefaria; tr. mine)
+  - *Original:* נֶחֶרְשָׁה הָעִיר — תַּנְיָא: כְּשֶׁחָרַשׁ טוֹרָנוּסְרוּפוּס הָרָשָׁע אֶת הַהֵיכָל, נִגְזְרָה גְּזֵרָה עַל רַבָּן גַּמְלִיאֵל לַהֲרִיגָה.
+  - *Translation:* "The city was ploughed": it was taught [in a baraita]: When the wicked Turnus Rufus ploughed the Heikhal [Sanctuary], a decree was issued against Rabban Gamliel to execute him.
+  - *Note:* Here the object ploughed is the Heikhal (Temple). Turnus Rufus = Q. Tineius Rufus, governor of Judaea at the outbreak of the revolt (identification from other sources).
+  - *URL:* <https://www.sefaria.org/Taanit.29a>
+- **In Zach. 2, on Zech 8:18-19 (PL 25, c. col. 1475-1476)**: Jerome, Commentary on Zechariah (Latin: Migne PL 25 [Vallarsi text], OCR of archive.org scan; tr. mine)
+  - *Original:* In hoc mense, et a Nabuchodonosor, et multa post saecula a Tito et Vespasiano, templum Jerosolymis incensum est, atque destructum, capta urbs Bether, ad quam multa millia confugerant Judaeorum, aratum templum in ignominiam gentis oppressae, a Turannio Rufo.
+  - *Translation:* In this month [the fifth, Av], both by Nebuchadnezzar and many centuries later by Titus and Vespasian, the Temple at Jerusalem was burned and destroyed; the city of Bether, to which many thousands of Jews had fled, was taken; the Temple was ploughed, to the disgrace of the conquered nation, by Turannius Rufus.
+  - *Note:* Editor's note (d) in PL 25: earlier printed editions read "Tito Annio Rufo"; Vallarsi emended to "Turannio Rufo", citing the Talmudic Turnus Rufus. So "T. Annius Rufus" is the older printed reading. Note (c) concerns Bether/Bethel. Column number estimated from OCR column markers (1475-1478 nearby); verify on the printed page.
+  - *URL:* <https://archive.org/details/patrologiaecurs07goog>
+
+
+## E10. Onias IV's temple at Leontopolis in Egypt
+
+*Date:* founded c. 160s-150s BCE; closed 73/74 CE
+
+**Bottom line.** Josephus reports that Onias (son of the high priest Onias) petitioned Ptolemy VI and Cleopatra II to rebuild a ruined temple at Leontopolis in the Heliopolite nome as a temple to God, **citing Isaiah's prophecy of "an altar in Egypt to the Lord God"** (cf. LXX Isa 19:19). Antiquities says it imitated the Jerusalem temple but was smaller and poorer; War says it was not like Jerusalem's but like a tower 60 cubits high. Vespasian ordered it destroyed; Lupus closed it and Paulinus stripped and sealed it, **343 years** after its founding (Josephus' figure).
+
+- **Ant. 13.62-64**: Josephus, Antiquities (Greek ed. Niese; tr. Whiston)
+  - *Original:* τοῦτο δ᾽ ἐβούλετο θαρρῶν μάλιστα τῷ προφήτῃ Ἡσαΐᾳ, ὃς ἔμπροσθεν ἔτεσιν ἑξακοσίοις πλέον γεγονὼς προεῖπεν, ὡς δεῖ πάντως ἐν Αἰγύπτῳ οἰκοδομηθῆναι ναὸν τῷ μεγίστῳ θεῷ ὑπ᾽ ἀνδρὸς Ἰουδαίου.
+  - *Translation:* ...relying chiefly on the prophet Isaiah, who lived above six hundred years before, and foretold that there certainly was to be a temple built to Almighty God in Egypt by a man that was a Jew. (Whiston)
+  - *Note:* Josephus' paraphrase adds "by a Jewish man", which is not in Isaiah 19.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0145:book=13:section=64> ; <https://archive.org/details/antiquitiesofthe02848gut>
+- **Ant. 13.65-68; LXX Isa 19:18-19**: Josephus, Antiquities (Greek ed. Niese; tr. Whiston); LXX Isaiah (Brenton Greek and English)
+  - *Original:* [Ant 13.66] ἐπιτηδειότατον εὑρὼν τόπον ἐν τῷ προσαγορευομένῳ τῆς ἀγρίας Βουβάστεως ὀχυρώματι ... [13.67] δέομαι συγχωρῆσαί μοι τὸ ἀδέσποτον ἀνακαθάραντι ἱερὸν καὶ συμπεπτωκὸς οἰκοδομῆσαι ναὸν τῷ μεγίστῳ θεῷ καθ᾽ ὁμοίωσιν τοῦ ἐν Ἱεροσολύμοις αὐτοῖς μέτροις ... [13.68] καὶ γὰρ Ἡσαΐας ὁ προφήτης τοῦτο προεῖπεν: ἔσται θυσιαστήριον ἐν Αἰγύπτῳ κυρίῳ τῷ θεῷ. || [LXX Isa 19:19] Τῇ ἡμερᾳ ἐκείνῃ ἔσται θυσιαστήριον τῷ Κυρίῳ ἐν χώρᾳ Αἰγυπτίων, καὶ στήλη πρὸς τὸ ὅριον αὐτῆς τῷ Κυρίῳ. [19:18] ... πόλις ἀσεδὲκ κληθήσεται ἡ μία πόλις.
+  - *Translation:* [Ant 13.66-68] Now I found a very fit place in a castle that hath its name from the country Diana [Gk. "the fortress of Bubastis of the fields"] ... I desire therefore that you will grant me leave to purge this holy place, which belongs to no master, and is fallen down, and to build there a temple to Almighty God, after the pattern of that in Jerusalem, and of the same dimensions ... for the prophet Isaiah foretold that "there should be an altar in Egypt to the Lord God". (Whiston) || [LXX Isa 19:19] In that day there shall be an altar to the Lord in the land of the Egyptians, and a pillar to the Lord by its border. [19:18] one city shall be called the city of Asedec. (Brenton)
+  - *Note:* Location: Leontopolis in the Heliopolite nome (13.65, 13.70). LXX 19:18 "city of Asedek" (righteousness) differs from the Hebrew "city of destruction / of the sun".
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0145:book=13:section=68> ; <https://archive.org/details/antiquitiesofthe02848gut> ; <https://ebible.org/find/details.php?id=grcbrent>
+- **Ant. 13.70-73**: Josephus, Antiquities (Greek ed. Niese; tr. mine)
+  - *Original:* [13.71] ἐπεὶ δὲ σὺ φῂς Ἡσαΐαν τὸν προφήτην ἐκ πολλοῦ χρόνου τοῦτο προειρηκέναι, συγχωροῦμέν σοι ... [13.72] Λαβὼν οὖν τὸν τόπον ὁ Ὀνίας κατεσκεύασεν ἱερὸν καὶ βωμὸν τῷ θεῷ ὅμοιον τῷ ἐν Ἱεροσολύμοις, μικρότερον δὲ καὶ πενιχρότερον.
+  - *Translation:* [13.71, the king's reply] But since you say that the prophet Isaiah foretold this long ago, we grant it to you ... [13.72] So Onias took the place and built a temple and an altar to God like the one in Jerusalem, but smaller and poorer.
+  - *Note:* 13.73: Onias found priests and Levites of like mind to serve there.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0145:book=13:section=72>
+- **BJ 7.421, 7.427, 7.431-436**: Josephus, Jewish War (Greek ed. Niese; tr. mine)
+  - *Original:* [7.421] προσέταξε τῷ Λούππῳ τὸν ἐν τῇ Ὀνίου καλουμένῃ νεὼν καθελεῖν τῶν Ἰουδαίων. [7.427] Ὀνίας τὸν μὲν ναὸν οὐχ ὅμοιον ᾠκοδόμησε τῷ ἐν Ἱεροσολύμοις, ἀλλὰ πύργῳ παραπλήσιον λίθων μεγάλων εἰς ἑξήκοντα πήχεις ἀνεστηκότα [7.432] ἐγεγόνει δέ τις καὶ παλαιὰ πρόρρησις ἔτεσί που πρόσθεν ἑξακοσίοις: Ἡσαΐας ὄνομα τῷ προαγορεύσαντι τοῦδε τοῦ ναοῦ τὴν ἐν Αἰγύπτῳ γενησομένην ὑπ᾽ ἀνδρὸς Ἰουδαίου κατασκευήν. [7.435] ... ὡς μηδ᾽ ἴχνος ἔτι τῆς εἰς τὸν θεὸν θεραπείας ἐν τῷ τόπῳ καταλιπεῖν. [7.436] χρόνος ἦν εἰς τὴν ἀπόκλεισιν τοῦ ναοῦ γεγονὼς ἀπὸ τῆς κατασκευῆς ἔτη τρία καὶ τεσσαράκοντα καὶ τριακόσια.
+  - *Translation:* [7.421] [Vespasian] ordered Lupus to demolish the Jewish temple in the so-called [district] of Onias. [7.427] Onias built the temple not like the one in Jerusalem but resembling a tower, of large stones, rising to sixty cubits. [7.432] There had also been an ancient prophecy some six hundred years before; Isaiah was the name of the one who foretold that this temple would be built in Egypt by a Jewish man. [7.433-435] Lupus removed some dedications and shut the temple; his successor Paulinus took all the dedications, barred the gates and made it wholly inaccessible, so as to leave no trace of the worship of God in the place. [7.436] The time from its building to its closing was 343 years.
+  - *Note:* Josephus says Lupus was ordered to demolish it, but reports only closure and stripping. 7.431: Josephus claims Onias acted out of rivalry with Jerusalem. The figure of 343 years does not fit a 2nd-c. BCE foundation; Josephus gives no explanation.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0147:book=7:section=421> ; <https://archive.org/details/thewarsofthejews02850gut>
+
+
+## E11. Egypt: fall of Apries (Hophra), prosperity under Amasis, Persian reconquest
+
+*Date:* 570 BCE (Apries deposed); c. 570-526 (Amasis); 343/2 BCE (Nectanebo II flees)
+
+**Bottom line.** Herodotus: Apries was deposed in an Egyptian revolt led by Amasis, defeated at Momemphis, handed over to the Egyptians and **strangled by them** (he had thought "not even a god could depose him"). **Herodotus does not mention Nebuchadnezzar**, and says Egypt reached its **greatest prosperity** under Amasis (20,000 inhabited cities). Josephus, by contrast, says that in Nebuchadnezzar's 23rd year he invaded Egypt, killed the reigning king and set up another. Diodorus: Nectanebo II fled to Ethiopia before Artaxerxes III, who tore down the walls of the main cities and plundered the temples. **Diodorus does not call Nectanebo the "last native king"**; that is a modern inference from the later succession of Persian, Macedonian, Ptolemaic and Roman rulers.
+
+- **Hdt. 2.161.2-4**: Herodotus (tr. Godley)
+  - *Original:* ὃς μετὰ Ψαμμήτιχον τὸν ἑωυτοῦ προπάτορα ἐγένετο εὐδαιμονέστατος τῶν πρότερον βασιλέων, ἐπ᾽ ἔτεα πέντε καὶ εἴκοσι ἄρξας, ἐν τοῖσι ἐπί τε Σιδῶνα στρατὸν ἤλασε καὶ ἐναυμάχησε τῷ Τυρίῳ. ... ἀποπέμψας γὰρ στράτευμα ὁ Ἀπρίης ἐπὶ Κυρηναίους μεγαλωστὶ προσέπταισε, Αἰγύπτιοι δὲ ταῦτα ἐπιμεμφόμενοι ἀπέστησαν ἀπ᾽ αὐτοῦ
+  - *Translation:* He was more fortunate than any former king (except his great-grandfather Psammetichus) during his rule of twenty-five years, during which he sent an army against Sidon and fought at sea with the king of Tyre. ... Apries sent a great force against Cyrene and suffered a great defeat. The Egyptians blamed him for this and rebelled against him. (Godley)
+  - *Note:* 2.162: Amasis proclaimed king by the rebels; 2.163: Apries' 30,000 Carian and Ionian mercenaries; palace at Sais.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0125:book=2:chapter=161> ; <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0126:book=2:chapter=161>
+- **Hdt. 2.169.1-3**: Herodotus (tr. Godley)
+  - *Original:* Ἀπρίεω δὲ λέγεται εἶναι ἥδε διάνοια, μηδ᾽ ἂν θεόν μιν μηδένα δύνασθαι παῦσαι τῆς βασιληίης ... καὶ δὴ τότε συμβαλὼν ἑσσώθη καὶ ζωγρηθεὶς ἀπήχθη ἐς Σάιν πόλιν ... τέλος δὲ μεμφομένων Αἰγυπτίων ... παραδιδοῖ τὸν Ἀπρίην τοῖσι Αἰγυπτίοισι. οἳ δέ μιν ἀπέπνιξαν καὶ ἔπειτα ἔθαψαν ἐν τῇσι πατρωίῃσι ταφῇσι
+  - *Translation:* Apries, they say, supposed that not even a god could depose him from his throne, so firmly did he think he was established; and now, defeated in battle and taken captive, he was brought to Saïs ... But presently the Egyptians complained that there was no justice in keeping alive one who was their own and their king's bitterest enemy; whereupon Amasis gave Apries up to them, and they strangled him and then buried him in the burial-place of his fathers. (Godley)
+  - *Note:* Apries is killed by his own Egyptian enemies, "those who sought his life" (cf. Jer 44:30), with no Babylonian role in Herodotus.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0125:book=2:chapter=169> ; <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0126:book=2:chapter=169>
+- **Hdt. 2.177.1**: Herodotus (tr. Godley)
+  - *Original:* ἐπ᾽ Ἀμάσιος δὲ βασιλέος λέγεται Αἴγυπτος μάλιστα δὴ τότε εὐδαιμονῆσαι καὶ τὰ ἀπὸ τοῦ ποταμοῦ τῇ χώρῃ γινόμενα καὶ τὰ ἀπὸ τῆς χώρης τοῖσι ἀνθρώποισι, καὶ πόλις ἐν αὐτῇ γενέσθαι τὰς ἁπάσας τότε δισμυρίας τὰς οἰκεομένας.
+  - *Translation:* It is said that in the reign of Amasis Egypt attained to its greatest prosperity, in respect of what the river did for the land and the land for its people: and that the number of inhabited cities in the country was twenty thousand. (Godley)
+  - *Note:* Herodotus does NOT support a period of Egyptian desolation in the 6th century; he reports the opposite.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0125:book=2:chapter=177> ; <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0126:book=2:chapter=177>
+- **Ant. 10.180-182**: Josephus, Antiquities (Greek ed. Niese; tr. Whiston)
+  - *Original:* τῷ γὰρ πέμπτῳ τῆς Ἱεροσολύμων πορθήσεως ἔτει, ὅ ἐστι τρίτον καὶ εἰκοστὸν τῆς Ναβουχοδονοσόρου βασιλείας, στρατεύει Ναβουχοδονόσορος ἐπὶ τὴν κοίλην Συρίαν ... ἐνέβαλεν εἰς τὴν Αἴγυπτον καταστρεψόμενος αὐτήν, καὶ τὸν μὲν τότε βασιλέα κτείνει, καταστήσας δὲ ἕτερον τοὺς ἐν αὐτῇ πάλιν Ἰουδαίους αἰχμαλωτίσας ἤγαγεν εἰς Βαβυλῶνα.
+  - *Translation:* for on the fifth year after the destruction of Jerusalem, which was the twenty-third of the reign of Nebuchadnezzar, he made an expedition against Celesyria ... he fell upon Egypt, in order to overthrow it; and he slew the king that then reigned and set up another; and he took those Jews that were there captives, and led them away to Babylon. (Whiston)
+  - *Note:* Conflicts with Herodotus 2.169 (Apries killed by Egyptians under Amasis). Josephus presents this as fulfilment of Jeremiah's prophecy (10.180).
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0145:book=10:section=182> ; <https://archive.org/details/antiquitiesofthe02848gut>
+- **Diod. 16.51.1-3**: Diodorus Siculus (Greek ed. Vogel-Fischer via Perseus; tr. Oldfather, Loeb, via LacusCurtius)
+  - *Original:* ἐν δὲ τῇ Μέμφει διατρίβων ὁ βασιλεὺς Νεκτανεβὼς ... ἀπογνοὺς οὖν τὴν βασιλείαν καὶ τὰ πλεῖστα τῶν χρημάτων ἀναλαβὼν ἔφυγεν εἰς τὴν Αἰθιοπίαν. Ἀρταξέρξης δὲ παραλαβὼν πᾶσαν τὴν Αἴγυπτον καὶ τῶν ἀξιολογωτάτων πόλεων τὰ τείχη περιελὼν τὰ μὲν ἱερὰ συλήσας ἤθροισεν ἀργύρου τε καὶ χρυσοῦ πλῆθος, ἀπήνεγκε δὲ καὶ τὰς ἐκ τῶν ἀρχαίων ἱερῶν ἀναγραφάς
+  - *Translation:* But King Nectanebôs, while still tarrying in Memphis and perceiving the trend of the cities toward betrayal, did not dare risk battles for his dominion. So giving up hope of his kingship and taking with him the greater part of his possessions, he fled into Aethiopia. Artaxerxes, after taking over all Egypt and demolishing the walls of the most important cities, by plundering the shrines gathered a vast quantity of silver and gold, and he carried off the inscribed records from the ancient temples ... having installed Pherendates as satrap of Egypt, he returned with his army to Babylon. (Oldfather)
+  - *Note:* Diodorus narrates this before the archonship of Callimachus (349/8 BCE) in his own chronology; the usual modern date is 343/2 BCE. He does NOT say Nectanebo was the last native king.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0083:book=16:chapter=51:section=1> ; <https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Diodorus_Siculus/16C*.html>
+
+
+## E12. Herod's rebuilding of the Temple
+
+*Date:* begun in Herod's 18th year (20/19 BCE); sanctuary 1 yr 5 months; courts 8 years
+
+**Bottom line.** Josephus: Herod began in his 18th year; the Second Temple was 60 cubits lower than Solomon's because Cyrus and Darius fixed its dimensions; Herod rebuilt on new foundations with white stones about 25 x 8 x 12 cubits (War gives some stones as 45 x 5 x 6 cubits); a golden vine; huge porticoes; "the greatest wall ever heard of". The outside was covered with heavy gold plates and from afar looked "like a mountain covered with snow". Gifts: Herod hung up "barbarian spoils"; Alexander (the Alexandrian alabarch, father of Tiberius Alexander) plated nine gates with gold and silver; vessels were sent by Augustus and his wife, and "the Roman emperors always honoured and adorned the Temple"; Jewish leaders in 66 CE said their forefathers had adorned it "mostly from foreigners' gifts". The Bavli: "Whoever has not seen Herod's building has never seen a beautiful building."
+
+- **Ant. 15.380; 15.385-386**: Josephus, Antiquities (Greek ed. Niese; tr. mine)
+  - *Original:* [15.380] Τότε δ᾽ οὖν ὀκτωκαιδεκάτου τῆς Ἡρώδου βασιλείας γεγονότος ἐνιαυτοῦ ... τὸν νεὼν τοῦ θεοῦ δι᾽ αὐτοῦ κατασκευάσασθαι μείζω τε τὸν περίβολον καὶ πρὸς ὕψος ἀξιοπρεπέστερον ἐγείρειν [15.385] ... ἐνδεῖ δ᾽ αὐτῷ πρὸς τὸ μέγεθος εἰς ὕψος ἑξήκοντα πήχεις: τοσοῦτον γὰρ ὑπερεῖχεν ὁ πρῶτος ἐκεῖνος, ὃν Σολομῶν ἀνῳκοδόμησεν. [15.386] ... ἀλλὰ ταῦτα καὶ Κῦρος καὶ Δαρεῖος ὁ Ὑστάσπου τὰ μέτρα τῆς δομήσεως ἔδοσαν
+  - *Translation:* [15.380] In the eighteenth year of his reign Herod undertook no ordinary work: to build the temple of God himself, enlarging its precinct and raising it to a more worthy height. [15.385, Herod's speech] Our fathers built this temple after the return from Babylon, but it falls short in height by sixty cubits, for that is how much the first one, built by Solomon, exceeded it. [15.386] ... Cyrus and Darius son of Hystaspes fixed the dimensions of the building.
+  - *Note:* Relevant to Haggai 2:3, 9 (the "former glory" vs. "latter glory"). Josephus War 1.401 gives Herod's 15th year instead (not collected here).
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0145:book=15:section=380>
+- **Ant. 15.391-392, 15.395-396, 15.402**: Josephus, Antiquities (tr. mine)
+  - *Original:* [15.391] Ἀνελὼν δὲ τοὺς ἀρχαίους θεμελίους καὶ καταβαλόμενος ἑτέρους ἐπ᾽ αὐτῶν ναὸν ἤγειρεν μήκει μὲν ἑκατὸν ὄντα πηχῶν [15.392] ᾠκοδομήθη δὲ ὁ ναὸς ἐκ λίθων λευκῶν τε καὶ κραταιῶν τὸ μέγεθος ἑκάστων περὶ πέντε καὶ εἴκοσι πήχεις ἐπὶ μῆκος, ὀκτὼ δὲ ὕψος, εὖρος δὲ περὶ δώδεκα. [15.395] ἄμπελος διετέτατο χρυσῆ [15.396] ... αὐτὸ δὲ τὸ τεῖχος ἔργον μέγιστον ἀνθρώποις ἀκουσθῆναι. [15.402] τοῦ δ᾽ ἱεροῦ παντὸς ἦν ἐν κύκλῳ πεπηγμένα σκῦλα βαρβαρικά, καὶ ταῦτα πάντα βασιλεὺς Ἡρώδης ἀνέθηκεν προσθεὶς ὅσα καὶ τῶν Ἀράβων ἔλαβεν.
+  - *Translation:* [15.391] Removing the old foundations and laying others, he raised on them a sanctuary 100 cubits long. [15.392] The sanctuary was built of white, hard stones, each about 25 cubits long, 8 high and about 12 wide. [15.395] A golden vine was spread [above the gate]. [15.396] ... and the wall itself was the greatest work ever heard of among men. [15.402] All around the temple were fixed barbarian spoils, all dedicated by King Herod, who added those he had taken from the Arabs.
+  - *Note:* 15.412: the royal portico "a work more worth describing than any under the sun".
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0145:book=15:section=391>
+- **Ant. 15.420-421, 15.425**: Josephus, Antiquities (tr. mine)
+  - *Original:* [15.420] ... τὰ περὶ τὰς στοὰς καὶ τοὺς ἔξω περιβόλους ἐπραγματεύετο καὶ ταῦτ᾽ ᾠκοδόμησεν ἔτεσιν ὀκτώ. [15.421] Τοῦ δὲ ναοῦ διὰ τῶν ἱερέων οἰκοδομηθέντος ἐνιαυτῷ καὶ μησὶν πέντε ἅπας ὁ λαὸς ἐπληρώθη χαρᾶς [15.425] λέγεται δὲ κατ᾽ ἐκεῖνον τὸν καιρὸν οἰκοδομουμένου τοῦ ναοῦ τὰς μὲν ἡμέρας οὐχ ὕειν, ἐν δὲ ταῖς νυξὶ γίνεσθαι τοὺς ὄμβρους
+  - *Translation:* [15.420] He [Herod, not being a priest] took charge of the porticoes and the outer enclosures and built them in eight years. [15.421] When the sanctuary had been built by the priests in a year and five months, all the people were filled with joy. [15.425] It is said that while the sanctuary was being built it did not rain by day, but the rains came at night, so as not to hinder the work.
+  - *Note:* Work on the precinct continued long after (cf. John 2:20; Ant. 20.219 completion under Albinus, c. 63 CE - not collected here).
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0145:book=15:section=420>
+- **BJ 5.184-185, 5.201, 5.205, 5.222-224**: Josephus, Jewish War (Greek ed. Niese; tr. Whiston)
+  - *Original:* [5.201] Τῶν δὲ πυλῶν αἱ μὲν ἐννέα χρυσῷ καὶ ἀργύρῳ κεκαλυμμέναι πανταχόθεν ἦσαν ... μία δ᾽ ἡ ἔξωθεν τοῦ νεὼ Κορινθίου χαλκοῦ [5.205] ... τοῦτον δὲ ταῖς ἐννέα πύλαις ἐπέχεεν ὁ Τιβερίου πατὴρ Ἀλέξανδρος. [5.222] πλαξὶ γὰρ χρυσοῦ στιβαραῖς κεκαλυμμένος πάντοθεν ... [5.223] τοῖς γε μὴν ἀφικνουμένοις ξένοις πόρρωθεν ὅμοιος ὄρει χιόνος πλήρει κατεφαίνετο: καὶ γὰρ καθὰ μὴ κεχρύσωτο λευκότατος ἦν. [5.224] ... τῶν δ᾽ ἐν αὐτῷ λίθων ἔνιοι μῆκος πέντε καὶ τεσσαράκοντα πηχῶν ἦσαν, ὕψος πέντε, εὖρος δ᾽ ἕξ.
+  - *Translation:* [5.205] These nine gates had that silver and gold poured upon them by Alexander, the father of Tiberius. [5.222-223] for it was covered all over with plates of gold of great weight, and, at the first rising of the sun, reflected back a very fiery splendor ... But this temple appeared to strangers, when they were coming to it at a distance, like a mountain covered with snow; for as to those parts of it that were not gilt, they were exceeding white. [5.224] On its top it had spikes with sharp points, to prevent any pollution of it by birds sitting upon it. Of its stones, some of them were forty-five cubits in length, five in height, and six in breadth. (Whiston)
+  - *Note:* 5.184-185: the hilltop was originally barely large enough; Solomon walled the east side and later ages kept enlarging it. Alexander "father of Tiberius" = the Alexandrian Jewish alabarch, not a foreign king. Stone sizes differ from Ant. 15.392.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0147:book=5:section=222> ; <https://archive.org/details/thewarsofthejews02850gut>
+- **BJ 5.562-563; 2.412-413**: Josephus, Jewish War (Greek ed. Niese; tr. Whiston / mine)
+  - *Original:* [5.562] ἀπέσχετο δ᾽ οὐδὲ τῶν ὑπὸ τοῦ Σεβαστοῦ καὶ τῆς γυναικὸς αὐτοῦ πεμφθέντων ἀκρατοφόρων. [5.563] οἱ μέν γε Ῥωμαίων βασιλεῖς ἐτίμησάν τε καὶ προσεκόσμησαν τὸ ἱερὸν ἀεί, τότε δὲ ὁ Ἰουδαῖος καὶ τὰ τῶν ἀλλοφύλων κατέσπα. [2.412] φάμενοι τοὺς μὲν προγόνους αὐτῶν κεκοσμηκέναι τὸν ναὸν ἐκ τῶν ἀλλοφύλων τὸ πλέον ἀεὶ προσδεχομένους τὰς ἀπὸ τῶν ἔξωθεν ἐθνῶν δωρεάς
+  - *Translation:* [5.562-563] nay, he [John of Gischala] did not abstain from those pouring vessels that were sent them by Augustus and his wife; for the Roman emperors did ever both honor and adorn this temple; whereas this man, who was a Jew, seized upon what were the donations of foreigners. (Whiston) [2.412, tr. mine] saying that their forefathers had adorned the sanctuary mostly from foreigners, always accepting the gifts of outside nations.
+  - *Note:* Outside the requested range (War 5.184-227) but these are the passages that actually name gifts from foreign rulers.
+  - *URL:* <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0147:book=5:section=562> ; <https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0147:book=2:section=412> ; <https://archive.org/details/thewarsofthejews02850gut>
+- **b. Bava Batra 4a**: Babylonian Talmud, Bava Batra (William Davidson edition via Sefaria; tr. mine)
+  - *Original:* אָמְרִי: מִי שֶׁלֹּא רָאָה בִּנְיַן הוֹרְדוֹס, לֹא רָאָה בִּנְיָן נָאֶה [מִיָּמָיו]. בְּמַאי בַּנְיֵיהּ? אָמַר רַבָּה: בְּאַבְנֵי שִׁישָׁא וּמַרְמְרָא.
+  - *Translation:* They say: Whoever has not seen Herod's building has never seen a beautiful building [in his life]. With what did he build it? Rabbah said: with stones of white and green marble.
+  - *Note:* Same passage: Bava ben Buta advises Herod to rebuild the Temple as atonement; Herod considered covering it with gold but was advised to leave it because it looked like the waves of the sea. (The same saying occurs in b. Sukkah 51b.)
+  - *URL:* <https://www.sefaria.org/Bava_Batra.4a>
+
+
+## E13. Tobit 14:4 (which prophet foretold Nineveh's fall) and Eupolemus/Polyhistor on Jeremiah
+
+*Date:* Tobit: c. 3rd-2nd c. BCE; Eupolemus c. 158 BCE; Polyhistor 1st c. BCE; Eusebius c. 313 CE
+
+**Bottom line.** **Tobit 14:4 names Jonah in the short Greek recension (GI: Vaticanus/Alexandrinus) but Nahum in the long recension (GII: Sinaiticus)**; GI 14:8 repeats Jonah. The two recensions also disagree on who destroyed Nineveh (GI 14:15: "Nabuchodonosor and Assuerus"; GII 14:15: "Achiacharus king of Media"). Eusebius, Praep. Ev. 9.39, quoting Alexander Polyhistor, tells how Jeremiah, finding the Jews sacrificing to a golden idol "Baal", foretold the coming disaster; Nebuchadnezzar, hearing of the prophecy, called in Astibares king of the Medes. **Eusebius names Polyhistor, not Eupolemus, as the source of 9.39**; the attribution to Eupolemus is a modern inference.
+
+- **Tob 14:4 (GI); cf. 14:8, 14:15**: Tobit, Greek recension GI (Codex Vaticanus/Alexandrinus; Brenton Greek; Rahlfs BA text via CCAT LXX morph.; KJV Apocrypha English)
+  - *Original:* [14:4] Ἄπελθε εἰς τὴν Μηδίαν, τέκνον, ὅτι πέπεισμαι ὅσα ἐλάλησεν Ἰωνὰς ὁ προφήτης περὶ Νινευὴ, ὅτι καταστραφήσεται ... [14:8] ὅτι πάντως ἔσται ἃ ἐλάλησεν ὁ προφήτης Ἰωνάς. [14:15] τὴν ἀπώλειαν Νινευὴ, ἣν ᾐχμαλώτισεν Ναβουχοδονόσορ, καὶ Ἀσύηρος
+  - *Translation:* [14:4] Go into Media, my son, for I surely believe those things which Jonas the prophet spake of Nineve, that it shall be overthrown ... [14:8] And now, my son, depart out of Nineve, because that those things which the prophet Jonas spake shall surely come to pass. [14:15] But before he died he heard of the destruction of Nineve, which was taken by Nabuchodonosor and Assuerus. (KJV Apocrypha)
+  - *Note:* GI names JONAH. Brenton's Greek and Rahlfs' BA text agree on Ἰωνᾶς in 14:4.
+  - *URL:* <https://ebible.org/find/details.php?id=grcbrent> ; <https://ccat.sas.upenn.edu/gopher/text/religion/biblical/lxxmorph/22.TobitBA.mlxx> ; <https://ebible.org/eng-Brenton/>
+- **Tob 14:4 (GII); cf. 14:15**: Tobit, Greek recension GII (Codex Sinaiticus; Rahlfs S text via CCAT LXX morphological database, transcribed from Beta code; tr. mine)
+  - *Original:* [14:4] καὶ ἀπότρεχε εἰς Μηδίαν, ὅτι πιστεύω ἐγὼ τῷ ῥήματι τοῦ θεοῦ ἐπὶ Νινευη ἃ ἐλάλησεν Ναουμ, ὅτι πάντα ἔσται καὶ ἀπαντήσει ἐπὶ Ἀθουρ καὶ Νινευη ... [14:15] καὶ εἶδεν καὶ ἤκουσεν πρὸ τοῦ ἀποθανεῖν αὐτὸν τὴν ἀπώλειαν Νινευη καὶ εἶδεν τὴν αἰχμαλωσίαν αὐτῆς ἀγομένην εἰς Μηδίαν, ἣν ᾐχμαλώτισεν Ἀχιάχαρος ὁ βασιλεὺς τῆς Μηδίας
+  - *Translation:* [14:4] And hurry off to Media, for I believe the word of God concerning Nineveh which Nahum spoke, that all of it will happen and will come upon Assur and Nineveh ... [14:15] And before he died he saw and heard of the destruction of Nineveh, and saw its captives being led into Media, whom Achiacharus [Cyaxares] king of Media had taken captive.
+  - *Note:* GII names NAHUM. The CCAT file gives the Beta-code text (KAI\ A)PO/TREXE EI)S *MHDI/AN ... A(\ E)LA/LHSEN *NAOUM ...), here converted to Greek; accents simplified. GII 14:15 names the Median king Achiacharus; GI has "Nabuchodonosor and Assuerus". (The Babylonian Chronicle BM 21901, not collected here, names Umakishtar of the Medes together with Nabopolassar.)
+  - *URL:* <https://ccat.sas.upenn.edu/gopher/text/religion/biblical/lxxmorph/23.TobitS.mlxx>
+- **Praep. Ev. 9.39.1-5 (Viger p. 454b-455b)**: Alexander Polyhistor (attributed by modern scholars to Eupolemus) in Eusebius, Praeparatio Evangelica (Greek ed. E. H. Gifford 1903, vol. 1, OCR; tr. Gifford)
+  - *Original:* Εἶτα Ἰωναχείμ· ἐπὶ τούτου προφητεῦσαι Ἱερεμίαν τὸν προφήτην. Τοῦτον ὑπὸ τοῦ Θεοῦ ἀποσταλέντα καταλαβεῖν τοὺς Ἰουδαίους θυσιάζοντας εἰδώλῳ χρυσῷ, ᾧ εἶναι ὄνομα Βάαλ. Τοῦτον δὲ αὐτοῖς τὴν μέλλουσαν ἀτυχίαν δηλῶσαι. ... τὸν δὲ φάναι τοῖς ξύλοις τούτοις Βαβυλωνίοις ὀψοποιήσειν, καὶ σκάψειν τὰς τοῦ Τίγριδος καὶ Εὐφράτου διώρυχας αἰχμαλωτισθέντας. Τὸν δὲ τῶν Βαβυλωνίων βασιλέα ἀκούσαντα Ναβουχοδονόσορ τὰ ὑπὸ τοῦ Ἱερεμίου προμαντευθέντα παρακαλέσαι Ἀστιβάρην τὸν Μήδων βασιλέα συστρατεύειν αὐτῷ. ... ταύτην δὲ τὸν Ἱερεμίαν κατασχεῖν.
+  - *Translation:* Then Jonachim: in his time prophesied Jeremiah the prophet. He was sent by God, and found the Jews sacrificing to a golden image, the name of which was Baal. And he foreshowed to them the calamity which was to come. Jonachim then attempted to burn him alive: but he said that with that fuel they should cook food for the Babylonians, and as prisoners of war should dig the canals of the Tigris and Euphrates. When Nebuchadnezzar, king of the Babylonians, had heard of the predictions of Jeremiah, he summoned Astibares, the king of the Medes, to join him in an expedition. ... he first subdued Samaria, and Galilee, and Scythopolis, and the Jews who lived in the region of Gilead; and afterwards took Jerusalem, and made Jonachim, the king of the Jews, a prisoner. And the gold that was in the temple, and the silver and brass, they chose out and sent to Babylon, except the Ark and the tables that were in it: but this Jeremiah retained. (Gifford)
+  - *Note:* Eusebius introduces 9.39 as Polyhistor's mention of "the prophecy of Jeremiah" (margin: ΑΛΕΞ. ΠΟΛΥΙΣΤ.); the name Eupolemus does not appear in 9.39. Army: 180,000 foot, 120,000 horse, 10,000 chariots. The Greek was transcribed from noisy OCR and lightly normalised; check against the printed page.
+  - *URL:* <https://archive.org/details/evangelicaepraep01euse> ; <https://www.tertullian.org/fathers/eusebius_pe_09_book9.htm>
+
+
+## Not found or not fully verified
+
+- Diodorus 2.26-28 and 2.9.9 (Ctesias on Nineveh/Babylon) and Diodorus 19.94-98 (Nabataeans): **Greek text not retrieved** (the Perseus Greek Diodorus returned errors for Books 2 and 19; the Scaife viewer is behind a bot check). English (Loeb, via LacusCurtius) is given.
+- Gymnasium list from Babylon (c. 110 BCE; Haussoullier, Klio 9, 1909; SEG 7.39 - citation from memory, unverified): **text not found**. Klio vol. 9 is not on archive.org and PHI was not used.
+- OGIS 253: wording is transcribed from the noisy OCR of Dittenberger 1903; check against the printed page or another edition.
+- Jerome on Zech 8:19: column number in PL 25 estimated from OCR (c. 1475-1476). The modern standard edition (CCSL 76A) was not consulted.
+- Eusebius HE 4.6.4 and the Onomasticon: Greek not retrieved; English translations only.
+- Precise date of the Aelia Capitolina foundation coin (RPC III 3964): not given on the RPC page.
+- Factual notes on modern Tyre, later occupation of Nineveh, and the later history of Bozrah/Buseirah and Petra are from **general knowledge, not verified online** (UNESCO and Wikimedia refused automated access).
+- Translations marked "tr. mine" are literal working translations made for this file, not published versions.
+
+## Sites that refused automated access (not bypassed)
+
+- gutenberg.org: HTTP 503 with retry-after 21600 s (automated access refused). The same Gutenberg texts were used from archive.org copies (Chinnock's Arrian, Whiston's Josephus, Early Travels in Palestine).
+- scaife.perseus.org and the Scaife CTS API: bot check (Anubis); not bypassed. The Perseus hopper (perseus.tufts.edu) and PerseusDL GitHub raw files were used instead.
+- en.wikisource.org and wikidata.org APIs: refused ("too many requests"); not retried.
+- whc.unesco.org: HTTP 403.
+- documentacatholicaomnia.eu: connection failed.
+- PHI, web.archive.org, achemenet and trismegistos: not contacted, as instructed.
+- GitHub API listing for PerseusDL repositories is not enabled for this session; raw.githubusercontent.com files were fetched by name.
