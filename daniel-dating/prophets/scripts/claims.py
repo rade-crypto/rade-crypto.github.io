@@ -230,12 +230,12 @@ dict(id="D02", refs="Hos 3:4-5", target="Israel",
      prediction="The Israelites will dwell many days without king or prince, without sacrifice or pillar, without ephod "
                 "or teraphim; afterwards they will return and seek YHWH and 'David their king'.",
      event="No king or sacrifice after 70 CE; but also kingship and sacrifice existed 515 BCE-70 CE", event_date=70),
-dict(id="D03", refs="Jer 30:11; 46:28; Amos 9:8-9", target="Jacob/Israel among the nations",
+dict(id="D03", refs="Jer 30:11; 31:35-37; 46:28; Amos 9:8-9", target="Jacob/Israel among the nations",
      prediction="God will make a full end of the nations to which he scattered Israel, but not of Israel; Israel shaken "
                 "among the nations as in a sieve, yet not a pebble falls.",
      event="Survival of Jewish identity in dispersion; Assyria and Babylonia ended as states (as did many others)",
      event_date=100),
-dict(id="D04", refs="Isa 11:11-16; Amos 9:14-15; Ezek 37:21-22", target="Return from dispersion",
+dict(id="D04", refs="Isa 11:11-16; Jer 16:14-15; Ezek 36:24; 37:21-22; Amos 9:14-15", target="Return from dispersion",
      prediction="A second recovery of the remnant from Assyria, Egypt, Pathros, Cush, Elam, Shinar, Hamath and the "
                 "coastlands; Ephraim and Judah reunited and plunder Philistia, Edom, Moab, Ammon; the Sea of Egypt dried; "
                 "'they will never again be uprooted' (Amos 9:15).",

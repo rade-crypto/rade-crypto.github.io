@@ -60,8 +60,8 @@ R = [  # id, P, E, S, M, U, I, note
 ("C08",1,2,1,1,1,1,"Alexander, not Judah, sold Tyrians and Gazans"),
 ("D01",2,3,2,1,1,1,"Book attested before 70 CE (4Q174; 1 Macc), but 9:24-27 not in any scroll; timeline does not reach 70 CE without a gap"),
 ("D02",3,3,1,1,1,1,"In 4QXII; but kings and sacrifice existed 515 BCE-70 CE"),
-("D03",3,2,0,2,1,1,"Generic"),
-("D04",3,3,1,1,1,0,"Modern movement drew on the texts; same passages: plunder Philistia/Edom/Moab, dry the sea of Egypt"),
+("D03",3,3,1,2,2,0,"Survival as a distinct people through 2,500 yrs of dispersion; Assyria/Babylonia ended, Egypt/Persia did not; identity kept by communities holding these texts (I=0)"),
+("D04",3,3,2,2,2,0,"Texts in scrolls ~2,000 yrs before 1948 (1QIsa-a, Mas1d, 4QXII-g); return from Iraq, Egypt, Ethiopia, Iran, N. lands; no precedent for a return after ~1,800 yrs. Misses/open: one Davidic king (Ezek 37:22,24), Philistia/Edom/Moab and sea of Egypt (Isa 11:14-15); 'north' = Babylon in Jeremiah's usage (6:22); actors knew the texts (I=0)"),
 ]
 df = pd.DataFrame(R, columns=["id","P","E","S","M","U","I","note"])
 df["total"] = df[["P","E","S","M","U","I"]].sum(axis=1)

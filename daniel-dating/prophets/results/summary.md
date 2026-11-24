@@ -24,3 +24,9 @@ present or past (e.g. Amos 5:2 'fallen is virgin Israel', decades before 722). T
 heading (Isa 1:1), Ben Sira 48:24-25 (c. 190 BCE) and the Great Isaiah Scroll (one continuous book) - presents it
 as Isaiah's; language measurement cannot separate Isa 40-55 from Isa 1-39. Its date is undecided by the data;
 under the heading's date it ties Isa 8:1-4 for first place (score 12), under a 540s date it scores 10.
+
+Re-scoring of the dispersion/return prophecies (D03, D04) after a full look: they had been under-scored.
+Return (Isa 11:11-12; Jer 16:14-15; Ezek 36:24; 37:21-22; Amos 9:14-15): P3 E3 S2 M2 U2 I0 = 12, tied first,
+and the ONLY top case whose prior writing is physically proven (scrolls ~2,000 years before 1948).
+Weaknesses: the returnees knew and were moved by these texts; accompanying details (one Davidic king,
+Philistia/Edom/Moab, drying the sea of Egypt) have not happened. Survival (Jer 30:11; 31:35-37): 11.
