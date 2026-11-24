@@ -1,0 +1,25 @@
+id,label,span,years,words,words_per_decade,n_claims,checkable,hits,partial,misses,vague,accuracy,claims_per_decade,future
+8:3-4,Ram: Media-Persia expands,550-334 BCE,217,34,1.6,3,3,3,0,0,0,1.0,0.14,False
+8:5-8,Goat: Alexander; four horns,334-301 BCE,34,68,20.0,4,4,4,0,0,0,1.0,1.18,False
+8:9-12,Little horn: Antiochus IV,175-167 BCE,9,35,38.9,9,7,5,2,0,2,0.86,10.0,False
+8:13-14,2300 evening-mornings,167-164 BCE,4,27,67.5,1,1,0,1,0,0,0.5,2.5,False
+8:23-25,Interpretation: the bold-faced king,175-164 BCE,12,34,28.3,5,4,4,0,0,1,1.0,4.17,False
+11:2,Persia: 3 kings + a 4th rich king vs Greece,530-480 BCE,51,20,3.9,3,3,3,0,0,0,1.0,0.59,False
+(gap),Persia 479-337: nothing,479-337 BCE,143,0,0.0,0,0,0,0,0,0,,0.0,False
+11:3-4,Alexander and the partition,336-301 BCE,36,26,7.2,5,5,5,0,0,0,1.0,1.39,False
+11:5,Ptolemy I and Seleucus I,316-281 BCE,36,9,2.5,2,2,2,0,0,0,1.0,0.56,False
+11:6,Berenice's marriage and murder,252-246 BCE,7,22,31.4,5,5,5,0,0,0,1.0,7.14,False
+11:7-9,Ptolemy III's invasion (3rd Syrian War),246-240 BCE,7,34,48.6,5,5,5,0,0,0,1.0,7.14,False
+11:10-12,Antiochus III and Raphia,221-217 BCE,5,34,68.0,5,5,5,0,0,0,1.0,10.0,False
+11:13-16,"5th Syrian War: Panium, Sidon, Judea",202-198 BCE,5,57,114.0,6,5,5,0,0,1,1.0,12.0,False
+11:17,Cleopatra I given to Ptolemy V,197-193 BCE,5,16,32.0,3,3,3,0,0,0,1.0,6.0,False
+11:18-19,"Coastlands, Rome, death in Elymais",197-187 BCE,11,21,19.1,4,4,4,0,0,0,1.0,3.64,False
+11:20,Seleucus IV and the tax-collector,187-175 BCE,13,13,10.0,3,3,2,1,0,0,0.83,2.31,False
+11:21-24,Antiochus IV's accession and conduct,175-170 BCE,6,47,78.3,6,5,3,2,0,1,0.8,10.0,False
+11:25-28,First Egyptian campaign 170/169,170-169 BCE,2,50,250.0,6,6,5,1,0,0,0.92,30.0,False
+11:29-30a,Second campaign 168: Day of Eleusis,168-168 BCE,1,21,210.0,3,3,3,0,0,0,1.0,30.0,False
+11:30b-31,Persecution and the 'abomination',168-167 BCE,2,11,55.0,5,5,5,0,0,0,1.0,25.0,False
+11:32-35,"Martyrs, the wise, 'a little help'",167-166 BCE,2,37,185.0,5,4,3,1,0,1,0.88,25.0,False
+11:36-39,The king's religious self-exaltation,169-165 BCE,5,57,114.0,7,5,1,4,0,2,0.6,14.0,False
+11:40-45,'Time of the end': predicted final war and death,165-164 BCE,2,70,350.0,10,10,0,2,8,0,0.1,50.0,True
+12:11-12,"1,290 and 1,335 days",164-163 BCE,2,19,95.0,2,2,0,0,2,0,0.0,10.0,True

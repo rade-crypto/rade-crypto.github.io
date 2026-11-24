@@ -1,0 +1,167 @@
+vocab size 150
+units: 74 chunks: 2350 features: 170
+role
+DANIEL      8
+anchor     34
+control    11
+test       21
+Name: unit, dtype: int64
+                                                  text  anchor_date  loo_predicted       error
+                                               MT Amos         -760    -587.711433  172.288567
+                                              MT Hosea         -740    -466.774551  273.225449
+                                              MT Micah         -720    -517.606448  202.393552
+                                        MT Isaiah 1-39         -700    -452.815664  247.184336
+                                             MT Judges         -600    -525.869974   74.130026
+                                             MT Samuel         -600    -520.097005   79.902995
+                                           MT Jeremiah         -590    -557.117419   32.882581
+                                       MT Lamentations         -580    -495.683395   84.316605
+                                            MT Ezekiel         -580    -468.823297  111.176703
+                                              MT Kings         -570    -486.383986   83.616014
+                                       MT Isaiah 40-55         -540    -518.033779   21.966221
+                                             MT Haggai         -520    -635.068422 -115.068422
+                                      MT Zechariah 1-8         -518    -644.735612 -126.735612
+                                            MT Malachi         -460    -501.597087  -41.597087
+                                               MT Ezra         -400    -390.463968    9.536032
+                                           MT Nehemiah         -400    -381.615355   18.384645
+                                         MT Chronicles         -350    -475.692637 -125.692637
+                                             MT Esther         -300    -438.518238 -138.518238
+                Q Instruction (4Q415-418, 4Q423, 1Q26)         -175    -172.799116    2.200884
+                         Q Jubilees Hebrew (4Q216-224)         -160    -318.084608 -158.084608
+                         Q Mysteries (1Q27, 4Q299-301)         -150    -178.117335  -28.117335
+                                     Q MMT (4Q394-399)         -150    -188.447374  -38.447374
+              Q Apocryphon Jer./Ps-Ezekiel (4Q383-391)         -150    -311.475007 -161.475007
+                     Q Temple Scroll (11Q19-20, 4Q524)         -150    -411.051569 -261.051569
+                     Q Words of Luminaries (4Q504-506)         -150    -250.751628 -100.751628
+                                Q Berakhot (4Q286-290)         -100      65.060101  165.060101
+                           Q Community Rule (1QS, 4QS)         -100     -78.470165   21.529835
+                           Q Hodayot (1QHa, 4Q427-432)         -100    -168.181710  -68.181710
+       Q Songs of Sabbath Sacrifice (4Q400-407, 11Q17)         -100     -97.160289    2.839711
+         Q Rule of Congregation/Blessings (1QSa, 1QSb)         -100      29.113586  129.113586
+                   Q Damascus Document (CD, 4Q266-273)         -100    -218.538600 -118.538600
+Q Barkhi Nafshi & Songs of Sage (4Q434-438, 4Q510-511)          -75     -88.850901  -13.850901
+                         Q War Scroll (1QM, 4Q491-496)          -75    -213.330565 -138.330565
+          Q Pesharim & Florilegium (1QpHab, 4Q161-177)          -60    -314.268820 -254.268820
+Leave-one-text-out MAE = 106 years
+ridge alpha 335.9818286283781
+Leave-one-text-out period accuracy (text level) = 82%
+                                                  unit    role  n_chunks  anchor_date  loo_pred  pred_median  boot_lo  boot_hi  P_Classical  P_6th  P_Persian  P_Hellenistic
+                                               MT Amos  anchor         9       -760.0   -587.71      -617.93      NaN      NaN         0.42   0.54       0.02           0.02
+                                             MT Haggai  anchor         2       -520.0   -635.07      -616.63      NaN      NaN         0.14   0.85       0.02           0.00
+                                      MT Zechariah 1-8  anchor         8       -518.0   -644.74      -607.69      NaN      NaN         0.41   0.54       0.04           0.00
+                                              MT Jonah    test         3          NaN       NaN      -592.59  -647.78  -513.25         0.89   0.05       0.06           0.00
+                                           MT Jeremiah  anchor        99       -590.0   -557.12      -565.97      NaN      NaN         0.55   0.34       0.07           0.04
+                                          MT Zephaniah    test         3          NaN       NaN      -564.83  -663.48  -454.10         0.43   0.52       0.02           0.03
+                                     DSS-copy Jeremiah control        20          NaN       NaN      -555.58  -581.96  -499.15         0.10   0.86       0.01           0.03
+                                              MT Nahum    test         2          NaN       NaN      -553.89  -639.15  -472.41         0.51   0.47       0.01           0.01
+                                             MT Samuel  anchor       115       -600.0   -520.10      -553.48      NaN      NaN         0.70   0.07       0.21           0.03
+                               DSS-copy Minor Prophets control        56          NaN       NaN      -553.06  -618.68  -503.19         0.61   0.28       0.05           0.06
+                                               MT Joel    test         4          NaN       NaN      -550.20  -630.29  -474.49         0.75   0.10       0.12           0.03
+                                     MT Zechariah 9-14    test         6          NaN       NaN      -548.43  -654.65  -444.59         0.78   0.13       0.01           0.08
+                                             MT Judges  anchor        46       -600.0   -525.87      -547.55      NaN      NaN         0.84   0.06       0.08           0.02
+                                              MT Micah  anchor         6       -720.0   -517.61      -544.69      NaN      NaN         0.73   0.21       0.03           0.04
+                                               MT Ruth    test         6          NaN       NaN      -543.01  -597.82  -452.87         0.86   0.01       0.14           0.00
+                                            MT Ezekiel  anchor        87       -580.0   -468.82      -536.39      NaN      NaN         0.16   0.61       0.04           0.19
+                                        MT Isaiah 1-39  anchor        45       -700.0   -452.82      -532.82      NaN      NaN         0.40   0.34       0.05           0.21
+                                            MT Genesis    test        95          NaN       NaN      -525.45  -563.98  -452.73         0.70   0.17       0.10           0.03
+                                              MT Kings  anchor       119       -570.0   -486.38      -523.29      NaN      NaN         0.47   0.13       0.35           0.05
+                                              MT Hosea  anchor        10       -740.0   -466.77      -520.76      NaN      NaN         0.66   0.10       0.05           0.19
+                                       DSS-copy Samuel control        52          NaN       NaN      -520.18  -560.06  -437.86         0.84   0.03       0.10           0.03
+                                       MT Lamentations  anchor         6       -580.0   -495.68      -518.37      NaN      NaN         0.45   0.45       0.02           0.08
+                                       MT Isaiah 40-55  anchor        19       -540.0   -518.03      -517.90      NaN      NaN         0.49   0.35       0.05           0.11
+                                            MT Obadiah    test         1          NaN       NaN      -516.32  -645.95  -418.31         0.63   0.23       0.01           0.13
+                                      DSS-copy Ezekiel control         9          NaN       NaN      -516.09  -558.22  -365.18         0.03   0.92       0.00           0.05
+                                      MT Song_of_songs    test         5          NaN       NaN      -514.83  -584.99  -446.15         0.40   0.53       0.02           0.05
+                                       DSS-copy Isaiah control       149          NaN       NaN      -511.71  -582.86  -441.46         0.51   0.36       0.04           0.10
+                                      DSS-copy Genesis control        24          NaN       NaN      -497.97  -565.66  -434.53         0.69   0.16       0.09           0.06
+                                       MT Isaiah 56-66    test        12          NaN       NaN      -494.60  -532.97  -433.71         0.34   0.37       0.08           0.21
+                                           MT Daniel 8  DANIEL         1          NaN       NaN      -493.24  -586.33  -368.44         0.04   0.80       0.15           0.01
+                                            MT Malachi  anchor         3       -460.0   -501.60      -491.32      NaN      NaN         0.57   0.40       0.02           0.01
+                                                MT Job    test        36          NaN       NaN      -488.63  -560.24  -411.73         0.63   0.17       0.02           0.18
+                                             MT Joshua    test        48          NaN       NaN      -487.21  -528.36  -420.94         0.59   0.16       0.18           0.06
+                                      DSS-copy Numbers control        33          NaN       NaN      -478.89  -528.17  -412.58         0.47   0.29       0.06           0.18
+                                          MT Daniel 10  DANIEL         1          NaN       NaN      -470.05  -540.04  -372.64         0.09   0.63       0.26           0.03
+                                             MT Exodus    test        79          NaN       NaN      -465.16  -543.94  -386.99         0.51   0.23       0.05           0.21
+                                       DSS-copy Exodus control        86          NaN       NaN      -457.34  -544.63  -391.73         0.55   0.24       0.04           0.17
+                                           MT Habakkuk    test         2          NaN       NaN      -445.55  -584.49  -349.71         0.47   0.25       0.04           0.24
+                                            MT Numbers    test        77          NaN       NaN      -421.68  -498.65  -350.97         0.38   0.25       0.08           0.30
+                                         MT Chronicles  anchor       117       -350.0   -475.69      -416.55      NaN      NaN         0.55   0.04       0.34           0.07
+                                             MT Psalms    test        84          NaN       NaN      -411.33  -485.50  -357.11         0.29   0.27       0.07           0.37
+                                  DSS-copy Deuteronomy control        93          NaN       NaN      -403.25  -506.03  -317.25         0.34   0.26       0.04           0.37
+                                        MT Deuteronomy    test        67          NaN       NaN      -400.34  -504.55  -322.84         0.37   0.19       0.04           0.40
+                                               MT Ezra  anchor        12       -400.0   -390.46      -393.73      NaN      NaN         0.08   0.01       0.89           0.01
+                                             MT Esther  anchor        15       -300.0   -438.52      -393.38      NaN      NaN         0.37   0.11       0.48           0.04
+                                           MT Proverbs    test        29          NaN       NaN      -391.53  -478.59  -339.16         0.28   0.17       0.03           0.52
+                                           MT Nehemiah  anchor        26       -400.0   -381.62      -389.53      NaN      NaN         0.22   0.02       0.68           0.08
+                                           MT Daniel 9  DANIEL         2          NaN       NaN      -375.06  -437.27  -308.41         0.06   0.08       0.79           0.07
+                                Q Copper Scroll (3Q15)    test         3          NaN       NaN      -374.38  -468.82  -237.05         0.09   0.28       0.02           0.61
+                                           MT Daniel 1  DANIEL         1          NaN       NaN      -373.21  -465.75  -284.34         0.12   0.02       0.82           0.04
+                                          MT Leviticus    test        56          NaN       NaN      -350.21  -475.26  -227.49         0.18   0.26       0.01           0.55
+                                       MT Ecclesiastes    test        14          NaN       NaN      -349.76  -428.56  -271.65         0.17   0.28       0.13           0.42
+                        DSS-copy Daniel (Hebrew parts) control         6          NaN       NaN      -335.01  -408.17  -259.71         0.03   0.19       0.67           0.11
+                                        MT Daniel 8-12  DANIEL         9          NaN       NaN      -329.40  -391.70  -269.02         0.04   0.17       0.56           0.24
+                                    DSS-copy Leviticus control        36          NaN       NaN      -326.86  -466.71  -226.38         0.16   0.22       0.02           0.60
+                                MT Daniel (all Hebrew)  DANIEL        11          NaN       NaN      -312.96  -392.72  -260.95         0.07   0.11       0.62           0.21
+                         Q Jubilees Hebrew (4Q216-224)  anchor        19       -160.0   -318.08      -273.82      NaN      NaN         0.25   0.05       0.09           0.61
+                     Q Temple Scroll (11Q19-20, 4Q524)  anchor        55       -150.0   -411.05      -268.01      NaN      NaN         0.26   0.28       0.07           0.40
+              Q Apocryphon Jer./Ps-Ezekiel (4Q383-391)  anchor        13       -150.0   -311.48      -257.12      NaN      NaN         0.13   0.12       0.04           0.71
+          Q Pesharim & Florilegium (1QpHab, 4Q161-177)  anchor        32        -60.0   -314.27      -236.68      NaN      NaN         0.10   0.09       0.02           0.78
+                     Q Words of Luminaries (4Q504-506)  anchor         7       -150.0   -250.75      -225.95      NaN      NaN         0.01   0.03       0.04           0.92
+                Q Instruction (4Q415-418, 4Q423, 1Q26)  anchor        29       -175.0   -172.80      -185.86      NaN      NaN         0.00   0.00       0.00           0.99
+                         Q Mysteries (1Q27, 4Q299-301)  anchor         9       -150.0   -178.12      -165.23      NaN      NaN         0.01   0.00       0.00           0.99
+                   Q Damascus Document (CD, 4Q266-273)  anchor        54       -100.0   -218.54      -160.01      NaN      NaN         0.04   0.01       0.05           0.89
+                                     Q MMT (4Q394-399)  anchor         8       -150.0   -188.45      -156.41      NaN      NaN         0.01   0.01       0.00           0.97
+                         Q War Scroll (1QM, 4Q491-496)  anchor        31        -75.0   -213.33      -149.12      NaN      NaN         0.02   0.01       0.09           0.88
+                                          MT Daniel 11  DANIEL         3          NaN       NaN      -139.97  -288.01   -49.02         0.00   0.00       0.60           0.40
+                           Q Hodayot (1QHa, 4Q427-432)  anchor        50       -100.0   -168.18      -130.11      NaN      NaN         0.00   0.01       0.03           0.95
+                                          MT Daniel 12  DANIEL         1          NaN       NaN      -125.04  -267.75   -29.84         0.00   0.01       0.11           0.88
+       Q Songs of Sabbath Sacrifice (4Q400-407, 11Q17)  anchor        19       -100.0    -97.16      -101.51      NaN      NaN         0.00   0.01       0.00           0.99
+                           Q Community Rule (1QS, 4QS)  anchor        34       -100.0    -78.47      -101.11      NaN      NaN         0.00   0.00       0.00           1.00
+Q Barkhi Nafshi & Songs of Sage (4Q434-438, 4Q510-511)  anchor        12        -75.0    -88.85       -91.06      NaN      NaN         0.00   0.18       0.00           0.81
+                                Q Berakhot (4Q286-290)  anchor         4       -100.0     65.06       -29.29      NaN      NaN         0.00   0.00       0.00           1.00
+         Q Rule of Congregation/Blessings (1QSa, 1QSb)  anchor         5       -100.0     29.11       -14.63      NaN      NaN         0.00   0.00       0.00           1.00
+
+Most 'early' features:
+ vt:wayq       -17.9
+verbs/token   -17.7
+lex:BJT/      -15.0
+lex:N>M/      -13.8
+lex:>L        -12.0
+lex:KH        -11.6
+lex:HNH       -10.9
+vt:infa       -10.6
+lex:H=         -9.9
+lex:>T==       -9.8
+lex:K          -9.6
+lex:HLK[       -9.4
+lex:Z>T        -9.3
+lex:CM         -8.5
+lex:YB>/       -8.3
+
+Most 'late' features:
+ lex:<WLM/    10.5
+lex:BRJT/    10.6
+vt:infc      10.7
+vt:ptca      10.9
+lex:<MD[     11.3
+lex:KL/      11.5
+lex:QY/      11.9
+lex:KHN/     11.9
+lex:W        11.9
+lex:HJ>      12.5
+lex:B        13.5
+lex:HM       14.7
+vt:impf      16.5
+lex:L        17.3
+lex:>CR      20.1
+MT Daniel 8 -> [('MT Zechariah 1-8', 0.31692968594976667), ('MT Malachi', 0.18018418999026947), ('MT Haggai', 0.15785879321157809), ('MT Ezekiel', 0.14925445189368824), ('MT Isaiah 1-39', 0.1349312030308372)]
+MT Daniel 10 -> [('MT Haggai', 0.20514628491445802), ('MT Zechariah 1-8', 0.193179019666059), ('MT Esther', 0.15592919155833562), ('MT Jeremiah', 0.11715234057433134), ('MT Nehemiah', 0.11440545523169476)]
+MT Daniel 9 -> [('MT Jeremiah', 0.13018440670928744), ('Q Words of Luminaries (4Q504-506)', 0.12516084809722056), ('Q Pesharim & Florilegium (1QpHab, 4Q161-177)', 0.11666284740496623), ('MT Isaiah 40-55', 0.10974808222326188), ('MT Hosea', 0.09912092985392311)]
+MT Daniel 1 -> [('MT Esther', 0.3499871831969794), ('MT Chronicles', 0.2689739261882153), ('MT Ezra', 0.20155071639297004), ('MT Kings', 0.17739944854162867), ('MT Nehemiah', 0.16397422417767665)]
+MT Daniel 8-12 -> [('MT Nehemiah', 0.20819491761001813), ('MT Esther', 0.09673650999042431), ('Q Hodayot (1QHa, 4Q427-432)', 0.09383411146056758), ('MT Haggai', 0.09072574157638229), ('Q War Scroll (1QM, 4Q491-496)', 0.08526758528889819)]
+MT Daniel (all Hebrew) -> [('MT Nehemiah', 0.2318173715080756), ('MT Esther', 0.18306873390407846), ('MT Chronicles', 0.11901357510014807), ('MT Ezra', 0.09489741557637478), ('Q War Scroll (1QM, 4Q491-496)', 0.07930833215979614)]
+MT Daniel 11 -> [('Q War Scroll (1QM, 4Q491-496)', 0.1677400426042395), ('MT Nehemiah', 0.15477005748047415), ('Q Community Rule (1QS, 4QS)', 0.14120584081192927), ('Q Hodayot (1QHa, 4Q427-432)', 0.10133058432724104), ('Q Damascus Document (CD, 4Q266-273)', 0.09988763613252119)]
+MT Daniel 12 -> [('Q Community Rule (1QS, 4QS)', 0.1955250647804408), ('Q Instruction (4Q415-418, 4Q423, 1Q26)', 0.1521307451190156), ('Q Hodayot (1QHa, 4Q427-432)', 0.14766984754838428), ('MT Nehemiah', 0.12230406734604751), ('Q Pesharim & Florilegium (1QpHab, 4Q161-177)', 0.12146897337203633)]
+DSS-copy Daniel (Hebrew parts) -> [('MT Nehemiah', 0.16820920765674852), ('MT Esther', 0.16494041842822782), ('MT Zechariah 1-8', 0.15135322646469615), ('MT Ezekiel', 0.13118100328415624), ('MT Isaiah 40-55', 0.09842150874627943)]
+MT Ecclesiastes -> [('Q MMT (4Q394-399)', 0.29067088630802596), ('MT Lamentations', 0.193892909518541), ('MT Esther', 0.1817532631882675), ('Q Mysteries (1Q27, 4Q299-301)', 0.1647956257252844), ('MT Hosea', 0.1515156563694752)]
+MT Jonah -> [('MT Samuel', 0.3285387694695453), ('MT Judges', 0.27479263638444656), ('MT Kings', 0.19995499964010022), ('MT Zechariah 1-8', 0.14284278682954946), ('MT Haggai', 0.12432704364966508)]
+MT Isaiah 56-66 -> [('MT Isaiah 40-55', 0.6771222429558769), ('MT Hosea', 0.4555488464763469), ('MT Isaiah 1-39', 0.4463344791923889), ('MT Micah', 0.3755244143069866), ('MT Lamentations', 0.3626517967806484)]

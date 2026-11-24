@@ -1,0 +1,372 @@
+author_id,author,files,greek_tokens,corpora,approx_year_if_assigned
+ggm0001,Anonymous,1,387,First1KGreek,
+ogl0001,"Pinytus, Saint, Bishop of Knossos",1,70,First1KGreek,
+stoa0033a,Pseudo-Aristotle,2,9906,First1KGreek,50
+stoa0121,Eutropius,1,23886,First1KGreek,380
+stoa0146d,Hegemonius,1,2709,First1KGreek,
+tlg0001,Apollonius Rhodius,1,38889,canonical-greekLit,-250
+tlg0003,Thucydides,1,150157,canonical-greekLit,
+tlg0004,Diogenes Laertius,1,110164,canonical-greekLit,230
+tlg0005,Theocritus,3,21608,First1KGreek+canonical-greekLit,-270
+tlg0006,Euripides,20,172094,First1KGreek+canonical-greekLit,-420
+tlg0007,Plutarch,156,1111371,First1KGreek+canonical-greekLit,100
+tlg0008,Athenaeus of Naucratis,2,531178,canonical-greekLit,200
+tlg0010,Isocrates,30,119192,canonical-greekLit,-380
+tlg0011,Sophocles,10,83994,First1KGreek+canonical-greekLit,-440
+tlg0012,Homer,3,199839,canonical-greekLit,-750
+tlg0013,Homeric Hymns,33,16113,canonical-greekLit,-600
+tlg0014,Demosthenes,63,294408,canonical-greekLit,
+tlg0015,Herodian,1,46884,First1KGreek,240
+tlg0016,Herodotus,1,184943,canonical-greekLit,-430
+tlg0017,Isaeus,12,34638,canonical-greekLit,
+tlg0018,Philo Judaeus,31,576022,First1KGreek,30
+tlg0019,Aristophanes,11,102079,canonical-greekLit,-410
+tlg0020,Hesiod,3,16198,canonical-greekLit,-700
+tlg0022,Nicander of Colophon,2,10475,First1KGreek,
+tlg0023,Oppian,1,22761,canonical-greekLit,180
+tlg0024,Oppian of Apamea,1,13648,canonical-greekLit,
+tlg0026,Aeschines,4,50594,First1KGreek+canonical-greekLit,-345
+tlg0027,Andocides,4,18486,canonical-greekLit,
+tlg0028,Antiphon,6,19556,canonical-greekLit,
+tlg0029,Dinarchus,3,11706,canonical-greekLit,-320
+tlg0030,Hyperides,6,14354,canonical-greekLit,
+tlg0031,New Testament,28,138615,First1KGreek+canonical-greekLit,70
+tlg0032,Xenophon,14,312278,canonical-greekLit,-380
+tlg0033,Pindar,4,21306,canonical-greekLit,-470
+tlg0034,Lycurgus,1,11908,canonical-greekLit,
+tlg0035,Moschus,5,3428,canonical-greekLit,
+tlg0036,Bion of Phlossa,3,1814,canonical-greekLit,-100
+tlg0037,Anacharsis,1,1348,First1KGreek,-250
+tlg0039,Mithridatis Epistula,1,352,First1KGreek,
+tlg0041,Chionis Epistulae,1,5047,First1KGreek,
+tlg0044,Antiochus Epistolographus,1,478,First1KGreek,
+tlg0045,Artaxerxis Epistulae,1,630,First1KGreek,
+tlg0046,Niciae Epistula,1,786,First1KGreek,
+tlg0048,"Philip II, King of Macedonia",1,2456,First1KGreek,
+tlg0053,Phalaridis Epistulae,1,18944,First1KGreek,
+tlg0055,Themistocles,1,9180,First1KGreek,
+tlg0057,Galen,104,2505025,First1KGreek+canonical-greekLit,170
+tlg0058,Aeneas Tacticus,1,14079,canonical-greekLit,
+tlg0059,Plato,37,576506,First1KGreek+canonical-greekLit,-380
+tlg0060,Diodorus Siculus,3,383908,canonical-greekLit,-40
+tlg0061,Pseudo-Lucian,8,33868,First1KGreek,250
+tlg0062,Lucian of Samosata,88,365026,canonical-greekLit,160
+tlg0064,Hanno,1,652,First1KGreek,
+tlg0065,Scylax of Caryanda,1,8649,First1KGreek,
+tlg0066,"Heraclides, Criticus",1,2730,First1KGreek,
+tlg0067,Agatharchides,1,23881,First1KGreek,-140
+tlg0068,Pseudo-Scymnus,1,5610,First1KGreek,
+tlg0069,"Dionysius, Calliphontis",1,914,First1KGreek,
+tlg0070,"Isidore, of Charax",1,1223,First1KGreek,
+tlg0071,Pseudo-Arrianus,1,6275,First1KGreek,
+tlg0074,Arrian,7,113117,First1KGreek+canonical-greekLit,130
+tlg0075,Pseudo-Arrianus,1,5590,First1KGreek,
+tlg0077,Stadiasmus Magni Maris,1,5738,First1KGreek,
+tlg0081,Dionysius of Halicarnassus,18,442014,First1KGreek+canonical-greekLit,-20
+tlg0082,Apollonius Dyscolus,4,205234,First1KGreek,140
+tlg0083,Dionysius of Byzantium,1,210,First1KGreek,
+tlg0084,Dionysius Periegetes,1,7639,First1KGreek,
+tlg0085,Aeschylus,14,91640,First1KGreek+canonical-greekLit,
+tlg0086,Aristotle,55,1184202,First1KGreek+canonical-greekLit,-340
+tlg0087,Aelius Herodianus,34,463201,First1KGreek,170
+tlg0088,Aristoxenus,1,18218,First1KGreek,-320
+tlg0090,Agathemerus,6,11927,First1KGreek+canonical-greekLit,
+tlg0092,Anonymi Geographiae Expositio Compendiaria,1,4467,First1KGreek,
+tlg0093,Theophrastus,18,221684,First1KGreek+canonical-greekLit,-310
+tlg0094,Pseudo-Plutarch,3,30533,First1KGreek+canonical-greekLit,150
+tlg0096,Aesop,2,70880,First1KGreek,100
+tlg0097,Diogenianus of Heraclea,1,11251,First1KGreek,130
+tlg0098,Zenobius Sophista,1,20307,First1KGreek,130
+tlg0099,Strabo,2,324891,First1KGreek+canonical-greekLit,10
+tlg0199,Bacchylides,2,5493,canonical-greekLit,-470
+tlg0233,Hipponax,1,159,First1KGreek,
+tlg0284,"Aristides, Aelius",56,321374,canonical-greekLit,160
+tlg0317,Acta Joannis,2,20785,First1KGreek,
+tlg0319,Critias,1,3279,First1KGreek,-410
+tlg0341,Lycophron,1,7471,canonical-greekLit,
+tlg0357,Didymus Alexandrinus,2,1762,First1KGreek,
+tlg0358,Nicomachus of Gerasa,4,42555,First1KGreek,100
+tlg0361,Cleonides,1,5134,First1KGreek,150
+tlg0362,Carmina Delphis Inventa,1,1036,First1KGreek,-128
+tlg0363,Claudius Ptolemaeus,4,313756,First1KGreek+canonical-greekLit,150
+tlg0385,Cassius Dio Cocceianus,1,191365,canonical-greekLit,
+tlg0509,Myia,1,292,First1KGreek,
+tlg0521,Epicharmus,1,1691,First1KGreek,
+tlg0525,Pausanias,1,218200,canonical-greekLit,160
+tlg0526,Flavius Josephus,4,473559,canonical-greekLit,85
+tlg0527,Septuaginta,57,857146,First1KGreek,-150
+tlg0529,Arius Didymus,1,20855,First1KGreek,-10
+tlg0530,Pseudo-Galen,6,91941,First1KGreek,250
+tlg0532,Achilles Tatius,1,41668,canonical-greekLit,170
+tlg0533,Callimachus,17,23295,First1KGreek+canonical-greekLit,-260
+tlg0535,Demades,1,2112,canonical-greekLit,
+tlg0537,Epicurus,5,11782,First1KGreek,-300
+tlg0540,Lysias,34,58087,canonical-greekLit,
+tlg0541,Menander,3,2382,First1KGreek,
+tlg0542,Julius Pollux,1,111,First1KGreek,
+tlg0543,Polybius,1,312784,canonical-greekLit,-150
+tlg0544,Sextus Empiricus,2,221796,First1KGreek,180
+tlg0545,Aelian,4,157268,First1KGreek+canonical-greekLit,210
+tlg0548,Apollodorus,2,35195,canonical-greekLit,100
+tlg0550,Apollonius of Perga,1,8753,First1KGreek,
+tlg0551,Appianus of Alexandria,14,222611,canonical-greekLit,150
+tlg0552,Archimedes,13,108529,First1KGreek,
+tlg0553,Artemidorus,1,64301,First1KGreek,170
+tlg0554,Chariton of Aphrodisias,1,34859,canonical-greekLit,60
+tlg0555,Clement of Alexandria,9,299068,First1KGreek+canonical-greekLit,200
+tlg0556,Asclepiodotus,1,6664,canonical-greekLit,
+tlg0557,Epictetus,7,86575,First1KGreek+canonical-greekLit,108
+tlg0559,Hero of Alexandria,12,130497,First1KGreek,60
+tlg0560,Longinus,1,12682,canonical-greekLit,50
+tlg0561,Longus,1,19751,canonical-greekLit,200
+tlg0562,Marcus Aurelius,1,29267,canonical-greekLit,170
+tlg0563,Maximus of Tyre,1,99417,First1KGreek,160
+tlg0564,Rufus of Ephesus,1,7049,First1KGreek,
+tlg0565,Soranus,4,56825,First1KGreek,
+tlg0572,Gaius Romanus,1,929,First1KGreek,160
+tlg0575,Moschion Gnomologus,2,505,First1KGreek,
+tlg0579,Orphica,1,2423,First1KGreek,300
+tlg0580,Paradoxographus Florentinus,1,1209,First1KGreek,150
+tlg0591,Antisthenes,2,1431,First1KGreek,
+tlg0592,Hermogenes,5,101186,First1KGreek,180
+tlg0593,Gorgias of Leontini,2,3761,First1KGreek,
+tlg0594,Alexander Numenius,1,7210,First1KGreek,140
+tlg0606,Rufus Soph.,1,1466,First1KGreek,
+tlg0607,Aelius Theon,1,11514,First1KGreek,
+tlg0609,Tryphon I Grammaticus,1,2946,First1KGreek,
+tlg0610,Alcidamas,2,5998,First1KGreek,
+tlg0612,Dio Chrysostom,1,178575,canonical-greekLit,100
+tlg0613,Demetrius of Phaleron,1,15430,canonical-greekLit,-100
+tlg0614,Babrius,2,51997,First1KGreek,100
+tlg0615,Aspasius,1,80900,First1KGreek,130
+tlg0616,Polyaenus Macedo,2,90069,First1KGreek,163
+tlg0618,Antigoni Epistula,1,99,First1KGreek,
+tlg0620,Archytas of Tarentum,1,1032,First1KGreek,
+tlg0623,Cratetis Epistulae,1,3075,First1KGreek,0
+tlg0626,Heraclitus of Ephesus,1,2512,First1KGreek,-500
+tlg0627,Hippocrates,72,470800,First1KGreek+canonical-greekLit,-400
+tlg0628,Musonius Rufus,3,18015,First1KGreek,70
+tlg0629,Periander,1,109,First1KGreek,
+tlg0632,Pythagoras,1,212,First1KGreek,
+tlg0633,Lysis,1,511,First1KGreek,
+tlg0634,Xenocrates of Chalcedon,1,4569,First1KGreek,
+tlg0636,Socrates Epistulae,1,2993,First1KGreek,
+tlg0637,Socraticorum Epistulae,1,7699,First1KGreek,
+tlg0638,Philostratus the Athenian,6,151268,canonical-greekLit,220
+tlg0639,Menecrates Medicus,1,58,First1KGreek,
+tlg0640,Alciphron,1,31157,First1KGreek,200
+tlg0641,Xenophon of Ephesus,1,16476,canonical-greekLit,
+tlg0643,Anonymus Londinensis,4,21581,First1KGreek,
+tlg0644,Aristophanes of Byzantium,1,63503,First1KGreek,-200
+tlg0645,Justin Martyr,3,69841,First1KGreek,
+tlg0646,Pseudo-Justinus Martyr,1,2615,First1KGreek,
+tlg0647,Tryphiodorus,1,4235,canonical-greekLit,
+tlg0648,Onasander,1,12131,canonical-greekLit,
+tlg0649,Lesbonax (Rhetorician),2,2206,First1KGreek,
+tlg0652,Philostratus Minor,1,7217,canonical-greekLit,250
+tlg0653,Aratus Solensis,1,7768,canonical-greekLit,
+tlg0655,Parthenius of Nicaea,1,6550,canonical-greekLit,
+tlg0656,Dioscurides Pedianus,2,202299,First1KGreek,60
+tlg0657,Crateuas,1,557,First1KGreek,
+tlg0658,Heliodorus of Emesa,1,76365,First1KGreek,350
+tlg0666,Adrianus of Tyre,1,283,First1KGreek,
+tlg0671,Philumenus,1,11278,First1KGreek,
+tlg0676,"Aglaias, Byzantius",1,177,First1KGreek,
+tlg0693,Albinus,2,15293,First1KGreek,150
+tlg0708,Ammonius Grammaticus,1,16697,First1KGreek,400
+tlg0719,Aretaeus of Cappadocia,4,52558,canonical-greekLit,150
+tlg0731,Adamantius Judaeus,2,15169,First1KGreek,400
+tlg0732,Alexander of Aphrodisias,14,1254131,First1KGreek,200
+tlg0733,Cassius Iatrosophista,1,6932,First1KGreek,
+tlg0751,Pseudo-Hippocrates,2,3295,First1KGreek,
+tlg1118,Pseudo-Dioscorides,1,1081,First1KGreek,
+tlg1126,"Anubion, Poeta Astrologus",1,84,First1KGreek,
+tlg1129,Anonymi de Barbarismo et Soloecismo,1,1357,First1KGreek,900
+tlg1131,Anonymus Ad Avircium Marcellum contra Cataphrygas,1,1202,First1KGreek,
+tlg1134,Anonymous Iamblichi,1,1802,First1KGreek,
+tlg1146,Antipater Tarsensis,1,2911,First1KGreek,-150
+tlg1147,Antiphon of Athens,1,3145,First1KGreek,-420
+tlg1181,Aristarchus of Samos,1,7863,First1KGreek,
+tlg1188,Aristocles of Messene,1,5696,First1KGreek,150
+tlg1193,Ariston of Chios,1,2941,First1KGreek,
+tlg1194,Aristonicus of Alexandria,1,21097,First1KGreek,-20
+tlg1205,Athenagoras,4,40379,First1KGreek,177
+tlg1210,Autolycus,2,19259,First1KGreek,
+tlg1216,Barnabae Epistula,2,13602,First1KGreek+canonical-greekLit,
+tlg1220,Batrachomyomachia,1,3356,First1KGreek,
+tlg1247,Cebes,1,4757,First1KGreek,
+tlg1252,Certamen Homeri et Hesiodi,1,2995,First1KGreek,150
+tlg1264,Chrysippus,4,149693,First1KGreek,-230
+tlg1269,Cleanthes,1,6380,First1KGreek,-260
+tlg1271,Clemens Romanus (Clement of Rome),9,136066,First1KGreek,250
+tlg1272,Cleomedes,1,26200,First1KGreek,200
+tlg1286,Hermetica,18,40855,First1KGreek,200
+tlg1287,Crantor,1,1567,First1KGreek,
+tlg1304,Democritus,1,9936,First1KGreek,-420
+tlg1309,Dialexeis,1,3505,First1KGreek,-400
+tlg1311,Anonymous,1,2199,First1KGreek,
+tlg1319,Diogenes of Apollonia,1,1204,First1KGreek,
+tlg1320,Diogenes Babylonius,1,12171,First1KGreek,-160
+tlg1325,Diogenes Sinopensis Epistulae,1,8936,First1KGreek,0
+tlg1329,Dionysius Corinthius,1,548,First1KGreek,
+tlg1337,Dorotheus of Sidon,1,690,First1KGreek,
+tlg1347,Epimenides,1,1119,First1KGreek,
+tlg1367,Euripides Epistulae,1,1825,First1KGreek,
+tlg1383,Geminus,1,20631,First1KGreek,-50
+tlg1389,Harpocration,1,39039,canonical-greekLit,150
+tlg1390,Hecataeus of Abderita,1,1544,First1KGreek,-300
+tlg1402,Hephaestion,5,10295,First1KGreek,150
+tlg1409,Heraclides Ponticus,1,357,First1KGreek,
+tlg1414,Heraclitus,1,14300,First1KGreek,75
+tlg1416,Philo of Byblos,1,2326,First1KGreek,
+tlg1419,Hermas,1,28656,First1KGreek,130
+tlg1431,Hipparchus,1,31300,First1KGreek,-140
+tlg1434,Hippias of Elis,1,640,First1KGreek,
+tlg1441,Iamblichus (Scr. Erot.),1,1202,First1KGreek,
+tlg1443,Ignatius of Antioch,2,27076,First1KGreek,110
+tlg1447,"Irenaeus, Saint, Bishop of Lyon",2,21897,First1KGreek,180
+tlg1463,Liber Enoch,2,16209,First1KGreek,
+tlg1482,Cyranides,1,24219,First1KGreek,300
+tlg1484,Martyrium Polycarpi,1,2653,First1KGreek,
+tlg1486,Matron of Pitana,2,2703,First1KGreek,
+tlg1487,"Maximus, Astrologus",2,10012,First1KGreek,
+tlg1542,Numenius of Apamea,1,6851,First1KGreek,160
+tlg1548,Oenomaus of Gadara,1,8439,First1KGreek,
+tlg1551,Oracula Sibyllina,2,57405,First1KGreek,100
+tlg1553,Palaiphatos,1,7570,First1KGreek,-320
+tlg1562,Parmenides,1,2554,First1KGreek,
+tlg1595,Philodemus,2,27278,First1KGreek,-60
+tlg1596,Philolaus of Croton,1,1842,First1KGreek,
+tlg1600,Philostratus Sophista,1,23103,canonical-greekLit,220
+tlg1602,Philoxenus of Alexandria,1,476,First1KGreek,
+tlg1617,Marcus Antonius Polemon,1,6169,First1KGreek,
+tlg1622,Polycarp,1,1590,First1KGreek,
+tlg1626,Polycrates Ephesius,1,306,First1KGreek,
+tlg1634,Prodicus,1,1659,First1KGreek,
+tlg1664,Seniores Alexandrini,1,1614,First1KGreek,
+tlg1665,Seniores Apud Irenaeum,1,349,First1KGreek,
+tlg1669,Serapion Astrologus,1,1945,First1KGreek,100
+tlg1681,Solonis Epistulae,1,447,First1KGreek,
+tlg1692,Speusippus,1,5235,First1KGreek,-350
+tlg1699,Teles Megarenesis,8,6076,First1KGreek,-240
+tlg1701,Testamentum Abrahae,2,13929,First1KGreek,100
+tlg1705,Thales,1,199,First1KGreek,
+tlg1719,Theodosius of Bithynia,1,27492,First1KGreek,
+tlg1724,Theon Smyrnaeus,1,46313,First1KGreek,130
+tlg1725,Theophilus,2,43214,First1KGreek,180
+tlg1749,Vitae Hesiodi Particula,1,421,First1KGreek,
+tlg1750,Vitae Prophetarum,4,14320,First1KGreek,
+tlg1763,Tryphon II Grammaticus,1,2071,First1KGreek,
+tlg1764,Vettius Valens,1,110871,First1KGreek,160
+tlg1765,Vitae Aesopi,3,18654,First1KGreek,100
+tlg1766,Tatianus,1,10230,First1KGreek,170
+tlg1799,Euclid,13,244777,First1KGreek+canonical-greekLit,-300
+tlg1801,Parodica Anonyma,1,1659,First1KGreek,
+tlg1802,Versus heroici,1,561,First1KGreek,
+tlg1803,Bruti Epistulae,1,3871,First1KGreek,
+tlg1805,Vitae Homeri,10,9356,First1KGreek,200
+tlg2000,Plotinus,1,214030,First1KGreek,260
+tlg2001,Themistius,5,286010,First1KGreek,360
+tlg2003,"Julian, Emperor of Rome",14,123265,canonical-greekLit,360
+tlg2016,Martyrium Perpetuae et Felcitatis,1,3983,First1KGreek,
+tlg2018,Eusebius of Caesarea,16,938800,First1KGreek+canonical-greekLit,320
+tlg2021,Epiphanius,3,288994,First1KGreek,375
+tlg2022,Gregory of Nazianzus,7,58839,First1KGreek,370
+tlg2023,Iamblichus,5,145698,First1KGreek,300
+tlg2027,Valerius Apsines,2,20285,First1KGreek,
+tlg2029,Anonymi summaria ratio geographiae in sphaera intelligendae,1,1932,First1KGreek,
+tlg2032,Pappus Alexandrinus,1,63516,First1KGreek,
+tlg2034,Porphyrius,8,203426,First1KGreek,280
+tlg2035,Athanasius,6,109519,First1KGreek,350
+tlg2036,Dexippus,1,28792,First1KGreek,330
+tlg2038,Acta Thomae,1,28946,First1KGreek,230
+tlg2039,Diophantus Alexandrinus,3,5959,First1KGreek,
+tlg2040,"Basil, Saint, Bishop of Caesarea",2,144185,canonical-greekLit,370
+tlg2041,Marcellus of Ankara,1,12210,First1KGreek,340
+tlg2042,Origen,46,993206,First1KGreek,240
+tlg2045,Nonnus of Panopolis,1,127789,canonical-greekLit,450
+tlg2046,Quintus Smyrnaeus,1,60258,canonical-greekLit,300
+tlg2048,Sozomenus,1,112978,First1KGreek,440
+tlg2049,Sallustius,1,5270,First1KGreek,
+tlg2050,Eunapius,1,1144,First1KGreek,
+tlg2057,Socrates Scholasticus,1,101957,First1KGreek,440
+tlg2058,Philostorgius,1,37748,First1KGreek,430
+tlg2115,Hippolytus,2,160130,First1KGreek,220
+tlg2135,Alypius,1,5240,First1KGreek,
+tlg2136,Bacchius Geron,1,3898,First1KGreek,320
+tlg2137,Gaudentius,1,5553,First1KGreek,350
+tlg2138,Canticum Euripidis,1,101,First1KGreek,
+tlg2139,Epitaphium Sicili,1,72,First1KGreek,
+tlg2140,Iamblichus Alchemista,1,1051,First1KGreek,
+tlg2178,Cassius Longinus,3,7559,First1KGreek,260
+tlg2189,Callinicus,1,176,First1KGreek,
+tlg2200,Libanius,103,722112,First1KGreek,370
+tlg2233,Pseudo-Polemon,2,11824,First1KGreek,
+tlg2371,Chronicon Paschale,1,133701,First1KGreek,630
+tlg2583,Manetho Astrologus,1,20033,First1KGreek,200
+tlg2586,Menander Rhetor,2,28491,First1KGreek,290
+tlg2601,Tiberius Rhetor,1,4764,First1KGreek,
+tlg2632,Comarius,1,2313,First1KGreek,
+tlg2640,Eusebius Myndius,1,3077,First1KGreek,450
+tlg2655,Damigeron,1,2380,First1KGreek,
+tlg2691,"Musaeus, Eleusinius",1,920,First1KGreek,
+tlg2703,Anna Comnena,2,313980,First1KGreek,1148
+tlg2733,"Evagrius, Scholasticus",1,54499,First1KGreek,593
+tlg2768,Gelasius,1,57617,First1KGreek,475
+tlg2806,Marcus Diaconus,1,24302,First1KGreek,420
+tlg2934,"John of Damascus, Saint",1,64573,canonical-greekLit,730
+tlg2948,Acta Philippi,1,16167,First1KGreek,
+tlg2949,Acta Barnabae,1,2152,First1KGreek,
+tlg2959,Methodius,7,61465,First1KGreek,300
+tlg2970,Severus Philosophus,1,391,First1KGreek,
+tlg2972,Anonymi de Terrae Motibus,1,628,First1KGreek,
+tlg3118,Syntipas,2,42358,First1KGreek,1090
+tlg3129,Theophylactus,1,1379,First1KGreek,
+tlg3135,Zonaras,4,470614,First1KGreek+canonical-greekLit,1150
+tlg3156,Anonymi Exegesis in Hesiodi Theogoniam,1,12313,First1KGreek,1100
+tlg4003,"Marcianus, of Heraclea",3,14565,First1KGreek,
+tlg4013,Simplicius,4,1144737,First1KGreek,530
+tlg4015,John Philoponus,8,1367940,First1KGreek,530
+tlg4016,Ammonius,5,291271,First1KGreek,500
+tlg4017,Syrianus,1,79296,First1KGreek,430
+tlg4018,Asclepius,1,191163,First1KGreek,540
+tlg4019,Olympiodorus,3,185669,First1KGreek,540
+tlg4020,Elias Neoplatonicus,2,104692,First1KGreek,560
+tlg4021,David the Invincible,2,90499,First1KGreek,570
+tlg4024,Agathias Scholasticus,2,71792,First1KGreek,570
+tlg4026,Anonymi in Aristotelis Artem Rhetoricam,3,98751,First1KGreek,900
+tlg4027,Anonymi In Aristotelis Categorias,1,38428,First1KGreek,900
+tlg4029,Procopius,2,256821,canonical-greekLit,550
+tlg4030,Sophonias,1,75103,First1KGreek,1300
+tlg4031,Eustratius,1,265214,First1KGreek,1100
+tlg4033,Anonymi In Aristotelis Ethica Nicomachea,1,100442,First1KGreek,900
+tlg4034,Michael of Ephesus,5,162456,First1KGreek,1120
+tlg4036,Proclus,2,177671,First1KGreek+canonical-greekLit,450
+tlg4037,Anonymi Paradoxographi,1,1505,First1KGreek,
+tlg4072,Eutocius,3,40883,First1KGreek,520
+tlg4075,"Marinus, 5th century",1,2784,First1KGreek,486
+tlg4081,Colluthus of Lycopolis,1,2332,canonical-greekLit,
+tlg4084,Zosimus,1,62232,First1KGreek,
+tlg4086,Agathodaemon,2,872,First1KGreek,
+tlg4089,Theodoretus,3,209739,First1KGreek,440
+tlg4090,Cyril of Alexandria,1,359194,First1KGreek,430
+tlg4091,Callistratus,1,3979,canonical-greekLit,350
+tlg4102,Catenae (Novum Testamentum),33,1155824,First1KGreek,600
+tlg4170,Vitae Pindari et varia de Pindaro,4,1463,First1KGreek,
+tlg4174,Paraphrases in Dioynsium Periegetam,1,13143,First1KGreek,
+tlg4193,Anonymi In Aristotelis Sophisticos Elenchos,1,31388,First1KGreek,900
+tlg5019,Scholia in Dionysium Periegetam,2,18783,First1KGreek,
+tlg5022,Scholia in Euclidem,6,33443,First1KGreek,1000
+tlg5023,Scholia in Euripidem,8,427446,First1KGreek,1000
+tlg5026,Scholia in Homerum,2,951866,First1KGreek,1000
+tlg5028,Scholia in Isocratem,1,6150,First1KGreek,
+tlg5029,Scholia in Lucianum,1,54284,First1KGreek,1000
+tlg5031,Scholia in Nicandrum,2,33855,First1KGreek,1000
+tlg5034,Scholia in Pindarum,4,169221,First1KGreek,1000
+tlg5037,Scholia in Sophoclem,1,79664,First1KGreek,1000
+tlg7000,Greek Anthology,5,136842,canonical-greekLit,500
+tlg9004,Anonymi In Aristotelis Librum Alterum Analyticorum Posteriorum,1,21277,First1KGreek,900
+tlg9006,"Gregory II, of Cyprus, Patriarch of Constantinople",2,9368,First1KGreek,1280
+tlg9007,Appendix Proverbiorum,1,7822,First1KGreek,
+tlg9010,Suda,1,585526,First1KGreek,970
+tlg9019,Stephanus of Alexandria,1,28776,First1KGreek,

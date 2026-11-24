@@ -1,0 +1,199 @@
+feature,corpus,older,younger,n_old,n_new,n,share_younger,ci_lo,ci_hi,words
+3mp suffix,Ezra (MT),-hm (הם),-hwn (הון),11,15,26,0.5769230769230769,0.3894829692111983,0.744558100972706,1523
+3mp suffix,Daniel (MT),-hm (הם),-hwn (הון),0,36,36,1.0,0.9035781695514236,1,4560
+3mp suffix,Daniel (Qumran MSS),-hm (הם),-hwn (הון),2,20,22,0.9090909090909091,0.7218461934161421,0.9747051037171622,3158
+3mp suffix,Qumran Aramaic (all non-biblical),-hm (הם),-hwn (הון),3,556,559,0.9946332737030411,0.984341222769207,0.9981732182387071,45966
+3mp suffix,Qumran: Aramaic Enoch (4Q201-212),-hm (הם),-hwn (הון),0,193,193,1.0,0.9804838001723212,0.9999999999999999,10576
+3mp suffix,"Qumran: Aramaic Levi / Qahat / Amram (1Q21,4Q213-214b,4Q540-548)",-hm (הם),-hwn (הון),0,59,59,1.0,0.938868520215908,1,5990
+3mp suffix,"Qumran: Daniel-related (4Q242 PrNab, 4Q243-245 psDan, 4Q246, 4Q552-553 Four Kingdoms)",-hm (הם),-hwn (הון),0,24,24,1.0,0.8620194241710247,1,1603
+3mp suffix,Qumran: Genesis Apocryphon (1Q20),-hm (הם),-hwn (הון),0,50,50,1.0,0.9286499658256813,1,5603
+3mp suffix,"Qumran: Giants (1Q23-24,2Q26,4Q203,4Q530-533,6Q8)",-hm (הם),-hwn (הון),0,37,37,1.0,0.9059390425448564,1,3214
+3mp suffix,"Qumran: New Jerusalem (1Q32,2Q24,4Q554-555,5Q15,11Q18)",-hm (הם),-hwn (הון),0,74,74,1.0,0.9506484964337834,0.9999999999999998,4276
+3mp suffix,"Qumran: Targum of Job (11Q10, 4Q157)",-hm (הם),-hwn (הון),0,41,41,1.0,0.9143295511310926,1,2895
+3mp suffix,Qumran: Tobit (4Q196-199),-hm (הם),-hwn (הון),0,20,20,1.0,0.8388698745050667,1,2189
+3mp suffix,Daniel ch.2,-hm (הם),-hwn (הון),0,4,4,1.0,0.5100999795960008,1,1002
+3mp suffix,Daniel ch.3,-hm (הם),-hwn (הון),0,17,17,1.0,0.8156763396284354,1,781
+3mp suffix,Daniel ch.4,-hm (הם),-hwn (הון),0,1,1,1.0,0.20654329147389294,1,774
+3mp suffix,Daniel ch.5,-hm (הם),-hwn (הון),0,3,3,1.0,0.43849391955098227,1,675
+3mp suffix,Daniel ch.6,-hm (הם),-hwn (הון),0,7,7,1.0,0.6456611570247934,1,706
+3mp suffix,Daniel ch.7,-hm (הם),-hwn (הון),0,4,4,1.0,0.5100999795960008,1,622
+2mp suffix,Ezra (MT),-km (כם),-kwn (כון),5,1,6,0.16666666666666666,0.03005258587173032,0.563509436563646,1523
+2mp suffix,Daniel (MT),-km (כם),-kwn (כון),0,9,9,1.0,0.7008472464490407,1,4560
+2mp suffix,Daniel (Qumran MSS),-km (כם),-kwn (כון),0,2,2,1.0,0.34237195288961925,1,3158
+2mp suffix,Qumran Aramaic (all non-biblical),-km (כם),-kwn (כון),2,122,124,0.9838709677419355,0.9430958652666754,0.9955657284555557,45966
+2mp suffix,Qumran: Aramaic Enoch (4Q201-212),-km (כם),-kwn (כון),0,48,48,1.0,0.9258973488472576,0.9999999999999999,10576
+2mp suffix,"Qumran: Aramaic Levi / Qahat / Amram (1Q21,4Q213-214b,4Q540-548)",-km (כם),-kwn (כון),0,34,34,1.0,0.8984820937803899,1,5990
+2mp suffix,"Qumran: Daniel-related (4Q242 PrNab, 4Q243-245 psDan, 4Q246, 4Q552-553 Four Kingdoms)",-km (כם),-kwn (כון),0,0,0,nan,nan,nan,1603
+2mp suffix,Qumran: Genesis Apocryphon (1Q20),-km (כם),-kwn (כון),0,5,5,1.0,0.5655085052479191,1,5603
+2mp suffix,"Qumran: Giants (1Q23-24,2Q26,4Q203,4Q530-533,6Q8)",-km (כם),-kwn (כון),0,14,14,1.0,0.7846829880728186,1,3214
+2mp suffix,"Qumran: New Jerusalem (1Q32,2Q24,4Q554-555,5Q15,11Q18)",-km (כם),-kwn (כון),0,0,0,nan,nan,nan,4276
+2mp suffix,"Qumran: Targum of Job (11Q10, 4Q157)",-km (כם),-kwn (כון),0,3,3,1.0,0.43849391955098227,1,2895
+2mp suffix,Qumran: Tobit (4Q196-199),-km (כם),-kwn (כון),0,10,10,1.0,0.7224598312333834,1,2189
+2mp suffix,Daniel ch.2,-km (כם),-kwn (כון),0,3,3,1.0,0.43849391955098227,1,1002
+2mp suffix,Daniel ch.3,-km (כם),-kwn (כון),0,5,5,1.0,0.5655085052479191,1,781
+2mp suffix,Daniel ch.4,-km (כם),-kwn (כון),0,0,0,nan,nan,nan,774
+2mp suffix,Daniel ch.5,-km (כם),-kwn (כון),0,0,0,nan,nan,nan,675
+2mp suffix,Daniel ch.6,-km (כם),-kwn (כון),0,1,1,1.0,0.20654329147389294,1,706
+2mp suffix,Daniel ch.7,-km (כם),-kwn (כון),0,0,0,nan,nan,nan,622
+3fs suffix,Ezra (MT),-h (ה),-hʾ (הא),3,0,3,0.0,0,0.5615060804490177,1523
+3fs suffix,Daniel (MT),-h (ה),-hʾ (הא),41,0,41,0.0,0,0.08567044886890744,4560
+3fs suffix,Daniel (Qumran MSS),-h (ה),-hʾ (הא),24,1,25,0.04,0.007096050386699165,0.19544472405022525,3158
+3fs suffix,Qumran Aramaic (all non-biblical),-h (ה),-hʾ (הא),190,54,244,0.22131147540983606,0.17376739338969224,0.2774950258329081,45966
+3fs suffix,Qumran: Aramaic Enoch (4Q201-212),-h (ה),-hʾ (הא),54,1,55,0.01818181818181818,0.003216697592252786,0.09606000460483224,10576
+3fs suffix,"Qumran: Aramaic Levi / Qahat / Amram (1Q21,4Q213-214b,4Q540-548)",-h (ה),-hʾ (הא),36,4,40,0.1,0.03957888759557486,0.23052074380473897,5990
+3fs suffix,"Qumran: Daniel-related (4Q242 PrNab, 4Q243-245 psDan, 4Q246, 4Q552-553 Four Kingdoms)",-h (ה),-hʾ (הא),1,0,1,0.0,0,0.7934567085261071,1603
+3fs suffix,Qumran: Genesis Apocryphon (1Q20),-h (ה),-hʾ (הא),25,44,69,0.6376811594202898,0.5197955221181357,0.7410444374653989,5603
+3fs suffix,"Qumran: Giants (1Q23-24,2Q26,4Q203,4Q530-533,6Q8)",-h (ה),-hʾ (הא),7,0,7,0.0,0,0.35433884297520657,3214
+3fs suffix,"Qumran: New Jerusalem (1Q32,2Q24,4Q554-555,5Q15,11Q18)",-h (ה),-hʾ (הא),7,0,7,0.0,0,0.35433884297520657,4276
+3fs suffix,"Qumran: Targum of Job (11Q10, 4Q157)",-h (ה),-hʾ (הא),13,0,13,0.0,0,0.22810184305529166,2895
+3fs suffix,Qumran: Tobit (4Q196-199),-h (ה),-hʾ (הא),34,1,35,0.02857142857142857,0.005061361365853362,0.1453340909327131,2189
+3fs suffix,Daniel ch.2,-h (ה),-hʾ (הא),3,0,3,0.0,0,0.5615060804490177,1002
+3fs suffix,Daniel ch.3,-h (ה),-hʾ (הא),2,0,2,0.0,0,0.6576280471103807,781
+3fs suffix,Daniel ch.4,-h (ה),-hʾ (הא),6,0,6,0.0,0,0.3903430336530645,774
+3fs suffix,Daniel ch.5,-h (ה),-hʾ (הא),3,0,3,0.0,0,0.5615060804490177,675
+3fs suffix,Daniel ch.6,-h (ה),-hʾ (הא),1,0,1,0.0,0,0.7934567085261071,706
+3fs suffix,Daniel ch.7,-h (ה),-hʾ (הא),26,0,26,0.0,0,0.12873304380462175,622
+2ms suffix,Ezra (MT),-k (ך),-kh (כה),18,0,18,0.0,0,0.1758845505823749,1523
+2ms suffix,Daniel (MT),-k (ך),-kh (כה),81,0,81,0.0,0,0.04527967412212876,4560
+2ms suffix,Daniel (Qumran MSS),-k (ך),-kh (כה),41,4,45,0.08888888888888889,0.035110548134203154,0.20733851168365702,3158
+2ms suffix,Qumran Aramaic (all non-biblical),-k (ך),-kh (כה),260,53,313,0.16932907348242812,0.13184749629926804,0.21482920272005265,45966
+2ms suffix,Qumran: Aramaic Enoch (4Q201-212),-k (ך),-kh (כה),10,8,18,0.4444444444444444,0.24559231101389126,0.6628393057174837,10576
+2ms suffix,"Qumran: Aramaic Levi / Qahat / Amram (1Q21,4Q213-214b,4Q540-548)",-k (ך),-kh (כה),40,24,64,0.375,0.2666580388810532,0.4974984668617358,5990
+2ms suffix,"Qumran: Daniel-related (4Q242 PrNab, 4Q243-245 psDan, 4Q246, 4Q552-553 Four Kingdoms)",-k (ך),-kh (כה),12,1,13,0.07692307692307693,0.013710066379696323,0.3331453392824736,1603
+2ms suffix,Qumran: Genesis Apocryphon (1Q20),-k (ך),-kh (כה),74,1,75,0.013333333333333334,0.002357490433136912,0.07173537424743781,5603
+2ms suffix,"Qumran: Giants (1Q23-24,2Q26,4Q203,4Q530-533,6Q8)",-k (ך),-kh (כה),5,17,22,0.7727272727272727,0.5655964393704065,0.8987710920517964,3214
+2ms suffix,"Qumran: New Jerusalem (1Q32,2Q24,4Q554-555,5Q15,11Q18)",-k (ך),-kh (כה),1,0,1,0.0,0,0.7934567085261071,4276
+2ms suffix,"Qumran: Targum of Job (11Q10, 4Q157)",-k (ך),-kh (כה),37,0,37,0.0,0,0.09406095745514377,2895
+2ms suffix,Qumran: Tobit (4Q196-199),-k (ך),-kh (כה),31,0,31,0.0,0,0.11025900073475385,2189
+2ms suffix,Daniel ch.2,-k (ך),-kh (כה),17,0,17,0.0,0,0.18432366037156456,1002
+2ms suffix,Daniel ch.3,-k (ך),-kh (כה),6,0,6,0.0,0,0.3903430336530645,781
+2ms suffix,Daniel ch.4,-k (ך),-kh (כה),25,0,25,0.0,0,0.13319649395317873,774
+2ms suffix,Daniel ch.5,-k (ך),-kh (כה),25,0,25,0.0,0,0.13319649395317873,675
+2ms suffix,Daniel ch.6,-k (ך),-kh (כה),8,0,8,0.0,0,0.3244156195108769,706
+2ms suffix,Daniel ch.7,-k (ך),-kh (כה),0,0,0,nan,nan,nan,622
+2ms pronoun,Ezra (MT),ʾnt (אנת),ʾnth (אנתה),1,0,1,0.0,0,0.7934567085261071,1523
+2ms pronoun,Daniel (MT),ʾnt (אנת),ʾnth (אנתה),0,14,14,1.0,0.7846829880728186,1,4560
+2ms pronoun,Daniel (Qumran MSS),ʾnt (אנת),ʾnth (אנתה),9,3,12,0.25,0.08894003962896138,0.53231033912066,3158
+2ms pronoun,Qumran Aramaic (all non-biblical),ʾnt (אנת),ʾnth (אנתה),0,44,44,1.0,0.9197016822179859,0.9999999999999999,45966
+2ms pronoun,Qumran: Aramaic Enoch (4Q201-212),ʾnt (אנת),ʾnth (אנתה),0,3,3,1.0,0.43849391955098227,1,10576
+2ms pronoun,"Qumran: Aramaic Levi / Qahat / Amram (1Q21,4Q213-214b,4Q540-548)",ʾnt (אנת),ʾnth (אנתה),0,13,13,1.0,0.7718981569447083,1,5990
+2ms pronoun,"Qumran: Daniel-related (4Q242 PrNab, 4Q243-245 psDan, 4Q246, 4Q552-553 Four Kingdoms)",ʾnt (אנת),ʾnth (אנתה),0,5,5,1.0,0.5655085052479191,1,1603
+2ms pronoun,Qumran: Genesis Apocryphon (1Q20),ʾnt (אנת),ʾnth (אנתה),0,7,7,1.0,0.6456611570247934,1,5603
+2ms pronoun,"Qumran: Giants (1Q23-24,2Q26,4Q203,4Q530-533,6Q8)",ʾnt (אנת),ʾnth (אנתה),0,1,1,1.0,0.20654329147389294,1,3214
+2ms pronoun,"Qumran: New Jerusalem (1Q32,2Q24,4Q554-555,5Q15,11Q18)",ʾnt (אנת),ʾnth (אנתה),0,1,1,1.0,0.20654329147389294,1,4276
+2ms pronoun,"Qumran: Targum of Job (11Q10, 4Q157)",ʾnt (אנת),ʾnth (אנתה),0,0,0,nan,nan,nan,2895
+2ms pronoun,Qumran: Tobit (4Q196-199),ʾnt (אנת),ʾnth (אנתה),0,4,4,1.0,0.5100999795960008,1,2189
+2ms pronoun,Daniel ch.2,ʾnt (אנת),ʾnth (אנתה),0,4,4,1.0,0.5100999795960008,1,1002
+2ms pronoun,Daniel ch.3,ʾnt (אנת),ʾnth (אנתה),0,1,1,1.0,0.20654329147389294,1,781
+2ms pronoun,Daniel ch.4,ʾnt (אנת),ʾnth (אנתה),0,3,3,1.0,0.43849391955098227,1,774
+2ms pronoun,Daniel ch.5,ʾnt (אנת),ʾnth (אנתה),0,4,4,1.0,0.5100999795960008,1,675
+2ms pronoun,Daniel ch.6,ʾnt (אנת),ʾnth (אנתה),0,2,2,1.0,0.34237195288961925,1,706
+2ms pronoun,Daniel ch.7,ʾnt (אנת),ʾnth (אנתה),0,0,0,nan,nan,nan,622
+causative prefix,Ezra (MT),h- (haphel),ʾ- (aphel),31,5,36,0.1388888888888889,0.060817253631150966,0.2865985128039319,1523
+causative prefix,Daniel (MT),h- (haphel),ʾ- (aphel),122,21,143,0.14685314685314685,0.09810008302918252,0.21408393022046882,4560
+causative prefix,Daniel (Qumran MSS),h- (haphel),ʾ- (aphel),51,16,67,0.23880597014925373,0.15268010510617858,0.35325990754175707,3158
+causative prefix,Qumran Aramaic (all non-biblical),h- (haphel),ʾ- (aphel),75,372,447,0.8322147651006712,0.7947744058598886,0.8639935516666574,45966
+causative prefix,Qumran: Aramaic Enoch (4Q201-212),h- (haphel),ʾ- (aphel),10,147,157,0.9363057324840764,0.8867313745947507,0.9650383168283638,10576
+causative prefix,"Qumran: Aramaic Levi / Qahat / Amram (1Q21,4Q213-214b,4Q540-548)",h- (haphel),ʾ- (aphel),12,54,66,0.8181818181818182,0.7085458078248001,0.8928149857423577,5990
+causative prefix,"Qumran: Daniel-related (4Q242 PrNab, 4Q243-245 psDan, 4Q246, 4Q552-553 Four Kingdoms)",h- (haphel),ʾ- (aphel),2,6,8,0.75,0.40926987910258916,0.9285223111419724,1603
+causative prefix,Qumran: Genesis Apocryphon (1Q20),h- (haphel),ʾ- (aphel),2,44,46,0.9565217391304348,0.8546747708094659,0.9879948064111691,5603
+causative prefix,"Qumran: Giants (1Q23-24,2Q26,4Q203,4Q530-533,6Q8)",h- (haphel),ʾ- (aphel),4,19,23,0.8260869565217391,0.6286194521470433,0.9302145964938723,3214
+causative prefix,"Qumran: New Jerusalem (1Q32,2Q24,4Q554-555,5Q15,11Q18)",h- (haphel),ʾ- (aphel),0,2,2,1.0,0.34237195288961925,1,4276
+causative prefix,"Qumran: Targum of Job (11Q10, 4Q157)",h- (haphel),ʾ- (aphel),22,26,48,0.5416666666666666,0.4029083309494732,0.6742497814544648,2895
+causative prefix,Qumran: Tobit (4Q196-199),h- (haphel),ʾ- (aphel),10,16,26,0.6153846153846154,0.42534520039420076,0.7757164048816557,2189
+causative prefix,Daniel ch.2,h- (haphel),ʾ- (aphel),38,4,42,0.09523809523809523,0.0376616388283121,0.2206539522505333,1002
+causative prefix,Daniel ch.3,h- (haphel),ʾ- (aphel),16,2,18,0.1111111111111111,0.031018868453582787,0.3280024486660421,781
+causative prefix,Daniel ch.4,h- (haphel),ʾ- (aphel),8,3,11,0.2727272727272727,0.09745880573921467,0.5656502930102463,774
+causative prefix,Daniel ch.5,h- (haphel),ʾ- (aphel),24,4,28,0.14285714285714285,0.056989129307017855,0.31490173044877334,675
+causative prefix,Daniel ch.6,h- (haphel),ʾ- (aphel),24,3,27,0.1111111111111111,0.03851964789498724,0.2805818254397295,706
+causative prefix,Daniel ch.7,h- (haphel),ʾ- (aphel),12,5,17,0.29411764705882354,0.13279793865556402,0.5313353332621391,622
+t-stem prefix,Ezra (MT),ht- (hitpe./hitpa.),ʾt- (itpe./itpa.),4,0,4,0.0,0,0.48990002040399916,1523
+t-stem prefix,Daniel (MT),ht- (hitpe./hitpa.),ʾt- (itpe./itpa.),18,6,24,0.25,0.1199920347934233,0.4489982531210644,4560
+t-stem prefix,Daniel (Qumran MSS),ht- (hitpe./hitpa.),ʾt- (itpe./itpa.),8,6,14,0.42857142857142855,0.21380509930400526,0.6740973309713064,3158
+t-stem prefix,Qumran Aramaic (all non-biblical),ht- (hitpe./hitpa.),ʾt- (itpe./itpa.),27,95,122,0.7786885245901639,0.6971519890996948,0.843209862625013,45966
+t-stem prefix,Qumran: Aramaic Enoch (4Q201-212),ht- (hitpe./hitpa.),ʾt- (itpe./itpa.),9,38,47,0.8085106382978723,0.674557199356223,0.8958418439468988,10576
+t-stem prefix,"Qumran: Aramaic Levi / Qahat / Amram (1Q21,4Q213-214b,4Q540-548)",ht- (hitpe./hitpa.),ʾt- (itpe./itpa.),0,8,8,1.0,0.6755843804891231,1,5990
+t-stem prefix,"Qumran: Daniel-related (4Q242 PrNab, 4Q243-245 psDan, 4Q246, 4Q552-553 Four Kingdoms)",ht- (hitpe./hitpa.),ʾt- (itpe./itpa.),0,1,1,1.0,0.20654329147389294,1,1603
+t-stem prefix,Qumran: Genesis Apocryphon (1Q20),ht- (hitpe./hitpa.),ʾt- (itpe./itpa.),1,22,23,0.9565217391304348,0.7900841350594088,0.9922835330378734,5603
+t-stem prefix,"Qumran: Giants (1Q23-24,2Q26,4Q203,4Q530-533,6Q8)",ht- (hitpe./hitpa.),ʾt- (itpe./itpa.),0,8,8,1.0,0.6755843804891231,1,3214
+t-stem prefix,"Qumran: New Jerusalem (1Q32,2Q24,4Q554-555,5Q15,11Q18)",ht- (hitpe./hitpa.),ʾt- (itpe./itpa.),0,0,0,nan,nan,nan,4276
+t-stem prefix,"Qumran: Targum of Job (11Q10, 4Q157)",ht- (hitpe./hitpa.),ʾt- (itpe./itpa.),11,3,14,0.21428571428571427,0.0757124833691637,0.4758972377320828,2895
+t-stem prefix,Qumran: Tobit (4Q196-199),ht- (hitpe./hitpa.),ʾt- (itpe./itpa.),0,4,4,1.0,0.5100999795960008,1,2189
+t-stem prefix,Daniel ch.2,ht- (hitpe./hitpa.),ʾt- (itpe./itpa.),5,1,6,0.16666666666666666,0.03005258587173032,0.563509436563646,1002
+t-stem prefix,Daniel ch.3,ht- (hitpe./hitpa.),ʾt- (itpe./itpa.),4,1,5,0.2,0.03622316096978745,0.6244717358814613,781
+t-stem prefix,Daniel ch.4,ht- (hitpe./hitpa.),ʾt- (itpe./itpa.),0,1,1,1.0,0.20654329147389294,1,774
+t-stem prefix,Daniel ch.5,ht- (hitpe./hitpa.),ʾt- (itpe./itpa.),5,0,5,0.0,0,0.43449149475208104,675
+t-stem prefix,Daniel ch.6,ht- (hitpe./hitpa.),ʾt- (itpe./itpa.),4,1,5,0.2,0.03622316096978745,0.6244717358814613,706
+t-stem prefix,Daniel ch.7,ht- (hitpe./hitpa.),ʾt- (itpe./itpa.),0,2,2,1.0,0.34237195288961925,1,622
+3mp pronoun,Ezra (MT),hmw/hmwn (המו/המון),ʾnwn/ʾnyn (אנון/אנין),9,1,10,0.1,0.01787574951572113,0.4041563854975721,1523
+3mp pronoun,Daniel (MT),hmw/hmwn (המו/המון),ʾnwn/ʾnyn (אנון/אנין),3,3,6,0.5,0.18761280689940868,0.8123871931005913,4560
+3mp pronoun,Daniel (Qumran MSS),hmw/hmwn (המו/המון),ʾnwn/ʾnyn (אנון/אנין),3,2,5,0.4,0.1176182311592533,0.769280067791163,3158
+3mp pronoun,Qumran Aramaic (all non-biblical),hmw/hmwn (המו/המון),ʾnwn/ʾnyn (אנון/אנין),5,71,76,0.9342105263157895,0.8550628538100542,0.9715738869366242,45966
+3mp pronoun,Qumran: Aramaic Enoch (4Q201-212),hmw/hmwn (המו/המון),ʾnwn/ʾnyn (אנון/אנין),0,20,20,1.0,0.8388698745050667,1,10576
+3mp pronoun,"Qumran: Aramaic Levi / Qahat / Amram (1Q21,4Q213-214b,4Q540-548)",hmw/hmwn (המו/המון),ʾnwn/ʾnyn (אנון/אנין),0,17,17,1.0,0.8156763396284354,1,5990
+3mp pronoun,"Qumran: Daniel-related (4Q242 PrNab, 4Q243-245 psDan, 4Q246, 4Q552-553 Four Kingdoms)",hmw/hmwn (המו/המון),ʾnwn/ʾnyn (אנון/אנין),2,4,6,0.6666666666666666,0.29998832134152864,0.9032306674407831,1603
+3mp pronoun,Qumran: Genesis Apocryphon (1Q20),hmw/hmwn (המו/המון),ʾnwn/ʾnyn (אנון/אנין),0,5,5,1.0,0.5655085052479191,1,5603
+3mp pronoun,"Qumran: Giants (1Q23-24,2Q26,4Q203,4Q530-533,6Q8)",hmw/hmwn (המו/המון),ʾnwn/ʾnyn (אנון/אנין),0,9,9,1.0,0.7008472464490407,1,3214
+3mp pronoun,"Qumran: New Jerusalem (1Q32,2Q24,4Q554-555,5Q15,11Q18)",hmw/hmwn (המו/המון),ʾnwn/ʾnyn (אנון/אנין),0,1,1,1.0,0.20654329147389294,1,4276
+3mp pronoun,"Qumran: Targum of Job (11Q10, 4Q157)",hmw/hmwn (המו/המון),ʾnwn/ʾnyn (אנון/אנין),3,0,3,0.0,0,0.5615060804490177,2895
+3mp pronoun,Qumran: Tobit (4Q196-199),hmw/hmwn (המו/המון),ʾnwn/ʾnyn (אנון/אנין),0,10,10,1.0,0.7224598312333834,1,2189
+3mp pronoun,Daniel ch.2,hmw/hmwn (המו/המון),ʾnwn/ʾnyn (אנון/אנין),2,1,3,0.3333333333333333,0.0614903152761605,0.7923450448735121,1002
+3mp pronoun,Daniel ch.3,hmw/hmwn (המו/המון),ʾnwn/ʾnyn (אנון/אנין),1,0,1,0.0,0,0.7934567085261071,781
+3mp pronoun,Daniel ch.4,hmw/hmwn (המו/המון),ʾnwn/ʾnyn (אנון/אנין),0,0,0,nan,nan,nan,774
+3mp pronoun,Daniel ch.5,hmw/hmwn (המו/המון),ʾnwn/ʾnyn (אנון/אנין),0,0,0,nan,nan,nan,675
+3mp pronoun,Daniel ch.6,hmw/hmwn (המו/המון),ʾnwn/ʾnyn (אנון/אנין),0,1,1,1.0,0.20654329147389294,1,706
+3mp pronoun,Daniel ch.7,hmw/hmwn (המו/המון),ʾnwn/ʾnyn (אנון/אנין),0,1,1,1.0,0.20654329147389294,1,622
+plural demonstrative,Ezra (MT),ʾlh/ʾlk (אלה/אלך),ʾlyn/ʾln (אלין/אלן),5,0,5,0.0,0,0.43449149475208104,1523
+plural demonstrative,Daniel (MT),ʾlh/ʾlk (אלה/אלך),ʾlyn/ʾln (אלין/אלן),10,5,15,0.3333333333333333,0.15176100694691236,0.5828687484878701,4560
+plural demonstrative,Daniel (Qumran MSS),ʾlh/ʾlk (אלה/אלך),ʾlyn/ʾln (אלין/אלן),4,3,7,0.42857142857142855,0.15821692226262685,0.7495457695909742,3158
+plural demonstrative,Qumran Aramaic (all non-biblical),ʾlh/ʾlk (אלה/אלך),ʾlyn/ʾln (אלין/אלן),6,83,89,0.9325842696629213,0.860630552017983,0.9687390409231124,45966
+plural demonstrative,Qumran: Aramaic Enoch (4Q201-212),ʾlh/ʾlk (אלה/אלך),ʾlyn/ʾln (אלין/אלן),0,40,40,1.0,0.9123754607496077,1,10576
+plural demonstrative,"Qumran: Aramaic Levi / Qahat / Amram (1Q21,4Q213-214b,4Q540-548)",ʾlh/ʾlk (אלה/אלך),ʾlyn/ʾln (אלין/אלן),0,9,9,1.0,0.7008472464490407,1,5990
+plural demonstrative,"Qumran: Daniel-related (4Q242 PrNab, 4Q243-245 psDan, 4Q246, 4Q552-553 Four Kingdoms)",ʾlh/ʾlk (אלה/אלך),ʾlyn/ʾln (אלין/אלן),0,2,2,1.0,0.34237195288961925,1,1603
+plural demonstrative,Qumran: Genesis Apocryphon (1Q20),ʾlh/ʾlk (אלה/אלך),ʾlyn/ʾln (אלין/אלן),0,7,7,1.0,0.6456611570247934,1,5603
+plural demonstrative,"Qumran: Giants (1Q23-24,2Q26,4Q203,4Q530-533,6Q8)",ʾlh/ʾlk (אלה/אלך),ʾlyn/ʾln (אלין/אלן),0,6,6,1.0,0.6096569663469354,0.9999999999999999,3214
+plural demonstrative,"Qumran: New Jerusalem (1Q32,2Q24,4Q554-555,5Q15,11Q18)",ʾlh/ʾlk (אלה/אלך),ʾlyn/ʾln (אלין/אלן),0,4,4,1.0,0.5100999795960008,1,4276
+plural demonstrative,"Qumran: Targum of Job (11Q10, 4Q157)",ʾlh/ʾlk (אלה/אלך),ʾlyn/ʾln (אלין/אלן),0,2,2,1.0,0.34237195288961925,1,2895
+plural demonstrative,Qumran: Tobit (4Q196-199),ʾlh/ʾlk (אלה/אלך),ʾlyn/ʾln (אלין/אלן),0,0,0,nan,nan,nan,2189
+plural demonstrative,Daniel ch.2,ʾlh/ʾlk (אלה/אלך),ʾlyn/ʾln (אלין/אלן),0,2,2,1.0,0.34237195288961925,1,1002
+plural demonstrative,Daniel ch.3,ʾlh/ʾlk (אלה/אלך),ʾlyn/ʾln (אלין/אלן),6,0,6,0.0,0,0.3903430336530645,781
+plural demonstrative,Daniel ch.4,ʾlh/ʾlk (אלה/אלך),ʾlyn/ʾln (אלין/אלן),0,0,0,nan,nan,nan,774
+plural demonstrative,Daniel ch.5,ʾlh/ʾlk (אלה/אלך),ʾlyn/ʾln (אלין/אלן),0,0,0,nan,nan,nan,675
+plural demonstrative,Daniel ch.6,ʾlh/ʾlk (אלה/אלך),ʾlyn/ʾln (אלין/אלן),4,2,6,0.3333333333333333,0.09676933255921683,0.7000116786584712,706
+plural demonstrative,Daniel ch.7,ʾlh/ʾlk (אלה/אלך),ʾlyn/ʾln (אלין/אלן),0,1,1,1.0,0.20654329147389294,1,622
+'earth',Ezra (MT),ʾrq (ארק),ʾrʿ (ארע),0,1,1,1.0,0.20654329147389294,1,1523
+'earth',Daniel (MT),ʾrq (ארק),ʾrʿ (ארע),0,19,19,1.0,0.8318156346315496,1,4560
+'earth',Daniel (Qumran MSS),ʾrq (ארק),ʾrʿ (ארע),0,11,11,1.0,0.7411599827511859,1,3158
+'earth',Qumran Aramaic (all non-biblical),ʾrq (ארק),ʾrʿ (ארע),0,244,244,1.0,0.9844997772770996,1,45966
+'earth',Qumran: Aramaic Enoch (4Q201-212),ʾrq (ארק),ʾrʿ (ארע),0,85,85,1.0,0.9567589957857582,1,10576
+'earth',"Qumran: Aramaic Levi / Qahat / Amram (1Q21,4Q213-214b,4Q540-548)",ʾrq (ארק),ʾrʿ (ארע),0,26,26,1.0,0.8712669561953784,1,5990
+'earth',"Qumran: Daniel-related (4Q242 PrNab, 4Q243-245 psDan, 4Q246, 4Q552-553 Four Kingdoms)",ʾrq (ארק),ʾrʿ (ארע),0,8,8,1.0,0.6755843804891231,1,1603
+'earth',Qumran: Genesis Apocryphon (1Q20),ʾrq (ארק),ʾrʿ (ארע),0,49,49,1.0,0.9272997032640949,0.9999999999999999,5603
+'earth',"Qumran: Giants (1Q23-24,2Q26,4Q203,4Q530-533,6Q8)",ʾrq (ארק),ʾrʿ (ארע),0,24,24,1.0,0.8620194241710247,1,3214
+'earth',"Qumran: New Jerusalem (1Q32,2Q24,4Q554-555,5Q15,11Q18)",ʾrq (ארק),ʾrʿ (ארע),0,2,2,1.0,0.34237195288961925,1,4276
+'earth',"Qumran: Targum of Job (11Q10, 4Q157)",ʾrq (ארק),ʾrʿ (ארע),0,11,11,1.0,0.7411599827511859,1,2895
+'earth',Qumran: Tobit (4Q196-199),ʾrq (ארק),ʾrʿ (ארע),0,4,4,1.0,0.5100999795960008,1,2189
+'earth',Daniel ch.2,ʾrq (ארק),ʾrʿ (ארע),0,3,3,1.0,0.43849391955098227,1,1002
+'earth',Daniel ch.3,ʾrq (ארק),ʾrʿ (ארע),0,1,1,1.0,0.20654329147389294,1,781
+'earth',Daniel ch.4,ʾrq (ארק),ʾrʿ (ארע),0,9,9,1.0,0.7008472464490407,1,774
+'earth',Daniel ch.5,ʾrq (ארק),ʾrʿ (ארע),0,0,0,nan,nan,nan,675
+'earth',Daniel ch.6,ʾrq (ארק),ʾrʿ (ארע),0,2,2,1.0,0.34237195288961925,1,706
+'earth',Daniel ch.7,ʾrq (ארק),ʾrʿ (ארע),0,4,4,1.0,0.5100999795960008,1,622
+relative particle,Ezra (MT),zy (זי),dy (די),0,95,95,1.0,0.9611337736337738,1,1523
+relative particle,Daniel (MT),zy (זי),dy (די),0,249,249,1.0,0.9848062976978471,1,4560
+relative particle,Daniel (Qumran MSS),zy (זי),dy (די),0,158,158,1.0,0.9762632104477463,0.9999999999999999,3158
+relative particle,Qumran Aramaic (all non-biblical),zy (זי),dy (די),6,966,972,0.9938271604938271,0.986598226915034,0.997167990880969,45966
+relative particle,Qumran: Aramaic Enoch (4Q201-212),zy (זי),dy (די),2,238,240,0.9916666666666667,0.9701296537265586,0.997711764636838,10576
+relative particle,"Qumran: Aramaic Levi / Qahat / Amram (1Q21,4Q213-214b,4Q540-548)",zy (זי),dy (די),2,111,113,0.9823008849557522,0.9377540468123469,0.9951328701761231,5990
+relative particle,"Qumran: Daniel-related (4Q242 PrNab, 4Q243-245 psDan, 4Q246, 4Q552-553 Four Kingdoms)",zy (זי),dy (די),0,41,41,1.0,0.9143295511310926,1,1603
+relative particle,Qumran: Genesis Apocryphon (1Q20),zy (זי),dy (די),0,159,159,1.0,0.9764089765760101,1,5603
+relative particle,"Qumran: Giants (1Q23-24,2Q26,4Q203,4Q530-533,6Q8)",zy (זי),dy (די),1,60,61,0.9836065573770492,0.9128093437223194,0.997100343885636,3214
+relative particle,"Qumran: New Jerusalem (1Q32,2Q24,4Q554-555,5Q15,11Q18)",zy (זי),dy (די),0,78,78,1.0,0.9530605462258804,1,4276
+relative particle,"Qumran: Targum of Job (11Q10, 4Q157)",zy (זי),dy (די),0,29,29,1.0,0.8830264055344442,1,2895
+relative particle,Qumran: Tobit (4Q196-199),zy (זי),dy (די),0,48,48,1.0,0.9258973488472576,0.9999999999999999,2189
+relative particle,Daniel ch.2,zy (זי),dy (די),0,67,67,1.0,0.9457719757882374,0.9999999999999999,1002
+relative particle,Daniel ch.3,zy (זי),dy (די),0,42,42,1.0,0.9161983874908382,1,781
+relative particle,Daniel ch.4,zy (זי),dy (די),0,39,39,1.0,0.9103301463997611,1,774
+relative particle,Daniel ch.5,zy (זי),dy (די),0,39,39,1.0,0.9103301463997611,1,675
+relative particle,Daniel ch.6,zy (זי),dy (די),0,40,40,1.0,0.9123754607496077,1,706
+relative particle,Daniel ch.7,zy (זי),dy (די),0,22,22,1.0,0.8513404742740388,1,622
