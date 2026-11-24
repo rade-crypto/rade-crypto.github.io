@@ -1,0 +1,45 @@
+feature,group,corpus,n_old,n_new,notes
+3mp suffix,grammar,Persian-era papyri,97,0,"Elephantine 81 -hm + 6 -hwm; Arshama 10 -hm"
+3mp suffix,grammar,Ezra,11,15,
+3mp suffix,grammar,Daniel (Masoretic),0,36,
+3mp suffix,grammar,Daniel (Qumran copies),2,20,"4QDan-a 2:41-42 has -hm where MT has -hwn"
+3mp suffix,grammar,Qumran Aramaic,3,556,
+2mp suffix,grammar,Persian-era papyri,85,0,"Elephantine 83, Arshama 2"
+2mp suffix,grammar,Ezra,5,1,
+2mp suffix,grammar,Daniel (Masoretic),0,9,
+2mp suffix,grammar,Daniel (Qumran copies),0,2,
+2mp suffix,grammar,Qumran Aramaic,2,122,
+3mp pronoun,grammar,Persian-era papyri,49,0,"hmw/hm"
+3mp pronoun,grammar,Ezra,9,1,
+3mp pronoun,grammar,Daniel (Masoretic),3,3,
+3mp pronoun,grammar,Daniel (Qumran copies),3,2,
+3mp pronoun,grammar,Qumran Aramaic,5,71,
+plural demonstrative,grammar,Persian-era papyri,37,0,"ʾlh 21, ʾlk 16"
+plural demonstrative,grammar,Ezra,5,0,
+plural demonstrative,grammar,Daniel (Masoretic),10,5,
+plural demonstrative,grammar,Daniel (Qumran copies),4,3,
+plural demonstrative,grammar,Qumran Aramaic,6,83,
+causative prefix,grammar,Persian-era papyri,185,8,"perfect/imperative/infinitive forms only (prefix always written)"
+causative prefix,grammar,Ezra,20,1,
+causative prefix,grammar,Daniel (Masoretic),93,3,
+causative prefix,grammar,Daniel (Qumran copies),34,0,
+causative prefix,grammar,Qumran Aramaic,63,235,
+relative particle,spelling,Persian-era papyri,1020,5,"zy vs dy; Mt Gerizim inscriptions (3rd-2nd c.) 32 zy / 9 dy"
+relative particle,spelling,Ezra,0,95,
+relative particle,spelling,Daniel (Masoretic),0,249,
+relative particle,spelling,Daniel (Qumran copies),0,158,
+relative particle,spelling,Qumran Aramaic,6,966,
+'this',spelling,Persian-era papyri,181,7,"znh vs dnh; Gerizim 2 / 5"
+'this',spelling,Ezra,0,24,
+'this',spelling,Daniel (Masoretic),0,33,
+'this',spelling,Daniel (Qumran copies),0,20,
+'this',spelling,Qumran Aramaic,0,300,
+'earth',spelling,Persian-era papyri,21,7,"ʾrq vs ʾrʿ"
+'earth',spelling,Ezra,0,1,
+'earth',spelling,Daniel (Masoretic),0,19,
+'earth',spelling,Daniel (Qumran copies),0,11,
+'earth',spelling,Qumran Aramaic,0,244,
+reflexive prefix,not a time marker,Persian-era papyri,1,33,"ht- vs ʾt-: the 5th-c. papyri already prefer ʾt-"
+reflexive prefix,not a time marker,Ezra,1,0,
+reflexive prefix,not a time marker,Daniel (Masoretic),12,6,
+reflexive prefix,not a time marker,Qumran Aramaic,27,95,

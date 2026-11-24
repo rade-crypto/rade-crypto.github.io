@@ -1,0 +1,8 @@
+corpus,description,documents,word_tokens_all,word_tokens_fully_attested
+ELEPH,"Elephantine/Syene Aramaic (ERC Elephantine DB), 5th c. BCE",799,26623,19903
+ARSHAMA,"Arshama letters (TAD A6.3-6.15, typed TAD text, OCR+proofread), late 5th c. BCE",10,1167,1040
+IDUM,"Idumean ostraca (IIP), 4th c. BCE",525,3988,3683
+MARE,"Maresha Aramaic (IIP), 4th-2nd c. BCE",111,465,408
+MGER,"Mt Gerizim Aramaic dedications (IIP), 3rd-2nd c. BCE",366,1050,641
+BA_DAN,"Biblical Aramaic, Daniel 2:4b-7:28 (OSHB/WLC ketiv)",1,3599,3599
+BA_EZRA,"Biblical Aramaic, Ezra 4:8-6:18, 7:12-26 (OSHB/WLC ketiv)",1,1212,1212

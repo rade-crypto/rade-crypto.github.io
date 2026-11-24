@@ -1,0 +1,156 @@
+corpus,feature,variant,tokens_attested,docs_attested,tokens_incl_restored,docs_incl_restored
+ARSHAMA,F11a_pron2ms,אנת,3,2,4,2
+ARSHAMA,F11d_now,כענ,5,4,6,4
+ARSHAMA,F11d_now,כעת,15,8,18,10
+ARSHAMA,F11e_impf_hwy_prefix,y-,5,4,5,4
+ARSHAMA,F1a_sfx3mp,-המ,10,5,10,5
+ARSHAMA,F1b_sfx2mp,-כמ,2,2,2,2
+ARSHAMA,F2_causative,h- (haphel),24,8,25,8
+ARSHAMA,F3_reflexive,ʾt- (itpe/aal),2,2,4,3
+ARSHAMA,F4_pron3mp,המו,1,1,1,1
+ARSHAMA,F5_demPl,אל (ambiguous),1,1,1,1
+ARSHAMA,F5_demPl,אלה,1,1,1,1
+ARSHAMA,F5_demPl,אלכ/אלכי,4,4,4,4
+ARSHAMA,F6_rel,זי,70,10,79,10
+ARSHAMA,F6b_possessive,זיל-,29,10,31,10
+ARSHAMA,F7_earth,ארק,1,1,1,1
+ARSHAMA,F8_sfx2ms_prep,-כ,12,5,16,6
+ARSHAMA,F9a_this_m,זנה,12,8,13,9
+ARSHAMA,F9c_that,זכ,9,4,10,4
+ARSHAMA,F9c_that,זכי (dem. or 'innocent'),5,3,5,3
+BA_DAN,F10_objmark,ית+sfx,1,1,1,1
+BA_DAN,F11a_pron2ms,אנתה,14,1,14,1
+BA_DAN,F11b_pron1cp,אנחנא,1,1,1,1
+BA_DAN,F11b_pron1cp,אנחנה,1,1,1,1
+BA_DAN,F11c_behold,אלו,5,1,5,1
+BA_DAN,F11c_behold,ארו,5,1,5,1
+BA_DAN,F11d_now,כענ,7,1,7,1
+BA_DAN,F11e_impf_hwy_prefix,l-,15,1,15,1
+BA_DAN,F11e_impf_hwy_prefix,t-,6,1,6,1
+BA_DAN,F1a_sfx3mp,-הונ,44,1,44,1
+BA_DAN,F1b_sfx2mp,-כונ,8,1,8,1
+BA_DAN,F1c_verbal_obj_sfx,-כונ,1,1,1,1
+BA_DAN,F2_causative,h- (haphel),76,1,76,1
+BA_DAN,F2_causative,no prefix letter visible,12,1,12,1
+BA_DAN,F2_causative,ʾ- (aphel),2,1,2,1
+BA_DAN,F3_reflexive,ht- (hitpe/aal),12,1,12,1
+BA_DAN,F3_reflexive,no prefix letter visible,33,1,33,1
+BA_DAN,F3_reflexive,ʾt- (itpe/aal),6,1,6,1
+BA_DAN,F4_pron3mp,אנונ,2,1,2,1
+BA_DAN,F4_pron3mp,אנינ,1,1,1,1
+BA_DAN,F4_pron3mp,המונ,3,1,3,1
+BA_DAN,F5_demPl,אלכ/אלכי,10,1,10,1
+BA_DAN,F5_demPl,אלנ/אלינ,5,1,5,1
+BA_DAN,F6_rel,די,251,1,251,1
+BA_DAN,F7_earth,ארע,18,1,18,1
+BA_DAN,F8_sfx2ms_prep,-כ,30,1,30,1
+BA_DAN,F9a_this_m,דנה,33,1,33,1
+BA_DAN,F9b_this_f,דא,6,1,6,1
+BA_DAN,F9c_that,דכנ,3,1,3,1
+BA_DAN,F9d_gold,דהב,18,1,18,1
+BA_EZRA,F11a_pron2ms,אנת,1,1,1,1
+BA_EZRA,F11b_pron1cp,אנחנא,1,1,1,1
+BA_EZRA,F11b_pron1cp,אנחנה,1,1,1,1
+BA_EZRA,F11d_now,כענ,6,1,6,1
+BA_EZRA,F11d_now,כענת,3,1,3,1
+BA_EZRA,F11d_now,כעת,1,1,1,1
+BA_EZRA,F11e_impf_hwy_prefix,l-,9,1,9,1
+BA_EZRA,F11e_impf_hwy_prefix,t-,1,1,1,1
+BA_EZRA,F1a_sfx3mp,-הונ,15,1,15,1
+BA_EZRA,F1a_sfx3mp,-המ,11,1,11,1
+BA_EZRA,F1b_sfx2mp,-כמ,5,1,5,1
+BA_EZRA,F1c_verbal_obj_sfx,-כונ,1,1,1,1
+BA_EZRA,F2_causative,h- (haphel),18,1,18,1
+BA_EZRA,F2_causative,no prefix letter visible,2,1,2,1
+BA_EZRA,F2_causative,ʾ- (aphel),1,1,1,1
+BA_EZRA,F3_reflexive,ht- (hitpe/aal),1,1,1,1
+BA_EZRA,F3_reflexive,no prefix letter visible,30,1,30,1
+BA_EZRA,F4_pron3mp,אנונ,1,1,1,1
+BA_EZRA,F4_pron3mp,המו,9,1,9,1
+BA_EZRA,F5_demPl,אלה,1,1,1,1
+BA_EZRA,F5_demPl,אלכ/אלכי,4,1,4,1
+BA_EZRA,F6_rel,די,95,1,95,1
+BA_EZRA,F7_earth,ארע,1,1,1,1
+BA_EZRA,F8_sfx2ms_prep,-כ,6,1,6,1
+BA_EZRA,F9a_this_m,דנה,24,1,24,1
+BA_EZRA,F9b_this_f,דה,1,1,1,1
+BA_EZRA,F9c_that,דכ,13,1,13,1
+BA_EZRA,F9d_gold,דהב,5,1,5,1
+BA_EZRA,F9e_zkr_dkr,דכר,6,1,6,1
+BA_EZRA,F9f_zbh_dbh,דבח,2,1,2,1
+BA_EZRA,F9g_altar,מדבח,1,1,1,1
+ELEPH,F10_objmark,ית (uncertain),3,3,3,3
+ELEPH,F10_objmark,ית+sfx (uncertain),2,2,2,2
+ELEPH,F11a_pron2ms,אנת,54,34,67,39
+ELEPH,F11b_pron1cp,אנחנ,15,4,15,4
+ELEPH,F11b_pron1cp,אנחנה,27,10,31,11
+ELEPH,F11c_behold,הלו,44,34,51,38
+ELEPH,F11d_now,כענ,149,116,185,130
+ELEPH,F11d_now,כענת,32,28,35,31
+ELEPH,F11d_now,כעת,50,23,58,29
+ELEPH,F11e_impf_hwy_prefix,t-,8,7,8,7
+ELEPH,F11e_impf_hwy_prefix,y-,22,13,29,16
+ELEPH,F1a_sfx3mp,-הומ,6,3,16,4
+ELEPH,F1a_sfx3mp,-הונ,0,0,1,1
+ELEPH,F1a_sfx3mp,-המ,81,35,106,37
+ELEPH,F1b_sfx2mp,-כמ,83,50,99,56
+ELEPH,F1c_verbal_obj_sfx,-הומ,0,0,2,2
+ELEPH,F1c_verbal_obj_sfx,-המ,1,1,1,1
+ELEPH,F1c_verbal_obj_sfx,-כמ,6,3,10,5
+ELEPH,F2_causative,h- (haphel),230,115,326,156
+ELEPH,F2_causative,ʾ- (aphel),8,6,8,6
+ELEPH,F3_reflexive,ht- (hitpe/aal),1,1,1,1
+ELEPH,F3_reflexive,ʾt- (itpe/aal),31,14,53,16
+ELEPH,F4_pron3mp,המ,6,6,6,6
+ELEPH,F4_pron3mp,המו,42,29,47,34
+ELEPH,F5_demPl,אל (ambiguous),125,63,163,72
+ELEPH,F5_demPl,אלה,20,16,29,21
+ELEPH,F5_demPl,אלכ/אלכי,12,10,15,10
+ELEPH,F6_rel,די,5,4,5,4
+ELEPH,F6_rel,די (function unclear),2,2,2,2
+ELEPH,F6_rel,זי,950,220,1190,231
+ELEPH,F6b_possessive,דיל-,4,2,4,2
+ELEPH,F6b_possessive,זיל-,78,33,116,38
+ELEPH,F7_earth,ארע,7,7,7,7
+ELEPH,F7_earth,ארק,20,4,21,5
+ELEPH,F8_sfx2ms_prep,-כ,233,101,268,111
+ELEPH,F9a_this_m,דנה,7,6,7,6
+ELEPH,F9a_this_m,זנה,169,80,212,93
+ELEPH,F9b_this_f,דא,1,1,1,1
+ELEPH,F9b_this_f,דא (uncertain),3,3,4,4
+ELEPH,F9b_this_f,זא,12,12,16,15
+ELEPH,F9c_that,דכ,2,2,2,2
+ELEPH,F9c_that,זכ,100,31,121,33
+ELEPH,F9c_that,זכי (dem. or 'innocent'),4,3,4,3
+ELEPH,F9d_gold,דהב,1,1,1,1
+ELEPH,F9d_gold,זהב,43,4,77,5
+ELEPH,F9e_zkr_dkr,דכר,4,3,5,4
+ELEPH,F9e_zkr_dkr,זכר,15,7,17,7
+ELEPH,F9f_zbh_dbh,דבח,4,4,4,4
+ELEPH,F9g_altar,מדבח,4,3,4,3
+IDUM,F10_objmark,ית+sfx (uncertain),1,1,1,1
+IDUM,F2_causative,h- (haphel),22,22,23,23
+IDUM,F6_rel,זי,15,14,16,15
+IDUM,F9e_zkr_dkr,דכר,1,1,1,1
+MARE,F11d_now,כענ,1,1,1,1
+MARE,F11e_impf_hwy_prefix,t-,0,0,1,1
+MARE,F11e_impf_hwy_prefix,y-,1,1,1,1
+MARE,F6_rel,זי,5,3,6,3
+MARE,F8_sfx2ms_prep,-כ,1,1,1,1
+MARE,F9a_this_m,זנה,1,1,1,1
+MARE,F9e_zkr_dkr,דכר,3,3,3,3
+MGER,F11a_pron2ms,אנת,0,0,1,1
+MGER,F11e_impf_hwy_prefix,y-,1,1,1,1
+MGER,F2_causative,h- (haphel),24,24,67,67
+MGER,F5_demPl,אל (ambiguous),3,3,3,3
+MGER,F5_demPl,אלה,1,1,1,1
+MGER,F6_rel,די,9,9,9,9
+MGER,F6_rel,זי,32,31,76,75
+MGER,F6b_possessive,זיל-,1,1,1,1
+MGER,F8_sfx2ms_prep,-כ,2,1,2,1
+MGER,F9a_this_m,דנה,5,5,17,17
+MGER,F9a_this_m,זנה,2,2,2,2
+MGER,F9b_this_f,דא,1,1,1,1
+MGER,F9b_this_f,דה,2,2,2,2
+MGER,F9e_zkr_dkr,דכר,6,6,32,32
+MGER,F9f_zbh_dbh,דבח,1,1,2,1

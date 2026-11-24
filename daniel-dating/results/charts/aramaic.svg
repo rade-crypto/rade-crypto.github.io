@@ -1,50 +1,72 @@
-<svg viewBox="0 0 760 276" role="img" aria-label="Aramaic: share of the later form in Ezra, Daniel and Qumran Aramaic" class="chart" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
-<line x1="230.0" x2="230.0" y1="20" y2="230" class="grid"/><text x="230.0" y="246" class="tick" text-anchor="middle">0%</text>
-<line x1="357.0" x2="357.0" y1="20" y2="230" class="grid"/><text x="357.0" y="246" class="tick" text-anchor="middle">25%</text>
-<line x1="484.0" x2="484.0" y1="20" y2="230" class="grid"/><text x="484.0" y="246" class="tick" text-anchor="middle">50%</text>
-<line x1="611.0" x2="611.0" y1="20" y2="230" class="grid"/><text x="611.0" y="246" class="tick" text-anchor="middle">75%</text>
-<line x1="738.0" x2="738.0" y1="20" y2="230" class="grid"/><text x="738.0" y="246" class="tick" text-anchor="middle">100%</text>
-<text x="484.0" y="268" class="tick" text-anchor="middle">share of the later form</text>
+<svg viewBox="0 0 760 344" role="img" aria-label="Aramaic: share of the later form in Persian-era papyri, Ezra, Daniel and Qumran Aramaic" class="chart" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+<line x1="230.0" x2="230.0" y1="20" y2="298" class="grid"/><text x="230.0" y="314" class="tick" text-anchor="middle">0%</text>
+<line x1="357.0" x2="357.0" y1="20" y2="298" class="grid"/><text x="357.0" y="314" class="tick" text-anchor="middle">25%</text>
+<line x1="484.0" x2="484.0" y1="20" y2="298" class="grid"/><text x="484.0" y="314" class="tick" text-anchor="middle">50%</text>
+<line x1="611.0" x2="611.0" y1="20" y2="298" class="grid"/><text x="611.0" y="314" class="tick" text-anchor="middle">75%</text>
+<line x1="738.0" x2="738.0" y1="20" y2="298" class="grid"/><text x="738.0" y="314" class="tick" text-anchor="middle">100%</text>
+<text x="484.0" y="336" class="tick" text-anchor="middle">share of the later form</text>
 <text x="218" y="42.0" class="rl" text-anchor="end">3rd pl. suffix</text>
 <text x="218" y="55.0" class="rs" text-anchor="end">&#x27;their&#x27;: -hm vs -hwn</text>
 <line x1="230.0" x2="738.0" y1="43.0" y2="43.0" class="rowline"/>
-<rect x="517.6" y="31.5" width="11" height="11" rx="2" class="m-ezra" data-tip="Ezra (MT): 15 of 26 use the later form (suffix -hwn) = 58%"/>
-<path d="M735.3,34.0 L742.3,41.0 L735.3,48.0 L728.3,41.0Z" class="m-qum" data-tip="Qumran Aramaic (all non-biblical): 556 of 559 use the later form (suffix -hwn) = 99%"/>
-<circle cx="691.8" cy="45.0" r="6" class="m-danq" data-tip="Daniel (Qumran MSS): 20 of 22 use the later form (suffix -hwn) = 91%"/>
-<circle cx="738.0" cy="49.0" r="6.5" class="m-dan" data-tip="Daniel (MT): 36 of 36 use the later form (suffix -hwn) = 100%"/>
+<rect x="224.5" y="29.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 0 of 97 later form = 0%"/>
+<path d="M523.1,32.0 L530.1,44.5 L516.1,44.5Z" class="m-ezra" data-tip="Ezra: 15 of 26 later form = 58%"/>
+<path d="M735.3,36.0 L742.3,43.0 L735.3,50.0 L728.3,43.0Z" class="m-qum" data-tip="Qumran Aramaic: 556 of 559 later form = 99%"/>
+<circle cx="691.8" cy="47.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 20 of 22 later form = 91%"/>
+<circle cx="738.0" cy="51.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 36 of 36 later form = 100%"/>
 <text x="218" y="76.0" class="rl" text-anchor="end">2nd pl. suffix</text>
 <text x="218" y="89.0" class="rs" text-anchor="end">&#x27;your (pl.)&#x27;: -km vs -kwn</text>
 <line x1="230.0" x2="738.0" y1="77.0" y2="77.0" class="rowline"/>
-<rect x="309.2" y="65.5" width="11" height="11" rx="2" class="m-ezra" data-tip="Ezra (MT): 1 of 6 use the later form (suffix -kwn) = 17%"/>
-<path d="M729.8,68.0 L736.8,75.0 L729.8,82.0 L722.8,75.0Z" class="m-qum" data-tip="Qumran Aramaic (all non-biblical): 122 of 124 use the later form (suffix -kwn) = 98%"/>
-<circle cx="738.0" cy="79.0" r="6" class="m-danq" data-tip="Daniel (Qumran MSS): 2 of 2 use the later form (suffix -kwn) = 100%"/>
-<circle cx="738.0" cy="83.0" r="6.5" class="m-dan" data-tip="Daniel (MT): 9 of 9 use the later form (suffix -kwn) = 100%"/>
+<rect x="224.5" y="63.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 0 of 85 later form = 0%"/>
+<path d="M314.7,66.0 L321.7,78.5 L307.7,78.5Z" class="m-ezra" data-tip="Ezra: 1 of 6 later form = 17%"/>
+<path d="M729.8,70.0 L736.8,77.0 L729.8,84.0 L722.8,77.0Z" class="m-qum" data-tip="Qumran Aramaic: 122 of 124 later form = 98%"/>
+<circle cx="738.0" cy="81.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 2 of 2 later form = 100%"/>
+<circle cx="738.0" cy="85.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 9 of 9 later form = 100%"/>
 <text x="218" y="110.0" class="rl" text-anchor="end">3rd pl. pronoun</text>
 <text x="218" y="123.0" class="rs" text-anchor="end">&#x27;they&#x27;: hmw(n) vs ʾnwn</text>
 <line x1="230.0" x2="738.0" y1="111.0" y2="111.0" class="rowline"/>
-<rect x="275.3" y="99.5" width="11" height="11" rx="2" class="m-ezra" data-tip="Ezra (MT): 1 of 10 use the later form (pronoun ʾnwn) = 10%"/>
-<path d="M704.6,102.0 L711.6,109.0 L704.6,116.0 L697.6,109.0Z" class="m-qum" data-tip="Qumran Aramaic (all non-biblical): 71 of 76 use the later form (pronoun ʾnwn) = 93%"/>
-<circle cx="433.2" cy="113.0" r="6" class="m-danq" data-tip="Daniel (Qumran MSS): 2 of 5 use the later form (pronoun ʾnwn) = 40%"/>
-<circle cx="484.0" cy="117.0" r="6.5" class="m-dan" data-tip="Daniel (MT): 3 of 6 use the later form (pronoun ʾnwn) = 50%"/>
+<rect x="224.5" y="97.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 0 of 49 later form = 0%"/>
+<path d="M280.8,100.0 L287.8,112.5 L273.8,112.5Z" class="m-ezra" data-tip="Ezra: 1 of 10 later form = 10%"/>
+<path d="M704.6,104.0 L711.6,111.0 L704.6,118.0 L697.6,111.0Z" class="m-qum" data-tip="Qumran Aramaic: 71 of 76 later form = 93%"/>
+<circle cx="433.2" cy="115.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 2 of 5 later form = 40%"/>
+<circle cx="484.0" cy="119.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 3 of 6 later form = 50%"/>
 <text x="218" y="144.0" class="rl" text-anchor="end">plural demonstrative</text>
 <text x="218" y="157.0" class="rs" text-anchor="end">&#x27;these&#x27;: ʾlh/ʾlk vs ʾlyn</text>
 <line x1="230.0" x2="738.0" y1="145.0" y2="145.0" class="rowline"/>
-<rect x="224.5" y="133.5" width="11" height="11" rx="2" class="m-ezra" data-tip="Ezra (MT): 0 of 5 use the later form (ʾlyn) = 0%"/>
-<path d="M703.8,136.0 L710.8,143.0 L703.8,150.0 L696.8,143.0Z" class="m-qum" data-tip="Qumran Aramaic (all non-biblical): 83 of 89 use the later form (ʾlyn) = 93%"/>
-<circle cx="447.7" cy="147.0" r="6" class="m-danq" data-tip="Daniel (Qumran MSS): 3 of 7 use the later form (ʾlyn) = 43%"/>
-<circle cx="399.3" cy="151.0" r="6.5" class="m-dan" data-tip="Daniel (MT): 5 of 15 use the later form (ʾlyn) = 33%"/>
-<text x="218" y="178.0" class="rl" text-anchor="end">t-stem prefix</text>
-<text x="218" y="191.0" class="rs" text-anchor="end">reflexive: ht- vs ʾt-</text>
+<rect x="224.5" y="131.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 0 of 37 later form = 0%"/>
+<path d="M230.0,134.0 L237.0,146.5 L223.0,146.5Z" class="m-ezra" data-tip="Ezra: 0 of 5 later form = 0%"/>
+<path d="M703.8,138.0 L710.8,145.0 L703.8,152.0 L696.8,145.0Z" class="m-qum" data-tip="Qumran Aramaic: 83 of 89 later form = 93%"/>
+<circle cx="447.7" cy="149.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 3 of 7 later form = 43%"/>
+<circle cx="399.3" cy="153.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 5 of 15 later form = 33%"/>
+<text x="218" y="178.0" class="rl" text-anchor="end">causative prefix</text>
+<text x="218" y="191.0" class="rs" text-anchor="end">causative: h- vs ʾ-</text>
 <line x1="230.0" x2="738.0" y1="179.0" y2="179.0" class="rowline"/>
-<rect x="224.5" y="167.5" width="11" height="11" rx="2" class="m-ezra" data-tip="Ezra (MT): 0 of 4 use the later form (prefix ʾt-) = 0%"/>
-<path d="M625.6,170.0 L632.6,177.0 L625.6,184.0 L618.6,177.0Z" class="m-qum" data-tip="Qumran Aramaic (all non-biblical): 95 of 122 use the later form (prefix ʾt-) = 78%"/>
-<circle cx="447.7" cy="181.0" r="6" class="m-danq" data-tip="Daniel (Qumran MSS): 6 of 14 use the later form (prefix ʾt-) = 43%"/>
-<circle cx="357.0" cy="185.0" r="6.5" class="m-dan" data-tip="Daniel (MT): 6 of 24 use the later form (prefix ʾt-) = 25%"/>
-<text x="218" y="212.0" class="rl" text-anchor="end">causative prefix</text>
-<text x="218" y="225.0" class="rs" text-anchor="end">causative: h- vs ʾ-</text>
+<rect x="245.6" y="165.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 8 of 193 later form = 4%"/>
+<path d="M254.2,168.0 L261.2,180.5 L247.2,180.5Z" class="m-ezra" data-tip="Ezra: 1 of 21 later form = 5%"/>
+<path d="M630.6,172.0 L637.6,179.0 L630.6,186.0 L623.6,179.0Z" class="m-qum" data-tip="Qumran Aramaic: 235 of 298 later form = 79%"/>
+<circle cx="230.0" cy="183.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 0 of 34 later form = 0%"/>
+<circle cx="245.9" cy="187.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 3 of 96 later form = 3%"/>
+<text x="218" y="212.0" class="rl" text-anchor="end">relative particle</text>
+<text x="218" y="225.0" class="rs" text-anchor="end">spelling: zy vs dy</text>
 <line x1="230.0" x2="738.0" y1="213.0" y2="213.0" class="rowline"/>
-<rect x="295.1" y="201.5" width="11" height="11" rx="2" class="m-ezra" data-tip="Ezra (MT): 5 of 36 use the later form (prefix ʾ-) = 14%"/>
-<path d="M652.8,204.0 L659.8,211.0 L652.8,218.0 L645.8,211.0Z" class="m-qum" data-tip="Qumran Aramaic (all non-biblical): 372 of 447 use the later form (prefix ʾ-) = 83%"/>
-<circle cx="351.3" cy="215.0" r="6" class="m-danq" data-tip="Daniel (Qumran MSS): 16 of 67 use the later form (prefix ʾ-) = 24%"/>
-<circle cx="304.6" cy="219.0" r="6.5" class="m-dan" data-tip="Daniel (MT): 21 of 143 use the later form (prefix ʾ-) = 15%"/>
+<rect x="227.0" y="199.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 5 of 1025 later form = 0%"/>
+<path d="M738.0,202.0 L745.0,214.5 L731.0,214.5Z" class="m-ezra" data-tip="Ezra: 95 of 95 later form = 100%"/>
+<path d="M734.9,206.0 L741.9,213.0 L734.9,220.0 L727.9,213.0Z" class="m-qum" data-tip="Qumran Aramaic: 966 of 972 later form = 99%"/>
+<circle cx="738.0" cy="217.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 158 of 158 later form = 100%"/>
+<circle cx="738.0" cy="221.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 249 of 249 later form = 100%"/>
+<text x="218" y="246.0" class="rl" text-anchor="end">&#x27;this&#x27;</text>
+<text x="218" y="259.0" class="rs" text-anchor="end">spelling: znh vs dnh</text>
+<line x1="230.0" x2="738.0" y1="247.0" y2="247.0" class="rowline"/>
+<rect x="243.4" y="233.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 7 of 188 later form = 4%"/>
+<path d="M738.0,236.0 L745.0,248.5 L731.0,248.5Z" class="m-ezra" data-tip="Ezra: 24 of 24 later form = 100%"/>
+<path d="M738.0,240.0 L745.0,247.0 L738.0,254.0 L731.0,247.0Z" class="m-qum" data-tip="Qumran Aramaic: 300 of 300 later form = 100%"/>
+<circle cx="738.0" cy="251.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 20 of 20 later form = 100%"/>
+<circle cx="738.0" cy="255.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 33 of 33 later form = 100%"/>
+<text x="218" y="280.0" class="rl" text-anchor="end">&#x27;earth&#x27;</text>
+<text x="218" y="293.0" class="rs" text-anchor="end">spelling: ʾrq vs ʾrʿ</text>
+<line x1="230.0" x2="738.0" y1="281.0" y2="281.0" class="rowline"/>
+<rect x="351.5" y="267.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 7 of 28 later form = 25%"/>
+<path d="M738.0,270.0 L745.0,282.5 L731.0,282.5Z" class="m-ezra" data-tip="Ezra: 1 of 1 later form = 100%"/>
+<path d="M738.0,274.0 L745.0,281.0 L738.0,288.0 L731.0,281.0Z" class="m-qum" data-tip="Qumran Aramaic: 244 of 244 later form = 100%"/>
+<circle cx="738.0" cy="285.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 11 of 11 later form = 100%"/>
+<circle cx="738.0" cy="289.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 19 of 19 later form = 100%"/>
 </svg>

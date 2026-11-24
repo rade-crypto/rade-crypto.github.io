@@ -1,0 +1,23 @@
+# corpus	doc	line	form	feature	action	note   (action: drop = not this feature; or a replacement variant label)
+ELEPH	312904	1	די	F6_rel	די (function unclear)	fragmentary ostracon CG 20
+ELEPH	313073	5	די	F6_rel	די (function unclear)	fragmentary ostracon CG 189
+ELEPH	306603	*	מדי	F6_rel	drop	place name Media (Bisitun)
+ELEPH	306603	*	ומדי	F6_rel	drop	place name Media (Bisitun)
+ELEPH	307764	17	מדי	F6_rel	drop	check: not relative
+ELEPH	100633	1	ולדא	F9b_this_f	דא (uncertain)	fragmentary
+ELEPH	308110	3	דא	F9b_this_f	דא (uncertain)	fragmentary
+ELEPH	312270	1	דא	F9b_this_f	דא (uncertain)	single word fragment
+ELEPH	312928	3	דא	F9b_this_f	דא (uncertain)	CG 44
+ELEPH	306611	Bi14	בדא	F9b_this_f	drop	verb 'invented' (Ahiqar)
+ELEPH	306510	1	ית	F10_objmark	ית (uncertain)	fragment, probably part of a name
+ELEPH	306532	2	ית	F10_objmark	ית (uncertain)	fragment
+ELEPH	306562	3	ית	F10_objmark	ית (uncertain)	fragment
+ELEPH	307764	5	ית	F10_objmark	drop	part of Persian legal term הנגית (split by a lacuna)
+ELEPH	307767	22	יתה	F10_objmark	ית+sfx (uncertain)	unclear context
+ELEPH	308121	x+1	יתי	F10_objmark	ית+sfx (uncertain)	fragment
+ELEPH	313151	1	אלו	F11c_behold	drop	'if' (conditional), not 'behold'
+IDUM	idum0175	1	לכמ	F1b_sfx2mp	drop	month name (Kislev) split, not a suffix
+IDUM	idum0024	*	דכרו	F9e_zkr_dkr	drop	personal name
+IDUM	idum0024a	*	דכרו	F9e_zkr_dkr	drop	personal name
+IDUM	idum0053	*	דכרו	F9e_zkr_dkr	drop	personal name
+IDUM	idum0674	4	יתה	F10_objmark	ית+sfx (uncertain)	end of commodity list, function unclear

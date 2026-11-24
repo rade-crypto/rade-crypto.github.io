@@ -78,7 +78,7 @@ svg .m-c6 { fill: var(--s-blue); stroke: var(--surface); stroke-width: 1.5 }
 svg .m-cla { fill: var(--muted); stroke: var(--surface); stroke-width: 1.5; opacity: .8 }
 svg .m-anchor { fill: var(--s-blue); stroke: var(--surface); stroke-width: 1.5 }
 svg .truth { stroke: var(--fg2); stroke-width: 2 }
-svg .ci { stroke: var(--s-orange); stroke-width: 2.5; opacity: .55; stroke-linecap: round }
+svg .ci { stroke: var(--s-orange); stroke-width: 2.5; opacity: .55; stroke-linecap: round } svg .ci.blue { stroke: var(--s-blue) } svg .band { fill: var(--s-blue); opacity: .14 }
 svg [data-tip] { cursor: default }
 svg [data-tip]:hover { stroke: var(--fg); stroke-width: 2 }
 .tip { position: fixed; z-index: 20; pointer-events: none; max-width: 300px; background: var(--fg); color: var(--bg); font-family: var(--f-head); font-size: 13px; line-height: 1.35; padding: 7px 10px; border-radius: 6px; box-shadow: 0 4px 14px rgba(0,0,0,.18) }
@@ -130,9 +130,9 @@ a { color: var(--accent) }
   <h2>What the language says</h2>
   <p>Measured against dated texts, Daniel's language is not 6th-century language. Its Aramaic is later than the Aramaic of the Persian-era papyri and of Ezra's documents, though older-looking than the Aramaic of Qumran. Within the book, the vision of chapter 7 is measurably later than the court stories of chapters 2–6. Its Hebrew groups with Ezra, Nehemiah, Chronicles and Esther, not with Ezekiel, Haggai and Zechariah, who really wrote in the 6th century. Its vocabulary is full of Persian administrative terms, even in stories set at Nebuchadnezzar's court. One of its Greek instrument names has its instrument sense first attested in the 2nd century BCE. The language fits stories written in the late Persian or early Hellenistic period and visions written later still. The separate information check in Part two puts the visions at 167–164 BCE.</p>
   <div class="figs">
-    
+    <div class="fig"><b>0 of 268</b><span>later grammatical forms ("their," "your," "they," "these") in the 5th-century Elephantine and Arshama papyri. Daniel: 53 of 66</span></div>
     <div class="fig"><b>4%</b><span>probability that Daniel's Hebrew belongs with the 6th-century texts (period classifier)</span></div>
-    <div class="fig"><b>43% vs 16%</b><span>later Aramaic forms in the vision of ch. 7 vs the stories of chs. 2–6 (p = 0.006)</span></div>
+    <div class="fig"><b>3% vs 4%</b><span>newer causative prefix in Daniel vs the 5th-century papyri: here Daniel is as old-fashioned as they are</span></div>
     <div class="fig"><b>0</b><span>uses of <i>symphōnia</i> for an instrument in Greek before the 2nd century BCE: literature, papyri, inscriptions</span></div>
   </div>
 </div>
@@ -145,7 +145,7 @@ a { color: var(--accent) }
   <ul class="plain">
     <li>the full Masoretic text of the Hebrew Bible with word-level grammar (ETCBC database);</li>
     <li>the morphologically tagged Dead Sea Scrolls, about 500,000 words of Hebrew and Aramaic from the 3rd to 1st centuries BCE;</li>
-    <li>Persian-era Aramaic documents: not yet included</li>
+    <li>about 21,000 fully legible words of dated Persian-era Aramaic: 799 Elephantine papyri and ostraca (Berlin ERC database, 5th century BCE) and ten Arshama letters, plus 4th-century ostraca from Idumea and 3rd–2nd-century inscriptions from Mt Gerizim;</li>
     <li>36 million words of Greek literature, 5 million words of Greek papyri and 3.9 million words of Greek inscriptions.</li>
   </ul>
   <p>All language counts use the consonantal text only; the medieval vowel signs are never used as evidence. No interpretive commentary was used to decide anything.</p>
@@ -158,73 +158,96 @@ a { color: var(--accent) }
   <div class="col">
   <p>Several grammatical features changed between the Aramaic of the Persian empire and the Aramaic of the Hellenistic period. Each was counted in the consonantal text alone, with no medieval vowels, in four bodies of text:</p>
   <ul class="plain">
-    <li>Persian-era Aramaic documents: not yet included</li>
+    <li>the Persian-era papyri: 799 Elephantine documents (5th century BCE) and ten Arshama letters, about 21,000 fully legible words;</li>
     <li>Ezra 4:8–6:18 and 7:12–26, documents the text itself dates to the late 6th and 5th centuries BCE;</li>
     <li>Daniel 2:4b–7:28;</li>
     <li>about 46,000 words of non-biblical Aramaic from Qumran, written in the 3rd to 1st centuries BCE.</li>
   </ul>
   </div>
   <div class="chartbox">
-    <svg viewBox="0 0 760 276" role="img" aria-label="Aramaic: share of the later form in Ezra, Daniel and Qumran Aramaic" class="chart" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
-<line x1="230.0" x2="230.0" y1="20" y2="230" class="grid"/><text x="230.0" y="246" class="tick" text-anchor="middle">0%</text>
-<line x1="357.0" x2="357.0" y1="20" y2="230" class="grid"/><text x="357.0" y="246" class="tick" text-anchor="middle">25%</text>
-<line x1="484.0" x2="484.0" y1="20" y2="230" class="grid"/><text x="484.0" y="246" class="tick" text-anchor="middle">50%</text>
-<line x1="611.0" x2="611.0" y1="20" y2="230" class="grid"/><text x="611.0" y="246" class="tick" text-anchor="middle">75%</text>
-<line x1="738.0" x2="738.0" y1="20" y2="230" class="grid"/><text x="738.0" y="246" class="tick" text-anchor="middle">100%</text>
-<text x="484.0" y="268" class="tick" text-anchor="middle">share of the later form</text>
+    <svg viewBox="0 0 760 344" role="img" aria-label="Aramaic: share of the later form in Persian-era papyri, Ezra, Daniel and Qumran Aramaic" class="chart" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+<line x1="230.0" x2="230.0" y1="20" y2="298" class="grid"/><text x="230.0" y="314" class="tick" text-anchor="middle">0%</text>
+<line x1="357.0" x2="357.0" y1="20" y2="298" class="grid"/><text x="357.0" y="314" class="tick" text-anchor="middle">25%</text>
+<line x1="484.0" x2="484.0" y1="20" y2="298" class="grid"/><text x="484.0" y="314" class="tick" text-anchor="middle">50%</text>
+<line x1="611.0" x2="611.0" y1="20" y2="298" class="grid"/><text x="611.0" y="314" class="tick" text-anchor="middle">75%</text>
+<line x1="738.0" x2="738.0" y1="20" y2="298" class="grid"/><text x="738.0" y="314" class="tick" text-anchor="middle">100%</text>
+<text x="484.0" y="336" class="tick" text-anchor="middle">share of the later form</text>
 <text x="218" y="42.0" class="rl" text-anchor="end">3rd pl. suffix</text>
 <text x="218" y="55.0" class="rs" text-anchor="end">&#x27;their&#x27;: -hm vs -hwn</text>
 <line x1="230.0" x2="738.0" y1="43.0" y2="43.0" class="rowline"/>
-<rect x="517.6" y="31.5" width="11" height="11" rx="2" class="m-ezra" data-tip="Ezra (MT): 15 of 26 use the later form (suffix -hwn) = 58%"/>
-<path d="M735.3,34.0 L742.3,41.0 L735.3,48.0 L728.3,41.0Z" class="m-qum" data-tip="Qumran Aramaic (all non-biblical): 556 of 559 use the later form (suffix -hwn) = 99%"/>
-<circle cx="691.8" cy="45.0" r="6" class="m-danq" data-tip="Daniel (Qumran MSS): 20 of 22 use the later form (suffix -hwn) = 91%"/>
-<circle cx="738.0" cy="49.0" r="6.5" class="m-dan" data-tip="Daniel (MT): 36 of 36 use the later form (suffix -hwn) = 100%"/>
+<rect x="224.5" y="29.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 0 of 97 later form = 0%"/>
+<path d="M523.1,32.0 L530.1,44.5 L516.1,44.5Z" class="m-ezra" data-tip="Ezra: 15 of 26 later form = 58%"/>
+<path d="M735.3,36.0 L742.3,43.0 L735.3,50.0 L728.3,43.0Z" class="m-qum" data-tip="Qumran Aramaic: 556 of 559 later form = 99%"/>
+<circle cx="691.8" cy="47.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 20 of 22 later form = 91%"/>
+<circle cx="738.0" cy="51.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 36 of 36 later form = 100%"/>
 <text x="218" y="76.0" class="rl" text-anchor="end">2nd pl. suffix</text>
 <text x="218" y="89.0" class="rs" text-anchor="end">&#x27;your (pl.)&#x27;: -km vs -kwn</text>
 <line x1="230.0" x2="738.0" y1="77.0" y2="77.0" class="rowline"/>
-<rect x="309.2" y="65.5" width="11" height="11" rx="2" class="m-ezra" data-tip="Ezra (MT): 1 of 6 use the later form (suffix -kwn) = 17%"/>
-<path d="M729.8,68.0 L736.8,75.0 L729.8,82.0 L722.8,75.0Z" class="m-qum" data-tip="Qumran Aramaic (all non-biblical): 122 of 124 use the later form (suffix -kwn) = 98%"/>
-<circle cx="738.0" cy="79.0" r="6" class="m-danq" data-tip="Daniel (Qumran MSS): 2 of 2 use the later form (suffix -kwn) = 100%"/>
-<circle cx="738.0" cy="83.0" r="6.5" class="m-dan" data-tip="Daniel (MT): 9 of 9 use the later form (suffix -kwn) = 100%"/>
+<rect x="224.5" y="63.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 0 of 85 later form = 0%"/>
+<path d="M314.7,66.0 L321.7,78.5 L307.7,78.5Z" class="m-ezra" data-tip="Ezra: 1 of 6 later form = 17%"/>
+<path d="M729.8,70.0 L736.8,77.0 L729.8,84.0 L722.8,77.0Z" class="m-qum" data-tip="Qumran Aramaic: 122 of 124 later form = 98%"/>
+<circle cx="738.0" cy="81.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 2 of 2 later form = 100%"/>
+<circle cx="738.0" cy="85.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 9 of 9 later form = 100%"/>
 <text x="218" y="110.0" class="rl" text-anchor="end">3rd pl. pronoun</text>
 <text x="218" y="123.0" class="rs" text-anchor="end">&#x27;they&#x27;: hmw(n) vs ʾnwn</text>
 <line x1="230.0" x2="738.0" y1="111.0" y2="111.0" class="rowline"/>
-<rect x="275.3" y="99.5" width="11" height="11" rx="2" class="m-ezra" data-tip="Ezra (MT): 1 of 10 use the later form (pronoun ʾnwn) = 10%"/>
-<path d="M704.6,102.0 L711.6,109.0 L704.6,116.0 L697.6,109.0Z" class="m-qum" data-tip="Qumran Aramaic (all non-biblical): 71 of 76 use the later form (pronoun ʾnwn) = 93%"/>
-<circle cx="433.2" cy="113.0" r="6" class="m-danq" data-tip="Daniel (Qumran MSS): 2 of 5 use the later form (pronoun ʾnwn) = 40%"/>
-<circle cx="484.0" cy="117.0" r="6.5" class="m-dan" data-tip="Daniel (MT): 3 of 6 use the later form (pronoun ʾnwn) = 50%"/>
+<rect x="224.5" y="97.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 0 of 49 later form = 0%"/>
+<path d="M280.8,100.0 L287.8,112.5 L273.8,112.5Z" class="m-ezra" data-tip="Ezra: 1 of 10 later form = 10%"/>
+<path d="M704.6,104.0 L711.6,111.0 L704.6,118.0 L697.6,111.0Z" class="m-qum" data-tip="Qumran Aramaic: 71 of 76 later form = 93%"/>
+<circle cx="433.2" cy="115.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 2 of 5 later form = 40%"/>
+<circle cx="484.0" cy="119.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 3 of 6 later form = 50%"/>
 <text x="218" y="144.0" class="rl" text-anchor="end">plural demonstrative</text>
 <text x="218" y="157.0" class="rs" text-anchor="end">&#x27;these&#x27;: ʾlh/ʾlk vs ʾlyn</text>
 <line x1="230.0" x2="738.0" y1="145.0" y2="145.0" class="rowline"/>
-<rect x="224.5" y="133.5" width="11" height="11" rx="2" class="m-ezra" data-tip="Ezra (MT): 0 of 5 use the later form (ʾlyn) = 0%"/>
-<path d="M703.8,136.0 L710.8,143.0 L703.8,150.0 L696.8,143.0Z" class="m-qum" data-tip="Qumran Aramaic (all non-biblical): 83 of 89 use the later form (ʾlyn) = 93%"/>
-<circle cx="447.7" cy="147.0" r="6" class="m-danq" data-tip="Daniel (Qumran MSS): 3 of 7 use the later form (ʾlyn) = 43%"/>
-<circle cx="399.3" cy="151.0" r="6.5" class="m-dan" data-tip="Daniel (MT): 5 of 15 use the later form (ʾlyn) = 33%"/>
-<text x="218" y="178.0" class="rl" text-anchor="end">t-stem prefix</text>
-<text x="218" y="191.0" class="rs" text-anchor="end">reflexive: ht- vs ʾt-</text>
+<rect x="224.5" y="131.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 0 of 37 later form = 0%"/>
+<path d="M230.0,134.0 L237.0,146.5 L223.0,146.5Z" class="m-ezra" data-tip="Ezra: 0 of 5 later form = 0%"/>
+<path d="M703.8,138.0 L710.8,145.0 L703.8,152.0 L696.8,145.0Z" class="m-qum" data-tip="Qumran Aramaic: 83 of 89 later form = 93%"/>
+<circle cx="447.7" cy="149.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 3 of 7 later form = 43%"/>
+<circle cx="399.3" cy="153.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 5 of 15 later form = 33%"/>
+<text x="218" y="178.0" class="rl" text-anchor="end">causative prefix</text>
+<text x="218" y="191.0" class="rs" text-anchor="end">causative: h- vs ʾ-</text>
 <line x1="230.0" x2="738.0" y1="179.0" y2="179.0" class="rowline"/>
-<rect x="224.5" y="167.5" width="11" height="11" rx="2" class="m-ezra" data-tip="Ezra (MT): 0 of 4 use the later form (prefix ʾt-) = 0%"/>
-<path d="M625.6,170.0 L632.6,177.0 L625.6,184.0 L618.6,177.0Z" class="m-qum" data-tip="Qumran Aramaic (all non-biblical): 95 of 122 use the later form (prefix ʾt-) = 78%"/>
-<circle cx="447.7" cy="181.0" r="6" class="m-danq" data-tip="Daniel (Qumran MSS): 6 of 14 use the later form (prefix ʾt-) = 43%"/>
-<circle cx="357.0" cy="185.0" r="6.5" class="m-dan" data-tip="Daniel (MT): 6 of 24 use the later form (prefix ʾt-) = 25%"/>
-<text x="218" y="212.0" class="rl" text-anchor="end">causative prefix</text>
-<text x="218" y="225.0" class="rs" text-anchor="end">causative: h- vs ʾ-</text>
+<rect x="245.6" y="165.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 8 of 193 later form = 4%"/>
+<path d="M254.2,168.0 L261.2,180.5 L247.2,180.5Z" class="m-ezra" data-tip="Ezra: 1 of 21 later form = 5%"/>
+<path d="M630.6,172.0 L637.6,179.0 L630.6,186.0 L623.6,179.0Z" class="m-qum" data-tip="Qumran Aramaic: 235 of 298 later form = 79%"/>
+<circle cx="230.0" cy="183.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 0 of 34 later form = 0%"/>
+<circle cx="245.9" cy="187.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 3 of 96 later form = 3%"/>
+<text x="218" y="212.0" class="rl" text-anchor="end">relative particle</text>
+<text x="218" y="225.0" class="rs" text-anchor="end">spelling: zy vs dy</text>
 <line x1="230.0" x2="738.0" y1="213.0" y2="213.0" class="rowline"/>
-<rect x="295.1" y="201.5" width="11" height="11" rx="2" class="m-ezra" data-tip="Ezra (MT): 5 of 36 use the later form (prefix ʾ-) = 14%"/>
-<path d="M652.8,204.0 L659.8,211.0 L652.8,218.0 L645.8,211.0Z" class="m-qum" data-tip="Qumran Aramaic (all non-biblical): 372 of 447 use the later form (prefix ʾ-) = 83%"/>
-<circle cx="351.3" cy="215.0" r="6" class="m-danq" data-tip="Daniel (Qumran MSS): 16 of 67 use the later form (prefix ʾ-) = 24%"/>
-<circle cx="304.6" cy="219.0" r="6.5" class="m-dan" data-tip="Daniel (MT): 21 of 143 use the later form (prefix ʾ-) = 15%"/>
+<rect x="227.0" y="199.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 5 of 1025 later form = 0%"/>
+<path d="M738.0,202.0 L745.0,214.5 L731.0,214.5Z" class="m-ezra" data-tip="Ezra: 95 of 95 later form = 100%"/>
+<path d="M734.9,206.0 L741.9,213.0 L734.9,220.0 L727.9,213.0Z" class="m-qum" data-tip="Qumran Aramaic: 966 of 972 later form = 99%"/>
+<circle cx="738.0" cy="217.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 158 of 158 later form = 100%"/>
+<circle cx="738.0" cy="221.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 249 of 249 later form = 100%"/>
+<text x="218" y="246.0" class="rl" text-anchor="end">&#x27;this&#x27;</text>
+<text x="218" y="259.0" class="rs" text-anchor="end">spelling: znh vs dnh</text>
+<line x1="230.0" x2="738.0" y1="247.0" y2="247.0" class="rowline"/>
+<rect x="243.4" y="233.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 7 of 188 later form = 4%"/>
+<path d="M738.0,236.0 L745.0,248.5 L731.0,248.5Z" class="m-ezra" data-tip="Ezra: 24 of 24 later form = 100%"/>
+<path d="M738.0,240.0 L745.0,247.0 L738.0,254.0 L731.0,247.0Z" class="m-qum" data-tip="Qumran Aramaic: 300 of 300 later form = 100%"/>
+<circle cx="738.0" cy="251.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 20 of 20 later form = 100%"/>
+<circle cx="738.0" cy="255.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 33 of 33 later form = 100%"/>
+<text x="218" y="280.0" class="rl" text-anchor="end">&#x27;earth&#x27;</text>
+<text x="218" y="293.0" class="rs" text-anchor="end">spelling: ʾrq vs ʾrʿ</text>
+<line x1="230.0" x2="738.0" y1="281.0" y2="281.0" class="rowline"/>
+<rect x="351.5" y="267.5" width="11" height="11" rx="2" class="m-c6" data-tip="Persian-era papyri: 7 of 28 later form = 25%"/>
+<path d="M738.0,270.0 L745.0,282.5 L731.0,282.5Z" class="m-ezra" data-tip="Ezra: 1 of 1 later form = 100%"/>
+<path d="M738.0,274.0 L745.0,281.0 L738.0,288.0 L731.0,281.0Z" class="m-qum" data-tip="Qumran Aramaic: 244 of 244 later form = 100%"/>
+<circle cx="738.0" cy="285.0" r="6" class="m-danq" data-tip="Daniel (Qumran copies): 11 of 11 later form = 100%"/>
+<circle cx="738.0" cy="289.0" r="6.5" class="m-dan" data-tip="Daniel (Masoretic): 19 of 19 later form = 100%"/>
 </svg>
-    <div class="legend"><span><i class="lg" style="background:var(--fg2);border-radius:2px"></i>Ezra</span><span><i class="lg" style="background:var(--s-aqua);transform:rotate(45deg) scale(.8)"></i>Qumran Aramaic</span><span><i class="lg" style="background:var(--s-orange);border-radius:50%"></i>Daniel, Masoretic text</span><span><i class="lg" style="border:2px solid var(--s-orange);border-radius:50%"></i>Daniel, Qumran copies</span></div>
+    <div class="legend"><span><i class="lg" style="background:var(--s-blue);border-radius:2px"></i>Persian-era papyri (5th c.)</span><span><i class="lg" style="background:var(--fg2);clip-path:polygon(50% 0,100% 100%,0 100%)"></i>Ezra</span><span><i class="lg" style="background:var(--s-aqua);transform:rotate(45deg) scale(.8)"></i>Qumran Aramaic</span><span><i class="lg" style="background:var(--s-orange);border-radius:50%"></i>Daniel, Masoretic text</span><span><i class="lg" style="border:2px solid var(--s-orange);border-radius:50%"></i>Daniel, Qumran copies</span></div>
   </div>
-  
+  <div class="tbl"><table><thead><tr><th>Feature (older / later form)</th><th class="num">Persian-era papyri<br>5th c. BCE</th><th class="num">Ezra</th><th class="num">Daniel<br>Masoretic</th><th class="num">Daniel<br>Qumran copies</th><th class="num">Qumran Aramaic<br>3rd–1st c. BCE</th></tr></thead><tbody><tr><td>&#x27;their&#x27;: -hm / -hwn</td><td class="num">97 / 0<br><small>0%</small></td><td class="num">11 / 15<br><small>58%</small></td><td class="num">0 / 36<br><small>100%</small></td><td class="num">2 / 20<br><small>91%</small></td><td class="num">3 / 556<br><small>99%</small></td></tr><tr><td>&#x27;your&#x27; (pl.): -km / -kwn</td><td class="num">85 / 0<br><small>0%</small></td><td class="num">5 / 1<br><small>17%</small></td><td class="num">0 / 9<br><small>100%</small></td><td class="num">0 / 2<br><small>100%</small></td><td class="num">2 / 122<br><small>98%</small></td></tr><tr><td>&#x27;they&#x27;: hmw(n) / ʾnwn</td><td class="num">49 / 0<br><small>0%</small></td><td class="num">9 / 1<br><small>10%</small></td><td class="num">3 / 3<br><small>50%</small></td><td class="num">3 / 2<br><small>40%</small></td><td class="num">5 / 71<br><small>93%</small></td></tr><tr><td>&#x27;these&#x27;: ʾlh, ʾlk / ʾlyn</td><td class="num">37 / 0<br><small>0%</small></td><td class="num">5 / 0<br><small>0%</small></td><td class="num">10 / 5<br><small>33%</small></td><td class="num">4 / 3<br><small>43%</small></td><td class="num">6 / 83<br><small>93%</small></td></tr><tr><td>causative: h- / ʾ- (perfect-type forms)</td><td class="num">185 / 8<br><small>4%</small></td><td class="num">20 / 1<br><small>5%</small></td><td class="num">93 / 3<br><small>3%</small></td><td class="num">34 / 0<br><small>0%</small></td><td class="num">63 / 235<br><small>79%</small></td></tr><tr><td>spelling &#x27;which&#x27;: zy / dy</td><td class="num">1020 / 5<br><small>0%</small></td><td class="num">0 / 95<br><small>100%</small></td><td class="num">0 / 249<br><small>100%</small></td><td class="num">0 / 158<br><small>100%</small></td><td class="num">6 / 966<br><small>99%</small></td></tr><tr><td>spelling &#x27;this&#x27;: znh / dnh</td><td class="num">181 / 7<br><small>4%</small></td><td class="num">0 / 24<br><small>100%</small></td><td class="num">0 / 33<br><small>100%</small></td><td class="num">0 / 20<br><small>100%</small></td><td class="num">0 / 300<br><small>100%</small></td></tr><tr><td>spelling &#x27;earth&#x27;: ʾrq / ʾrʿ</td><td class="num">21 / 7<br><small>25%</small></td><td class="num">0 / 1<br><small>100%</small></td><td class="num">0 / 19<br><small>100%</small></td><td class="num">0 / 11<br><small>100%</small></td><td class="num">0 / 244<br><small>100%</small></td></tr><tr><td>reflexive: ht- / ʾt- (not a time marker)</td><td class="num">1 / 33<br><small>97%</small></td><td class="num">1 / 0<br><small>0%</small></td><td class="num">12 / 6<br><small>33%</small></td><td class="num">–</td><td class="num">27 / 95<br><small>78%</small></td></tr></tbody></table></div><p class="caption">Counts of older / later forms, with the share of the later form. Papyri: Elephantine (Berlin ERC database, 799 documents, 19,903 fully legible words) and ten Arshama letters (1,040 words); only fully legible words counted. Every hit is listed with its TAD number and line in the project files. Mt Gerizim inscriptions (3rd–2nd c. BCE): zy 32 / dy 9, znh 2 / dnh 5, causative h- 24 / ʾ- 0.</p>
   <div class="col">
   
-  <p>On four of the six features Daniel's Aramaic is later than Ezra's. Daniel always writes "their" as <span class="mono">-hwn</span> (36 of 36), while Ezra still uses the older <span class="mono">-hm</span> 42% of the time. On the causative prefix, Daniel is as conservative as Ezra. Against the literary Aramaic of Qumran, Daniel looks older on every feature. Its word order also has more object-before-verb clauses than Ezra (58% against 36%), a trait of eastern chancery Aramaic.</p>
-  <h3>Two layers inside Daniel's Aramaic</h3>
-  <p>The four features of grammar where Aramaic changed over time (the pronoun "they," the demonstrative "these," and the causative and reflexive verb prefixes) were counted chapter by chapter. The court stories of chapters 2–6 use the later forms 16% of the time (26 of 167), statistically indistinguishable from Ezra's 11% (p = 0.51). The vision of chapter 7 uses them 43% of the time (9 of 21). The difference from chapters 2–6 is unlikely to be chance (Fisher's exact test, p = 0.006). The vision is linguistically later than the stories it follows.</p>
-  <p><strong>Was the text modernised by later scribes?</strong> This can be tested directly, because Qumran preserves copies of Daniel from the late 2nd century BCE onward. They agree with the Masoretic text on these features, and where they differ they are slightly more modern (24% vs 15% for the newer causative prefix, 43% vs 25% for the newer reflexive prefix). Copying pushed forms forward, not back, so the Masoretic Daniel is if anything the older form of the text.</p>
-  <p>Typologically, then, Daniel's Aramaic sits between Persian-era Ezra and Hellenistic Qumran. That fits stories composed in the late Persian or early Hellenistic period. It also fits a 2nd-century writer of chapter 7 working in an established literary register. It does not fit a 6th-century author, whose Aramaic should look at least as old as Ezra's documents.</p>
+  <p><strong>Grammar.</strong> On the four grammatical features that changed ("their," "your" plural, "they," "these"), the 5th-century papyri use the old form in all 268 cases. Ezra uses the later form in 17 of 47 cases, Daniel in 53 of 66, and Qumran Aramaic in 832 of 848. Daniel writes "their" only as <span class="mono">-hwn</span> (36 of 36); in the papyri it is <span class="mono">-hm</span> or <span class="mono">-hwm</span> 97 times out of 97.</p>
+  <p><strong>The causative prefix goes the other way.</strong> Counting only the verb forms in which the prefix is always written, Daniel has the old <span class="mono">h-</span> in 93 of 96 cases, the same proportion as the papyri (185 of 193) and Ezra (20 of 21). The literary Aramaic of Qumran has switched to <span class="mono">ʾ-</span> (235 of 298). On this feature Daniel looks Persian-era. Formal inscriptions from Mt Gerizim (3rd–2nd century BCE) also keep <span class="mono">h-</span> (24 of 24), so the old prefix survived in formal writing into the Hellenistic period.</p>
+  <p><strong>Spelling.</strong> Daniel always uses the later spellings with <span class="mono">d</span> for older <span class="mono">z</span> (<span class="mono">dy</span> "which," <span class="mono">dnh</span> "this") and <span class="mono">ʿ</span> for older <span class="mono">q</span> (<span class="mono">ʾrʿ</span> "earth"), as do Ezra and Qumran. The papyri keep the old spellings about 98% of the time. Copyists can update spelling, so this counts for less than grammar.</p>
+  <p><strong>Not a time marker.</strong> The reflexive prefix (<span class="mono">ht-</span> vs <span class="mono">ʾt-</span>) cannot date anything. The papyri already write <span class="mono">ʾt-</span> (33 of 34), while Daniel and Ezra prefer <span class="mono">ht-</span>, a convention of Biblical Aramaic. An earlier version of this report used it, together with a looser count of the causative prefix, to argue that chapter 7 is later than chapters 2–6. With valid features the difference disappears (2 of 11 later forms vs 9 of 106, p = 0.28), so that claim is withdrawn.</p>
+  <p><strong>Was the text modernised by later scribes?</strong> Qumran copies of Daniel from the late 2nd century BCE onward have the same later forms as the Masoretic text, in about the same proportions. There is one exception: 4QDan<sup>a</sup> writes "from them" with the older <span class="mono">-hm</span> twice (2:41–42), where the Masoretic text has <span class="mono">-hwn</span>. Some standardisation happened in copying, but the later forms were already dominant in the earliest surviving copies.</p>
+  <p>Taken together, Daniel's Aramaic grammar is later than the Persian-era papyri and later than Ezra's documents. Its causative prefix is still old-fashioned, unlike Qumran's literary Aramaic. That combination fits composition in the late Persian or early Hellenistic period, or a later writer using a conservative literary standard. It does not fit a 6th-century author, whose Aramaic should be at least as old as the 5th-century papyri on every feature.</p>
   </div>
 </section>
 <section id="hebrew">
@@ -235,17 +258,17 @@ a { color: var(--accent) }
   <p>As a control, the Dead Sea Scroll copies of Samuel, Isaiah, Jeremiah and Ezekiel were scored. They sit next to their medieval Masoretic counterparts, so the model is measuring the language, not the database it came from.</p>
   </div>
   <div class="chartbox">
-    <svg viewBox="0 0 760 669" role="img" aria-label="Hebrew dating model: estimated date of each text, out-of-sample, calibrated" class="chart" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
-<line x1="200.0" x2="200.0" y1="22" y2="619" class="grid"/><text x="200.0" y="635" class="tick" text-anchor="middle">800</text>
-<line x1="267.5" x2="267.5" y1="22" y2="619" class="grid"/><text x="267.5" y="635" class="tick" text-anchor="middle">700</text>
-<line x1="335.0" x2="335.0" y1="22" y2="619" class="grid"/><text x="335.0" y="635" class="tick" text-anchor="middle">600</text>
-<line x1="402.5" x2="402.5" y1="22" y2="619" class="grid"/><text x="402.5" y="635" class="tick" text-anchor="middle">500</text>
-<line x1="470.0" x2="470.0" y1="22" y2="619" class="grid"/><text x="470.0" y="635" class="tick" text-anchor="middle">400</text>
-<line x1="537.5" x2="537.5" y1="22" y2="619" class="grid"/><text x="537.5" y="635" class="tick" text-anchor="middle">300</text>
-<line x1="605.0" x2="605.0" y1="22" y2="619" class="grid"/><text x="605.0" y="635" class="tick" text-anchor="middle">200</text>
-<line x1="672.5" x2="672.5" y1="22" y2="619" class="grid"/><text x="672.5" y="635" class="tick" text-anchor="middle">100</text>
-<line x1="740.0" x2="740.0" y1="22" y2="619" class="grid"/><text x="740.0" y="635" class="tick" text-anchor="middle">0</text>
-<text x="470.0" y="659" class="tick" text-anchor="middle">estimated date of the language, years BCE (each text scored blind)</text>
+    <svg viewBox="0 0 760 707" role="img" aria-label="Hebrew dating model: estimated date of each text, out-of-sample, calibrated" class="chart" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+<line x1="200.0" x2="200.0" y1="22" y2="657" class="grid"/><text x="200.0" y="673" class="tick" text-anchor="middle">800</text>
+<line x1="267.5" x2="267.5" y1="22" y2="657" class="grid"/><text x="267.5" y="673" class="tick" text-anchor="middle">700</text>
+<line x1="335.0" x2="335.0" y1="22" y2="657" class="grid"/><text x="335.0" y="673" class="tick" text-anchor="middle">600</text>
+<line x1="402.5" x2="402.5" y1="22" y2="657" class="grid"/><text x="402.5" y="673" class="tick" text-anchor="middle">500</text>
+<line x1="470.0" x2="470.0" y1="22" y2="657" class="grid"/><text x="470.0" y="673" class="tick" text-anchor="middle">400</text>
+<line x1="537.5" x2="537.5" y1="22" y2="657" class="grid"/><text x="537.5" y="673" class="tick" text-anchor="middle">300</text>
+<line x1="605.0" x2="605.0" y1="22" y2="657" class="grid"/><text x="605.0" y="673" class="tick" text-anchor="middle">200</text>
+<line x1="672.5" x2="672.5" y1="22" y2="657" class="grid"/><text x="672.5" y="673" class="tick" text-anchor="middle">100</text>
+<line x1="740.0" x2="740.0" y1="22" y2="657" class="grid"/><text x="740.0" y="673" class="tick" text-anchor="middle">0</text>
+<text x="470.0" y="697" class="tick" text-anchor="middle">estimated date of the language, years BCE (each text scored blind)</text>
 <text x="8" y="42.5" class="gl">Classical</text>
 <text x="190" y="62.5" class="rl" text-anchor="end">Samuel</text>
 <line x1="335.0" x2="335.0" y1="52.5" y2="64.5" class="truth"/>
@@ -307,35 +330,41 @@ a { color: var(--accent) }
 <text x="190" y="461.5" class="rl" text-anchor="end">Hodayot</text>
 <line x1="672.5" x2="672.5" y1="451.5" y2="463.5" class="truth"/>
 <circle cx="632.1" cy="457.5" r="4.5" class="m-anchor" data-tip="Hodayot: conventional date c. 100 BCE; model estimate without seeing it c. 160 BCE"/>
-<text x="8" y="479.5" class="gl">Daniel</text>
-<text x="190" y="499.5" class="rl strong" text-anchor="end">Daniel 1</text>
-<line x1="480.6" x2="611.8" y1="495.5" y2="495.5" class="ci"/>
-<circle cx="538.6" cy="495.5" r="5.5" class="m-dan" data-tip="Daniel 1: estimated c. 298 BCE (bootstrap 90%: 384-190 BCE)"/>
-<text x="190" y="518.5" class="rl strong" text-anchor="end">Daniel 8</text>
-<line x1="359.3" x2="516.9" y1="514.5" y2="514.5" class="ci"/>
-<circle cx="431.1" cy="514.5" r="5.5" class="m-dan" data-tip="Daniel 8: estimated c. 458 BCE (bootstrap 90%: 564-331 BCE)"/>
-<text x="190" y="537.5" class="rl strong" text-anchor="end">Daniel 9</text>
-<line x1="450.3" x2="582.4" y1="533.5" y2="533.5" class="ci"/>
-<circle cx="521.7" cy="533.5" r="5.5" class="m-dan" data-tip="Daniel 9: estimated c. 323 BCE (bootstrap 90%: 429-234 BCE)"/>
-<text x="190" y="556.5" class="rl strong" text-anchor="end">Daniel 10</text>
-<line x1="386.8" x2="524.5" y1="552.5" y2="552.5" class="ci"/>
-<circle cx="450.9" cy="552.5" r="5.5" class="m-dan" data-tip="Daniel 10: estimated c. 428 BCE (bootstrap 90%: 523-319 BCE)"/>
-<text x="190" y="575.5" class="rl strong" text-anchor="end">Daniel 11</text>
-<line x1="487.4" x2="585.2" y1="571.5" y2="571.5" class="ci"/>
-<circle cx="531.5" cy="571.5" r="5.5" class="m-dan" data-tip="Daniel 11: estimated c. 309 BCE (bootstrap 90%: 374-229 BCE)"/>
-<text x="190" y="594.5" class="rl strong" text-anchor="end">Daniel 12</text>
-<line x1="466.9" x2="644.0" y1="590.5" y2="590.5" class="ci"/>
-<circle cx="580.0" cy="590.5" r="5.5" class="m-dan" data-tip="Daniel 12: estimated c. 237 BCE (bootstrap 90%: 405-142 BCE)"/>
-<text x="190" y="613.5" class="rl strong" text-anchor="end">Daniel, all Hebrew</text>
-<line x1="473.3" x2="570.8" y1="609.5" y2="609.5" class="ci"/>
-<circle cx="535.8" cy="609.5" r="5.5" class="m-dan" data-tip="Daniel, all Hebrew: estimated c. 303 BCE (bootstrap 90%: 395-251 BCE)"/>
+<text x="8" y="479.5" class="gl">Blind test</text>
+<text x="190" y="499.5" class="rl" text-anchor="end">Inscriptions c. 700-587</text>
+<rect x="267.5" y="488.5" width="76.3" height="14" rx="2" class="band"/>
+<line x1="220.2" x2="387.4" y1="495.5" y2="495.5" class="ci blue"/>
+<circle cx="292.5" cy="495.5" r="5.5" class="m-anchor" data-tip="Hebrew inscriptions (Lachish, Arad, Siloam, Mesad Hashavyahu, Ketef Hinnom), dated by archaeology to c. 700-587 BCE (shaded); never used in training. Model estimate c. 663 BCE (bootstrap 90%: 770-522)"/>
+<text x="8" y="517.5" class="gl">Daniel</text>
+<text x="190" y="537.5" class="rl strong" text-anchor="end">Daniel 1</text>
+<line x1="480.6" x2="611.8" y1="533.5" y2="533.5" class="ci"/>
+<circle cx="538.6" cy="533.5" r="5.5" class="m-dan" data-tip="Daniel 1: estimated c. 298 BCE (bootstrap 90%: 384-190 BCE)"/>
+<text x="190" y="556.5" class="rl strong" text-anchor="end">Daniel 8</text>
+<line x1="359.3" x2="516.9" y1="552.5" y2="552.5" class="ci"/>
+<circle cx="431.1" cy="552.5" r="5.5" class="m-dan" data-tip="Daniel 8: estimated c. 458 BCE (bootstrap 90%: 564-331 BCE)"/>
+<text x="190" y="575.5" class="rl strong" text-anchor="end">Daniel 9</text>
+<line x1="450.3" x2="582.4" y1="571.5" y2="571.5" class="ci"/>
+<circle cx="521.7" cy="571.5" r="5.5" class="m-dan" data-tip="Daniel 9: estimated c. 323 BCE (bootstrap 90%: 429-234 BCE)"/>
+<text x="190" y="594.5" class="rl strong" text-anchor="end">Daniel 10</text>
+<line x1="386.8" x2="524.5" y1="590.5" y2="590.5" class="ci"/>
+<circle cx="450.9" cy="590.5" r="5.5" class="m-dan" data-tip="Daniel 10: estimated c. 428 BCE (bootstrap 90%: 523-319 BCE)"/>
+<text x="190" y="613.5" class="rl strong" text-anchor="end">Daniel 11</text>
+<line x1="487.4" x2="585.2" y1="609.5" y2="609.5" class="ci"/>
+<circle cx="531.5" cy="609.5" r="5.5" class="m-dan" data-tip="Daniel 11: estimated c. 309 BCE (bootstrap 90%: 374-229 BCE)"/>
+<text x="190" y="632.5" class="rl strong" text-anchor="end">Daniel 12</text>
+<line x1="466.9" x2="644.0" y1="628.5" y2="628.5" class="ci"/>
+<circle cx="580.0" cy="628.5" r="5.5" class="m-dan" data-tip="Daniel 12: estimated c. 237 BCE (bootstrap 90%: 405-142 BCE)"/>
+<text x="190" y="651.5" class="rl strong" text-anchor="end">Daniel, all Hebrew</text>
+<line x1="473.3" x2="570.8" y1="647.5" y2="647.5" class="ci"/>
+<circle cx="535.8" cy="647.5" r="5.5" class="m-dan" data-tip="Daniel, all Hebrew: estimated c. 303 BCE (bootstrap 90%: 395-251 BCE)"/>
 </svg>
-    <div class="legend"><span><i class="lg" style="background:var(--s-blue);border-radius:50%"></i>comparison text, model estimate</span><span><i class="lg" style="border-left:2px solid var(--fg2);width:2px"></i>its conventional date</span><span><i class="lg" style="background:var(--s-orange);border-radius:50%"></i>Daniel, with 90% bootstrap range</span></div>
+    <div class="legend"><span><i class="lg" style="background:var(--s-blue);border-radius:50%"></i>comparison text, model estimate</span><span><i class="lg" style="border-left:2px solid var(--fg2);width:2px"></i>its conventional date</span><span><i class="lg" style="background:var(--s-orange);border-radius:50%"></i>Daniel, with 90% bootstrap range</span><span><i class="lg" style="background:var(--s-blue);opacity:.25"></i>archaeological date of the blind-test inscriptions</span></div>
   </div>
   <p class="caption">Estimates are calibrated against the comparison texts' out-of-sample predictions. Hover for values.</p>
   <div class="col">
   <p>Daniel's Hebrew as a whole comes out at about 300 BCE. Its nearest neighbours are Nehemiah, Ezra, Chronicles and the Qumran Hodayot. The period classifier gives it a 4% probability of belonging with the 6th-century texts. Chapters 8 and 10, which are vision reports in the style of Ezekiel and Zechariah, lean earlier. Chapters 11–12 lean later. The single-text error is wide, so language alone cannot tell the 4th century from the 2nd. It does set Daniel apart from its supposed contemporaries.</p>
-  <h3>Three choices that separate the 6th century from later writers</h3>
+  <p><strong>Two more checks of the model.</strong> The Hebrew inscriptions from Lachish, Arad, Siloam, Mesad Hashavyahu and Ketef Hinnom, dated by archaeology to about 700–587 BCE, were never used in training. Scored blind, they came out at about 600 BCE, closest to Samuel, Hosea and Haggai. The Community Rule, War Scroll and Hodayot are each annotated in two different databases, and each copy was matched to its own counterpart as nearest neighbour. Adding Mishnaic Hebrew (Pirqe Avot, Mekhilta, c. 200–250 CE) as a later anchor leaves Daniel where it was, at about 340 BCE.</p>
+  <h3>Word choices that changed over time</h3>
   <p>The clearest evidence is in places where a writer had to choose between two equivalent forms. Because the measure is a choice, genre matters little.</p>
   </div>
   <div class="chartbox">
@@ -349,40 +378,39 @@ a { color: var(--accent) }
 <text x="218" y="42.0" class="rl" text-anchor="end">word for &#x27;kingdom&#x27;</text>
 <text x="218" y="55.0" class="rs" text-anchor="end">mamlākâ vs malkût</text>
 <line x1="230.0" x2="738.0" y1="43.0" y2="43.0" class="rowline"/>
-<path d="M274.8,28.0 L281.8,40.5 L267.8,40.5Z" class="m-cla" data-tip="Classical prose (Gen-Kings): 3 of 34 = 9% later form"/>
-<rect x="285.5" y="33.5" width="11" height="11" rx="2" class="m-c6" data-tip="6th c. (Jer, Ezek, Hag, Zech 1-8): 3 of 25 = 12% later form"/>
-<path d="M600.5,36.0 L607.5,43.0 L600.5,50.0 L593.5,43.0Z" class="m-per" data-tip="Persian era (Ezra-Neh, Chr, Esth): 62 of 85 = 73% later form"/>
-<circle cx="579.1" cy="47.0" r="6" class="m-qum2" data-tip="Qumran Hebrew: 123 of 179 = 69% later form"/>
+<rect x="285.5" y="29.5" width="11" height="11" rx="2" class="m-c6" data-tip="6th c. (Jer, Ezek, Hag, Zech 1-8): 3 of 25 = 12% later form"/>
+<path d="M600.5,32.0 L607.5,39.0 L600.5,46.0 L593.5,39.0Z" class="m-per" data-tip="Persian era (Ezra-Neh, Chr, Esth): 62 of 85 = 73% later form"/>
+<circle cx="579.1" cy="43.0" r="6" class="m-qum2" data-tip="Qumran Hebrew: 123 of 179 = 69% later form"/>
+<path d="M738.0,40.0 L745.0,52.5 L731.0,52.5Z" class="m-cla" data-tip="Rabbinic Hebrew (Mishnah, Mekhilta): 22 of 22 = 100% later form"/>
 <circle cx="738.0" cy="51.0" r="6.5" class="m-dan" data-tip="Daniel: 16 of 16 = 100% later form"/>
 <text x="218" y="76.0" class="rl" text-anchor="end">1st sg. wayyiqtol</text>
 <text x="218" y="89.0" class="rs" text-anchor="end">&#x27;and I did&#x27;: short vs long form</text>
 <line x1="230.0" x2="738.0" y1="77.0" y2="77.0" class="rowline"/>
-<path d="M273.6,62.0 L280.6,74.5 L266.6,74.5Z" class="m-cla" data-tip="Classical prose (Gen-Kings): 14 of 163 = 9% later form"/>
-<rect x="241.0" y="67.5" width="11" height="11" rx="2" class="m-c6" data-tip="6th c. (Jer, Ezek, Hag, Zech 1-8): 5 of 154 = 3% later form"/>
-<path d="M465.3,70.0 L472.3,77.0 L465.3,84.0 L458.3,77.0Z" class="m-per" data-tip="Persian era (Ezra-Neh, Chr, Esth): 44 of 95 = 46% later form"/>
-<circle cx="522.1" cy="81.0" r="6" class="m-qum2" data-tip="Qumran Hebrew: 23 of 40 = 57% later form"/>
+<rect x="241.0" y="63.5" width="11" height="11" rx="2" class="m-c6" data-tip="6th c. (Jer, Ezek, Hag, Zech 1-8): 5 of 154 = 3% later form"/>
+<path d="M465.3,66.0 L472.3,73.0 L465.3,80.0 L458.3,73.0Z" class="m-per" data-tip="Persian era (Ezra-Neh, Chr, Esth): 44 of 95 = 46% later form"/>
+<circle cx="522.1" cy="77.0" r="6" class="m-qum2" data-tip="Qumran Hebrew: 23 of 40 = 57% later form"/>
 <circle cx="512.2" cy="85.0" r="6.5" class="m-dan" data-tip="Daniel: 10 of 18 = 56% later form"/>
-<text x="218" y="110.0" class="rl" text-anchor="end">object pronoun</text>
-<text x="218" y="123.0" class="rs" text-anchor="end">ʾēt+suffix vs verbal suffix</text>
+<text x="218" y="110.0" class="rl" text-anchor="end">1st sg. pronoun</text>
+<text x="218" y="123.0" class="rs" text-anchor="end">ʾānōkî vs ʾănî</text>
 <line x1="230.0" x2="738.0" y1="111.0" y2="111.0" class="rowline"/>
-<path d="M545.9,96.0 L552.9,108.5 L538.9,108.5Z" class="m-cla" data-tip="Classical prose (Gen-Kings): 1920 of 3088 = 62% later form"/>
-<rect x="536.8" y="101.5" width="11" height="11" rx="2" class="m-c6" data-tip="6th c. (Jer, Ezek, Hag, Zech 1-8): 629 of 1023 = 61% later form"/>
-<path d="M655.5,104.0 L662.5,111.0 L655.5,118.0 L648.5,111.0Z" class="m-per" data-tip="Persian era (Ezra-Neh, Chr, Esth): 335 of 400 = 84% later form"/>
-<circle cx="645.0" cy="115.0" r="6" class="m-qum2" data-tip="Qumran Hebrew: 1570 of 1922 = 82% later form"/>
-<circle cx="738.0" cy="119.0" r="6.5" class="m-dan" data-tip="Daniel: 19 of 19 = 100% later form"/>
-<text x="218" y="144.0" class="rl" text-anchor="end">1st sg. pronoun</text>
-<text x="218" y="157.0" class="rs" text-anchor="end">ʾānōkî vs ʾănî</text>
+<rect x="662.0" y="97.5" width="11" height="11" rx="2" class="m-c6" data-tip="6th c. (Jer, Ezek, Hag, Zech 1-8): 236 of 274 = 86% later form"/>
+<path d="M719.5,100.0 L726.5,107.0 L719.5,114.0 L712.5,107.0Z" class="m-per" data-tip="Persian era (Ezra-Neh, Chr, Esth): 53 of 55 = 96% later form"/>
+<circle cx="638.1" cy="111.0" r="6" class="m-qum2" data-tip="Qumran Hebrew: 245 of 305 = 80% later form"/>
+<path d="M738.0,108.0 L745.0,120.5 L731.0,120.5Z" class="m-cla" data-tip="Rabbinic Hebrew (Mishnah, Mekhilta): 24 of 24 = 100% later form"/>
+<circle cx="716.8" cy="119.0" r="6.5" class="m-dan" data-tip="Daniel: 23 of 24 = 96% later form"/>
+<text x="218" y="144.0" class="rl" text-anchor="end">relative word</text>
+<text x="218" y="157.0" class="rs" text-anchor="end">ʾăšer vs še- (Mishnaic)</text>
 <line x1="230.0" x2="738.0" y1="145.0" y2="145.0" class="rowline"/>
-<path d="M516.8,130.0 L523.8,142.5 L509.8,142.5Z" class="m-cla" data-tip="Classical prose (Gen-Kings): 293 of 519 = 56% later form"/>
-<rect x="662.0" y="135.5" width="11" height="11" rx="2" class="m-c6" data-tip="6th c. (Jer, Ezek, Hag, Zech 1-8): 236 of 274 = 86% later form"/>
-<path d="M719.5,138.0 L726.5,145.0 L719.5,152.0 L712.5,145.0Z" class="m-per" data-tip="Persian era (Ezra-Neh, Chr, Esth): 53 of 55 = 96% later form"/>
-<circle cx="638.1" cy="149.0" r="6" class="m-qum2" data-tip="Qumran Hebrew: 245 of 305 = 80% later form"/>
-<circle cx="716.8" cy="153.0" r="6.5" class="m-dan" data-tip="Daniel: 23 of 24 = 96% later form"/>
+<rect x="224.5" y="131.5" width="11" height="11" rx="2" class="m-c6" data-tip="6th c. (Jer, Ezek, Hag, Zech 1-8): 0 of 836 = 0% later form"/>
+<path d="M232.7,134.0 L239.7,141.0 L232.7,148.0 L225.7,141.0Z" class="m-per" data-tip="Persian era (Ezra-Neh, Chr, Esth): 3 of 567 = 1% later form"/>
+<circle cx="259.7" cy="145.0" r="6" class="m-qum2" data-tip="Qumran Hebrew: 166 of 2838 = 6% later form"/>
+<path d="M734.7,142.0 L741.7,154.5 L727.7,154.5Z" class="m-cla" data-tip="Rabbinic Hebrew (Mishnah, Mekhilta): 769 of 774 = 99% later form"/>
+<circle cx="230.0" cy="153.0" r="6.5" class="m-dan" data-tip="Daniel: 0 of 47 = 0% later form"/>
 </svg>
-    <div class="legend"><span><i class="lg" style="background:var(--muted);clip-path:polygon(50% 0,100% 100%,0 100%)"></i>Classical prose</span><span><i class="lg" style="background:var(--s-blue);border-radius:2px"></i>6th century</span><span><i class="lg" style="background:var(--fg2);transform:rotate(45deg) scale(.8)"></i>Persian era</span><span><i class="lg" style="border:2px solid var(--s-aqua);border-radius:50%"></i>Qumran</span><span><i class="lg" style="background:var(--s-orange);border-radius:50%"></i>Daniel</span></div>
+    <div class="legend"><span><i class="lg" style="background:var(--s-blue);border-radius:2px"></i>6th century (Jer, Ezek, Hag, Zech 1–8)</span><span><i class="lg" style="background:var(--fg2);transform:rotate(45deg) scale(.8)"></i>Persian era (Ezra–Neh, Chr, Esth)</span><span><i class="lg" style="border:2px solid var(--s-aqua);border-radius:50%"></i>Qumran Hebrew</span><span><i class="lg" style="background:var(--muted);clip-path:polygon(50% 0,100% 100%,0 100%)"></i>Mishnaic Hebrew</span><span><i class="lg" style="background:var(--s-orange);border-radius:50%"></i>Daniel</span></div>
   </div>
   <div class="col">
-  <p>For "kingdom," Daniel always uses <span class="heb">מלכות</span> (16 of 16), where the 6th-century prophets almost always use <span class="heb">ממלכה</span>. In the long form of "and I did…" (<span class="heb">ואתפללה</span>), Daniel writes it 56% of the time, against 3% in the 6th-century texts and 50% in Ezra–Nehemiah. For object pronouns, Daniel attaches them to the verb in every case (19 of 19). On all three, Daniel sits with the Persian-era books and Qumran.</p>
+  <p>For "kingdom," Daniel always uses <span class="heb">מלכות</span> (16 of 16), as Esther and Mishnaic Hebrew do. The 6th-century prophets almost always use <span class="heb">ממלכה</span>. Daniel writes the long form of "and I did…" (<span class="heb">ואתפללה</span>) 56% of the time, against 3% in the 6th-century texts, 50% in Ezra–Nehemiah and 57% at Qumran. Daniel never uses the Mishnaic relative <span class="heb">ש</span> (0 of 47; Mishnaic Hebrew 99%), so its Hebrew is late literary Hebrew, not the Hebrew of the rabbis. An earlier version also counted object pronouns attached to the verb as a late trait. The pre-exilic Hebrew letters prefer them too (14 of 17), so that difference reflects register, not date, and it is no longer used.</p>
   </div>
 </section>
 <section id="words">
@@ -629,13 +657,13 @@ a { color: var(--accent) }
   <span class="sec-num">9 · Conclusion</span>
   <h2>Verdict and confidence</h2>
   <div class="two">
-    <div class="card"><h3>From the language alone</h3><p>Not 6th-century. The Aramaic is later than the Persian-era papyri and Ezra; the Hebrew groups with Ezra, Nehemiah, Chronicles and Esther; Persian administrative vocabulary runs through the book; a Greek instrument name is attested in that sense only from the 2nd century BCE. The stories (chs. 2–6) fit the late Persian or early Hellenistic period, and the vision of chapter 7 is later than they are. Language cannot fix a decade: the Hebrew model's error is about ±120 years. <strong>Confidence that the book is later than the 6th century: high.</strong></p></div>
+    <div class="card"><h3>From the language alone</h3><p>Not 6th-century. The Aramaic grammar is later than the 5th-century papyri and Ezra on four features, though its causative prefix is still old-fashioned. The Hebrew groups with Ezra, Nehemiah, Chronicles and Esther, and the same model dates the pre-exilic inscriptions correctly. Persian administrative vocabulary runs through the book, and a Greek instrument name is attested in that sense only from the 2nd century BCE. Language cannot fix a decade: the Hebrew model's error is about ±120 years. <strong>Confidence that the book is later than the 6th century: high.</strong></p></div>
     <div class="card"><h3>Adding the information check</h3><p>The predictions of chapters 8 and 11 are exact up to 166 BCE and wrong after 165 BCE, and the day counts outrun the real events. This narrows the visions to 167–164 BCE, before the Temple's rededication and Antiochus IV's death in late 164. The court stories keep some older Babylonian memories (Belshazzar, Nabonidus at Teima). <strong>Confidence in 167–164 BCE for chs. 8–12: high; in a 4th–3rd century date for chs. 2–6: moderate.</strong></p></div>
   <div class="col">
   <h3>What would change this</h3>
   <p>A manuscript of Daniel 11 dated before about 200 BCE. A Babylonian tablet naming a Median king Darius between Nabonidus and Cyrus. A Greek or Aramaic text from before 330 BCE using <span class="mono">symphōnia</span> for an instrument. Or an ancient report of Antiochus IV dying in Judea.</p>
   <h3>Limits</h3>
-  <p>The Hebrew model's error for a single text is large (about ±120 years), and genre still leaks into it. Ezra's Aramaic is documentary and Qumran's is literary. Scoring claims involves judgment, so every claim and its evidence is listed above for audit. The Greek search covers literature, papyri and a cleaned 88,000-inscription subset of PHI, but not the subscription-only TLG. Persian-era Aramaic outside the Bible was not included.</p>
+  <p>The Hebrew model's error for a single text is large (about ±120 years), and genre still leaks into it. Ezra's Aramaic is documentary and Qumran's is literary. Scoring claims involves judgment, so every claim and its evidence is listed above for audit. The Greek search covers literature, papyri and a cleaned 88,000-inscription subset of PHI, but not the subscription-only TLG. The Persian-era Aramaic is mostly letters, contracts and accounts from one Egyptian garrison. The Wadi Daliyeh, Bactrian and Persepolis Aramaic texts are not openly available, and the Comprehensive Aramaic Lexicon asks not to be scraped (it offers data dumps on request).</p>
   </div>
 </section>
 <footer>

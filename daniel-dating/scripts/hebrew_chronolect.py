@@ -28,7 +28,8 @@ from corpora import load_bhsa, load_dss
 RES = os.path.join(os.path.dirname(__file__), "..", "results")
 CHUNK = 300
 FEATSET = sys.argv[1] if len(sys.argv) > 1 else "full"   # full | function
-TAG = "" if FEATSET == "full" else "_" + FEATSET
+RAB = len(sys.argv) > 2 and sys.argv[2] == "rab"        # also use Rabbinic Hebrew as anchors
+TAG = ("" if FEATSET == "full" else "_" + FEATSET) + ("_rab" if RAB else "")
 random.seed(1); np.random.seed(1)
 
 # ------------------------------------------------------------------ token streams
@@ -128,6 +129,15 @@ for s in F2.otype.s("scroll"):
             units[u].append((lex, vt, vs, has_s, has_s and vt is not None, prev == "W"))
         prev = lex
 
+# --- ETCBC extrabiblical (same annotation scheme as BHSA): inscriptions, 1QS/1QM/1QH, Rabbinic
+from corpora import load_extra
+from extra_tokens import extra_tokens, bhsa_lex_map
+EA = load_extra()
+_lexmap = bhsa_lex_map(F)
+for u, toks in extra_tokens(EA, _lexmap).items():
+    for t in toks:
+        units[u].append((t["lex"], t["vt"], t["vs"], t["has_suffix"], t["has_suffix"] and t["vt"] is not None, t["prev_lex"] == "W"))
+
 units["MT Daniel (all Hebrew)"] = sum((units[f"MT Daniel {c}"] for c in (1, 8, 9, 10, 11, 12)), [])
 units["MT Daniel 8-12"] = sum((units[f"MT Daniel {c}"] for c in (8, 9, 10, 11, 12)), [])
 
@@ -149,12 +159,15 @@ ANCHORS = {
     "Q Pesharim & Florilegium (1QpHab, 4Q161-177)": (-60, "Hellenistic"), "Q Mysteries (1Q27, 4Q299-301)": (-150, "Hellenistic"),
     "Q Barkhi Nafshi & Songs of Sage (4Q434-438, 4Q510-511)": (-75, "Hellenistic"), "Q Berakhot (4Q286-290)": (-100, "Hellenistic"),
 }
+if RAB:
+    ANCHORS["EX Mishnah: Pirqe Avot (c. 200-250 CE)"] = (220, "Rabbinic")
+    ANCHORS["EX Mekhilta: Shirata (3rd c. CE)"] = (250, "Rabbinic")
 for u in units:
     if u in ANCHORS:
         add_meta(u, ANCHORS[u][0], ANCHORS[u][1], "anchor")
     elif u.startswith("MT Daniel"):
         add_meta(u, None, None, "DANIEL")
-    elif u.startswith("DSS-copy"):
+    elif u.startswith("DSS-copy") or "(ETCBC encoding)" in u:
         add_meta(u, None, None, "control")
     else:
         add_meta(u, None, None, "test")
@@ -274,7 +287,7 @@ for u in sorted(set(groups)):
 summ = pd.DataFrame(summary).sort_values("pred_median")
 
 # ---- 2. period classifier, leave-one-text-out
-periods = ["Classical", "6th c.", "Persian LBH", "Hellenistic"]
+periods = ["Classical", "6th c.", "Persian LBH", "Hellenistic"] + (["Rabbinic"] if RAB else [])
 yp = df.period.values
 loo_cls = {}
 for u in anchor_units:
@@ -322,7 +335,7 @@ print(summ[["unit", "role", "n_chunks", "anchor_date", "loo_pred", "pred_median"
             "P_Classical", "P_6th", "P_Persian", "P_Hellenistic"]].round(2).to_string(index=False))
 print("\nMost 'early' features:\n", coef.head(15).round(1).to_string())
 print("\nMost 'late' features:\n", coef.tail(15).round(1).to_string())
-for u in [x for x in summ.unit if x.startswith("MT Daniel")] + ["DSS-copy Daniel (Hebrew parts)", "MT Ecclesiastes", "MT Jonah", "MT Isaiah 56-66"]:
+for u in [x for x in summ.unit if x.startswith("MT Daniel")] + ["DSS-copy Daniel (Hebrew parts)", "MT Ecclesiastes", "MT Jonah", "MT Isaiah 56-66"] + [x for x in summ.unit if x.startswith("EX ")]:
     if u in cent.index:
         print(u, "->", nearest(u, 5))
 json.dump(dict(mae=mae, period_acc=acc, chunk=CHUNK, n_features=len(featcols)),

@@ -1,10 +1,10 @@
 vocab size 79
-units: 74 chunks: 2350 features: 89
+units: 80 chunks: 2463 features: 89
 role
 DANIEL      8
 anchor     34
-control    11
-test       21
+control    14
+test       24
 Name: unit, dtype: int64
                                                   text  anchor_date  loo_predicted       error
                                                MT Amos         -760    -494.470528  265.529472
@@ -45,6 +45,7 @@ Leave-one-text-out MAE = 131 years
 ridge alpha 335.9818286283781
 Leave-one-text-out period accuracy (text level) = 74%
                                                   unit    role  n_chunks  anchor_date  loo_pred  pred_median  boot_lo  boot_hi  P_Classical  P_6th  P_Persian  P_Hellenistic
+                   EX Epigraphic Hebrew c. 700-587 BCE    test         2          NaN       NaN      -599.16  -678.63  -494.86         0.88   0.01       0.11           0.01
                                             MT Malachi  anchor         3       -460.0   -604.21      -580.65      NaN      NaN         0.58   0.39       0.02           0.01
                                       MT Zechariah 1-8  anchor         8       -518.0   -579.71      -574.58      NaN      NaN         0.27   0.69       0.04           0.00
                                            MT Jeremiah  anchor        99       -590.0   -546.36      -550.75      NaN      NaN         0.55   0.33       0.06           0.06
@@ -94,6 +95,7 @@ Leave-one-text-out period accuracy (text level) = 74%
                                        MT Lamentations  anchor         6       -580.0   -303.62      -343.00      NaN      NaN         0.17   0.10       0.02           0.71
                                                MT Ezra  anchor        12       -400.0   -337.91      -339.89      NaN      NaN         0.15   0.02       0.49           0.33
                                            MT Proverbs    test        29          NaN       NaN      -338.49  -415.82  -291.92         0.22   0.17       0.13           0.48
+                               EX 1QM (ETCBC encoding) control        18          NaN       NaN      -336.52  -404.03  -267.78         0.17   0.16       0.29           0.38
                                           MT Daniel 11  DANIEL         3          NaN       NaN      -336.35  -384.85  -277.38         0.11   0.00       0.60           0.29
                                            MT Nehemiah  anchor        26       -400.0   -325.90      -335.27      NaN      NaN         0.27   0.09       0.32           0.33
                                           MT Leviticus    test        56          NaN       NaN      -335.09  -397.62  -264.58         0.15   0.23       0.11           0.51
@@ -105,14 +107,18 @@ Leave-one-text-out period accuracy (text level) = 74%
                                       MT Song_of_songs    test         5          NaN       NaN      -315.09  -474.61  -257.17         0.30   0.25       0.01           0.44
                          Q Jubilees Hebrew (4Q216-224)  anchor        19       -160.0   -342.86      -314.47      NaN      NaN         0.24   0.03       0.22           0.51
                                 Q Copper Scroll (3Q15)    test         3          NaN       NaN      -292.34  -417.16  -180.73         0.01   0.08       0.00           0.91
+                EX Mishnah: Pirqe Avot (c. 200-250 CE)    test        18          NaN       NaN      -285.09  -410.86  -218.07         0.11   0.05       0.02           0.82
                                           MT Daniel 12  DANIEL         1          NaN       NaN      -283.10  -407.45  -212.73         0.03   0.20       0.51           0.26
           Q Pesharim & Florilegium (1QpHab, 4Q161-177)  anchor        32        -60.0   -363.30      -279.40      NaN      NaN         0.32   0.12       0.07           0.50
                      Q Words of Luminaries (4Q504-506)  anchor         7       -150.0   -286.80      -278.61      NaN      NaN         0.05   0.05       0.17           0.73
                          Q War Scroll (1QM, 4Q491-496)  anchor        31        -75.0   -298.47      -270.22      NaN      NaN         0.11   0.03       0.35           0.51
                          Q Mysteries (1Q27, 4Q299-301)  anchor         9       -150.0   -292.69      -258.61      NaN      NaN         0.19   0.00       0.04           0.77
 Q Barkhi Nafshi & Songs of Sage (4Q434-438, 4Q510-511)  anchor        12        -75.0   -252.59      -232.32      NaN      NaN         0.04   0.03       0.07           0.85
+                      EX Mekhilta: Shirata (3rd c. CE)    test        26          NaN       NaN      -219.82  -462.23  -121.70         0.05   0.00       0.00           0.94
+                               EX 1QH (ETCBC encoding) control        31          NaN       NaN      -217.00  -335.31  -173.71         0.06   0.06       0.10           0.79
                 Q Instruction (4Q415-418, 4Q423, 1Q26)  anchor        29       -175.0   -201.64      -199.97      NaN      NaN         0.10   0.02       0.06           0.82
                    Q Damascus Document (CD, 4Q266-273)  anchor        54       -100.0   -235.53      -194.38      NaN      NaN         0.04   0.02       0.09           0.85
+                               EX 1QS (ETCBC encoding) control        18          NaN       NaN      -193.56  -244.12  -144.88         0.02   0.06       0.09           0.82
                                      Q MMT (4Q394-399)  anchor         8       -150.0   -265.98      -175.61      NaN      NaN         0.05   0.09       0.51           0.35
                            Q Hodayot (1QHa, 4Q427-432)  anchor        50       -100.0   -225.85      -174.25      NaN      NaN         0.03   0.06       0.17           0.75
        Q Songs of Sabbath Sacrifice (4Q400-407, 11Q17)  anchor        19       -100.0   -203.00      -148.90      NaN      NaN         0.02   0.02       0.04           0.92
@@ -165,3 +171,9 @@ DSS-copy Daniel (Hebrew parts) -> [('Q Apocryphon Jer./Ps-Ezekiel (4Q383-391)', 
 MT Ecclesiastes -> [('Q MMT (4Q394-399)', 0.4535119294810121), ('MT Esther', 0.204607964511447), ('Q Mysteries (1Q27, 4Q299-301)', 0.19179782403534476), ('MT Lamentations', 0.1789067608345501), ('MT Samuel', 0.13505739844912695)]
 MT Jonah -> [('Q Words of Luminaries (4Q504-506)', 0.3432013124017052), ('MT Nehemiah', 0.2523771468596401), ('MT Samuel', 0.2134354497918096), ('MT Kings', 0.13419218558734033), ('MT Judges', 0.13181753723029793)]
 MT Isaiah 56-66 -> [('MT Isaiah 40-55', 0.5316442362885132), ('MT Malachi', 0.3168145343127144), ('MT Lamentations', 0.28077321956856877), ('MT Micah', 0.2549846929827123), ('MT Isaiah 1-39', 0.23715906954579938)]
+EX Epigraphic Hebrew c. 700-587 BCE -> [('MT Samuel', 0.39236559659673026), ('MT Haggai', 0.27744320309895243), ('MT Judges', 0.2648855720256444), ('MT Micah', 0.256383297080752), ('MT Hosea', 0.25088718252375)]
+EX 1QM (ETCBC encoding) -> [('Q War Scroll (1QM, 4Q491-496)', 0.6499701665472298), ('Q Rule of Congregation/Blessings (1QSa, 1QSb)', 0.3459143068326173), ('MT Chronicles', 0.32751827150824575), ('Q Songs of Sabbath Sacrifice (4Q400-407, 11Q17)', 0.3130814848796184), ('MT Ezra', 0.29645055493878875)]
+EX Mishnah: Pirqe Avot (c. 200-250 CE) -> [('Q MMT (4Q394-399)', 0.7766745689200283), ('MT Lamentations', 0.14283535391084334), ('Q Mysteries (1Q27, 4Q299-301)', 0.1292814216199449), ('MT Esther', 0.10924546720297985), ('Q War Scroll (1QM, 4Q491-496)', 0.09513439249055607)]
+EX Mekhilta: Shirata (3rd c. CE) -> [('Q MMT (4Q394-399)', 0.7454484850715208), ('MT Esther', 0.17792851302747423), ('MT Lamentations', 0.10202027334168313), ('Q Mysteries (1Q27, 4Q299-301)', 0.0787753698374768), ('Q Instruction (4Q415-418, 4Q423, 1Q26)', 0.037018000066138)]
+EX 1QH (ETCBC encoding) -> [('Q Hodayot (1QHa, 4Q427-432)', 0.8593541344120174), ('Q Barkhi Nafshi & Songs of Sage (4Q434-438, 4Q510-511)', 0.6185129480485273), ('Q Community Rule (1QS, 4QS)', 0.5114172547723002), ('Q Rule of Congregation/Blessings (1QSa, 1QSb)', 0.46082309237003216), ('MT Lamentations', 0.37721334559520875)]
+EX 1QS (ETCBC encoding) -> [('Q Community Rule (1QS, 4QS)', 0.8637710916709058), ('Q Rule of Congregation/Blessings (1QSa, 1QSb)', 0.6458837106318347), ('Q Hodayot (1QHa, 4Q427-432)', 0.482727910661628), ('Q Songs of Sabbath Sacrifice (4Q400-407, 11Q17)', 0.47883439505530134), ('Q War Scroll (1QM, 4Q491-496)', 0.450533079600834)]

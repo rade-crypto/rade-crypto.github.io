@@ -121,7 +121,29 @@ for w in F2.otype.s("word"):
     for var, which in classify(lex, vt, F2.ps_etcbc.v(w), nu, gn, par, has_s, None):
         tally("Qumran non-biblical Hebrew (2nd-1st c. BCE)", var, which)
 
-ORDER = list(GROUPS_MT)[:-1] + ["Qumran non-biblical Hebrew (2nd-1st c. BCE)", "DANIEL Hebrew (1:1-2:4a, 8-12)"] + \
+# ---- ETCBC extrabiblical: Epigraphic Hebrew and Rabbinic Hebrew (same annotation scheme as BHSA)
+from corpora import load_extra
+from extra_tokens import extra_tokens, bhsa_lex_map
+EA = load_extra()
+_lexmap = bhsa_lex_map(F)
+EXG = {"EX Epigraphic Hebrew c. 700-587 BCE": "Epigraphic Hebrew c. 700-587 BCE (Arad, Lachish, Siloam, ...)",
+       "EX Mishnah: Pirqe Avot (c. 200-250 CE)": "Rabbinic Hebrew c. 200-250 CE (Pirqe Avot, Mekhilta Shirata)",
+       "EX Mekhilta: Shirata (3rd c. CE)": "Rabbinic Hebrew c. 200-250 CE (Pirqe Avot, Mekhilta Shirata)"}
+for u, toks in extra_tokens(EA, _lexmap).items():
+    g = EXG.get(u)
+    if not g:
+        continue
+    for t in toks:
+        cons = (t["cons"] or "").replace("ן", "נ")
+        par = ""
+        if t["vt"] == "wayq" and t["ps"] == "p1" and t["nu"] == "sg":
+            par = "H" if cons.endswith("ה") else ""
+        elif t["vt"] == "impf":
+            par = "WN" if cons.endswith("ונ") else ("W" if cons.endswith("ו") else "")
+        for var, which in classify(t["lex"], t["vt"], t["ps"], t["nu"], t["gn"], par, t["has_suffix"], None):
+            tally(g, var, which)
+
+ORDER = ["Epigraphic Hebrew c. 700-587 BCE (Arad, Lachish, Siloam, ...)"] + list(GROUPS_MT)[:-1] + ["Qumran non-biblical Hebrew (2nd-1st c. BCE)", "Rabbinic Hebrew c. 200-250 CE (Pirqe Avot, Mekhilta Shirata)", "DANIEL Hebrew (1:1-2:4a, 8-12)"] + \
         [f"  Daniel ch.{c}" for c in (1, 8, 9, 10, 11, 12)]
 rows = []
 md = ["# Hebrew linguistic variables\n", "Share of the LATER variant where a writer chose between two equivalents.\n"]

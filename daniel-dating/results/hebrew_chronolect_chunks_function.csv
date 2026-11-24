@@ -2329,6 +2329,119 @@ DSS-copy Minor Prophets,52,control,,-604.3133596162188
 DSS-copy Minor Prophets,53,control,,-260.83453021388107
 DSS-copy Minor Prophets,54,control,,-497.8227983088485
 DSS-copy Minor Prophets,55,control,,-562.9031843244453
+EX 1QH (ETCBC encoding),0,control,,-213.91922580482424
+EX 1QH (ETCBC encoding),1,control,,-142.00482122327355
+EX 1QH (ETCBC encoding),2,control,,-244.72673924017005
+EX 1QH (ETCBC encoding),3,control,,-338.3013770512077
+EX 1QH (ETCBC encoding),4,control,,-255.50480179308184
+EX 1QH (ETCBC encoding),5,control,,-206.6342284044476
+EX 1QH (ETCBC encoding),6,control,,-306.07472469052334
+EX 1QH (ETCBC encoding),7,control,,-211.28612681419463
+EX 1QH (ETCBC encoding),8,control,,-353.4917821146212
+EX 1QH (ETCBC encoding),9,control,,-308.3647894305194
+EX 1QH (ETCBC encoding),10,control,,-214.24671466232255
+EX 1QH (ETCBC encoding),11,control,,-216.46151014707044
+EX 1QH (ETCBC encoding),12,control,,-187.4280004281833
+EX 1QH (ETCBC encoding),13,control,,-324.06435374695155
+EX 1QH (ETCBC encoding),14,control,,-330.44669822945207
+EX 1QH (ETCBC encoding),15,control,,-280.09730356918567
+EX 1QH (ETCBC encoding),16,control,,-217.0034382965338
+EX 1QH (ETCBC encoding),17,control,,-365.78108947227685
+EX 1QH (ETCBC encoding),18,control,,-169.1200915141906
+EX 1QH (ETCBC encoding),19,control,,-291.4723775578627
+EX 1QH (ETCBC encoding),20,control,,-278.1136185228497
+EX 1QH (ETCBC encoding),21,control,,-214.620135314203
+EX 1QH (ETCBC encoding),22,control,,-136.76071060078334
+EX 1QH (ETCBC encoding),23,control,,-198.87992387326173
+EX 1QH (ETCBC encoding),24,control,,-170.95854374184444
+EX 1QH (ETCBC encoding),25,control,,-152.83033428857468
+EX 1QH (ETCBC encoding),26,control,,-281.95637718861286
+EX 1QH (ETCBC encoding),27,control,,-256.1078795845098
+EX 1QH (ETCBC encoding),28,control,,-375.5610009262681
+EX 1QH (ETCBC encoding),29,control,,-192.7877829663705
+EX 1QH (ETCBC encoding),30,control,,-208.35283571131956
+EX 1QM (ETCBC encoding),0,control,,-246.42989799352168
+EX 1QM (ETCBC encoding),1,control,,-189.95182262359927
+EX 1QM (ETCBC encoding),2,control,,-307.7352951400997
+EX 1QM (ETCBC encoding),3,control,,-599.9101424880829
+EX 1QM (ETCBC encoding),4,control,,-617.2675107151559
+EX 1QM (ETCBC encoding),5,control,,-458.40860489449796
+EX 1QM (ETCBC encoding),6,control,,-368.93922846431536
+EX 1QM (ETCBC encoding),7,control,,-311.0592347647069
+EX 1QM (ETCBC encoding),8,control,,-270.13267939145794
+EX 1QM (ETCBC encoding),9,control,,-326.540332526478
+EX 1QM (ETCBC encoding),10,control,,-378.48340149600676
+EX 1QM (ETCBC encoding),11,control,,-253.30700970742677
+EX 1QM (ETCBC encoding),12,control,,-419.24833512889774
+EX 1QM (ETCBC encoding),13,control,,-314.53485802178113
+EX 1QM (ETCBC encoding),14,control,,-346.5094643422296
+EX 1QM (ETCBC encoding),15,control,,-379.21871088819717
+EX 1QM (ETCBC encoding),16,control,,-239.9652578503789
+EX 1QM (ETCBC encoding),17,control,,-388.43581239859526
+EX 1QS (ETCBC encoding),0,control,,-322.62916474774926
+EX 1QS (ETCBC encoding),1,control,,-361.324846098929
+EX 1QS (ETCBC encoding),2,control,,-199.3899725434726
+EX 1QS (ETCBC encoding),3,control,,-193.11383796369665
+EX 1QS (ETCBC encoding),4,control,,-227.76853678034186
+EX 1QS (ETCBC encoding),5,control,,-185.4020738845561
+EX 1QS (ETCBC encoding),6,control,,-114.16210422905658
+EX 1QS (ETCBC encoding),7,control,,-157.72845417335793
+EX 1QS (ETCBC encoding),8,control,,-194.00976042713978
+EX 1QS (ETCBC encoding),9,control,,-191.3280863460068
+EX 1QS (ETCBC encoding),10,control,,18.67899897969437
+EX 1QS (ETCBC encoding),11,control,,-211.97999306697477
+EX 1QS (ETCBC encoding),12,control,,-145.4942832977933
+EX 1QS (ETCBC encoding),13,control,,-276.40421407009444
+EX 1QS (ETCBC encoding),14,control,,-138.38735506946108
+EX 1QS (ETCBC encoding),15,control,,-145.23289254845864
+EX 1QS (ETCBC encoding),16,control,,-239.10131137097045
+EX 1QS (ETCBC encoding),17,control,,-211.33791656163075
+EX Epigraphic Hebrew c. 700-587 BCE,0,test,,-507.92829841539157
+EX Epigraphic Hebrew c. 700-587 BCE,1,test,,-690.4001783799581
+EX Mishnah: Pirqe Avot (c. 200-250 CE),0,test,,-411.47130799012854
+EX Mishnah: Pirqe Avot (c. 200-250 CE),1,test,,-323.6363244841475
+EX Mishnah: Pirqe Avot (c. 200-250 CE),2,test,,-318.4598334896432
+EX Mishnah: Pirqe Avot (c. 200-250 CE),3,test,,-285.04765063196436
+EX Mishnah: Pirqe Avot (c. 200-250 CE),4,test,,-300.3295423146551
+EX Mishnah: Pirqe Avot (c. 200-250 CE),5,test,,-278.2786969618138
+EX Mishnah: Pirqe Avot (c. 200-250 CE),6,test,,-228.9556447884747
+EX Mishnah: Pirqe Avot (c. 200-250 CE),7,test,,-140.8312939320531
+EX Mishnah: Pirqe Avot (c. 200-250 CE),8,test,,-346.36542230978205
+EX Mishnah: Pirqe Avot (c. 200-250 CE),9,test,,-325.72595482456984
+EX Mishnah: Pirqe Avot (c. 200-250 CE),10,test,,-309.2733042458543
+EX Mishnah: Pirqe Avot (c. 200-250 CE),11,test,,-189.7830768430187
+EX Mishnah: Pirqe Avot (c. 200-250 CE),12,test,,-285.12555875294703
+EX Mishnah: Pirqe Avot (c. 200-250 CE),13,test,,-149.36590600736315
+EX Mishnah: Pirqe Avot (c. 200-250 CE),14,test,,-276.03189762433794
+EX Mishnah: Pirqe Avot (c. 200-250 CE),15,test,,-369.6335139082331
+EX Mishnah: Pirqe Avot (c. 200-250 CE),16,test,,-52.5423315294567
+EX Mishnah: Pirqe Avot (c. 200-250 CE),17,test,,-250.24993755210605
+EX Mekhilta: Shirata (3rd c. CE),0,test,,-181.88785140655588
+EX Mekhilta: Shirata (3rd c. CE),1,test,,-155.0479148050916
+EX Mekhilta: Shirata (3rd c. CE),2,test,,-382.22927779449634
+EX Mekhilta: Shirata (3rd c. CE),3,test,,-54.56783265117343
+EX Mekhilta: Shirata (3rd c. CE),4,test,,-147.02962734503632
+EX Mekhilta: Shirata (3rd c. CE),5,test,,-253.70911980367492
+EX Mekhilta: Shirata (3rd c. CE),6,test,,-272.7401004634424
+EX Mekhilta: Shirata (3rd c. CE),7,test,,-335.2237942035931
+EX Mekhilta: Shirata (3rd c. CE),8,test,,-183.30275536818155
+EX Mekhilta: Shirata (3rd c. CE),9,test,,-229.344729601379
+EX Mekhilta: Shirata (3rd c. CE),10,test,,-199.3447174878305
+EX Mekhilta: Shirata (3rd c. CE),11,test,,-65.42776782290213
+EX Mekhilta: Shirata (3rd c. CE),12,test,,-94.65792278673035
+EX Mekhilta: Shirata (3rd c. CE),13,test,,-218.41886831112322
+EX Mekhilta: Shirata (3rd c. CE),14,test,,-397.7054514408221
+EX Mekhilta: Shirata (3rd c. CE),15,test,,-221.21814386589597
+EX Mekhilta: Shirata (3rd c. CE),16,test,,-230.58756426422448
+EX Mekhilta: Shirata (3rd c. CE),17,test,,-274.6163932532021
+EX Mekhilta: Shirata (3rd c. CE),18,test,,-275.4110565281973
+EX Mekhilta: Shirata (3rd c. CE),19,test,,-270.20830323846246
+EX Mekhilta: Shirata (3rd c. CE),20,test,,-227.0835357439757
+EX Mekhilta: Shirata (3rd c. CE),21,test,,-187.010703541778
+EX Mekhilta: Shirata (3rd c. CE),22,test,,-208.00204845671604
+EX Mekhilta: Shirata (3rd c. CE),23,test,,-210.782608876396
+EX Mekhilta: Shirata (3rd c. CE),24,test,,-137.73004634740795
+EX Mekhilta: Shirata (3rd c. CE),25,test,,-277.8669469597112
 MT Daniel (all Hebrew),0,DANIEL,,-328.5908271297341
 MT Daniel (all Hebrew),1,DANIEL,,-323.87152469600085
 MT Daniel (all Hebrew),2,DANIEL,,-432.5054856474312
@@ -2346,6 +2459,6 @@ MT Daniel 8-12,2,DANIEL,,-319.8885674270282
 MT Daniel 8-12,3,DANIEL,,-383.4456836467398
 MT Daniel 8-12,4,DANIEL,,-400.1851085430836
 MT Daniel 8-12,5,DANIEL,,-440.90353340121027
-MT Daniel 8-12,6,DANIEL,,-349.09045354385194
+MT Daniel 8-12,6,DANIEL,,-349.090453543852
 MT Daniel 8-12,7,DANIEL,,-346.55050269263495
 MT Daniel 8-12,8,DANIEL,,-179.4096649167174

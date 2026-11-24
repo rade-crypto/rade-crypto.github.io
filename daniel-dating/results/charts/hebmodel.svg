@@ -1,14 +1,14 @@
-<svg viewBox="0 0 760 669" role="img" aria-label="Hebrew dating model: estimated date of each text, out-of-sample, calibrated" class="chart" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
-<line x1="200.0" x2="200.0" y1="22" y2="619" class="grid"/><text x="200.0" y="635" class="tick" text-anchor="middle">800</text>
-<line x1="267.5" x2="267.5" y1="22" y2="619" class="grid"/><text x="267.5" y="635" class="tick" text-anchor="middle">700</text>
-<line x1="335.0" x2="335.0" y1="22" y2="619" class="grid"/><text x="335.0" y="635" class="tick" text-anchor="middle">600</text>
-<line x1="402.5" x2="402.5" y1="22" y2="619" class="grid"/><text x="402.5" y="635" class="tick" text-anchor="middle">500</text>
-<line x1="470.0" x2="470.0" y1="22" y2="619" class="grid"/><text x="470.0" y="635" class="tick" text-anchor="middle">400</text>
-<line x1="537.5" x2="537.5" y1="22" y2="619" class="grid"/><text x="537.5" y="635" class="tick" text-anchor="middle">300</text>
-<line x1="605.0" x2="605.0" y1="22" y2="619" class="grid"/><text x="605.0" y="635" class="tick" text-anchor="middle">200</text>
-<line x1="672.5" x2="672.5" y1="22" y2="619" class="grid"/><text x="672.5" y="635" class="tick" text-anchor="middle">100</text>
-<line x1="740.0" x2="740.0" y1="22" y2="619" class="grid"/><text x="740.0" y="635" class="tick" text-anchor="middle">0</text>
-<text x="470.0" y="659" class="tick" text-anchor="middle">estimated date of the language, years BCE (each text scored blind)</text>
+<svg viewBox="0 0 760 707" role="img" aria-label="Hebrew dating model: estimated date of each text, out-of-sample, calibrated" class="chart" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg">
+<line x1="200.0" x2="200.0" y1="22" y2="657" class="grid"/><text x="200.0" y="673" class="tick" text-anchor="middle">800</text>
+<line x1="267.5" x2="267.5" y1="22" y2="657" class="grid"/><text x="267.5" y="673" class="tick" text-anchor="middle">700</text>
+<line x1="335.0" x2="335.0" y1="22" y2="657" class="grid"/><text x="335.0" y="673" class="tick" text-anchor="middle">600</text>
+<line x1="402.5" x2="402.5" y1="22" y2="657" class="grid"/><text x="402.5" y="673" class="tick" text-anchor="middle">500</text>
+<line x1="470.0" x2="470.0" y1="22" y2="657" class="grid"/><text x="470.0" y="673" class="tick" text-anchor="middle">400</text>
+<line x1="537.5" x2="537.5" y1="22" y2="657" class="grid"/><text x="537.5" y="673" class="tick" text-anchor="middle">300</text>
+<line x1="605.0" x2="605.0" y1="22" y2="657" class="grid"/><text x="605.0" y="673" class="tick" text-anchor="middle">200</text>
+<line x1="672.5" x2="672.5" y1="22" y2="657" class="grid"/><text x="672.5" y="673" class="tick" text-anchor="middle">100</text>
+<line x1="740.0" x2="740.0" y1="22" y2="657" class="grid"/><text x="740.0" y="673" class="tick" text-anchor="middle">0</text>
+<text x="470.0" y="697" class="tick" text-anchor="middle">estimated date of the language, years BCE (each text scored blind)</text>
 <text x="8" y="42.5" class="gl">Classical</text>
 <text x="190" y="62.5" class="rl" text-anchor="end">Samuel</text>
 <line x1="335.0" x2="335.0" y1="52.5" y2="64.5" class="truth"/>
@@ -70,26 +70,31 @@
 <text x="190" y="461.5" class="rl" text-anchor="end">Hodayot</text>
 <line x1="672.5" x2="672.5" y1="451.5" y2="463.5" class="truth"/>
 <circle cx="632.1" cy="457.5" r="4.5" class="m-anchor" data-tip="Hodayot: conventional date c. 100 BCE; model estimate without seeing it c. 160 BCE"/>
-<text x="8" y="479.5" class="gl">Daniel</text>
-<text x="190" y="499.5" class="rl strong" text-anchor="end">Daniel 1</text>
-<line x1="480.6" x2="611.8" y1="495.5" y2="495.5" class="ci"/>
-<circle cx="538.6" cy="495.5" r="5.5" class="m-dan" data-tip="Daniel 1: estimated c. 298 BCE (bootstrap 90%: 384-190 BCE)"/>
-<text x="190" y="518.5" class="rl strong" text-anchor="end">Daniel 8</text>
-<line x1="359.3" x2="516.9" y1="514.5" y2="514.5" class="ci"/>
-<circle cx="431.1" cy="514.5" r="5.5" class="m-dan" data-tip="Daniel 8: estimated c. 458 BCE (bootstrap 90%: 564-331 BCE)"/>
-<text x="190" y="537.5" class="rl strong" text-anchor="end">Daniel 9</text>
-<line x1="450.3" x2="582.4" y1="533.5" y2="533.5" class="ci"/>
-<circle cx="521.7" cy="533.5" r="5.5" class="m-dan" data-tip="Daniel 9: estimated c. 323 BCE (bootstrap 90%: 429-234 BCE)"/>
-<text x="190" y="556.5" class="rl strong" text-anchor="end">Daniel 10</text>
-<line x1="386.8" x2="524.5" y1="552.5" y2="552.5" class="ci"/>
-<circle cx="450.9" cy="552.5" r="5.5" class="m-dan" data-tip="Daniel 10: estimated c. 428 BCE (bootstrap 90%: 523-319 BCE)"/>
-<text x="190" y="575.5" class="rl strong" text-anchor="end">Daniel 11</text>
-<line x1="487.4" x2="585.2" y1="571.5" y2="571.5" class="ci"/>
-<circle cx="531.5" cy="571.5" r="5.5" class="m-dan" data-tip="Daniel 11: estimated c. 309 BCE (bootstrap 90%: 374-229 BCE)"/>
-<text x="190" y="594.5" class="rl strong" text-anchor="end">Daniel 12</text>
-<line x1="466.9" x2="644.0" y1="590.5" y2="590.5" class="ci"/>
-<circle cx="580.0" cy="590.5" r="5.5" class="m-dan" data-tip="Daniel 12: estimated c. 237 BCE (bootstrap 90%: 405-142 BCE)"/>
-<text x="190" y="613.5" class="rl strong" text-anchor="end">Daniel, all Hebrew</text>
-<line x1="473.3" x2="570.8" y1="609.5" y2="609.5" class="ci"/>
-<circle cx="535.8" cy="609.5" r="5.5" class="m-dan" data-tip="Daniel, all Hebrew: estimated c. 303 BCE (bootstrap 90%: 395-251 BCE)"/>
+<text x="8" y="479.5" class="gl">Blind test</text>
+<text x="190" y="499.5" class="rl" text-anchor="end">Inscriptions c. 700-587</text>
+<rect x="267.5" y="488.5" width="76.3" height="14" rx="2" class="band"/>
+<line x1="220.2" x2="387.4" y1="495.5" y2="495.5" class="ci blue"/>
+<circle cx="292.5" cy="495.5" r="5.5" class="m-anchor" data-tip="Hebrew inscriptions (Lachish, Arad, Siloam, Mesad Hashavyahu, Ketef Hinnom), dated by archaeology to c. 700-587 BCE (shaded); never used in training. Model estimate c. 663 BCE (bootstrap 90%: 770-522)"/>
+<text x="8" y="517.5" class="gl">Daniel</text>
+<text x="190" y="537.5" class="rl strong" text-anchor="end">Daniel 1</text>
+<line x1="480.6" x2="611.8" y1="533.5" y2="533.5" class="ci"/>
+<circle cx="538.6" cy="533.5" r="5.5" class="m-dan" data-tip="Daniel 1: estimated c. 298 BCE (bootstrap 90%: 384-190 BCE)"/>
+<text x="190" y="556.5" class="rl strong" text-anchor="end">Daniel 8</text>
+<line x1="359.3" x2="516.9" y1="552.5" y2="552.5" class="ci"/>
+<circle cx="431.1" cy="552.5" r="5.5" class="m-dan" data-tip="Daniel 8: estimated c. 458 BCE (bootstrap 90%: 564-331 BCE)"/>
+<text x="190" y="575.5" class="rl strong" text-anchor="end">Daniel 9</text>
+<line x1="450.3" x2="582.4" y1="571.5" y2="571.5" class="ci"/>
+<circle cx="521.7" cy="571.5" r="5.5" class="m-dan" data-tip="Daniel 9: estimated c. 323 BCE (bootstrap 90%: 429-234 BCE)"/>
+<text x="190" y="594.5" class="rl strong" text-anchor="end">Daniel 10</text>
+<line x1="386.8" x2="524.5" y1="590.5" y2="590.5" class="ci"/>
+<circle cx="450.9" cy="590.5" r="5.5" class="m-dan" data-tip="Daniel 10: estimated c. 428 BCE (bootstrap 90%: 523-319 BCE)"/>
+<text x="190" y="613.5" class="rl strong" text-anchor="end">Daniel 11</text>
+<line x1="487.4" x2="585.2" y1="609.5" y2="609.5" class="ci"/>
+<circle cx="531.5" cy="609.5" r="5.5" class="m-dan" data-tip="Daniel 11: estimated c. 309 BCE (bootstrap 90%: 374-229 BCE)"/>
+<text x="190" y="632.5" class="rl strong" text-anchor="end">Daniel 12</text>
+<line x1="466.9" x2="644.0" y1="628.5" y2="628.5" class="ci"/>
+<circle cx="580.0" cy="628.5" r="5.5" class="m-dan" data-tip="Daniel 12: estimated c. 237 BCE (bootstrap 90%: 405-142 BCE)"/>
+<text x="190" y="651.5" class="rl strong" text-anchor="end">Daniel, all Hebrew</text>
+<line x1="473.3" x2="570.8" y1="647.5" y2="647.5" class="ci"/>
+<circle cx="535.8" cy="647.5" r="5.5" class="m-dan" data-tip="Daniel, all Hebrew: estimated c. 303 BCE (bootstrap 90%: 395-251 BCE)"/>
 </svg>

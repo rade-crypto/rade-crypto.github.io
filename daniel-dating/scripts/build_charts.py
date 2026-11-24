@@ -127,34 +127,33 @@ def dotplot(rows, series, title, xlabel, W=760, row_h=34, left=230):
 
 # ------------------------------------------------------------------ chart 2: Aramaic
 def chart_aramaic():
-    df = pd.read_csv(os.path.join(RES, "aramaic_features.csv"))
+    """Unified Aramaic comparison: Persian-era papyri, Ezra, Daniel (MT and Qumran copies), Qumran Aramaic."""
+    df = pd.read_csv(os.path.join(RES, "aramaic_timeline.csv"))
     feats = [
-        ("3mp suffix", "'their': -hm vs -hwn", "suffix -hwn"),
-        ("2mp suffix", "'your (pl.)': -km vs -kwn", "suffix -kwn"),
-        ("3mp pronoun", "'they': hmw(n) vs ʾnwn", "pronoun ʾnwn"),
-        ("plural demonstrative", "'these': ʾlh/ʾlk vs ʾlyn", "ʾlyn"),
-        ("t-stem prefix", "reflexive: ht- vs ʾt-", "prefix ʾt-"),
-        ("causative prefix", "causative: h- vs ʾ-", "prefix ʾ-"),
+        ("3mp suffix", "grammar", "'their': -hm vs -hwn"),
+        ("2mp suffix", "grammar", "'your (pl.)': -km vs -kwn"),
+        ("3mp pronoun", "grammar", "'they': hmw(n) vs ʾnwn"),
+        ("plural demonstrative", "grammar", "'these': ʾlh/ʾlk vs ʾlyn"),
+        ("causative prefix", "grammar", "causative: h- vs ʾ-"),
+        ("relative particle", "spelling", "spelling: zy vs dy"),
+        ("'this'", "spelling", "spelling: znh vs dnh"),
+        ("'earth'", "spelling", "spelling: ʾrq vs ʾrʿ"),
     ]
-    corp = {"Ezra (MT)": "ezra", "Daniel (MT)": "dan", "Daniel (Qumran MSS)": "danq", "Qumran Aramaic (all non-biblical)": "qum"}
-    # optional: Persian-era papyri counts (results/imperial/imperial_features.csv: feature, corpus, n_old, n_new)
-    ipath = os.path.join(RES, "imperial", "imperial_features.csv")
-    if os.path.exists(ipath):
-        imp = pd.read_csv(ipath)
-        imp["n"] = imp.n_old + imp.n_new
-        imp["share_younger"] = imp.n_new / imp.n.where(imp.n > 0)
-        imp = imp[imp.corpus == "Persian-era papyri"]
-        df = pd.concat([df, imp[["feature", "corpus", "n_old", "n_new", "n", "share_younger"]]], ignore_index=True)
-        corp = {"Persian-era papyri": "pap", **corp}
+    corp = {"Persian-era papyri": "pap", "Ezra": "ezra", "Daniel (Masoretic)": "dan", "Daniel (Qumran copies)": "danq", "Qumran Aramaic": "qum"}
+    names = {"3mp suffix": "3rd pl. suffix", "2mp suffix": "2nd pl. suffix", "3mp pronoun": "3rd pl. pronoun",
+             "plural demonstrative": "plural demonstrative", "causative prefix": "causative prefix",
+             "relative particle": "relative particle", "'this'": "'this'", "'earth'": "'earth'"}
     rows = []
-    for f, sub, young in feats:
+    for f, grp, sub in feats:
         vals = {}
         for c, k in corp.items():
             r = df[(df.feature == f) & (df.corpus == c)]
-            if len(r) and r.iloc[0].n > 0:
+            if len(r):
                 r = r.iloc[0]
-                vals[k] = (r.share_younger, r.n, f"{c}: {r.n_new} of {r.n} use the later form ({young}) = {r.share_younger:.0%}")
-        rows.append((f.replace("3mp", "3rd pl.").replace("2mp", "2nd pl."), sub, vals))
+                n = r.n_old + r.n_new
+                if n:
+                    vals[k] = (r.n_new / n, n, f"{c}: {r.n_new} of {n} later form = {r.n_new/n:.0%}")
+        rows.append((names[f], sub, vals))
     series = {"pap": ("square", "m-c6"), "ezra": ("tri", "m-ezra"), "qum": ("diamond", "m-qum"), "danq": ("ring", "m-danq"), "dan": ("circle", "m-dan")}
     return dotplot(rows, series, "Aramaic: share of the later form in Persian-era papyri, Ezra, Daniel and Qumran Aramaic", "share of the later form")
 
@@ -171,11 +170,14 @@ def chart_hebrew_model():
         ("Qumran, 2nd-1st c.", ["Q Jubilees Hebrew (4Q216-224)", "Q Temple Scroll (11Q19-20, 4Q524)", "Q MMT (4Q394-399)",
                                 "Q Damascus Document (CD, 4Q266-273)", "Q Community Rule (1QS, 4QS)", "Q War Scroll (1QM, 4Q491-496)",
                                 "Q Hodayot (1QHa, 4Q427-432)"]),
+        ("Blind test", ["EX Epigraphic Hebrew c. 700-587 BCE"]),
         ("Daniel", ["MT Daniel 1", "MT Daniel 8", "MT Daniel 9", "MT Daniel 10", "MT Daniel 11", "MT Daniel 12", "MT Daniel (all Hebrew)"]),
     ]
     def short(u):
         if u.startswith("MT Daniel ("):
             return "Daniel, all Hebrew"
+        if u.startswith("EX Epigraphic"):
+            return "Inscriptions c. 700-587"
         for pre in ("MT ", "Q "):
             if u.startswith(pre):
                 u = u[len(pre):]
@@ -202,9 +204,15 @@ def chart_hebrew_model():
             r = r.iloc[0]
             y = T + rh * i + rh / 2
             dan = u.startswith("MT Daniel")
-            est = cal(r.loo_pred if not dan else r.pred_median)
+            blind = u.startswith("EX ")
+            est = cal(r.loo_pred if not (dan or blind) else r.pred_median)
             s.append(f'<text x="{left-10}" y="{y+4:.1f}" class="rl{" strong" if dan else ""}" text-anchor="end">{esc(short(u))}</text>')
-            if dan:
+            if blind:
+                lo, hi = cal(r.boot_lo), cal(r.boot_hi)
+                s.append(f'<rect x="{X(-700):.1f}" y="{y-7:.1f}" width="{X(-587)-X(-700):.1f}" height="14" rx="2" class="band"/>')
+                s.append(f'<line x1="{X(lo):.1f}" x2="{X(hi):.1f}" y1="{y:.1f}" y2="{y:.1f}" class="ci blue"/>')
+                s.append(f'<circle cx="{X(est):.1f}" cy="{y:.1f}" r="5.5" class="m-anchor" data-tip="Hebrew inscriptions (Lachish, Arad, Siloam, Mesad Hashavyahu, Ketef Hinnom), dated by archaeology to c. 700-587 BCE (shaded); never used in training. Model estimate c. {-est:.0f} BCE (bootstrap 90%: {-lo:.0f}-{-hi:.0f})"/>')
+            elif dan:
                 lo, hi = cal(r.boot_lo), cal(r.boot_hi)
                 s.append(f'<line x1="{X(lo):.1f}" x2="{X(hi):.1f}" y1="{y:.1f}" y2="{y:.1f}" class="ci"/>')
                 s.append(f'<circle cx="{X(est):.1f}" cy="{y:.1f}" r="5.5" class="m-dan" data-tip="{esc(short(u))}: estimated c. {-est:.0f} BCE (bootstrap 90%: {-lo:.0f}-{-hi:.0f} BCE)"/>')
@@ -224,12 +232,12 @@ def chart_hebrew_vars():
         "per": ["Persian LBH: Ezra-Nehemiah", "Persian LBH: Chronicles", "LBH: Esther"],
         "qum": ["Qumran non-biblical Hebrew (2nd-1st c. BCE)"],
         "dan": ["DANIEL Hebrew (1:1-2:4a, 8-12)"],
-        "cla": ["Classical prose (Gen-Kings)"],
+        "rab": ["Rabbinic Hebrew c. 200-250 CE (Pirqe Avot, Mekhilta Shirata)"],
     }
     names = {"c6": "6th c. (Jer, Ezek, Hag, Zech 1-8)", "per": "Persian era (Ezra-Neh, Chr, Esth)", "qum": "Qumran Hebrew",
-             "dan": "Daniel", "cla": "Classical prose (Gen-Kings)"}
+             "dan": "Daniel", "rab": "Rabbinic Hebrew (Mishnah, Mekhilta)"}
     vars_ = [("'kingdom'", "mamlākâ vs malkût"), ("1cs wayyiqtol", "'and I did': short vs long form"),
-             ("object pronoun", "ʾēt+suffix vs verbal suffix"), ("1cs pronoun", "ʾānōkî vs ʾănî")]
+             ("1cs pronoun", "ʾānōkî vs ʾănî"), ("relative", "ʾăšer vs še- (Mishnaic)")]
     rows = []
     for v, sub in vars_:
         vals = {}
@@ -238,8 +246,8 @@ def chart_hebrew_vars():
             nl, n = d.n_later.sum(), d.n_later.sum() + d.n_earlier.sum()
             if n:
                 vals[k] = (nl / n, n, f"{names[k]}: {nl} of {n} = {nl/n:.0%} later form")
-        rows.append((v.replace("1cs", "1st sg.").replace("'kingdom'", "word for 'kingdom'"), sub, vals))
-    series = {"cla": ("tri", "m-cla"), "c6": ("square", "m-c6"), "per": ("diamond", "m-per"), "qum": ("ring", "m-qum2"), "dan": ("circle", "m-dan")}
+        rows.append((v.replace("1cs", "1st sg.").replace("'kingdom'", "word for 'kingdom'").replace("relative", "relative word"), sub, vals))
+    series = {"c6": ("square", "m-c6"), "per": ("diamond", "m-per"), "qum": ("ring", "m-qum2"), "rab": ("tri", "m-cla"), "dan": ("circle", "m-dan")}
     return dotplot(rows, series, "Hebrew: share of the later variant", "share of the later variant")
 
 if __name__ == "__main__":

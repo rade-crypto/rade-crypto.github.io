@@ -7,6 +7,7 @@ Share of the LATER variant where a writer chose between two equivalents.
 
 | corpus | earlier | later | share later (95% CI) |
 |---|---|---|---|
+| Epigraphic Hebrew c. 700-587 BCE (Arad, Lachish, Siloam, ...) | 1 | 0 | 0% (0%-79%) |
 | Classical prose (Gen-Kings) | 226 | 293 | 56% (52%-61%) |
 | 6th c.: Ezekiel | 1 | 169 | 99% (97%-100%) |
 | 6th c.: Jeremiah | 37 | 54 | 59% (49%-69%) |
@@ -16,6 +17,7 @@ Share of the LATER variant where a writer chose between two equivalents.
 | LBH: Esther | 0 | 6 | 100% (61%-100%) |
 | Qohelet | 0 | 29 | 100% (88%-100%) |
 | Qumran non-biblical Hebrew (2nd-1st c. BCE) | 60 | 245 | 80% (76%-84%) |
+| Rabbinic Hebrew c. 200-250 CE (Pirqe Avot, Mekhilta Shirata) | 0 | 24 | 100% (86%-100%) |
 | DANIEL Hebrew (1:1-2:4a, 8-12) | 1 | 23 | 96% (80%-99%) |
 | Daniel ch.1 | 0 | 1 | 100% (21%-100%) |
 | Daniel ch.8 | 0 | 6 | 100% (61%-100%) |
@@ -37,6 +39,7 @@ Share of the LATER variant where a writer chose between two equivalents.
 | LBH: Esther | 0 | 26 | 100% (87%-100%) |
 | Qohelet | 0 | 1 | 100% (21%-100%) |
 | Qumran non-biblical Hebrew (2nd-1st c. BCE) | 56 | 123 | 69% (62%-75%) |
+| Rabbinic Hebrew c. 200-250 CE (Pirqe Avot, Mekhilta Shirata) | 0 | 22 | 100% (85%-100%) |
 | DANIEL Hebrew (1:1-2:4a, 8-12) | 0 | 16 | 100% (81%-100%) |
 | Daniel ch.1 | 0 | 3 | 100% (44%-100%) |
 | Daniel ch.8 | 0 | 3 | 100% (44%-100%) |
@@ -66,6 +69,7 @@ Share of the LATER variant where a writer chose between two equivalents.
 
 | corpus | earlier | later | share later (95% CI) |
 |---|---|---|---|
+| Epigraphic Hebrew c. 700-587 BCE (Arad, Lachish, Siloam, ...) | 3 | 14 | 82% (59%-94%) |
 | Classical prose (Gen-Kings) | 1168 | 1920 | 62% (60%-64%) |
 | 6th c.: Ezekiel | 208 | 244 | 54% (49%-59%) |
 | 6th c.: Jeremiah | 174 | 367 | 68% (64%-72%) |
@@ -75,6 +79,7 @@ Share of the LATER variant where a writer chose between two equivalents.
 | LBH: Esther | 7 | 17 | 71% (51%-85%) |
 | Qohelet | 1 | 21 | 95% (78%-99%) |
 | Qumran non-biblical Hebrew (2nd-1st c. BCE) | 352 | 1570 | 82% (80%-83%) |
+| Rabbinic Hebrew c. 200-250 CE (Pirqe Avot, Mekhilta Shirata) | 16 | 67 | 81% (71%-88%) |
 | DANIEL Hebrew (1:1-2:4a, 8-12) | 0 | 19 | 100% (83%-100%) |
 | Daniel ch.1 | 0 | 4 | 100% (51%-100%) |
 | Daniel ch.8 | 0 | 5 | 100% (57%-100%) |
@@ -86,6 +91,7 @@ Share of the LATER variant where a writer chose between two equivalents.
 
 | corpus | earlier | later | share later (95% CI) |
 |---|---|---|---|
+| Epigraphic Hebrew c. 700-587 BCE (Arad, Lachish, Siloam, ...) | 0 | 3 | 100% (44%-100%) |
 | Classical prose (Gen-Kings) | 138 | 1177 | 90% (88%-91%) |
 | 6th c.: Ezekiel | 2 | 277 | 99% (97%-100%) |
 | 6th c.: Jeremiah | 7 | 347 | 98% (96%-99%) |
@@ -95,6 +101,7 @@ Share of the LATER variant where a writer chose between two equivalents.
 | LBH: Esther | 0 | 14 | 100% (78%-100%) |
 | Qohelet | 0 | 26 | 100% (87%-100%) |
 | Qumran non-biblical Hebrew (2nd-1st c. BCE) | 0 | 356 | 100% (99%-100%) |
+| Rabbinic Hebrew c. 200-250 CE (Pirqe Avot, Mekhilta Shirata) | 1 | 26 | 96% (82%-99%) |
 | DANIEL Hebrew (1:1-2:4a, 8-12) | 0 | 30 | 100% (89%-100%) |
 | Daniel ch.1 | 0 | 3 | 100% (44%-100%) |
 | Daniel ch.8 | 0 | 1 | 100% (21%-100%) |
@@ -114,6 +121,7 @@ Share of the LATER variant where a writer chose between two equivalents.
 | LBH: Esther | 10 | 12 | 55% (35%-73%) |
 | Qohelet | 3 | 5 | 62% (31%-86%) |
 | Qumran non-biblical Hebrew (2nd-1st c. BCE) | 256 | 255 | 50% (46%-54%) |
+| Rabbinic Hebrew c. 200-250 CE (Pirqe Avot, Mekhilta Shirata) | 29 | 24 | 45% (33%-59%) |
 | DANIEL Hebrew (1:1-2:4a, 8-12) | 2 | 42 | 95% (85%-99%) |
 | Daniel ch.1 | 0 | 4 | 100% (51%-100%) |
 | Daniel ch.8 | 1 | 10 | 91% (62%-98%) |
@@ -126,6 +134,7 @@ Share of the LATER variant where a writer chose between two equivalents.
 
 | corpus | earlier | later | share later (95% CI) |
 |---|---|---|---|
+| Epigraphic Hebrew c. 700-587 BCE (Arad, Lachish, Siloam, ...) | 10 | 0 | 0% (0%-28%) |
 | Classical prose (Gen-Kings) | 3473 | 7 | 0% (0%-0%) |
 | 6th c.: Ezekiel | 341 | 0 | 0% (0%-1%) |
 | 6th c.: Jeremiah | 460 | 0 | 0% (0%-1%) |
@@ -135,6 +144,7 @@ Share of the LATER variant where a writer chose between two equivalents.
 | LBH: Esther | 99 | 0 | 0% (0%-4%) |
 | Qohelet | 89 | 68 | 43% (36%-51%) |
 | Qumran non-biblical Hebrew (2nd-1st c. BCE) | 2672 | 166 | 6% (5%-7%) |
+| Rabbinic Hebrew c. 200-250 CE (Pirqe Avot, Mekhilta Shirata) | 5 | 769 | 99% (98%-100%) |
 | DANIEL Hebrew (1:1-2:4a, 8-12) | 47 | 0 | 0% (0%-8%) |
 | Daniel ch.1 | 12 | 0 | 0% (0%-24%) |
 | Daniel ch.8 | 6 | 0 | 0% (0%-39%) |

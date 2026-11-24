@@ -78,7 +78,7 @@ svg .m-c6 { fill: var(--s-blue); stroke: var(--surface); stroke-width: 1.5 }
 svg .m-cla { fill: var(--muted); stroke: var(--surface); stroke-width: 1.5; opacity: .8 }
 svg .m-anchor { fill: var(--s-blue); stroke: var(--surface); stroke-width: 1.5 }
 svg .truth { stroke: var(--fg2); stroke-width: 2 }
-svg .ci { stroke: var(--s-orange); stroke-width: 2.5; opacity: .55; stroke-linecap: round }
+svg .ci { stroke: var(--s-orange); stroke-width: 2.5; opacity: .55; stroke-linecap: round } svg .ci.blue { stroke: var(--s-blue) } svg .band { fill: var(--s-blue); opacity: .14 }
 svg [data-tip] { cursor: default }
 svg [data-tip]:hover { stroke: var(--fg); stroke-width: 2 }
 .tip { position: fixed; z-index: 20; pointer-events: none; max-width: 300px; background: var(--fg); color: var(--bg); font-family: var(--f-head); font-size: 13px; line-height: 1.35; padding: 7px 10px; border-radius: 6px; box-shadow: 0 4px 14px rgba(0,0,0,.18) }
@@ -132,7 +132,7 @@ a { color: var(--accent) }
   <div class="figs">
     {{imp_fig}}
     <div class="fig"><b>4%</b><span>probability that Daniel's Hebrew belongs with the 6th-century texts (period classifier)</span></div>
-    <div class="fig"><b>43% vs 16%</b><span>later Aramaic forms in the vision of ch. 7 vs the stories of chs. 2–6 (p = 0.006)</span></div>
+    <div class="fig"><b>3% vs 4%</b><span>newer causative prefix in Daniel vs the 5th-century papyri: here Daniel is as old-fashioned as they are</span></div>
     <div class="fig"><b>0</b><span>uses of <i>symphōnia</i> for an instrument in Greek before the 2nd century BCE: literature, papyri, inscriptions</span></div>
   </div>
 </div>
@@ -171,11 +171,12 @@ a { color: var(--accent) }
   {{imp_table}}
   <div class="col">
   {{imp_para}}
-  <p>On four of the six features Daniel's Aramaic is later than Ezra's. Daniel always writes "their" as <span class="mono">-hwn</span> (36 of 36), while Ezra still uses the older <span class="mono">-hm</span> 42% of the time. On the causative prefix, Daniel is as conservative as Ezra. Against the literary Aramaic of Qumran, Daniel looks older on every feature. Its word order also has more object-before-verb clauses than Ezra (58% against 36%), a trait of eastern chancery Aramaic.</p>
-  <h3>Two layers inside Daniel's Aramaic</h3>
-  <p>The four features of grammar where Aramaic changed over time (the pronoun "they," the demonstrative "these," and the causative and reflexive verb prefixes) were counted chapter by chapter. The court stories of chapters 2–6 use the later forms 16% of the time (26 of 167), statistically indistinguishable from Ezra's 11% (p = 0.51). The vision of chapter 7 uses them 43% of the time (9 of 21). The difference from chapters 2–6 is unlikely to be chance (Fisher's exact test, p = 0.006). The vision is linguistically later than the stories it follows.</p>
-  <p><strong>Was the text modernised by later scribes?</strong> This can be tested directly, because Qumran preserves copies of Daniel from the late 2nd century BCE onward. They agree with the Masoretic text on these features, and where they differ they are slightly more modern (24% vs 15% for the newer causative prefix, 43% vs 25% for the newer reflexive prefix). Copying pushed forms forward, not back, so the Masoretic Daniel is if anything the older form of the text.</p>
-  <p>Typologically, then, Daniel's Aramaic sits between Persian-era Ezra and Hellenistic Qumran. That fits stories composed in the late Persian or early Hellenistic period. It also fits a 2nd-century writer of chapter 7 working in an established literary register. It does not fit a 6th-century author, whose Aramaic should look at least as old as Ezra's documents.</p>
+  <p><strong>Grammar.</strong> On the four grammatical features that changed ("their," "your" plural, "they," "these"), the 5th-century papyri use the old form in all 268 cases. Ezra uses the later form in 17 of 47 cases, Daniel in 53 of 66, and Qumran Aramaic in 832 of 848. Daniel writes "their" only as <span class="mono">-hwn</span> (36 of 36); in the papyri it is <span class="mono">-hm</span> or <span class="mono">-hwm</span> 97 times out of 97.</p>
+  <p><strong>The causative prefix goes the other way.</strong> Counting only the verb forms in which the prefix is always written, Daniel has the old <span class="mono">h-</span> in 93 of 96 cases, the same proportion as the papyri (185 of 193) and Ezra (20 of 21). The literary Aramaic of Qumran has switched to <span class="mono">ʾ-</span> (235 of 298). On this feature Daniel looks Persian-era. Formal inscriptions from Mt Gerizim (3rd–2nd century BCE) also keep <span class="mono">h-</span> (24 of 24), so the old prefix survived in formal writing into the Hellenistic period.</p>
+  <p><strong>Spelling.</strong> Daniel always uses the later spellings with <span class="mono">d</span> for older <span class="mono">z</span> (<span class="mono">dy</span> "which," <span class="mono">dnh</span> "this") and <span class="mono">ʿ</span> for older <span class="mono">q</span> (<span class="mono">ʾrʿ</span> "earth"), as do Ezra and Qumran. The papyri keep the old spellings about 98% of the time. Copyists can update spelling, so this counts for less than grammar.</p>
+  <p><strong>Not a time marker.</strong> The reflexive prefix (<span class="mono">ht-</span> vs <span class="mono">ʾt-</span>) cannot date anything. The papyri already write <span class="mono">ʾt-</span> (33 of 34), while Daniel and Ezra prefer <span class="mono">ht-</span>, a convention of Biblical Aramaic. An earlier version of this report used it, together with a looser count of the causative prefix, to argue that chapter 7 is later than chapters 2–6. With valid features the difference disappears (2 of 11 later forms vs 9 of 106, p = 0.28), so that claim is withdrawn.</p>
+  <p><strong>Was the text modernised by later scribes?</strong> Qumran copies of Daniel from the late 2nd century BCE onward have the same later forms as the Masoretic text, in about the same proportions. There is one exception: 4QDan<sup>a</sup> writes "from them" with the older <span class="mono">-hm</span> twice (2:41–42), where the Masoretic text has <span class="mono">-hwn</span>. Some standardisation happened in copying, but the later forms were already dominant in the earliest surviving copies.</p>
+  <p>Taken together, Daniel's Aramaic grammar is later than the Persian-era papyri and later than Ezra's documents. Its causative prefix is still old-fashioned, unlike Qumran's literary Aramaic. That combination fits composition in the late Persian or early Hellenistic period, or a later writer using a conservative literary standard. It does not fit a 6th-century author, whose Aramaic should be at least as old as the 5th-century papyri on every feature.</p>
   </div>
 </section>
 <section id="hebrew">
@@ -187,20 +188,21 @@ a { color: var(--accent) }
   </div>
   <div class="chartbox">
     {{hebmodel}}
-    <div class="legend"><span><i class="lg" style="background:var(--s-blue);border-radius:50%"></i>comparison text, model estimate</span><span><i class="lg" style="border-left:2px solid var(--fg2);width:2px"></i>its conventional date</span><span><i class="lg" style="background:var(--s-orange);border-radius:50%"></i>Daniel, with 90% bootstrap range</span></div>
+    <div class="legend"><span><i class="lg" style="background:var(--s-blue);border-radius:50%"></i>comparison text, model estimate</span><span><i class="lg" style="border-left:2px solid var(--fg2);width:2px"></i>its conventional date</span><span><i class="lg" style="background:var(--s-orange);border-radius:50%"></i>Daniel, with 90% bootstrap range</span><span><i class="lg" style="background:var(--s-blue);opacity:.25"></i>archaeological date of the blind-test inscriptions</span></div>
   </div>
   <p class="caption">Estimates are calibrated against the comparison texts' out-of-sample predictions. Hover for values.</p>
   <div class="col">
   <p>Daniel's Hebrew as a whole comes out at about 300 BCE. Its nearest neighbours are Nehemiah, Ezra, Chronicles and the Qumran Hodayot. The period classifier gives it a 4% probability of belonging with the 6th-century texts. Chapters 8 and 10, which are vision reports in the style of Ezekiel and Zechariah, lean earlier. Chapters 11–12 lean later. The single-text error is wide, so language alone cannot tell the 4th century from the 2nd. It does set Daniel apart from its supposed contemporaries.</p>
-  <h3>Three choices that separate the 6th century from later writers</h3>
+  <p><strong>Two more checks of the model.</strong> The Hebrew inscriptions from Lachish, Arad, Siloam, Mesad Hashavyahu and Ketef Hinnom, dated by archaeology to about 700–587 BCE, were never used in training. Scored blind, they came out at about 600 BCE, closest to Samuel, Hosea and Haggai. The Community Rule, War Scroll and Hodayot are each annotated in two different databases, and each copy was matched to its own counterpart as nearest neighbour. Adding Mishnaic Hebrew (Pirqe Avot, Mekhilta, c. 200–250 CE) as a later anchor leaves Daniel where it was, at about 340 BCE.</p>
+  <h3>Word choices that changed over time</h3>
   <p>The clearest evidence is in places where a writer had to choose between two equivalent forms. Because the measure is a choice, genre matters little.</p>
   </div>
   <div class="chartbox">
     {{hebvars}}
-    <div class="legend"><span><i class="lg" style="background:var(--muted);clip-path:polygon(50% 0,100% 100%,0 100%)"></i>Classical prose</span><span><i class="lg" style="background:var(--s-blue);border-radius:2px"></i>6th century</span><span><i class="lg" style="background:var(--fg2);transform:rotate(45deg) scale(.8)"></i>Persian era</span><span><i class="lg" style="border:2px solid var(--s-aqua);border-radius:50%"></i>Qumran</span><span><i class="lg" style="background:var(--s-orange);border-radius:50%"></i>Daniel</span></div>
+    <div class="legend"><span><i class="lg" style="background:var(--s-blue);border-radius:2px"></i>6th century (Jer, Ezek, Hag, Zech 1–8)</span><span><i class="lg" style="background:var(--fg2);transform:rotate(45deg) scale(.8)"></i>Persian era (Ezra–Neh, Chr, Esth)</span><span><i class="lg" style="border:2px solid var(--s-aqua);border-radius:50%"></i>Qumran Hebrew</span><span><i class="lg" style="background:var(--muted);clip-path:polygon(50% 0,100% 100%,0 100%)"></i>Mishnaic Hebrew</span><span><i class="lg" style="background:var(--s-orange);border-radius:50%"></i>Daniel</span></div>
   </div>
   <div class="col">
-  <p>For "kingdom," Daniel always uses <span class="heb">מלכות</span> (16 of 16), where the 6th-century prophets almost always use <span class="heb">ממלכה</span>. In the long form of "and I did…" (<span class="heb">ואתפללה</span>), Daniel writes it 56% of the time, against 3% in the 6th-century texts and 50% in Ezra–Nehemiah. For object pronouns, Daniel attaches them to the verb in every case (19 of 19). On all three, Daniel sits with the Persian-era books and Qumran.</p>
+  <p>For "kingdom," Daniel always uses <span class="heb">מלכות</span> (16 of 16), as Esther and Mishnaic Hebrew do. The 6th-century prophets almost always use <span class="heb">ממלכה</span>. Daniel writes the long form of "and I did…" (<span class="heb">ואתפללה</span>) 56% of the time, against 3% in the 6th-century texts, 50% in Ezra–Nehemiah and 57% at Qumran. Daniel never uses the Mishnaic relative <span class="heb">ש</span> (0 of 47; Mishnaic Hebrew 99%), so its Hebrew is late literary Hebrew, not the Hebrew of the rabbis. An earlier version also counted object pronouns attached to the verb as a late trait. The pre-exilic Hebrew letters prefer them too (14 of 17), so that difference reflects register, not date, and it is no longer used.</p>
   </div>
 </section>
 <section id="words">
@@ -312,7 +314,7 @@ a { color: var(--accent) }
   <span class="sec-num">9 · Conclusion</span>
   <h2>Verdict and confidence</h2>
   <div class="two">
-    <div class="card"><h3>From the language alone</h3><p>Not 6th-century. The Aramaic is later than the Persian-era papyri and Ezra; the Hebrew groups with Ezra, Nehemiah, Chronicles and Esther; Persian administrative vocabulary runs through the book; a Greek instrument name is attested in that sense only from the 2nd century BCE. The stories (chs. 2–6) fit the late Persian or early Hellenistic period, and the vision of chapter 7 is later than they are. Language cannot fix a decade: the Hebrew model's error is about ±120 years. <strong>Confidence that the book is later than the 6th century: high.</strong></p></div>
+    <div class="card"><h3>From the language alone</h3><p>Not 6th-century. The Aramaic grammar is later than the 5th-century papyri and Ezra on four features, though its causative prefix is still old-fashioned. The Hebrew groups with Ezra, Nehemiah, Chronicles and Esther, and the same model dates the pre-exilic inscriptions correctly. Persian administrative vocabulary runs through the book, and a Greek instrument name is attested in that sense only from the 2nd century BCE. Language cannot fix a decade: the Hebrew model's error is about ±120 years. <strong>Confidence that the book is later than the 6th century: high.</strong></p></div>
     <div class="card"><h3>Adding the information check</h3><p>The predictions of chapters 8 and 11 are exact up to 166 BCE and wrong after 165 BCE, and the day counts outrun the real events. This narrows the visions to 167–164 BCE, before the Temple's rededication and Antiochus IV's death in late 164. The court stories keep some older Babylonian memories (Belshazzar, Nabonidus at Teima). <strong>Confidence in 167–164 BCE for chs. 8–12: high; in a 4th–3rd century date for chs. 2–6: moderate.</strong></p></div>
   <div class="col">
   <h3>What would change this</h3>

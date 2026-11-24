@@ -1,0 +1,16 @@
+# doc	keep	reason (auto-detected 3-gram containment, then checked by hand)
+308239	0	Ahiqar sheet A: text contained in full Ahiqar text record 306611
+308240	0	Ahiqar sheet B: contained in 306611
+308241	0	Ahiqar sheet C: contained in 306611
+308221	0	same fragments (P.13445B/4 ...) as 306552
+308258	0	same papyrus (P.13444-4) as 306439
+306455	0	same fragment (P.13445B/16) as 308262
+100282	1	TAD A4.7 is a separate manuscript (draft) beside A4.8 (308133): both kept, parallel text
+306422	1	formulaic overlap only (contract clauses)
+306459	1	formulaic overlap only (name lists)
+306501	1	formulaic overlap only (name lists)
+308119	1	formulaic overlap only (marriage formula)
+308226	1	formulaic overlap only (greeting formula)
+312971	1	formulaic overlap only (letter greeting)
+313066	1	formulaic overlap only
+308143	0	identical text to 100464 (TAD A4.4 entered twice, Cairo vs Berlin number)

@@ -22,3 +22,10 @@ def load_dss(features=None):
                          "type morpho lex_etcbc sp_etcbc vs_etcbc vt_etcbc lang_etcbc g_cons g_pfm_etcbc g_prs_etcbc g_vbs_etcbc g_vbe_etcbc g_nme_etcbc unc rec cor alt vac")
     api = TF.load(feats, silent="deep")
     return api
+
+def load_extra(features=None):
+    """ETCBC extrabiblical 0.2: Hebrew inscriptions (Arad, Lachish, Siloam, ...), 1QS/1QM/1QH and
+    Rabbinic texts (Pirqe Avot, Mekhilta Shirata), encoded with the same scheme as the BHSA."""
+    TF = Fabric(locations=f"{BASE}/extrabiblical/tf/0.2", silent="deep")
+    feats = features or "book chapter verse lex sp vt vs ps nu gn prs vbe uvf language g_cons_utf8 g_suffix function"
+    return TF.load(feats, silent="deep")
