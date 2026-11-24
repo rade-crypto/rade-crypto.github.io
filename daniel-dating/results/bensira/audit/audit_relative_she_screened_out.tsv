@@ -1,0 +1,427 @@
+idx	witness	verse	form	split	remainder_freq	decision	context
+14	A	3:9	שרש	|ש|רש	2	rejected: lexical ש-initial word (not še-)	ברכות ברכת אב תיסד <<שרש>> וקללת אם תנתש נטע
+177	A	3:29	משלי	מ|ש|לי	13	rejected: lexical ש-initial word (not še-)	נטעו לב חכם יבין <<משלי>> חכמים ואזן מקשבת לחכמה
+198	A	3:31	משען	מ|ש|ען	1	rejected: lexical ש-initial word (not še-)	בדרכיו ובעת מוטו ימצא <<משען>> בני אל תלעג לחיי
+233	A	4:4	שאולות	|ש|אולות	0	rejected: lexical ש-initial word (not še-)	מתן ממסכינך ולא תבזה <<שאולות>> דל ולא תתן לו
+260	A	4:8	שלום	|ש|לום	0	rejected: lexical ש-initial word (not še-)	הט לעני אזנך והשיבהו <<שלום>> בענוה הושע מוצק ממציקיו
+349	A	4:20	שמר	|ש|מר	2	rejected: lexical ש-initial word (not še-)	לשדדים בני עת המון <<שמר>> ופחד מרע ואל נפשך
+358	A	4:21	בשאת	ב|ש|את	46	rejected: lexical ש-initial word (not še-)	אל תבוש כי יש <<בשאת>> משאת עון ויש בשת
+359	A	4:21	משאת	מ|ש|את	46	rejected: lexical ש-initial word (not še-)	תבוש כי יש בשאת <<משאת>> עון ויש בשת כבוד
+397	A	4:26	לשוב	ל|ש|וב	1	rejected: lexical ש-initial word (not še-)	אלהים היכנע אל תבוש <<לשוב>> מעון ואל תעמוד לפני
+402	A	4:26	שבלת	|ש|בלת	0	rejected: lexical ש-initial word (not še-)	מעון ואל תעמוד לפני <<שבלת>> אל תצע לנבל נפשך
+432	A	4:28	שתים	|ש|תים	0	rejected: lexical ש-initial word (not še-)	לך אל תקרא בעל <<שתים>> ואל לשונך אל תרגל
+536	A	5:7	לשוב	ל|ש|וב	1	rejected: lexical ש-initial word (not še-)	ינוח רגזו אל תאחר <<לשוב>> אליו ואל תתעבר מיום
+567	A	5:9	שבולת	|ש|בולת	0	rejected: lexical ש-initial word (not še-)	לכל רוח ופונה דרך <<שבולת>> היה סמוך על דעתך
+602	A	5:14	שתים	|ש|תים	0	rejected: lexical ש-initial word (not še-)	מפלתו אל תקרא בעל <<שתים>> ובלשונך אל תרגל רע
+615	A	5:14	שתים	|ש|תים	0	rejected: lexical ש-initial word (not še-)	בשת חרפה רעהו בעל <<שתים>> מעט והרבה אל תשחת
+634	A	6:1	שתים	|ש|תים	0	rejected: lexical ש-initial word (not še-)	כן איש רע בעל <<שתים>> אל תפול ביד נפשך
+654	A	6:4	ושמחת	ו|ש|מחת	0	rejected: lexical ש-initial word (not še-)	נפש עזה תשחת בעליה <<ושמחת>> שונא תשיגם חיך ערב
+664	A	6:5	שלום	|ש|לום	0	rejected: lexical ש-initial word (not še-)	אוהב ושפתי חן שואלו <<שלום>> אנשי שלומך יהיו רבים
+666	A	6:6	שלומך	|ש|לומך	0	rejected: lexical ש-initial word (not še-)	חן שואלו שלום אנשי <<שלומך>> יהיו רבים ובעל סודך
+693	A	6:9	לשנא	ל|ש|נא	6	rejected: lexical ש-initial word (not še-)	צרה יש אוהב נהפך <<לשנא>> ואת ריב חרפתך יחשוף
+701	A	6:10	שלחן	|ש|לחן	0	rejected: lexical ש-initial word (not še-)	יחשוף יש אוהב חבר <<שלחן>> ולא ימצא ביום רעה
+719	A	6:13	משנאיך	מ|ש|נאיך	0	rejected: lexical ש-initial word (not še-)	יהפך בך ומפניך יסתר <<משנאיך>> הבדל מאהביך השמר אוהב
+735	A	6:15	משקל	מ|ש|קל	2	rejected: lexical ש-initial word (not še-)	אמונה אין מחיר ואין <<משקל>> לטובתו צרור חיים אוהב
+748	A	6:17	וכשמו	וכ|ש|מו	2	rejected: lexical ש-initial word (not še-)	כי כמוהו כן רעהו <<וכשמו>> כן מעשיו כחורש וכקוצר
+781	A	6:22	כשמה	כ|ש|מה	44	rejected: lexical ש-initial word (not še-)	יאחר להשליכה כי המוסר <<כשמה>> כן הוא ולא לרבים
+807	A	6:25	שכמך	|ש|כמך	0	rejected: lexical ש-initial word (not še-)	על יצר אחד הט <<שכמך>> ושאה ואל תקץ בתחבולתיה
+808	A	6:25	ושאה	ו|ש|אה	0	rejected: lexical ש-initial word (not še-)	יצר אחד הט שכמך <<ושאה>> ואל תקץ בתחבולתיה דרש
+856	A	6:33	לשמע	ל|ש|מע	1	rejected: lexical ש-initial word (not še-)	לבך תערם אם תובא <<לשמע>> והט אזנך תוסר כל
+861	A	6:35	שיחה	|ש|יחה	0	rejected: lexical ש-initial word (not še-)	והט אזנך תוסר כל <<שיחה>> חפוץ לשמע ומשל בינה
+863	A	6:35	לשמע	ל|ש|מע	1	rejected: lexical ש-initial word (not še-)	תוסר כל שיחה חפוץ <<לשמע>> ומשל בינה אל יצאך
+905	A	7:3	שבעתים	|ש|בעתים	0	rejected: lexical ש-initial word (not še-)	על אח פן תקצרהו <<שבעתים>> אל תבקש מאל ממשלת
+949	A	7:8	לשנות	ל|ש|נות	0	rejected: lexical ש-initial word (not še-)	תפילך בקהלה אל תקשור <<לשנות>> חט כי באחת לא
+1042	A	7:19	משכלת	מ|ש|כלת	0	rejected: lexical ש-initial word (not še-)	אופיר אל תמאס אשה <<משכלת>> וטובת חן מפנינים אל
+1056	A	7:21	משכיל	מ|ש|כיל	0	rejected: lexical ש-initial word (not še-)	שוכך נותן נפשו עבד <<משכיל>> חבב כנפש {[א]ל} תמנע
+1082	A	7:24	שארם	|ש|ארם	0	rejected: lexical ש-initial word (not še-)	בנעוריהם בנות לך נצור <<שארם>> ואל תאיר אלהם פנים
+1099	A	7:26	ושנואה	ו|ש|נואה	0	rejected: lexical ש-initial word (not še-)	אשה לך אל תתעבה <<ושנואה>> אל תאמן בה בכל
+1250	A	8:8	שיחת	|ש|יחת	0	rejected: lexical ש-initial word (not še-)	כלנו נאספים אל תטש <<שיחת>> חכמים ובחידתיהם התרטש כי
+1263	A	8:9	בשמיעת	ב|ש|מיעת	0	rejected: lexical ש-initial word (not še-)	לפני שרים אל תמאס <<בשמיעת>> שבים אשר שמעו מאבתם
+1264	A	8:9	שבים	|ש|בים	0	rejected: lexical ש-initial word (not še-)	שרים אל תמאס בשמיעת <<שבים>> אשר שמעו מאבתם כי
+1266	A	8:9	שמעו	|ש|מעו	0	rejected: lexical ש-initial word (not še-)	תמאס בשמיעת שבים אשר <<שמעו>> מאבתם כי ממנו תקח
+1271	A	8:9	שכל	|ש|כל	131	rejected: lexical ש-initial word (not še-)	מאבתם כי ממנו תקח <<שכל>> בעת {צ[ר][ך]} להשיב פתגם
+1282	A	8:10	בשביב	ב|ש|ביב	0	rejected: lexical ש-initial word (not še-)	בנחלת רשע פן תבער <<בשביב>> אשו אל תזוח מפני
+1457	A	9:9	שכור	|ש|כור	2	rejected: lexical ש-initial word (not še-)	תטעם וא[ל] תסב עמו <<שכור>> פן תטה [ע]ליה לב
+1573	A	10:3	בשכל	ב|ש|כל	131	rejected: lexical ש-initial word (not še-)	ישחית עיר ועיר נושבת <<בשכל>> שריה כשופט עם כן
+1610	A	10:7	שנואה	|ש|נואה	0	rejected: lexical ש-initial word (not še-)	ואל תהלך בדרך גאוה <<שנואה>> לאדון ואנשים גאוה ומשניהם
+1614	A	10:7	ומשניהם	ומ|ש|ניהם	0	rejected: lexical ש-initial word (not še-)	שנואה לאדון ואנשים גאוה <<ומשניהם>> מעל עשק מלכות מגוי
+1633	A	10:10	שמץ	|ש|מץ	0	rejected: lexical ש-initial word (not še-)	אשר בחייו יורם גויו <<שמץ>> מחלה יצהיב רופא מלך
+1743	A	10:25	משכיל	מ|ש|כיל	0	rejected: lexical ש-initial word (not še-)	גדול מ[י]רא אלהים עבד <<משכיל>> הורם ועבד {ס} לא
+1785	A	10:30	שכלו	|ש|כלו	2	rejected: lexical ש-initial word (not še-)	יש דל נכבד בגלל <<שכלו>> ויש נכבד בגלל עשרו
+1878	A	11:8	שיחה	|ש|יחה	0	rejected: lexical ש-initial word (not še-)	דבר טרם תשמע ובתוך <<שיחה>> אל תדבר באין עצבה
+1946	A	11:15	ושכל	ו|ש|כל	131	rejected: lexical ש-initial word (not še-)	ועושר מייי הוא [ח]כמה <<ושכל>> והבין דבר מייי הוא
+1956	A	11:16	שכלות	|ש|כלות	0	rejected: lexical ש-initial word (not še-)	ודרכים ישרים מייי הוא <<שכלות>> וחושך לפשעים נוצרה ומרעים
+1975	A	11:18	שכרו	|ש|כרו	0	rejected: lexical ש-initial word (not še-)	מתעשר מהתענות {[ו][י][ש]} יח[י]ב <<שכרו>> ובעת {[א][מ][ר]} מצאתי נחת
+2110	A	11:30	ומשים	ומ|ש|ים	3	rejected: lexical ש-initial word (not še-)	וחומס כן בוצע בא <<ומשים>> ריב לכל ט[ו]בתם אורב
+2160	A	11:34	משוכן	מ|ש|וכן	12	rejected: lexical ש-initial word (not še-)	תטיב ויהי תקוה לטובתך <<משוכן>> זריו זהיר דרכיך
+2183	A	12:5	שנים	|ש|נים	0	rejected: lexical ש-initial word (not še-)	צדקה לא עשה פי <<שנים>> רעה תשיג בעת צורך
+2426	A	13:6	ושוחק	ו|ש|וחק	1	rejected: lexical ש-initial word (not še-)	לו עמך והשיע לך <<ושוחק>> לך והבטיחך
+2435	A	13:7	שלש	|ש|לש	0	rejected: lexical ש-initial word (not še-)	יועיל יהתל בך פעמים <<שלש>> יעריצך ובכן יראך והתעבר
+2474	A	13:11	שיחו	|ש|יחו	0	rejected: lexical ש-initial word (not še-)	עמו ואל תאמן לרב <<שיחו>> כי מהרבות שיחו נסיון
+2477	A	13:11	שיחו	|ש|יחו	0	rejected: lexical ש-initial word (not še-)	לרב שיחו כי מהרבות <<שיחו>> נסיון ושחק לך וחקרך
+2479	A	13:11	ושחק	ו|ש|חק	6	rejected: lexical ש-initial word (not še-)	כי מהרבות שיחו נסיון <<ושחק>> לך וחקרך אכזרי יתן
+2531	A	13:18	שלום	|ש|לום	0	rejected: lexical ש-initial word (not še-)	אל איש נאצל מאיש <<שלום>> צבוע אל כלב מאין
+2536	A	13:18	שלום	|ש|לום	0	rejected: lexical ש-initial word (not še-)	צבוע אל כלב מאין <<שלום>> עשיר אל רש מאכל
+2577	A	13:22	משכיל	מ|ש|כיל	0	rejected: lexical ש-initial word (not še-)	גע גע ושא ודבר <<משכיל>> ואין לו מקום עשיר
+2586	A	13:23	שכלו	|ש|כלו	2	rejected: lexical ש-initial word (not še-)	דובר הכל נסכתו ואת <<שכלו>> עד עב יגיעו דל
+2623	A	13:26	ושיג	ו|ש|יג	0	rejected: lexical ש-initial word (not še-)	לב טוב פנים אורים <<ושיג>> ישיח מחשבת עמל אשרי
+2643	A	14:2	שבתה	|ש|בתה	0	rejected: lexical ש-initial word (not še-)	לא חסרתו נפשו ולא <<שבתה>> תוחלתו ללב קטן לא
+2696	A	14:10	שלחנו	|ש|לחנו	0	rejected: lexical ש-initial word (not še-)	על לחם ומהומה על <<שלחנו>> עין טובה מרבה הלחם
+2724	A	14:12	בשאול	ב|ש|אול	0	rejected: lexical ש-initial word (not še-)	הדשן זכור כי לא <<בשאול>> תענוג ולא מות יתמהמה
+2730	A	14:12	לשאול	ל|ש|אול	0	rejected: lexical ש-initial word (not še-)	ולא מות יתמהמה וחוק <<לשאול>> לא הגד לך בטרם
+2768	A	14:16	בשאול	ב|ש|אול	0	rejected: lexical ש-initial word (not še-)	ופניק נפשך כי אין <<בשאול>> לבקש תענוג וכל דבר
+2845	A	14:25	ושכן	ו|ש|כן	48	rejected: lexical ש-initial word (not še-)	ונוטה אהלו על ידה <<ושכן>> שכן טוב וישים קנו
+2846	A	14:25	שכן	|ש|כן	48	rejected: lexical ש-initial word (not še-)	אהלו על ידה ושכן <<שכן>> טוב וישים קנו בעופיה
+2873	A	15:3	שכל	|ש|כל	131	rejected: lexical ש-initial word (not še-)	נעורים תקבלנו והאכילתהו לחם <<שכל>> ומי תבונה תשקנו ונשען
+2892	A	15:6	ושמחה	ו|ש|מחה	0	rejected: lexical ש-initial word (not še-)	קהל תפתח פיו ששון <<ושמחה>> ימצא ושם עולם תורישנו
+2900	A	15:7	שוא	|ש|וא	1	rejected: lexical ש-initial word (not še-)	תורישנו לא ידריכוה מתי <<שוא>> ואנשי זדון לא יראוה
+2936	A	15:11	שנא	|ש|נא	6	rejected: lexical ש-initial word (not še-)	פשעי כי את אשר <<שנא>> לא עשה פן תאמר
+2950	A	15:13	שנא	|ש|נא	6	rejected: lexical ש-initial word (not še-)	באנשי חמס רעה ותעבה <<שנא>> ייי ולא יאננה ליראיו
+2984	A	15:16	שלח	|ש|לח	0	rejected: lexical ש-initial word (not še-)	אש ומים באשר תחפץ <<שלח>> ידיך לפני אדם חיים
+3022	A	15:20	שוא	|ש|וא	1	rejected: lexical ש-initial word (not še-)	ולא מרחם על עושה <<שוא>> ועל מגלה סוד אל
+3030	A	16:1	שוא	|ש|וא	1	rejected: lexical ש-initial word (not še-)	אל תתאוה תואר נערי <<שוא>> ואל תשמח בבני עולה
+3088	A	16:5	שמעה	|ש|מעה	0	rejected: lexical ש-initial word (not še-)	ראתה עיני ועצמות כאלה <<שמעה>> אזני בעדת רשעים יוקדת
+3169	A	16:14	שכר	|ש|כר	1	rejected: lexical ש-initial word (not še-)	העושה צדקה יש לו <<שכר>> וכל אדם כמעשיו יצא
+3192	A	16:16	ושבחו	ו|ש|בחו	0	rejected: lexical ש-initial word (not še-)	יראו לכל בריותיו ואורו <<ושבחו>> חלק לבני אדם אל
+3216	A	16:18	ושמי	ו|ש|מי	28	rejected: lexical ש-initial word (not še-)	בני אדם הן השמים <<ושמי>> השמים ותהום וארץ ברדתו
+3272	A	16:24	שמעו	|ש|מעו	0	rejected: lexical ש-initial word (not še-)	וגבור פותה יחשב זאת <<שמעו>> אלי וקחו שכלי ועל
+3275	A	16:24	שכלי	|ש|כלי	6	rejected: lexical ש-initial word (not še-)	זאת שמעו אלי וקחו <<שכלי>> ועל דברי שימו לב
+3278	A	16:24	שימו	|ש|ימו	0	rejected: lexical ש-initial word (not še-)	וקחו שכלי ועל דברי <<שימו>> לב אביעה במשקל רוחי
+3320	B	10:23	משכיל	מ|ש|כיל	0	rejected: lexical ש-initial word (not še-)	ייי אין לבזות דל <<משכיל>> ואין לכבד כל איש
+3333	B	10:25	משכיל	מ|ש|כיל	0	rejected: lexical ש-initial word (not še-)	נכבדו {וא[י][ן]} {°°} עבד <<משכיל>> חביב כנפש {°} עבד
+3338	B	10:25	משכיל	מ|ש|כיל	0	rejected: lexical ש-initial word (not še-)	חביב כנפש {°} עבד <<משכיל>> חביב כנפש {°°} עבד
+3343	B	10:25	משכיל	מ|ש|כיל	0	rejected: lexical ש-initial word (not še-)	חביב כנפש {°°} עבד <<משכיל>> חורים יעבדוהו {וג[ב][ר]} עבד
+3348	B	10:25	משכיל	מ|ש|כיל	0	rejected: lexical ש-initial word (not še-)	חורים יעבדוהו {וג[ב][ר]} עבד <<משכיל>> חביב כנפש וגבר {מ}
+3386	B	10:30	שכלו	|ש|כלו	2	rejected: lexical ש-initial word (not še-)	{[נ][פ][ש][ו]} דל נכבד בגלל <<שכלו>> ויש איש עשיר נכבד
+3499	B	11:6	שאול	|ש|אול	0	rejected: lexical ש-initial word (not še-)	נתנו ביד <<[ש]אול>> ובקהל טעם שפוט {[ב][נ][י]}
+3507	B	11:8	שיחה	|ש|יחה	0	rejected: lexical ש-initial word (not še-)	{[ב][נ][י]} אל תשיב ובתוך <<שיחה>> אל תדבר {[ב][ט][ר][ם]} {[ת][ח]קו[ר]}
+3525	B	11:8	שיחה	|ש|יחה	0	rejected: lexical ש-initial word (not še-)	דבר בטרם תשמע ובתוך <<שיחה>> אל תדבר באין עצה
+3579	B	15:3	שכל	|ש|כל	131	rejected: lexical ש-initial word (not še-)	נעורים תקבלנו והאכילתהו לחם <<שכל>> ומי תבונה תשקנו
+3601	B	15:6	ושמחה	ו|ש|מחה	0	rejected: lexical ש-initial word (not še-)	{ק[ה][ל]} {[ת][פ][ת][ח]} {[פ][י][ו]} ששון <<ושמחה>> תמצא וש[ם] {[ע][ו][ל][ם]}
+3610	B	15:7	שוא	|ש|וא	1	rejected: lexical ש-initial word (not še-)	{[ת][ו][ר][י][ש][נ][ו]} לא ידריכוה מתי <<שוא>> ואנש[י] {[ז][ד][ו][ן]} {[ל][א]} {[י][ר][א][ו][ה]}
+3646	B	15:11	שנא	|ש|נא	6	rejected: lexical ש-initial word (not še-)	פשעי כי כל אשר <<שנא>> אמר לך אל תאמר
+3656	B	15:11	שנא	|ש|נא	6	rejected: lexical ש-initial word (not še-)	פעלתי כי את אשר <<שנא>> לא אעש[ה] תאמר היא
+3671	B	15:13	שנא	|ש|נא	6	rejected: lexical ש-initial word (not še-)	באנשי חמס ותועבה <<שנא>> אלהים ולא יאננה ל[י][ר]איו
+3761	B	15:20	שוא	|ש|וא	1	rejected: lexical ש-initial word (not še-)	ולא מרחם על עושה <<שוא>> ועל מגלה סוד {[א][ל]}
+3769	B	16:1	שוא	|ש|וא	1	rejected: lexical ש-initial word (not še-)	{[א][ל]} {[ת][ת][א][ו][ה]} {[ת][ו][א][ר]} {[נ][ע][ר][י]} <<שוא>> ואל תשמח על בני
+3843	B	16:5	שמעה	|ש|מעה	0	rejected: lexical ש-initial word (not še-)	{[ר][א][ת][ה]} עינ[י] ועצומות באלה <<שמעה>> אזני בעדת רשעים רשפה
+3916	Bmg	30:15	שאר	|ש|אר	0	rejected: lexical ש-initial word (not še-)	בשר <<שאר>>
+3927	Bmg	30:16	שאר	|ש|אר	0	rejected: lexical ש-initial word (not še-)	<<שאר>>
+3934	Bmg	30:16	שאר	|ש|אר	0	rejected: lexical ש-initial word (not še-)	<<שאר>>
+3938	B	30:17	שוא	|ש|וא	1	rejected: lexical ש-initial word (not še-)	טוב למות מחיי <<שוא>> ונוחת עולם מכאב נאמן
+3950	B	30:17	שאול	|ש|אול	0	rejected: lexical ש-initial word (not še-)	למות מחיים רעים ולירד <<שאול>>
+3954	Bmg	30:17	לשאול	ל|ש|אול	0	rejected: lexical ש-initial word (not še-)	ולוד שא׳ ולרד <<לשאול>>
+4017	B	30:22	שמחת	|ש|מחת	0	rejected: lexical ש-initial word (not še-)	<<שמחת>> לבב הם חיי איש
+4048	B	30:25	שנות	|ש|נות	0	rejected: lexical ש-initial word (not še-)	<<שנות>> לב טוב תחת מטעמים
+4060	B	31:1	שארו	|ש|ארו	0	rejected: lexical ש-initial word (not še-)	שקד עשיר ימחה <<שארו>> דאגת מחיה תפריע נומה
+4189	B	31:10	שלום	|ש|לום	0	rejected: lexical ש-initial word (not še-)	בו והיה לו <<שלום>> והיה לו תפארת
+4197	B	31:10	שלום	|ש|לום	0	rejected: lexical ש-initial word (not še-)	כי ברבות <<שלום>> חייו אהיה לך לתפארת
+4235	B	31:12	שלחן	|ש|לחן	0	rejected: lexical ש-initial word (not še-)	יחדו בני אם על <<שלחן>> איש גדול ישבתה אל
+4383	B	31:20	שנות	|ש|נות	0	rejected: lexical ש-initial word (not še-)	הפוכות עם איש כסיל <<שנות>> חיים על קרב צולל
+4435	B	31:22	שמע	|ש|מע	1	rejected: lexical ש-initial word (not še-)	קוה קוה וינוח לך <<שמע>> בני ואל תבוז לי
+4443	B	31:22	שמע	|ש|מע	1	rejected: lexical ש-initial word (not še-)	לי ובאחרית תשיג אמרי <<שמע>> בני וקח מוסרי ואל
+4458	B	31:23	שפה	|ש|פה	3	rejected: lexical ש-initial word (not še-)	טוב על לחם תברך <<שפה>> עדות טובו נאמנה רע
+4497	B	31:26	שכר	|ש|כר	1	rejected: lexical ש-initial word (not še-)	בוחן מעשה מעשה כן <<שכר>> לריב לצים למי היין
+4514	Bmg	31:27	שית	|ש|ית	1	rejected: lexical ש-initial word (not še-)	באר <<שית>> נוצרו
+4515	B	31:27	לשמחה	ל|ש|מחה	0	rejected: lexical ש-initial word (not še-)	שהוא מראשית <<לשמחה>> נוצר שמחת לב
+4518	B	31:28	שמחת	|ש|מחת	0	rejected: lexical ש-initial word (not še-)	לשמחה נוצר <<שמחת>> לב וששון ועדוי יין
+4591	B	32:2	שכל	|ש|כל	131	rejected: lexical ש-initial word (not še-)	בכבודם ועל מוסר תשא <<שכל>> מלל שב כי
+4598	Bmg	32:3	שבכי	|ש|בכי	1	rejected: lexical ש-initial word (not še-)	סבכי <<שבכי>> הולך לכת
+4601	B	32:3	שכל	|ש|כל	131	rejected: lexical ש-initial word (not še-)	לך והצנע <<שכל>> ואל תמנע שיר
+4605	B	32:3	שיר	|ש|יר	1	rejected: lexical ש-initial word (not še-)	שכל ואל תמנע <<שיר>> במקום היין אל תשפך
+4610	B	32:4	שיח	|ש|יח	0	rejected: lexical ש-initial word (not še-)	במקום היין אל תשפך <<שיח>> ובלא מזמר מה תשפך
+4615	B	32:4	שיח	|ש|יח	0	rejected: lexical ש-initial word (not še-)	ובלא מזמר מה תשפך <<שיח>> ובל עת מה תתחכם
+4624	B	32:5	שיר	|ש|יר	1	rejected: lexical ש-initial word (not še-)	כחותם על כיס זהב <<שיר>> אל על משתה
+4625	Bmg	32:5	שירת	|ש|ירת	0	rejected: lexical ש-initial word (not še-)	<<שירת>>
+4628	B	32:5	משתה	מ|ש|תה	0	rejected: lexical ש-initial word (not še-)	שיר אל על <<משתה>> היין כומז אודם על
+4638	B	32:5	שיר	|ש|יר	1	rejected: lexical ש-initial word (not še-)	זהב משפט <<שיר>> על משתה היין כרביד
+4640	B	32:5	משתה	מ|ש|תה	0	rejected: lexical ש-initial word (not še-)	זהב משפט שיר על <<משתה>> היין כרביד זהב ובו
+4654	B	32:5	משתה	מ|ש|תה	0	rejected: lexical ש-initial word (not še-)	נאים דברים יפים על <<משתה>> היין מלואות פז
+4674	B	32:7	ושלש	ו|ש|לש	0	rejected: lexical ש-initial word (not še-)	אתה בחזק פעמים <<ושלש>> אם ישאלך
+4719	B	32:11	ושלם	ו|ש|לם	0	rejected: lexical ש-initial word (not še-)	אל תתאחר פטר לביתך <<ושלם>> רצון בעת שלחן אל
+4722	B	32:11	שלחן	|ש|לחן	0	rejected: lexical ש-initial word (not še-)	לביתך ושלם רצון בעת <<שלחן>> אל תרבה דברים ואם
+4733	B	32:12	ושלם	ו|ש|לם	0	rejected: lexical ש-initial word (not še-)	לבך דבר פטר {ל[ב][י][ת]ך} <<ושלם>> רצון ביראת אל ולא
+4821	B	32:18	שחד	|ש|חד	1	rejected: lexical ש-initial word (not še-)	איש חכם לא יקח <<שחד>> זד ולץ לא ישמר
+4831	Bmg	32:18	שכל	|ש|כל	131	rejected: lexical ש-initial word (not še-)	איש חמס לא יקח <<שכל>> זד ולץ לא יקח
+4870	B	32:23	שמור	|ש|מור	0	rejected: lexical ש-initial word (not še-)	ובארחתיך הזהר בכל דרכיך <<שמור>> נפשך כי כל עושה
+4876	B	32:23	שומר	|ש|ומר	1	rejected: lexical ש-initial word (not še-)	כי כל עושה אלה <<שומר>> מצוה בכל
+4882	B	32:23	שמור	|ש|מור	0	rejected: lexical ש-initial word (not še-)	בכל מעשיך <<שמור>> נפשך כי עושה זה
+4887	B	32:23	שומר	|ש|ומר	1	rejected: lexical ש-initial word (not še-)	נפשך כי עושה זה <<שומר>> מצוה נוצר תורה שומר
+4891	B	32:24	שומר	|ש|ומר	1	rejected: lexical ש-initial word (not še-)	שומר מצוה נוצר תורה <<שומר>> נפשו ובוטח בייי לא
+4948	B	35:13	ושבעתים	ו|ש|בעתים	0	rejected: lexical ש-initial word (not še-)	כי אלוה תשלומות הוא <<ושבעתים>> ישיב לך
+4978	B	35:15	משוא	מ|ש|וא	1	rejected: lexical ש-initial word (not še-)	משפט הוא ואין עמו <<משוא>> פנים לא ישא פנים
+4998	B	35:17	שיח	|ש|יח	0	rejected: lexical ש-initial word (not še-)	ואלמנה כי תרבה <<שיח>> הלא דמעה על לחי
+5015	B	35:21	שועת	|ש|ועת	2	rejected: lexical ש-initial word (not še-)	ענן חשתה <<שועת>> דל ענן חל עם
+5064	B	35:23	שבט	|ש|בט	0	rejected: lexical ש-initial word (not še-)	ישיב נקם עד יוריש <<שבט>> זדון ומטה רשע
+5065	Bmg	35:23	שבטי	|ש|בטי	0	rejected: lexical ש-initial word (not še-)	<<שבטי>> רשעים
+5083	B	35:25	ושמחם	ו|ש|מחם	0	rejected: lexical ש-initial word (not še-)	{ע[ד]} {[י][ר][י][ב]} ריב עמו <<ושמחם>> בישועתו {°°°°} {ב}
+5102	B	36:2	ושים	ו|ש|ים	3	rejected: lexical ש-initial word (not še-)	{פ} הושיענו אלהי הכל <<ושים>> פחדך על כל הגוים
+5142	B	36:6	ושנה	ו|ש|נה	0	rejected: lexical ש-initial word (not še-)	אלהים זולתך חדש אות <<ושנה>> מופת
+5146	Bmg	36:6	ושנה	ו|ש|נה	0	rejected: lexical ש-initial word (not še-)	חדש אל <<ושנה>> תמה
+5188	B	36:13	שבטי	|ש|בטי	0	rejected: lexical ש-initial word (not še-)	אין זולתי אסוף כל <<שבטי>> יעקב ויתנחלו כימי קדם
+5197	B	36:17	בשמך	ב|ש|מך	2	rejected: lexical ש-initial word (not še-)	רחם על עם נקרא <<בשמך>> ישראל בכור כיניתה רחם
+5207	B	36:18	שבתיך	|ש|בתיך	0	rejected: lexical ש-initial word (not še-)	קרית קדשך ירושלם מכון <<שבתיך>> מלא ציון את הודך
+5223	B	36:20	בשמך	ב|ש|מך	2	rejected: lexical ש-initial word (not še-)	מעשיך והקם חזון דבר <<בשמך>> תן את פעלת קוויך
+5339	B	36:29	משען	מ|ש|ען	1	rejected: lexical ש-initial word (not še-)	ומבצר ועמוד <<משען>> באין גדיר יבוער כרם
+5417	B	37:4	שלחן	|ש|לחן	0	rejected: lexical ש-initial word (not še-)	מרע אוהב מביט אל <<שלחן>>
+5445	B	37:6	בשללך	ב|ש|ללך	0	rejected: lexical ש-initial word (not še-)	בקרב ואל תעזבהו <<בשללך>>
+5476	B	37:8	שמור	|ש|מור	0	rejected: lexical ש-initial word (not še-)	מיועץ <<שמור>> נפשך ודע לפנים מה
+5538	B	37:11	שוא	|ש|וא	1	rejected: lexical ש-initial word (not še-)	על טוב בשר פועל <<שוא>> על מלאכתו שומר שוא
+5541	B	37:11	שומר	|ש|ומר	1	rejected: lexical ש-initial word (not še-)	פועל שוא על מלאכתו <<שומר>> שוא על מוציא רע
+5542	B	37:11	שוא	|ש|וא	1	rejected: lexical ש-initial word (not še-)	שוא על מלאכתו שומר <<שוא>> על מוציא רע
+5550	Bmg	37:11	שכיר	|ש|כיר	0	rejected: lexical ש-initial word (not še-)	פועל {שכ[י][ר]} {[ע]ל} מלאכת׳ <<שכיר>> ש[נ]ה מצא זרע אך
+5551	Bmg	37:11	שנה	|ש|נה	0	rejected: lexical ש-initial word (not še-)	{שכ[י][ר]} {[ע]ל} מלאכת׳ שכיר <<ש[נ]ה>> מצא זרע אך אם
+5562	Bmg	37:12	שומר	|ש|ומר	1	rejected: lexical ש-initial word (not še-)	מפחד תמיד אשר תדע <<שומר>> מצוה אשר עם
+5598	Bmg	37:14	משבעה	מ|ש|בעה	0	rejected: lexical ש-initial word (not še-)	אנוש יגיד שעיותיו <<משבעה>> צופים על מצפה
+5602	B	37:14	משבעים	מ|ש|בעים	0	rejected: lexical ש-initial word (not še-)	<<משבעים>> צפים ע׳ שן
+5640	Bmg	37:18	שבטים	|ש|בטים	0	rejected: lexical ש-initial word (not še-)	תחבולות לבב ארבעה <<שבטים>> יפריחו טוב ורעה
+5649	B	37:18	ומשלח	ומ|ש|לח	0	rejected: lexical ש-initial word (not še-)	ורע <<ומשלח>>
+5800	B	38:2	משאות	מ|ש|אות	3	rejected: lexical ש-initial word (not še-)	רופא ומאת מלך ישא <<משאות>> דעת רופא תרים ראשו
+5814	Bmg	38:4	שמים	|ש|מים	9	rejected: lexical ש-initial word (not še-)	ברא <<שמים>>
+5958	B	38:16	שארו	|ש|ארו	0	rejected: lexical ש-initial word (not še-)	קינה כמשפטו אסוף <<שארו>> ואל
+5961	Bmg	38:16	שארם	|ש|ארם	0	rejected: lexical ש-initial word (not še-)	כמשפט א׳ <<שארם>> תתחר
+5973	B	38:17	ושית	ו|ש|ית	1	rejected: lexical ש-initial word (not še-)	והתם מספד <<ושית>> אבלו כיוצא בו יום
+5978	B	38:17	ושנים	ו|ש|נים	0	rejected: lexical ש-initial word (not še-)	אבלו כיוצא בו יום <<ושנים>> בעבור דמעה והנחם בעבור
+6026	B	38:23	ושבת	ו|ש|בת	4	rejected: lexical ש-initial word (not še-)	ולך תריע מושבת מת <<ושבת>> זכרו
+6028	Bmg	38:23	כשבות	כ|ש|בות	0	rejected: lexical ש-initial word (not še-)	<<כשבות>> מת ישבות ז׳
+6055	B	38:25	בשור	ב|ש|ור	1	rejected: lexical ש-initial word (not še-)	באלוף ינהג ישובב לשדד <<בשור>> ושעיותיו עד
+6057	Bmg	38:25	בשיר	ב|ש|יר	1	rejected: lexical ש-initial word (not še-)	וישובב <<בשיר>>
+6074	B	39:15	בשירות	ב|ש|ירות	0	rejected: lexical ש-initial word (not še-)	<<[ב][ש]ירות>> נבל וכלי מיני[ם] וכן
+6272	Bmg	39:35	שפה	|ש|פה	3	rejected: lexical ש-initial word (not še-)	יגבר <<שפה>>
+6295	B	40:1	שובו	|ש|ובו	2	rejected: lexical ש-initial word (not še-)	מרחם אמו עד יום <<שובו>> אל אם כל
+6305	B	40:3	לשוב	ל|ש|וב	1	rejected: lexical ש-initial word (not še-)	מיושב כסא לגבה עד <<לשוב>> עפר ואפר
+6317	B	40:4	שמלת	|ש|מלת	0	rejected: lexical ש-initial word (not še-)	ועד עוטה <<שמלת°>> {°} {°} אך קנאה
+6334	B	40:5	משכבו	מ|ש|כבו	0	rejected: lexical ש-initial word (not še-)	ועת נוחו על <<משכבו>> שינת לילה {°שנ[ה]}
+6335	B	40:5	שינת	|ש|ינת	0	rejected: lexical ש-initial word (not še-)	ועת נוחו על משכבו <<שינת>> לילה {°שנ[ה]}
+6369	B	40:9	ושבר	ו|ש|בר	0	rejected: lexical ש-initial word (not še-)	ודם חרחר וחרב שד <<ושבר>> רעה ומות על רשע
+6407	B	40:14	שאתו	|ש|אתו	2	rejected: lexical ש-initial word (not še-)	בחזיז קולות עם עם <<שאתו>> כפים יגילו
+6409	Bmg	40:14	שאתו	|ש|אתו	2	rejected: lexical ש-initial word (not še-)	עם <<שאתו>>
+6421	B	40:15	שורש	|ש|ורש	2	rejected: lexical ש-initial word (not še-)	מחמס לא ינקה כי <<שורש>> חנף על שן סלע
+6431	Bmg	40:15	ושורש	ו|ש|ורש	2	rejected: lexical ש-initial word (not še-)	חמס לא יכה בו <<ושורש>> חנף ען שן צור
+6455	B	40:18	ושכר	ו|ש|כר	1	rejected: lexical ש-initial word (not še-)	לעד תכון חיי יין <<ושכר>> ימתקו ומשניהם
+6457	Bmg	40:18	שכל	|ש|כל	131	rejected: lexical ש-initial word (not še-)	יותר <<שכל>>
+6459	B	40:18	ומשניהם	ומ|ש|ניהם	0	rejected: lexical ש-initial word (not še-)	ושכר ימתקו <<ומשניהם>> מוצא אוצר ילד
+6467	B	40:19	ומשניהם	ומ|ש|ניהם	0	rejected: lexical ש-initial word (not še-)	ילד ועיר יעמידו שם <<ומשניהם>> מוצא חכמה שגר ונטע
+6470	B	40:19	שגר	|ש|גר	2	rejected: lexical ש-initial word (not še-)	שם ומשניהם מוצא חכמה <<שגר>> ונטע יפריחו שם ומשניהם
+6474	B	40:19	ומשניהם	ומ|ש|ניהם	0	rejected: lexical ש-initial word (not še-)	שגר ונטע יפריחו שם <<ומשניהם>> אשה נחשקת יין ושכר
+6478	B	40:20	ושכר	ו|ש|כר	1	rejected: lexical ש-initial word (not še-)	ומשניהם אשה נחשקת יין <<ושכר>> יעליצו לב ומשניהם אהבת
+6481	B	40:20	ומשניהם	ומ|ש|ניהם	0	rejected: lexical ש-initial word (not še-)	יין ושכר יעליצו לב <<ומשניהם>> אהבת דודים חל[י]ל
+6488	B	40:21	שיר	|ש|יר	1	rejected: lexical ש-initial word (not še-)	חל[י]ל ונבל יעריבו <<שיר>> ומשניהם לשון ברה {°°}
+6489	B	40:21	ומשניהם	ומ|ש|ניהם	0	rejected: lexical ש-initial word (not še-)	ונבל יעריבו שיר <<ומשניהם>> לשון ברה {°°} °יחמידו
+6495	B	40:22	ומשניהם	ומ|ש|ניהם	0	rejected: lexical ש-initial word (not še-)	ברה {°°} °יחמידו עין <<ומשניהם>> צמחי שדה {°°}
+6498	Bmg	40:22	שדי	|ש|די	3	rejected: lexical ש-initial word (not še-)	<<שדי>>
+6502	B	40:23	ומשניהם	ומ|ש|ניהם	0	rejected: lexical ש-initial word (not še-)	{°°} {ת} ינהגו <<ומשניהם>> אשה משכלת
+6504	B	40:23	משכלת	מ|ש|כלת	0	rejected: lexical ש-initial word (not še-)	{ת} ינהגו ומשניהם אשה <<משכלת>>
+6529	B	40:24	ומשניהם	ומ|ש|ניהם	0	rejected: lexical ש-initial word (not še-)	אח {°°} צרה <<ומשניהם>> צדק מצלת זהב
+6536	B	40:25	ומשניהם	ומ|ש|ניהם	0	rejected: lexical ש-initial word (not še-)	מצלת זהב וכס[ף] {[ר][ג]ל} <<ומשנ[י][ה][ם]>> חיל וכח יגי[ל]ו לב
+6541	B	40:26	ומשניהם	ומ|ש|ניהם	0	rejected: lexical ש-initial word (not še-)	חיל וכח יגי[ל]ו לב <<ומשניהם>> יראת אלהים
+6551	B	40:26	משען	מ|ש|ען	1	rejected: lexical ש-initial word (not še-)	מחסור ואין לבקש עמה <<מ[ש]ען>> יראת אלהים כעדן ברכה
+6572	B	40:29	שלחן	|ש|לחן	0	rejected: lexical ש-initial word (not še-)	ממסתולל איש משגיח על <<שלחן>> זר אין חייו למנות
+6598	B	40:30	שאלה	|ש|אלה	16	rejected: lexical ש-initial word (not še-)	תמתיק <<שאלה>> ובקרבו תבער כמו אש
+6616	B	41:1	שליו	|ש|ליו	0	rejected: lexical ש-initial word (not še-)	שוקט על מכונתו איש <<שליו>> ומצליח ועוד {ב[ו]} [ח]יל
+6678	B	41:4	שנים	|ש|נים	0	rejected: lexical ש-initial word (not še-)	תמאס בתורת עלי[ו][ן] לאלף <<שנים>> מאה ועשר איש
+6684	B	41:4	בשאול	ב|ש|אול	0	rejected: lexical ש-initial word (not še-)	ועשר איש תוכחות <<בש[א][ו]ל>> חיים נין נמאס
+6743	B	41:9	לשמחת	ל|ש|מחת	0	rejected: lexical ש-initial word (not še-)	אם תכשלו <<לשמחת>> עולם ואם תמותו לקללה
+6810	B	41:14	בשתיהם	ב|ש|תיהם	0	rejected: lexical ש-initial word (not še-)	מה תועלה <<בשתיהם>> טוב איש מצפין אולתו
+6824	B	41:14	שמעו	|ש|מעו	0	rejected: lexical ש-initial word (not še-)	מוסר בשת מוסר בשת <<שמעו>> בנים והכלמו על משפטי
+6834	B	41:16	לשמר	ל|ש|מר	2	rejected: lexical ש-initial word (not še-)	לא כל בשת נאה <<לשמר>> ולא כל הכלם נבחר
+6878	B	41:19	שאלה	|ש|אלה	16	rejected: lexical ש-initial word (not še-)	ממטה אציל אל לחם <<[ש]אלה>> מהשב
+6881	Bmg	41:19	שאלה	|ש|אלה	16	rejected: lexical ש-initial word (not še-)	{ממ[נ][ע]} מתת <<שאלה>> מי השע
+6899	Bmg	41:21	משואל	מ|ש|ואל	87	rejected: lexical ש-initial word (not še-)	<<משואל>> משאול שלום
+6900	B	41:21	שלום	|ש|לום	0	rejected: lexical ש-initial word (not še-)	[מ]חלק[ת] מנה {ו[מ][ש][א]ל} <<שלום>> מהחריש
+6902	Bmg	41:21	משאול	מ|ש|אול	0	rejected: lexical ש-initial word (not še-)	משואל <<משאול>> שלום התחרישו
+6903	Bmg	41:21	שלום	|ש|לום	0	rejected: lexical ש-initial word (not še-)	משואל משאול <<שלום>> התחרישו אשה
+6920	Bmg	41:22	שאלה	|ש|אלה	16	rejected: lexical ש-initial word (not še-)	דבר חסד <<שאלה>>
+6923	B	42:1	משנות	מ|ש|נות	0	rejected: lexical ש-initial word (not še-)	<<משנות>> דבר תשמע ומחסוף כל
+6972	B	42:4	שחק	|ש|חק	6	rejected: lexical ש-initial word (not še-)	נחלה ויש ועל <<שחק>> מאזנים ופלס ועל תמהות
+7033	B	42:8	ושואל	ו|ש|ואל	87	rejected: lexical ש-initial word (not še-)	וכסיל ושב וישיש ונוטל <<ושואל>> עצה בזנות
+7102	Bmg	42:11	משמר	מ|ש|מר	2	rejected: lexical ש-initial word (not še-)	בני ע׳ ב׳ החזק <<משמר>> פ׳ תע׳ מ׳ לא׳
+7183	B	42:16	שמש	|ש|מש	6	rejected: lexical ש-initial word (not še-)	ופועל רצונו לקחו <<שמש>> זורחת על כל נגלתה
+7226	B	42:20	שכל	|ש|כל	131	rejected: lexical ש-initial word (not še-)	{ל[א]} [נ]עדר ממנו כל <<שכל>> ולא חלפו כל דבר
+7271	B	43:1	שמים	|ש|מים	9	rejected: lexical ש-initial word (not še-)	{ל°°} {ן} לטוהר ועצם <<שמים>> מרביט הדרו ולכל {°°ך}
+7301	Bmg	43:1	שמים	|ש|מים	9	rejected: lexical ש-initial word (not še-)	רקע על טהר ועצם <<שמים>> מביט נהרה
+7304	B	43:2	שמש	|ש|מש	6	rejected: lexical ש-initial word (not še-)	<<שמש>> מביע בצרתו
+7327	B	43:4	שמש	|ש|מש	6	rejected: lexical ש-initial word (not še-)	מהם מצוק שולח <<שמש>> ידליק
+7329	Bmg	43:4	שלוח	|ש|לוח	0	rejected: lexical ש-initial word (not še-)	מוצק <<שלוח>> ש׳ יסיק
+7333	B	43:4	לשאון	ל|ש|און	0	rejected: lexical ש-initial word (not še-)	הרים <<לשאון>> מאור תגמר נושבת
+7357	B	43:6	שכות	|ש|כות	1	rejected: lexical ש-initial word (not še-)	וגם ירח ירח עתות <<שכות>>
+7379	Bmg	43:8	כשמו	כ|ש|מו	2	rejected: lexical ש-initial word (not še-)	<<כשמו>> והוא
+7395	B	43:9	שמים	|ש|מים	9	rejected: lexical ש-initial word (not še-)	רקיע מזהירתו תואר <<שמים>> והדר כוכב ואורו מזהיר
+7403	Bmg	43:9	משריק	מ|ש|ריק	1	rejected: lexical ש-initial word (not še-)	ועדי <<משריק>> ב׳ אל
+7483	B	43:17	שלגו	|ש|לגו	0	rejected: lexical ש-initial word (not še-)	רשף יניף <<שלגו>> וכארבה ישכון דרתו
+7537	B	43:22	שרב	|ש|רב	8	rejected: lexical ש-initial word (not še-)	פורע לדשן <<שרב>> מחשבתו תשיק
+7551	B	43:24	לשמע	ל|ש|מע	1	rejected: lexical ש-initial word (not še-)	יורדי הים יספרו קצהו <<לשמע>> אזננו נשתומם שם פלאות
+7633	B	44:1	שבח	|ש|בח	1	rejected: lexical ש-initial word (not še-)	<<שבח>> אבות עולם אהללה נא
+7671	B	44:4	שיח	|ש|יח	0	rejected: lexical ש-initial word (not še-)	במזמתם ורוזנים במחקרותם חכמי <<שיח>> בספרתם ומושלים במשמרותם
+7714	B	44:9	שבתו	|ש|בתו	0	rejected: lexical ש-initial word (not še-)	לו זכר וישבתו כאשר <<שבתו>> כאשר לא היו היו
+7744	B	44:14	ושמם	ו|ש|מם	0	rejected: lexical ש-initial word (not še-)	{[י][מ][ח][ה]} {[ו][ג][ו][י][ת][ם]} {[ב][ש]ל[ו][ם]} {[נ][א][ס][פ][ה]} <<ושמם>> חי {[ל][ד][ו][ר]} ודור
+7776	B	44:17	שארית	|ש|ארית	0	rejected: lexical ש-initial word (not še-)	היה תחליף בעבורו היה <<שארית>> ובבריתו חדל מבול באות
+7799	B	44:20	שמר	|ש|מר	2	rejected: lexical ש-initial word (not še-)	בכבודו מום אשר <<שמר>> מצות עליון ובא בברית
+7814	B	44:21	בשבועה	ב|ש|בועה	0	rejected: lexical ש-initial word (not še-)	נמצא נאמן על כן <<בש[ב][ו]עה>> הקים לו לברך בזרעו
+7853	B	44:23	לשבטים	ל|ש|בטים	0	rejected: lexical ש-initial word (not še-)	ויתן לו נחלתו ויציבהו <<לשבטים>> לחלק שנים עשר {[ו][י][ו]צ[י]א}
+7855	B	44:23	שנים	|ש|נים	0	rejected: lexical ש-initial word (not še-)	נחלתו ויציבהו לשבטים לחלק <<שנים>> עשר {[ו][י][ו]צ[י]א} ממנו איש
+7976	B	45:11	ושני	ו|ש|ני	0	rejected: lexical ש-initial word (not še-)	חשן משפט אפוד ואזור <<ושני>> תולעת מעשה אורג אבני
+8033	B	45:15	בשמן	ב|ש|מן	1	rejected: lexical ש-initial word (not še-)	משה את ידו וימשחהו <<בשמן>> הקדש ותהי לו ברית
+8041	B	45:15	שמים	|ש|מים	9	rejected: lexical ש-initial word (not še-)	ברית עולם ולזרעו כימי <<שמים>> לשרת ולכהן לו ולברך
+8048	B	45:15	בשמו	ב|ש|מו	2	rejected: lexical ש-initial word (not še-)	לו ולברך את עמו <<בשמו>> ויבחר בו מכל חי
+8102	B	45:19	בשביב	ב|ש|ביב	0	rejected: lexical ש-initial word (not še-)	ויבא להם אות ויאכלם <<בשביב>> אשו {ו} {°} לאהרן
+8161	B	45:24	שלום	|ש|לום	0	rejected: lexical ש-initial word (not še-)	לו הקים חק ברית <<שלום>> לכלכל מקדש אשר תהיה
+8301	B	46:8	בשנים	ב|ש|נים	0	rejected: lexical ש-initial word (not še-)	רעה לכם גם הם <<בשנים>> נאצלו משש מאות אלף
+8318	B	46:9	שיבה	|ש|יבה	0	rejected: lexical ש-initial word (not še-)	ויתן לכלב עצמה ועד <<שיבה>> עמדה עמו להדריכם על
+8341	B	46:11	בשמו	ב|ש|מו	2	rejected: lexical ש-initial word (not še-)	אחרי ייי והשופטים איש <<בשמו>> כל אשר לא נשא
+8354	B	46:12	ושמם	ו|ש|מם	0	rejected: lexical ש-initial word (not še-)	אל יהי זכרם לברכה <<ושמם>> תחליף לבניהם אוהב עמו
+8367	B	46:13	שמואל	|ש|מואל	0	rejected: lexical ש-initial word (not še-)	אמו נזיר ייי בנבואה <<שמואל>> שופט ומכהן {נ[ב][י]א} אל
+8417	B	46:19	משכבו	מ|ש|כבו	0	rejected: lexical ש-initial word (not še-)	ועת נוחו על <<משכבו>> העיד ייי ומשיחו כופר
+8420	B	46:19	ומשיחו	ומ|ש|יחו	0	rejected: lexical ש-initial word (not še-)	על משכבו העיד ייי <<ומשיחו>> כופר ונעלם ממ[י] {[ל][ק][ח]תי}
+8467	B	47:3	שחק	|ש|חק	6	rejected: lexical ש-initial word (not še-)	כן דויד מישראל לכפירים <<שחק>> כגדי ולדובים כבני בשן
+8520	B	47:7	שבר	|ש|בר	0	rejected: lexical ש-initial word (not še-)	בפלשתים ערים ועד היום <<שבר>> {קר[נ][ם]} בכל מעשהו נתן
+8538	B	47:9	שיר	|ש|יר	1	rejected: lexical ש-initial word (not še-)	ובכל {°°°} {°°} נגינות <<שיר>> {ל} {°} וקול
+8552	B	47:10	שנה	|ש|נה	0	rejected: lexical ש-initial word (not še-)	{ל} <<שנה>> בהלל[ו] את שם קדשו
+8581	B	47:12	משכיל	מ|ש|כיל	0	rejected: lexical ש-initial word (not še-)	ובעבורו עמד אחריו בן <<[מ]שכיל>> שוכן לבטח שלמה מלך
+8582	B	47:12	שוכן	|ש|וכן	12	rejected: lexical ש-initial word (not še-)	עמד אחריו בן [מ]שכיל <<שוכן>> לבטח שלמה מלך בימי
+8584	B	47:13	שלמה	|ש|למה	14	rejected: lexical ש-initial word (not še-)	בן [מ]שכיל שוכן לבטח <<שלמה>> מלך בימי שלוה ואל
+8587	B	47:13	שלוה	|ש|לוה	0	rejected: lexical ש-initial word (not še-)	לבטח שלמה מלך בימי <<שלוה>> ואל הניח לו מסביב
+8595	B	47:13	לשמו	ל|ש|מו	2	rejected: lexical ש-initial word (not še-)	מסביב אשר הכין בית <<לשמו>> ויצב לעד מקדש מה
+8611	B	47:15	שירה	|ש|ירה	0	rejected: lexical ש-initial word (not še-)	{°} {°ך} ותקלס במרום <<שירה>> בשיר מ[ש]ל חידה ומליצה
+8612	B	47:17	בשיר	ב|ש|יר	1	rejected: lexical ש-initial word (not še-)	{°ך} ותקלס במרום שירה <<בשיר>> מ[ש]ל חידה ומליצה עמים
+8646	B	47:20	משכבך	מ|ש|כבך	0	rejected: lexical ש-initial word (not še-)	על צאצאיך ואנחה על <<משכבך>> לשני שבטים ומאפרים ממלכת
+8647	B	47:21	לשני	ל|ש|ני	0	rejected: lexical ש-initial word (not še-)	צאצאיך ואנחה על משכבך <<לשני>> שבטים ומאפרים ממלכת חמס
+8648	B	47:21	שבטים	|ש|בטים	0	rejected: lexical ש-initial word (not še-)	ואנחה על משכבך לשני <<שבטים>> ומאפרים ממלכת חמס {[א]ל}
+8672	B	47:23	שלמה	|ש|למה	14	rejected: lexical ש-initial word (not še-)	{ל[י][ע][ק][ב]} ולד[ו][ד] {°} וישכב <<שלמה>> מיואש ויעזב {אח[ר][י][ו]} {°°ן}
+8728	B	48:3	שמים	|ש|מים	9	rejected: lexical ש-initial word (not še-)	המעיטם בדבר אל {°°ר} <<שמים>> {°°°} {°°} אשות מה
+8742	B	48:5	ומשאול	ומ|ש|אול	0	rejected: lexical ש-initial word (not še-)	יתפאר המקים גוע ממות <<ומשאול>> כרצון ייי המוריד מלכים
+8815	B	48:13	בשרו	ב|ש|רו	1	rejected: lexical ש-initial word (not še-)	נפלא ממנו ומתחתיו נברא <<בשרו>> בחייו עשה נפלאות ובמותו
+8934	B	49:1	משתה	מ|ש|תה	0	rejected: lexical ש-initial word (not še-)	ימתיק זכרו וכמזמור על <<משתה>> היין כי נחל על
+9008	B	49:10	שנים	|ש|נים	0	rejected: lexical ש-initial word (not še-)	כל {ד[ר][כ][י]} [צ]דק וגם <<שנים>> עשר הנביאים תהי עצמתם
+9069	B	50:1	שמעון	|ש|מעון	4	rejected: lexical ש-initial word (not še-)	גדול אחיו ותפארת עמו <<שמעון>> בן יוחנן הכהן אשר
+9117	B	50:7	וכשמש	וכ|ש|מש	6	rejected: lexical ש-initial word (not še-)	מלא מבין בימי מועד <<וכשמש>> משרקת אל היכל המלך
+9153	B	50:10	שמן	|ש|מן	1	rejected: lexical ש-initial word (not še-)	רענן מלא גרגר וכעץ <<שמן>> מרוה ענף
+9181	B	50:12	כשתילי	כ|ש|תילי	0	rejected: lexical ש-initial word (not še-)	סביב לו עטרת בנים <<כשתילי>> ארזים בלבנון ויקיפוהו כערבי
+9270	B	50:21	שנית	|ש|נית	0	rejected: lexical ש-initial word (not še-)	ייי התפאר וישנו לנפל <<שנית>> {בר[כ][ת]} {[א]ל} מפניו עתה
+9294	B	50:23	בשלום	ב|ש|לום	0	rejected: lexical ש-initial word (not še-)	לכם חכמת לבב ויהי <<בשלום>> ביניכם יאמן עם שמעון
+9298	B	50:24	שמעון	|ש|מעון	4	rejected: lexical ש-initial word (not še-)	בשלום ביניכם יאמן עם <<שמעון>> חסדו ויקם לו ברית
+9310	B	50:24	שמים	|ש|מים	9	rejected: lexical ש-initial word (not še-)	יכרת לו ולזרעו כימי <<שמים>> בשני גוים קצה נפשי
+9311	B	50:25	בשני	ב|ש|ני	0	rejected: lexical ש-initial word (not še-)	לו ולזרעו כימי שמים <<בשני>> גוים קצה נפשי והשלישית
+9319	B	50:26	שעיר	|ש|עיר	15	rejected: lexical ש-initial word (not še-)	והשלישית איננו עם יושבי <<שעיר>> ופלשת וגוי נבל הדר
+9324	B	50:26	בשכם	ב|ש|כם	0	rejected: lexical ש-initial word (not še-)	ופלשת וגוי נבל הדר <<בשכם>> מוסר שכל ומושל אופנים
+9326	B	50:27	שכל	|ש|כל	131	rejected: lexical ש-initial word (not še-)	נבל הדר בשכם מוסר <<שכל>> ומושל אופנים לשמעון בן
+9329	B	50:27	לשמעון	ל|ש|מעון	4	rejected: lexical ש-initial word (not še-)	מוסר שכל ומושל אופנים <<לשמעון>> בן ישוע בן אלעזר
+9362	B	51:1	שמך	|ש|מך	2	rejected: lexical ש-initial word (not še-)	אודך אלהי אבי אספרה <<שמך>> מעוז חיי כי פדית
+9373	B	51:2	שאול	|ש|אול	0	rejected: lexical ש-initial word (not še-)	חשכת בשרי משחת ומיד <<שאול>> הצלת רגלי פציתני מדבת
+9382	B	51:2	ומשפת	ומ|ש|פת	1	rejected: lexical ש-initial word (not še-)	עם משוט דבת לשון <<ומשפת>> שטי כזב נגד קמי
+9402	B	51:4	שלהבת	|ש|להבת	0	rejected: lexical ש-initial word (not še-)	מרבות צרות הושעתני וממצוקות <<שלהב[ת]>> מכבות אש לאין פחה
+9421	B	51:6	לשאול	ל|ש|אול	0	rejected: lexical ש-initial word (not še-)	ותגע למות נפשי וחיתי <<לשאול>> תחתיות ואפנה סביב ואין
+9449	B	51:9	שאול	|ש|אול	0	rejected: lexical ש-initial word (not še-)	וארים מארץ קולי ומשערי <<שאול>> שועתי וארומם ייי אבי
+9467	B	51:11	שמך	|ש|מך	2	rejected: lexical ש-initial word (not še-)	ביום שואה ומשואה אהללה <<שמך>> תמיד ואזכרך בתפלה אז
+9472	B	51:11	שמע	|ש|מע	1	rejected: lexical ש-initial word (not še-)	תמיד ואזכרך בתפלה אז <<שמע>> קולי ייי ויאזין אל
+9507	B	51:12	לשומר	ל|ש|ומר	1	rejected: lexical ש-initial word (not še-)	כי לעולם חסדו הודו <<לשומר>> ישראל כי לעולם חסדו
+9674	B	51:22	שכר	|ש|כר	1	rejected: lexical ש-initial word (not še-)	טוב נתן ייי לי <<שכר>> שפתותי ובלשוני אהודנו פנו
+9706	B	51:26	ומשאה	ומ|ש|אה	0	rejected: lexical ש-initial word (not še-)	כסף וצואריכם בעלה הביאו <<ומשאה>> תשא נפשכם קרובה היא
+9725	B	51:28	שמעו	|ש|מעו	0	rejected: lexical ש-initial word (not še-)	ועמדתי בה ומצאתיה רבים <<שמעו>> למודי בנערותי וכסף וזהב
+9737	B	51:29	בשירתי	ב|ש|ירתי	0	rejected: lexical ש-initial word (not še-)	נפשי בישיבתי ולא תבושו <<בשירתי>> מעשיכם עשו בצדקה והוא
+9744	B	51:30	שכרכם	|ש|כרכם	0	rejected: lexical ש-initial word (not še-)	בצדקה והוא נותן לכם <<שכרכם>> בעתו ברוך ייי לעולם
+9750	B	51:30	שמו	|ש|מו	2	rejected: lexical ש-initial word (not še-)	ברוך ייי לעולם ומשובח <<שמו>> לדר ודר עד הנה
+9756	B	51:30	שמעון	|ש|מעון	4	rejected: lexical ש-initial word (not še-)	ודר עד הנה דברי <<שמעון>> בן ישוע שנקרא בן
+9763	B	51:30	שמעון	|ש|מעון	4	rejected: lexical ש-initial word (not še-)	שנקרא בן סירא חכמת <<שמעון>> בן ישוע בן אלעזר
+9838	C	41:16	לשמור	ל|ש|מור	0	rejected: lexical ש-initial word (not še-)	לא כל בושת נאה <<לשמור>> ולא כל הכלם נבחר
+9845	C	4:21	משאת	מ|ש|את	46	rejected: lexical ש-initial word (not še-)	הכלם נבחר יש בשת <<משאת>> עון ויש בשת חן
+9892	C	4:31	לשאת	ל|ש|את	46	rejected: lexical ש-initial word (not še-)	אל תהי ידך מושטת <<לשאת>> ובעת השב קפודה אל
+9931	C	5:7	לשוב	ל|ש|וב	1	rejected: lexical ש-initial word (not še-)	יניח רגזו אל תאחר <<לשוב>> אליו ואל תתעבר מיום
+9952	C	5:9	שביל	|ש|ביל	0	rejected: lexical ש-initial word (not še-)	רוח ואל תלך לכל <<שביל>> היה סמוך על דברך
+9962	C	5:11	בשמועה	ב|ש|מועה	0	rejected: lexical ש-initial word (not še-)	יהיה דבריך היה נכון <<בשמועה>> טובה ובארך ענה תענה
+9975	C	5:12	שים	|ש|ים	3	rejected: lexical ש-initial word (not še-)	ענה ריעיך ואם אין <<שים>> ידך על פיך כבוד
+10002	C	6:5	שלום	|ש|לום	0	rejected: lexical ש-initial word (not še-)	אוהב ושפתי חן שואלי <<שלום>> אנשי שלומיך יהיו רבים
+10004	C	6:6	שלומיך	|ש|לומיך	0	rejected: lexical ש-initial word (not še-)	חן שואלי שלום אנשי <<שלומיך>> יהיו רבים ובעל סודך
+10044	C	6:10	שלחן	|ש|לחן	0	rejected: lexical ש-initial word (not še-)	אוהב חבר <<שלחן>> ולא ימצא ביום רעה
+10080	C	6:15	משקל	מ|ש|קל	2	rejected: lexical ש-initial word (not še-)	אמונה אין מחיר ואין <<משקל>> לטובתו לב כבד יכביד
+10096	C	6:18	שיבה	|ש|יבה	0	rejected: lexical ש-initial word (not še-)	מנוער קבל מוסר ועד <<שיבה>>
+10121	C	6:35	שיחה	|ש|יחה	0	rejected: lexical ש-initial word (not še-)	ותהפך לך לתענוג כל <<שיחה>> חפוץ לשמוע ומשל בינה
+10123	C	6:35	לשמוע	ל|ש|מוע	0	rejected: lexical ש-initial word (not še-)	לתענוג כל שיחה חפוץ <<לשמוע>> ומשל בינה יצאך אל
+10166	C	7:20	שכיר	|ש|כיר	0	rejected: lexical ש-initial word (not še-)	עבד עובד אמת וכן <<שכיר>> נותן נפשו עבד משכיל
+10170	C	7:21	משכיל	מ|ש|כיל	0	rejected: lexical ש-initial word (not še-)	שכיר נותן נפשו עבד <<משכיל>> אהוב כנפש אל תמנע
+10187	C	7:24	שאר	|ש|אר	0	rejected: lexical ש-initial word (not še-)	בנעורי בנים לך נצור <<שאר>> תאר להם פנים הוציא
+10201	C	18:32	שמץ	|ש|מץ	0	rejected: lexical ש-initial word (not še-)	שונא אל תשמח אל <<שמץ>> תענוג אשר פי שנים
+10205	C	18:32	שנים	|ש|נים	0	rejected: lexical ש-initial word (not še-)	שמץ תענוג אשר פי <<שנים>> רישו אל תהי זולל
+10279	C	37:26	ושמו	ו|ש|מו	2	rejected: lexical ש-initial word (not še-)	חכם {ע[ם]} {[י][נ][ח]ל} כבוד <<ושמ[ו]>> {[ע][ו][מ][ד]} {[ב][ח][י]י} עולם חכם
+10348	C	22:12	שבעת	|ש|בעת	9	rejected: lexical ש-initial word (not še-)	ממות חיים רעים וע <<שבעת>> ימים רש כל ימי
+10375	C	23:11	שבועות	|ש|בועות	0	rejected: lexical ש-initial word (not še-)	כי יש תשובה איש <<שבועות>> ימלא אשמה ולא ימוש
+10384	C	25:7	שמח	|ש|מח	0	rejected: lexical ש-initial word (not še-)	מביתו הנגע אשרי איש <<שמח>> באחריתו חי וראה בשבר
+10388	C	25:7	בשבר	ב|ש|בר	0	rejected: lexical ש-initial word (not še-)	שמח באחריתו חי וראה <<בשבר>> צריו
+10401	C	25:8	משכלת	מ|ש|כלת	0	rejected: lexical ש-initial word (not še-)	ממנו אשרי בעל אשה <<משכלת>> ולא חורש כשור עם
+10404	C	25:8	כשור	כ|ש|ור	1	rejected: lexical ש-initial word (not še-)	אשה משכלת ולא חורש <<כשור>> עם חמור כל מכה
+10465	C	25:23	וכשלון	וכ|ש|לון	0	rejected: lexical ש-initial word (not še-)	מכלכלת בעלה רפיון ידים <<[ו][כ]שלון>> ברכים אשה לא תאשר
+10489	C	26:2	ושנותו	ו|ש|נותו	0	rejected: lexical ש-initial word (not še-)	<<ושנו[ת][ו]>> {[ת]שמ[ח]} אשה [ט]ובה מנה
+10502	C	26:13	שכלה	|ש|כלה	3	rejected: lexical ש-initial word (not še-)	אשה {[מ][ט]יב} בעלה ידשן <<שכלה>> חן {ע[ל]} {[ח][ן]} אשה
+10509	C	26:15	משקל	מ|ש|קל	2	rejected: lexical ש-initial word (not še-)	{[ח][ן]} אשה ביישת ואין <<משקל>> לצרורת פה שמש {[ז][ו][ר][ח][ת]}
+10512	C	26:16	שמש	|ש|מש	6	rejected: lexical ש-initial word (not še-)	ואין משקל לצרורת פה <<שמש>> {[ז][ו][ר][ח][ת]} במרומי מעל יפה
+10557	C	36:29	משען	מ|ש|ען	1	rejected: lexical ש-initial word (not še-)	קנה עיר מבצר {°°נה} <<משען>> העמיד באין גדר {[י][ב][ו]ער}
+10610	D	7:21	משכיל	מ|ש|כיל	0	rejected: lexical ש-initial word (not še-)	{[ש][ו][כ][ר]} נותן נפשו עבד <<מש[כ][י]ל>> [ח]בב {[כ][נ][פ][ש]} אל תמנע
+10801	D	8:8	שיחת	|ש|יחת	0	rejected: lexical ש-initial word (not še-)	{[כ][ל][נ][ו]} {[נ][א][ס][פ][י][ם]} אל [ת]טש <<שיחת>> {[ח][כ][מ][י][ם]} {[ו][ב][ח][י][ד][ת][י][ה][ם]} {[ה][ת][ר][ט][ש]} {[כ]י}
+10814	D	8:9	בשמיעות	ב|ש|מיעות	0	rejected: lexical ש-initial word (not še-)	{[ל][פ][נ][י]} {[ש][ר][י][ם]} {[א][ל]} {[ת][מ][א][ס]} <<בשמיעות>> {ש[ב][י]ם} אשר {[ש][מ][ע][ו]} {[מ][א][ב][ת][ם]}
+10822	D	8:9	שכל	|ש|כל	131	rejected: lexical ש-initial word (not še-)	{[מ][א][ב][ת][ם]} {[כ][י]} {[מ][מ][נ][ו]} {[ת][ק][ח]} <<שכל>> {ב[ע][ת]} [צ]ורך לה[ש][י]ב {[פ][ת][ג][ם]}
+10834	D	8:10	בשביב	ב|ש|ביב	0	rejected: lexical ש-initial word (not še-)	{[נ][ח][ל][ת]} {[ר][ש][ע]} {[פ][ן]} {[ת][ב][ע]ר} <<בשב[י][ב]>> {[א][ש][ו]} אל {[ת][ז][ו][ח]} {[מ][פ][נ][י]}
+10998	D	37:6	בשללך	ב|ש|ללך	0	rejected: lexical ש-initial word (not še-)	חבר בקרב ואל תעזבהו <<בשללך>> כל יועץ אומר חזה
+11009	D	37:8	שמר	|ש|מר	2	rejected: lexical ש-initial word (not še-)	יועץ דרך עליו מיועץ <<שמר>> נפשך ודע לפנים מה
+11065	D	37:11	שכיר	|ש|כיר	0	rejected: lexical ש-initial word (not še-)	על טוב בשר פועל <<שכיר>> על מלאכתו שכיר שנה
+11068	D	37:11	שכיר	|ש|כיר	0	rejected: lexical ש-initial word (not še-)	פועל שכיר על מלאכתו <<שכיר>> שנה על מוצא זרע
+11069	D	37:11	שנה	|ש|נה	0	rejected: lexical ש-initial word (not še-)	שכיר על מלאכתו שכיר <<שנה>> על מוצא זרע אך
+11079	D	37:12	שומר	|ש|ומר	1	rejected: lexical ש-initial word (not še-)	{°°°ת[ד]ע} <<שומר>> מצוה אשר {°°} בלבבו
+11101	D	37:14	משבעה	מ|ש|בעה	0	rejected: lexical ש-initial word (not še-)	לב אנוש מגיד שעיותיו <<משבעה>> צפים על שן ועם
+11134	D	37:18	ומשלח	ומ|ש|לח	0	rejected: lexical ש-initial word (not še-)	טוב ורע מות וחיים <<ומשלח>> בם כליל לשון יש
+11197	D	37:26	ושמו	ו|ש|מו	2	rejected: lexical ש-initial word (not še-)	חכם עם ינהל כבוד <<ושמו>> עומד בחיי עולם בני
+11285	E	32:18	שכל	|ש|כל	131	rejected: lexical ש-initial word (not še-)	{[א][י][ש]} {[ח][מ][ס]} לא יקח <<שכל>> זד ולץ לא יקח
+11371	E	33:7	שמש	|ש|מש	6	rejected: lexical ש-initial word (not še-)	כלו אור שונה [מ]על <<שמש>> {[א][ב][ל]} בחכמת ייי נשפטו
+11433	E	33:15	שנים	|ש|נים	0	rejected: lexical ש-initial word (not še-)	כל מעשה אל כולם <<שנים>> שנים זה לעומת וגם
+11434	E	33:15	שנים	|ש|נים	0	rejected: lexical ש-initial word (not še-)	מעשה אל כולם שנים <<שנים>> זה לעומת וגם אני
+11460	E	33:19	שמעו	|ש|מעו	0	rejected: lexical ש-initial word (not še-)	עמלתי כי לכל מבקשי <<שמעו>> אלי שרי עם רב
+11465	E	33:19	ומשלי	ומ|ש|לי	13	rejected: lexical ש-initial word (not še-)	אלי שרי עם רב <<ומשלי>> קהל {ה} בן ואשה
+11489	E	33:20	לשוב	ל|ש|וב	1	rejected: lexical ש-initial word (not še-)	אל תתן שלך לאחר <<לשוב>> לחלות {א[ת]} כי טוב
+11685	F	32:2	שכל	|ש|כל	131	rejected: lexical ש-initial word (not še-)	בכבודם ועל מוסר תשא <<שכל>> מלל שבט הוא לך
+11687	F	32:3	שבט	|ש|בט	0	rejected: lexical ש-initial word (not še-)	מוסר תשא שכל מלל <<שבט>> הוא לך והצנע שכל
+11691	F	32:3	שכל	|ש|כל	131	rejected: lexical ש-initial word (not še-)	שבט הוא לך והצנע <<שכל>> ואל תמנע שיר במקום
+11694	F	32:3	שיר	|ש|יר	1	rejected: lexical ש-initial word (not še-)	והצנע שכל ואל תמנע <<שיר>> במקום שכל אל תשפך
+11696	F	32:4	שכל	|ש|כל	131	rejected: lexical ש-initial word (not še-)	ואל תמנע שיר במקום <<שכל>> אל תשפך שיח ובלא
+11699	F	32:4	שיח	|ש|יח	0	rejected: lexical ש-initial word (not še-)	במקום שכל אל תשפך <<שיח>> ובלא מזמור אל שיח
+11703	F	32:4	שיח	|ש|יח	0	rejected: lexical ש-initial word (not še-)	שיח ובלא מזמור אל <<שיח>> תשפך כחותם על כיס
+11709	F	32:5	שירת	|ש|ירת	0	rejected: lexical ש-initial word (not še-)	כחותם על כיס זהב <<שירת>> אל על משתה היין
+11712	F	32:5	משתה	מ|ש|תה	0	rejected: lexical ש-initial word (not še-)	זהב שירת אל על <<משתה>> היין כומז אדם על
+11720	F	32:5	שיר	|ש|יר	1	rejected: lexical ש-initial word (not še-)	על טס זהוב משפט <<שיר>> על משתה היין כדביר
+11722	F	32:5	משתה	מ|ש|תה	0	rejected: lexical ש-initial word (not še-)	זהוב משפט שיר על <<משתה>> היין כדביר זהב בו
+11749	F	32:7	ושלש	ו|ש|לש	0	rejected: lexical ש-initial word (not še-)	נער צורך אותך פעמים <<ושלש>> אם ישאלך
+11754	F	32:12	ושלם	ו|ש|לם	0	rejected: lexical ש-initial word (not še-)	{[פ][ט][ר]} [ל]ביתך <<ושלם>> [ר]צון ביר[א][ת] {[א][ל]} {[ו][ל][א]}
+11819	F	32:18	שכל	|ש|כל	131	rejected: lexical ש-initial word (not še-)	איש חמס לא יקח <<שכל>> זד ולץ לא יקח
+11906	F	33:7	שמש	|ש|מש	6	rejected: lexical ש-initial word (not še-)	כלו אור שונה על <<שמש>> אבל בחכמת ייי נשפטו
+11936	M	40:14	שאתו	|ש|אתו	2	rejected: lexical ש-initial word (not še-)	חיל מעול {ת} עם <<שאתו>> כפי {ם} נצר חמס
+11961	M	40:18	שכר	|ש|כר	1	rejected: lexical ש-initial word (not še-)	לעד תכן חיי יתר <<שכר>> ימתקו ומשניהם מצא ילד
+11963	M	40:18	ומשניהם	ומ|ש|ניהם	0	rejected: lexical ש-initial word (not še-)	חיי יתר שכר ימתקו <<ומשניהם>> מצא ילד {ו} ידו
+11969	M	40:19	ומשניהם	ומ|ש|ניהם	0	rejected: lexical ש-initial word (not še-)	ילד {ו} ידו שם <<ומשניהם>> מצ {ו} שאר {ו}
+11972	M	40:19	שאר	|ש|אר	0	rejected: lexical ש-initial word (not še-)	שם ומשניהם מצ {ו} <<שאר>> {ו} {ש} חשקת די
+11977	M	40:26	שניהם	|ש|ניהם	0	rejected: lexical ש-initial word (not še-)	{ו} {ש} חשקת די <<שניהם>> אין לבקש עמה משען
+11981	M	40:26	משען	מ|ש|ען	1	rejected: lexical ש-initial word (not še-)	שניהם אין לבקש עמה <<משען>> ועל כל כב {ד}
+12011	M	41:1	שלו	|ש|לו	54	rejected: lexical ש-initial word (not še-)	לאיש שקט על מכונתו <<שלו>> ומצליח בכל עוד בו
+12055	M	41:4	שנים	|ש|נים	0	rejected: lexical ש-initial word (not še-)	עליו לעשר מאה ואלף <<שנים>> נין נמאס {ת} ות
+12084	M	41:9	שמחת	|ש|מחת	0	rejected: lexical ש-initial word (not še-)	ואם תולידו לאנחה {°ו} <<שמחת>> עם ואם תמותו לקללה
+12124	M	41:14	ושימה	ו|ש|ימה	0	rejected: lexical ש-initial word (not še-)	אין מספר כמה טמונה <<ושימה>> מסתרת מה תעלה בשתיהם
+12128	M	41:14	בשתיהם	ב|ש|תיהם	0	rejected: lexical ש-initial word (not še-)	ושימה מסתרת מה תעלה <<בשתיהם>> טוב איש מטמ אולתו
+12138	M	41:14	שמעו	|ש|מעו	0	rejected: lexical ש-initial word (not še-)	מצפן חכמתו מוסר בשת <<שמעו>> בנים כלמו על משפטי
+12186	M	41:19	שאלה	|ש|אלה	16	rejected: lexical ש-initial word (not še-)	על לחם ממנ מתת <<שאלה>> ומהשיב את פני שארך
+12190	M	41:19	שארך	|ש|ארך	2	rejected: lexical ש-initial word (not še-)	שאלה ומהשיב את פני <<שארך>> מחשות מחלקת מנה ומשאל
+12194	M	41:21	ומשאל	ומ|ש|אל	376	rejected: lexical ש-initial word (not še-)	שארך מחשות מחלקת מנה <<ומשאל>> שלום החריש
+12195	M	41:21	שלום	|ש|לום	0	rejected: lexical ש-initial word (not še-)	מחשות מחלקת מנה ומשאל <<שלום>> החריש
+12216	M	42:1	משנות	מ|ש|נות	0	rejected: lexical ש-initial word (not še-)	חסד ומאחר מתת חרף <<משנות>> דבר תשמע ומחשף כל
+12334	M	42:11	משמר	מ|ש|מר	2	rejected: lexical ש-initial word (not še-)	{צ} על בת חזק <<משמר>> {ן} {ת} דבת עיר
+12387	M	42:16	שמש	|ש|מש	6	rejected: lexical ש-initial word (not še-)	מעשיו ופעל רצנו לקחו <<שמש>> זהרת על כל נגלת
+12429	M	42:20	שכל	|ש|כל	131	rejected: lexical ש-initial word (not še-)	נסתרות לא נעדר מפניו <<שכל>> ול[א] עב {ו} כל
+12487	M	43:1	שמים	|ש|מים	9	rejected: lexical ש-initial word (not še-)	מרום ורקיע לטהר עצם <<שמים>> {מ} {ע} נהרו שמש
+12491	M	43:2	שמש	|ש|מש	6	rejected: lexical ש-initial word (not še-)	שמים {מ} {ע} נהרו <<שמש>> מופיע בצאתו נכסה כלי
+12534	M	43:8	כשמו	כ|ש|מו	2	rejected: lexical ש-initial word (not še-)	{ד} וממנו חג חדש <<כשמו>> הוא מת
+12543	M	43:9	שמים	|ש|מים	9	rejected: lexical ש-initial word (not še-)	נבלי מרום מרצף תור <<שמים>> והוד כוכב עדי משריק
+12547	M	43:9	משריק	מ|ש|ריק	1	rejected: lexical ש-initial word (not še-)	שמים והוד כוכב עדי <<משריק>> במ רמ בדבר אדני
+12605	M	43:17	שלגו	|ש|לגו	0	rejected: lexical ש-initial word (not še-)	סופה וסערה כרשף יפרח <<שלגו>> וכארבה ישכן רדתו תור
+12635	M	43:24	לשמע	ל|ש|מע	1	rejected: lexical ש-initial word (not še-)	{ב[ח]} רב יש איים <<לשמע>> אזנינו נשמתם ומין {כ}
+12666	M	44:4	שיח	|ש|יח	0	rejected: lexical ש-initial word (not še-)	במזמתם ורזנים במחקק חכמי <<שיח>> בספרתם ומשלים במ חקרי
+12668	M	44:4	ומשלים	ומ|ש|לים	1	rejected: lexical ש-initial word (not še-)	במחקק חכמי שיח בספרתם <<ומשלים>> במ חקרי מזמור על
+12723	M	44:14	בשלום	ב|ש|לום	0	rejected: lexical ש-initial word (not še-)	לא ימח וג {ם} <<בשלום>> נאספה שמם חי לדור
+12725	M	44:14	שמם	|ש|מם	0	rejected: lexical ש-initial word (not še-)	וג {ם} בשלום נאספה <<שמם>> חי לדור ודר שנו
+12729	M	44:15	שנו	|ש|נו	0	rejected: lexical ש-initial word (not še-)	שמם חי לדור ודר <<שנו>> עדה ותהלתם יספר קהל
+12885	11QPsa	51:30	שכרכם	|ש|כרכם	0	rejected: lexical ש-initial word (not še-)	אתבונן כפי הברותי אל <<שכרכם>> בעתו

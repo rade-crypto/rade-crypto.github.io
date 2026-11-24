@@ -1,0 +1,56 @@
+idx	witness	corpus	verse	source_file	line	form	consonantal	decision	note	countable	in_dedup	context
+400	A	A	4:26	A_I_Verso	1v:14	תעמוד	תעמוד	later	עמד	True	True	אל תבוש לשוב מעון ואל <<תעמוד>> לפני שבלת אל תצע לנבל
+687	A	A	6:8	A_II_Recto	2r:12	יעמוד	יעמוד	later	עמד	True	True	יש אוהב כפי עת ואל <<יעמוד>> ביום צרה יש אוהב נהפך
+1070	A	A	7:22	A_II_Verso	2v:25	העמידה	העמידה	later	עמד	True	True	ראה עיניך ואם אמנה היא <<העמידה>> בנים לך יסיר אותם ושא
+1598	A	A	10:4	A_III_Verso	3v:22	יעמד	יעמד	later	עמד	True	True	אלהים ממשלת תבל ואיש לעת <<יעמד>> עליה [ב]כל פשע אל תשלים
+1888	A	A	11:9	A_IV_Recto	4r:27	תקומם	תקומם	earlier	קום hitpolel/polel	True	False	אל תאחר וברב זדים אל <<תקומם>> בני למה תרבה עשקך ואץ
+1966	A	A	11:17	A_IV_Verso	4v:7	[י][ע]מד	יעמד	later	עמד	False	False	רעה עמם מתן צדיק ל[ע]ד <<[י][ע]מד>> ורצנו יצלח לעד יש מתעשר
+1992	A	A	11:20	A_IV_Verso	4v:10	[ע][מ]ד	עמד	later	עמד	False	False	חל[ף] וע[ז]בו לאחר ומת {ב[נ][י]} <<[ע][מ]ד>> בחוקך ובו ה[ו]שע ובמלאכתך התי[ש][ן]
+2264	A	A	12:12	A_V_Recto	5r:11	תעמידהו	תעמידהו	later	עמד	True	True	להשחיתך ודע אחרית קנאה אל <<תעמידהו>> אצלך למה יהדפך ויעמד תחתיך
+2268	A	A	12:12	A_V_Recto	5r:11	ויעמד	ויעמד	later	עמד	True	True	אל תעמידהו אצלך למה יהדפך <<ויעמד>> תחתיך אל תושיבהו לימינך למה
+2317	A	A	12:15	A_V_Recto	5r:17	עמד	עמד	later	עמד	True	True	לא יפול להצילך עד עת <<עמד>> לא יופיע ואם נמוט לא
+3222	A	A	16:18	A_VI_Verso	6v:23	עמודים	עמודים	excluded	noun (pillar/standing place)	True	True	השמים ותהום וארץ ברדתו עליהם <<עמודים>> בפקדו וכרגשו אף קצבי הרים
+3535	B	B	11:9	B_I_Verso	1v:14	תקומם	תקומם	earlier	קום hitpolel/polel	True	True	אל תתור ובריב זדים אל <<תקומם>> אם תברח לא תדביק ול[א]
+3956	B	B	30:17	B_III_Recto	3r:10	עומד	עומד	later	עמד	True	True	מכאב <<עומד>> טובה שפוכה על פה
+4388	B	B	31:20	B_IV_Recto	4r:15	וקם	וקם	earlier	קום qal	True	True	שנות חיים על קרב צולל <<וקם>> בבקר ונפשו אתו {ש°°°} {°°°}
+4690	B	B	32:9	B_V_Recto	5r:11	תקומם	תקומם	earlier	קום hitpolel/polel	True	True	ומחריש יחדו בין זקנים אל <<תקומם>> ושרים אל תרב לטרד לפני
+5220	B	B	36:20	B_VI_Verso	6v:13	והקם	והקם	earlier	קום hiphil	True	True	היכלך תן עדות למראש מעשיך <<והקם>> חזון דבר בשמך תן את
+5338	B	B	36:29	B_VII_Recto	7r:6	ועמוד	ועמוד	excluded	noun (pillar/standing place)	True	True	קנין עזר ומבצר <<ועמוד>> משען באין גדיר יבוער כרם
+5427	B	B	37:4	B_VII_Recto	7r:12	יעמד	יעמד	later	עמד	True	True	בעת צוקה מנגד <<יעמד>> אוהב טוב נלחם עם
+5497	B	B	37:9	B_VII_Recto	7r:17	וקם	וקם	earlier	קום qal	True	True	{[ו][י][א][מ][ר]} לך {°°°°°} דרכך <<וקם>> מנ[ג]ד להביט רישך {ל°°}
+6465	B	B	40:19	B_X_Recto	10r:10	יעמידו	יעמידו	later	עמד	True	True	מוצא אוצר ילד ועיר <<יעמידו>> שם ומשניהם מוצא חכמה שגר
+6908	B	B	41:21	B_XI_Recto	11r:17	ומהתק[ו][מ][ם]	ומהתקומם	earlier	קום hitpolel inf	True	True	מהביט {°} <<ומהתק[ו][מ][ם]>> {[ע]ל} {°°°°°°} מאוהב על
+7254	Bmg	marginalia	42:23	B_XII_Recto	12r:16	וקים	וקים	earlier	קום adj/ptc קַיָּם	True	False	צרך <<וקים>>
+7408	B	B	43:10	B_XII_Verso	12v:12	יעמד	יעמד	later	עמד	True	True	בדבר אל <<יעמד>> חק ולא ישח באשמרותם
+7446	Bmg	marginalia	43:13	B_XII_Verso	12v:15	יקום	יקום	excluded	Bmg 43:13 obscure; not counted	True	False	זיקים גערתו תתוה בקר ותזנה <<יקום>> במ׳ למענו
+7514	B	B	43:20	B_XIII_Recto	13r:5	מעמד	מעמד	excluded	noun (pillar/standing place)	True	True	יקפיא מקורו על כל <<מעמד>> מים יקרים וכשרין ילבש מקוה
+7736	B	B	44:13	B_XIII_Verso	13v:16	יעמד	יעמד	later	עמד	True	True	טובם ונחלתם {ל} עד עולם <<יעמד>> זכרם וצדקת[ם] {ל[א]} {[י][מ][ח][ה]} {[ו][ג][ו][י][ת][ם]}
+7815	B	B	44:21	B_XIV_Recto	14r:7	הקים	הקים	earlier	קום hiphil	True	True	נמצא נאמן על כן בש[ב][ו]עה <<הקים>> לו לברך בזרעו גוים להנחילם
+7830	B	B	44:22	B_XIV_Recto	14r:9	הקים	הקים	earlier	קום hiphil	True	True	ועד אפסי ארץ וגם ליצחק <<הקים>> בן בעבור אברהם אביו
+8145	B	B	45:23	B_XV_Verso	15v:1	ויעמד	ויעמד	later	עמד	True	True	בקנאו לאלוהי כל <<ויעמד>> בפרץ עמו אשר נדבו לבו
+8158	B	B	45:24	B_XV_Verso	15v:3	הקים	הקים	earlier	קום hiphil	True	True	בני ישראל לכן גם לו <<הקים>> חק ברית שלום לכלכל מקדש
+8248	B	B	46:4	B_XV_Verso	15v:14	עמד	עמד	later	עמד	True	True	מלחמות ייי נלוה הלא בידו <<עמד>> השמש יום אחד {°} כי
+8319	B	B	46:9	B_XVI_Recto	16r:6	עמדה	עמדה	later	עמד	True	True	ויתן לכלב עצמה ועד שיבה <<עמדה>> עמו להדריכם על במתי ארץ
+8454	B	B	47:1	B_XVI_Verso	16v:4	עמד	עמד	later	עמד	True	True	מארץ קולו בנבוא[ה] וגם אחריו <<עמד>> נתן להתיצב לפני דוד כי
+8578	B	B	47:12	B_XVII_Recto	17r:3	עמד	עמד	later	עמד	True	True	וכסאו הכין על ירושלם ובעבורו <<עמד>> אחריו בן [מ]שכיל שוכן לבטח
+8687	B	B	47:23	B_XVII_Verso	17v:2	קם	קם	earlier	קום qal	True	True	הפריע בעצ[ה] עם עד אשר <<קם>> אל יהי לו זכר ירבעם
+8713	B	B	48:1	B_XVII_Verso	17v:5	קם	קם	earlier	קום qal	True	True	ולכל רעה התמכר עד אשר <<קם>> נביא כאש ודבריו כתנור בוער
+8739	B	B	48:5	B_XVII_Verso	17v:9	המקים	המקים	earlier	קום hiphil ptc	True	True	אתה אליהו ואשר {כ[מ][ו]ך} יתפאר <<המקים>> גוע ממות ומשאול כרצון ייי
+9031	B	B	49:13	B_XIX_Recto	19r:2	המקים	המקים	earlier	קום hiphil ptc	True	True	לכבוד עולם נחמיה יאדר זכרו <<המקים>> את חרבתינו וירפא את הריסתינו
+9300	B	B	50:24	B_XX_Recto	20r:3	ויקם	ויקם	earlier	קום hiphil wayyiqtol	True	True	ביניכם יאמן עם שמעון חסדו <<ויקם>> לו ברית פינחס אשר לא
+9386	B	B	51:2	B_XX_Recto	20r:14	קמי	קמי	earlier	"קום qal ptc (subst. ""my adversaries"")"	True	True	לשון ומשפת שטי כזב נגד <<קמי>> הייתה לי עזרתני כרוב חסדך
+9721	B	B	51:27	B_XXI_Verso	21v:8	ועמדתי	ועמדתי	later	עמד	True	True	ראו בעיניכם כי קטן הייתי <<ועמדתי>> בה ומצאתיה רבים שמעו למודי
+10054	C	C	6:8	C_III_Verso	3v:3	יעמד	יעמד	later	עמד	True	False	יש אוהב בפני עת ולא <<יעמד>> ביום צרה אם תשיגנו נרפך
+10280	C	C	37:26	C_V_Verso	5v:9	[ע][ו][מ][ד]	עומד	later	עמד	False	False	חכם {ע[ם]} {[י][נ][ח]ל} כבוד ושמ[ו] <<[ע][ו][מ][ד]>> {[ב][ח][י]י} עולם חכם במעט דבר
+10311	C	C	21:22	C_VI_Recto	6r:7	יעמוד	יעמוד	later	עמד	True	True	{א} בית וכבוד לאיש בח <<יעמוד>> כסיל מפתח יביט אל בית
+10558	C	C	36:29	C_VIII_Verso	8v:6	העמיד	העמיד	excluded	"C 36:29 corrupt line (B/D: ועמוד משען ""pillar""); not counted"	True	False	קנה עיר מבצר {°°נה} משען <<העמיד>> באין גדר {[י][ב][ו]ער} כרם ובאין
+10624	D	D	7:22	D_I_Recto	1r:5	העמידה	העמידה	later	עמד	True	False	ראה עיניך {[ו][א][ם]} אמנה היא <<העמידה>> בנים לך {[י][ס]ר} אותם ושא
+10920	D	D	36:29	D_II_Recto	2r:1	ועמוד	ועמוד	excluded	noun (pillar/standing place)	True	False	אשה {ר[א][ש][י][ת]} {ק[נ][י]ן} עיר מבצר <<ועמוד>> {מ[ש][ע]ן} באין גדר יב[ו]ער כרם
+10982	D	D	37:4	D_II_Recto	2r:8	יעמוד	יעמוד	later	עמד	True	False	על שחת ובעת צוקה מנוב <<יעמוד>> אוהב טוב נלחם עם זר
+11028	D	D	37:9	D_II_Recto	2r:14	וקם	וקם	earlier	קום qal	True	False	יפול ויאמר לך להביט דרכיך <<וקם>> מנגד להביט ראשך אל תועץ
+11198	D	D	37:26	D_II_Verso	2v:14	עומד	עומד	later	עמד	True	False	חכם עם ינהל כבוד ושמו <<עומד>> בחיי עולם בני בחמר נס
+12206	M	M	41:22	Masada_IV.pdf	IV:2	ומהתקומם	ומהתקומם	earlier	קום hitpolel inf	True	False	זרה מהתעשק {ע} חה לך <<ומהתקומם>> על יצעיה מאהב על דברי
+12460	M	M	42:23	Masada_V.pdf	V:13	ועמ[ד]	ועמד	later	עמד	True	True	ניצוץ וחזות מראה הכל חי <<ועמ[ד]>> לעד כל צרך והכל נשמר
+12552	M	M	43:10	Masada_VI.pdf	VI:3	יעמד	יעמד	later	עמד	True	False	משריק במ רמ בדבר אדני <<יעמד>> חק ולא ישח באשמרתם ראה
+12711	M	M	44:12	Masada_VII.pdf	VII:19	עמד	עמד	later	עמד	True	True	זרעם נאמן טובם ונח בבריתם <<עמד>> זרעם וצאצאיהם עד עולם יעמד
+12716	M	M	44:13	Masada_VII.pdf	VII:20	יעמד	יעמד	later	עמד	True	False	עמד זרעם וצאצאיהם עד עולם <<יעמד>> זרעם וכבודם לא ימח וג

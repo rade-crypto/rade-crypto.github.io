@@ -1,0 +1,28 @@
+idx	witness	corpus	verse	source_file	line	form	consonantal	decision	note	countable	in_dedup	context
+53	A	A	3:13	A_I_Recto	1r:6	אותו	אותו	object		True	True	מדעו עזוב לו ואל תכלים <<אותו>> כל ימי חייו צדקת אב
+584	A	A	5:12	A_II_Recto	2r:2	אתך	אתך	"prep ""with"""		True	True	רוח השב פתגם אם יש <<אתך>> ענה רעך ואם אין ידך
+1074	A	A	7:23	A_II_Verso	2v:25	אותם	אותם	object		True	True	היא העמידה בנים לך יסיר <<אותם>> ושא להם נשים בנעוריהם בנות
+2976	A	A	15:15	A_VI_Recto	6r:27	אתה	אתה	"pronoun ""you"""		True	False	רצונו אם תאמין בו גם <<אתה>> תחיה מוצק לפניך אש ומים
+3042	A	A	16:2	A_VI_Verso	6v:4	אתם	אתם	"prep ""with"""		True	False	פרו אל תבעבם אם אין <<אתם>> יראת ייי אל תאמין בחייהם
+3703	B	B	15:15	B_II_Recto	2r:17	אתה	אתה	"pronoun ""you"""		True	True	{[א]ם} ת[א]מין בו גם <<אתה>> תחיה מוצק לפניך מים ואש
+3780	B	B	16:2	B_II_Verso	2v:8	אתם	אתם	"prep ""with"""		True	True	{[א]ל} תשמח בם כי אין <<אתם>> יראת ייי {[א][ל]} {[ת][א][מ][י][ן]} [ב]חייהם
+4391	B	B	31:20	B_IV_Recto	4r:15	אתו	אתו	"prep ""with"""		True	True	קרב צולל וקם בבקר ונפשו <<אתו>> {ש°°°} {°°°} {°°°} {[א]נ[ו]ש} נבכון
+4670	B	B	32:7	B_V_Recto	5r:9	אתה	אתה	"pronoun ""you"""		True	True	תירוש דבר נער אם צריך <<אתה>> בחזק פעמים ושלש אם
+4671	Bmg	marginalia	32:7	B_V_Recto	5r:9	אתך	אתך	object?		True	False	<<אתך>>
+5244	B	B	36:22	B_VI_Verso	6v:16	אתה	אתה	"pronoun ""you"""		True	True	כל אפסי ארץ כי <<אתה>> אל עולם כל מאכל
+5780	B	B	38:1	B_VIII_Recto	8r:7	אתו	אתו	object		True	True	לפני צרכו גם <<אתו>> חלק אל
+5790	Bmg	marginalia	38:1	B_VIII_Recto	8r:7	אותו	אותו	object		True	False	רופא לפי צרכך כי גם <<אותו>> חלק אל
+6232	B	B	39:31	B_IX_Verso	9v:4	אתם	אתם	object		True	True	ולעת יפקדו בצותו <<אתם>> ישישו ובחקם לא ימרו פיו
+8195	B	B	45:25	B_XV_Verso	15v:7	אתכם	אתכם	object		True	True	נא את ייי הטוב המעטר <<אתכם>> כבוד ויתן לכם חכמת לב
+8734	B	B	48:4	B_XVII_Verso	17v:8	אתה	אתה	"pronoun ""you"""		True	True	{°°°} {°°} אשות מה נורא <<אתה>> אליהו ואשר {כ[מ][ו]ך} יתפאר המקים
+9454	B	B	51:10	B_XX_Verso	20v:6	אתה	אתה	"pronoun ""you"""		True	True	שאול שועתי וארומם ייי אבי <<אתה>> כי אתה גבור ישעי אל
+9456	B	B	51:10	B_XX_Verso	20v:6	אתה	אתה	"pronoun ""you"""		True	True	וארומם ייי אבי אתה כי <<אתה>> גבור ישעי אל תרפני ביום
+9621	B	B	51:17	B_XXI_Recto	21r:13	אתן	אתן	"verb ""I will give"""		True	True	עלה היה לי לכבוד ולמלמדי <<אתן>> הודאה חשבתי להיטיב ולא אהפך
+9715	B	B	51:26	B_XXI_Verso	21v:7	אתה	אתה	object		True	True	היא למבקשיה ונותן נפשו מוצא <<אתה>> ראו בעיניכם כי קטן הייתי
+9810	C	C	3:18	C_I_Recto	1r:7	אתה	אתה	"pronoun ""you"""		True	False	ומאיש מתן תאהב בני גדול <<אתה>> כן תשפיל נפשך ובעיני אלהים
+9970	C	C	5:12	C_II_Verso	2v:8	אתך	אתך	"prep ""with"""		True	False	ענה תענה נכונה אם יש <<אתך>> ענה ריעיך ואם אין שים
+10180	C	C	7:23	C_IV_Verso	4v:8	אותם	אותם	object		True	False	ממנו חופש בנים לך יסר <<אותם>> ושא להם בנעורי בנים לך
+10628	D	D	7:23	D_I_Recto	1r:5	אותם	אותם	object		True	False	היא העמידה בנים לך {[י][ס]ר} <<אותם>> ושא {[ל][ה]ם} נשים בנעוריהם בנות
+11395	E	E	33:11	E_I_Recto	1r:19	אותם	אותם	object		True	True	אדם דעת ייי תבדילם וישם <<אותם>> דרי {הא[ר][ץ]}
+11747	F	F	32:7	F_I_Recto	1r:22	אותך	אותך	object		True	False	נועם תירוש {[ד][ב][ר]} נער צורך <<אותך>> פעמים ושלש אם ישאלך
+12858	11QPsa	11QPsa	51:17	ETCBC/dss	21:14	אתן	אתן	"verb ""I will give"""		True	False	לקח ועלה היתה לי למלמדי <<אתן>> הודי זמותי ואשחקה קנאתי בטוב

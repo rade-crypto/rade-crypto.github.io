@@ -1,0 +1,158 @@
+idx	witness	corpus	verse	source_file	line	form	consonantal	decision	note	countable	in_dedup	context
+2478	A	A	13:11	A_V_Verso	5v:6	נסיון	נסיון	not 2/3mp yiqtol	noun/name/3ms of hollow-nun root/ptc	True	True	לרב שיחו כי מהרבות שיחו <<נסיון>> ושחק לך וחקרך אכזרי יתן
+3975	B	B	30:19	B_III_Recto	3r:11	יאכלון	יאכלון	later	yiqtol 3mp/2mp + -ûn	True	True	יט[ב] {[ל][א][ל][י][ל]י} הגוים אשר לא <<יאכלון>> ולא {יר[י][ח][ו][ן]} כן מי שיש
+3977	B	B	30:19	B_III_Recto	3r:11	יר[י][ח][ו][ן]	יריחון	not 2/3mp yiqtol	noun/name/3ms of hollow-nun root/ptc	False	False	הגוים אשר לא יאכלון ולא <<יר[י][ח][ו][ן]>> כן מי שיש לו עושר
+4362	B	B	31:19	B_IV_Recto	4r:13	נבכון	נבכון	not 2/3mp yiqtol	noun/name/3ms of hollow-nun root/ptc	True	True	תושט יד הלא די אנוש <<נבכון>> מזער ועל יצועיו
+4396	B	B	31:20	B_IV_Recto	4r:16	נבכון	נבכון	not 2/3mp yiqtol	noun/name/3ms of hollow-nun root/ptc	True	True	אתו {ש°°°} {°°°} {°°°} {[א]נ[ו]ש} <<נבכון>> {°°°°} {°°°°} {°°°} ילין עד
+5693	B	B	37:25	B_VII_Verso	7v:16	ישורון	ישורון	not 2/3mp yiqtol	noun/name/3ms of hollow-nun root/ptc	True	False	<<ישורון>>
+6392	Bmg	marginalia	40:11	B_X_Recto	10r:3	נכשכון	נכשכון	not 2/3mp yiqtol	noun/name/3ms of hollow-nun root/ptc	True	False	ויש׳ <<נכשכון>> חיל מחיל
+7485	B	B	43:17	B_XIII_Recto	13r:1	ישכון	ישכון	not 2/3mp yiqtol	noun/name/3ms of hollow-nun root/ptc	True	True	רשף יניף שלגו וכארבה <<ישכון>> דרתו תואר לבנה יגהה
+7499	B	B	43:19	B_XIII_Recto	13r:3	ישכון	ישכון	not 2/3mp yiqtol	noun/name/3ms of hollow-nun root/ptc	True	True	יהמה לבב וגם כפור כמלח <<ישכון>> ויציץ כספיר ציצים צינת
+8118	B	B	45:21	B_XV_Recto	15r:14	יאכלון	יאכלון	later	yiqtol 3mp/2mp + -ûn	True	True	נתן לו לחם אשי ייי <<יאכלון>> חלקו ומתנה לו ולזרעו אך
+9686	B	B	51:24	B_XXI_Verso	21v:4	תחסרון	תחסרון	later	yiqtol 3mp/2mp + -ûn	True	True	ולינו בבית מדרשי עד מתי <<תחסרון>> מן אילו ואילו ונפשכם צמאה
+11173	D	D	37:25	D_II_Verso	2v:12	ישרון	ישרון	not 2/3mp yiqtol	noun/name/3ms of hollow-nun root/ptc	True	True	חיי אנוש ימים מספר וחיי <<ישרון>> ימי אין מספר
+11234	D	D	37:30	D_II_Verso	2v:18	יקנון	יקנון	not 2/3mp yiqtol	noun/name/3ms of hollow-nun root/ptc	True	False	על מטעמים כי ברב אוכל <<יקנון>> חולי והמזיע יגוע על זרא
+146	A	A	3:27	A_I_Recto	1r:15	ירבו	ירבו	earlier	yiqtol 3mp/2mp in -û	True	True	טובות ינהג בהם לב כבד <<ירבו>> מכאביו ומתחולל מוסיף עון על
+185	A	A	3:30	A_I_Recto	1r:19	יכבו	יכבו	earlier	yiqtol 3mp/2mp in -û	True	True	מקשבת לחכמה תשמח אש לוהטת <<יכבו>> מים כן צדקה תכפר חטאת
+193	A	A	3:31	A_I_Recto	1r:20	יקראנו	יקראנו	not counted	yiqtol+object suffix, qatal 3cp of I-y root, imperative or unclear	True	True	צדקה תכפר חטאת פועל טוב <<יקראנו>> בדרכיו ובעת מוטו ימצא משען
+293	A	A	4:12	A_I_Verso	1v:3	יפיקו	יפיקו	earlier	yiqtol 3mp/2mp in -û	True	True	בה אהביה אהבו חיים ומבקשיה <<יפיקו>> רצון מייי ותמכיה ימצאו כבוד
+297	A	A	4:13	A_I_Verso	1v:3	ימצאו	ימצאו	earlier	yiqtol 3mp/2mp in -û	True	True	ומבקשיה יפיקו רצון מייי ותמכיה <<ימצאו>> כבוד מייי ויחנו בברכת ייי
+300	A	A	4:13	A_I_Verso	1v:3	ויחנו	ויחנו	earlier	yiqtol 3mp/2mp in -û	True	True	מייי ותמכיה ימצאו כבוד מייי <<ויחנו>> בברכת ייי משרתי קדש משרתיה
+323	A	A	4:17	A_I_Verso	1v:6	יבחרנו	יבחרנו	not counted	yiqtol+object suffix, qatal 3cp of I-y root, imperative or unclear	True	True	כי בהתנכר אלך עמו ולפנים <<יבחרנו>> בנסיונות ועד עת ימלא לבו
+557	A	A	5:8	A_I_Verso	1v:28	יועילו	יועילו	earlier	yiqtol 3mp/2mp in -û	True	True	על נכסי שקר כי לא <<יועילו>> ביום עברה אל תהיה זורה
+667	A	A	6:6	A_II_Recto	2r:10	יהיו	יהיו	earlier	yiqtol 3mp/2mp in -û	True	True	חן שואלו שלום אנשי שלומך <<יהיו>> רבים ובעל סודך אחד מאלף
+988	A	A	7:12	A_II_Verso	2v:16	יחדו	יחדו	not verb	noun+3ms suffix / imperative	True	True	אח וכן על רע וחבר <<יחדו>> אל תחפץ לכחש על כחש
+995	A	A	7:13	A_II_Verso	2v:17	תקותו	תקותו	not verb	noun+3ms suffix / imperative	True	True	תחפץ לכחש על כחש כי <<תקותו>> לא תנעם אל תסוד בעדת
+1480	A	A	9:10	A_III_Verso	3v:10	ת[ש]°תינו	תשתינו	not counted	yiqtol+object suffix, qatal 3cp of I-y root, imperative or unclear	True	True	חדש אוהב חדש וישן אחר <<ת[ש]°תינו>> {[א][ל]} תקנא באיש רשע כי
+1489	A	A	9:11	A_III_Verso	3v:11	יומו	יומו	not verb	noun+3ms suffix / imperative	True	True	רשע כי לא תדע מה <<יומו>> אל {ת[ק][נ][א]} בזדון מצליח זכר
+1582	A	A	10:2	A_III_Verso	3v:20	יושביו	יושביו	not verb	noun+3ms suffix / imperative	True	True	כן מליציו וכראש עיר כן <<יושביו>> ביד אלהים ממשלת כל גבר
+1776	A	A	10:29	A_IV_Recto	4r:14	יצדיקנו	יצדיקנו	not counted	yiqtol+object suffix, qatal 3cp of I-y root, imperative or unclear	True	False	כיוצא בהם מרשיע נפשו מי <<יצדיקנו>> ומי יכבד מקלה נפשו יש
+1812	A	A	11:1	A_IV_Recto	4r:18	תשיבנו	תשיבנו	not counted	yiqtol+object suffix, qatal 3cp of I-y root, imperative or unclear	True	False	דל תשא ראשו ובין נדיבים <<תשיבנו>> אל תהלל אדם בתארו ואל
+1845	A	A	11:5	A_IV_Recto	4r:22	ישבו	ישבו	not counted	yiqtol+object suffix, qatal 3cp of I-y root, imperative or unclear	True	False	ונעלם {מ[א][ד]ם} פעלו רבים נדכאים <<ישבו>> על כסא ובל על לב
+2017	A	A	11:22	A_IV_Verso	4v:12	תקותו	תקותו	not verb	noun+3ms suffix / imperative	True	True	ברכת אל בגרל צדיק ובעת <<תקותו>> תפרח אל תאמר כי עש[י]תי
+2098	A	A	11:30	A_IV_Verso	4v:21	ירבו	ירבו	earlier	yiqtol 3mp/2mp in -û	True	True	גאה כזאב ארב לטרף מה <<ירבו>> פשעי בוצע ככלב הוא בא
+2354	A	A	12:18	A_V_Recto	5r:21	ידו	ידו	not verb	noun+3ms suffix / imperative	True	True	יתפש עקב ראש יניע והניף <<ידו>> ולרוב הלחש ישנא פנים נוגע
+2362	A	A	13:1	A_V_Recto	5r:22	ידו	ידו	not verb	noun+3ms suffix / imperative	True	True	ישנא פנים נוגע בזפת תדבק <<ידו>> וחובר אל לץ ילמד דרכו
+2474	A	A	13:11	A_V_Verso	5v:5	שיחו	שיחו	not verb	noun+3ms suffix / imperative	True	True	לחפש עמו ואל תאמן לרב <<שיחו>> כי מהרבות שיחו נסיון ושחק
+2477	A	A	13:11	A_V_Verso	5v:5	שיחו	שיחו	not verb	noun+3ms suffix / imperative	True	True	תאמן לרב שיחו כי מהרבות <<שיחו>> נסיון ושחק לך וחקרך אכזרי
+2589	A	A	13:23	A_V_Verso	5v:17	יגיעו	יגיעו	earlier	yiqtol 3mp/2mp in -û	True	True	נסכתו ואת שכלו עד עב <<יגיעו>> דל דובר מי זה יאמרו
+2594	A	A	13:23	A_V_Verso	5v:17	יאמרו	יאמרו	earlier	yiqtol 3mp/2mp in -û	True	True	יגיעו דל דובר מי זה <<יאמרו>> ואם נתקל גם הם יהדפוהו
+2644	A	A	14:2	A_V_Verso	5v:22	תוחלתו	תוחלתו	not verb	noun+3ms suffix / imperative	True	True	לא חסרתו נפשו ולא שבתה <<תוחלתו>> ללב קטן לא נאוה עושר
+2785	A	A	14:17	A_VI_Recto	6r:7	יגועו	יגועו	earlier	yiqtol 3mp/2mp in -û	True	True	כבגד יבלה וחוק עולם גוע <<יגועו>> כפרח עלה על עץ רענן
+2806	A	A	14:19	A_VI_Recto	6r:8	ירקבו	ירקבו	earlier	yiqtol 3mp/2mp in -û	True	True	כל מעשיו רקוב <<ירקבו>> ופעל ידיו ימשך אחריו אשרי
+2808	A	A	14:19	A_VI_Recto	6r:8	ידיו	ידיו	not verb	noun+3ms suffix / imperative	True	True	כל מעשיו רקוב ירקבו ופעל <<ידיו>> ימשך אחריו אשרי אנוש בחכמה
+2839	A	A	14:24	A_VI_Recto	6r:12	יתריו	יתריו	not verb	noun+3ms suffix / imperative	True	True	יצותת החונה סביבות ביתה והביא <<יתריו>> בקירה ונוטה אהלו על ידה
+2870	A	A	15:2	A_VI_Recto	6r:16	תקבלנו	תקבלנו	not counted	yiqtol+object suffix, qatal 3cp of I-y root, imperative or unclear	True	False	ידריכנה וקדמתהו כאם וכאשת נעורים <<תקבלנו>> והאכילתהו לחם שכל ומי תבונה
+2876	A	A	15:3	A_VI_Recto	6r:17	תשקנו	תשקנו	not counted	yiqtol+object suffix, qatal 3cp of I-y root, imperative or unclear	True	False	והאכילתהו לחם שכל ומי תבונה <<תשקנו>> ונשען עליה ולא ימוט ובה
+2896	A	A	15:6	A_VI_Recto	6r:19	תורישנו	תורישנו	not counted	yiqtol+object suffix, qatal 3cp of I-y root, imperative or unclear	True	False	ששון ושמחה ימצא ושם עולם <<תורישנו>> לא ידריכוה מתי שוא ואנשי
+2964	A	A	15:14	A_VI_Recto	6r:25	יצרו	יצרו	not verb	noun+3ms suffix / imperative	True	False	וישתיהו ביד חותפו ויתנהו ביד <<יצרו>> אם תחפץ תשמר מצוה ותבונה
+3003	A	A	15:19	A_VI_Recto	6r:29	יראו	יראו	earlier	yiqtol 3mp/2mp in -û	True	False	גבורות וחוזה כלם עיני אל <<יראו>> מעשיו
+3151	A	A	16:12	A_VI_Verso	6v:15	תוכחתו	תוכחתו	not verb	noun+3ms suffix / imperative	True	True	יגיה רגזו כרב רחמיו כן <<תוכחתו>> איש כמפעליו ישפט לא ימלט
+3182	A	A	16:15	A_VI_Verso	6v:18	ידעו	ידעו	not counted	yiqtol+object suffix, qatal 3cp of I-y root, imperative or unclear	True	True	את לב פרעה אשר לא <<ידעו>> שמעשיו מגולין תחת השמים רחמיו
+3188	A	A	16:16	A_VI_Verso	6v:19	יראו	יראו	earlier	yiqtol 3mp/2mp in -û	True	True	שמעשיו מגולין תחת השמים רחמיו <<יראו>> לכל בריותיו ואורו ושבחו חלק
+3233	A	A	16:19	A_VI_Verso	6v:24	ירעשו	ירעשו	earlier	yiqtol 3mp/2mp in -û	True	True	ויסודי תבל בהביטו אליהם רעש <<ירעשו>> גם עלי לא ישים לב
+3258	A	A	16:22	A_VI_Verso	6v:26	יגידנו	יגידנו	not counted	yiqtol+object suffix, qatal 3cp of I-y root, imperative or unclear	True	True	יודע מה מעשה צדק מי <<יגידנו>> ותקות מה כי אצוק חוק
+3266	A	A	16:23	A_VI_Verso	6v:27	יבינו	יבינו	earlier	yiqtol 3mp/2mp in -û	True	True	כי אצוק חוק חסדי לב <<יבינו>> אלה וגבור פותה יחשב זאת
+3278	A	A	16:24	A_VI_Verso	6v:28	שימו	שימו	not verb	noun+3ms suffix / imperative	True	True	אלי וקחו שכלי ועל דברי <<שימו>> לב אביעה במשקל רוחי ובהצנע
+3378	B	B	10:29	B_I_Recto	1r:13	יצדיקנו	יצדיקנו	not counted	yiqtol+object suffix, qatal 3cp of I-y root, imperative or unclear	True	True	כיו[צ][א] בני מרשיע נפשו מי <<יצדיקנו>> ומי יכבד {[מ][ק][ל][ה]} {[נ][פ][ש][ו]} דל
+3417	B	B	11:1	B_I_Recto	1r:17	תושיבנו	תושיבנו	not counted	yiqtol+object suffix, qatal 3cp of I-y root, imperative or unclear	True	True	דל תשא ראשו ובין נדיבים <<תושיבנו>> אל תהלל אדם בתוארו ואל
+3480	B	B	11:5	B_I_Verso	1v:7	יעטו	יעטו	earlier	yiqtol 3mp/2mp in -û	True	True	צניף {[ע][ל]} כסא ושפלי לב <<יעטו>> צניף {ד} ונכבדים נתנו ביד
+3541	B	B	11:10	B_I_Verso	1v:15	[ת]מלטנו	תמלטנו	not counted	yiqtol+object suffix, qatal 3cp of I-y root, imperative or unclear	True	True	אם תברח לא תדביק ול[א] <<[ת]מלטנו>> אם תנוס בני למה {ת[ר][ב][ה]}
+3576	B	B	15:2	B_II_Recto	2r:2	תקבלנו	תקבלנו	not counted	yiqtol+object suffix, qatal 3cp of I-y root, imperative or unclear	True	True	ידריכנה וקדמתהו כאם וכאשת נעורים <<תקבלנו>> והאכילתהו לחם שכל ומי תבונה
+3583	B	B	15:3	B_II_Recto	2r:3	תשקנו	תשקנו	not counted	yiqtol+object suffix, qatal 3cp of I-y root, imperative or unclear	True	True	לחם שכל ומי תבונה <<תשקנו>> ונשען עליה ולא ימוט ובה
+3687	B	B	15:14	B_II_Recto	2r:15	יצרו	יצרו	not verb	noun+3ms suffix / imperative	True	True	וישיתהו ביד {[ח][ו][ת][פ][ו]} ויתנהו ביד <<יצרו>> אם תחפץ תשמר מצוה ואמונה
+3813	B	B	16:3	B_II_Verso	2v:12	שיהיו	שיהיו	earlier	yiqtol 3mp/2mp in -û	True	True	זדון {[ת][ו]ב} מות ערירי ממי <<שיהיו>> לו בנים רבים בני עולה
+4177	Bmg	marginalia	31:9	B_III_Verso	3v:13	תאשרנו	תאשרנו	not counted	yiqtol+object suffix, qatal 3cp of I-y root, imperative or unclear	True	False	מי הוא <<תאשרנו>> כי הפליא לעשות
+4225	B	B	31:11	B_III_Verso	3v:18	ותהלתו	ותהלתו	not verb	noun+3ms suffix / imperative	True	True	אבה על כן חזק טובו <<ותהלתו>> יספר [ק]הל
+4231	B	B	31:12	B_IV_Recto	4r:1	יחדו	יחדו	not verb	noun+3ms suffix / imperative	True	True	מוסר לחם ויין <<יחדו>> בני אם על שלחן איש
+4326	Bmg	marginalia	31:16	B_IV_Recto	4r:9	תגלו	תגלו	not counted	yiqtol+object suffix, qatal 3cp of I-y root, imperative or unclear	True	False	כאיש נכח ואל תעט פן <<תגלו>> תגלע
+4367	B	B	31:19	B_IV_Recto	4r:13	יצועיו	יצועיו	not verb	noun+3ms suffix / imperative	True	True	נבכון מזער ועל <<יצועיו>> לא ישיק מכאוב ונדד
+4368	Bmg	marginalia	31:19	B_IV_Recto	4r:13	יצוריו	יצוריו	not verb	noun+3ms suffix / imperative	True	False	נכון מועד <<יצוריו>>
+4505	B	B	31:27	B_IV_Verso	4v:10	ישתנו	ישתנו	not counted	yiqtol+object suffix, qatal 3cp of I-y root, imperative or unclear	True	True	למי היין חיים לאנוש אם <<ישתנו>> במתכנתו מה חיים חסר היין
+4686	B	B	32:8	B_V_Recto	5r:10	יחדו	יחדו	not verb	noun+3ms suffix / imperative	True	True	ומעט הרבה ודמה ליודע ומחריש <<יחדו>> בין זקנים אל תקומם ושרים
+4789	B	B	32:16	B_V_Verso	5v:5	יבינו	יבינו	earlier	yiqtol 3mp/2mp in -û	True	True	ותחבולות מנשף יוציא יראי ייי <<יבינו>> משפטו וכחמות רבות יוציאו
+4794	B	B	32:16	B_V_Verso	5v:5	יוציאו	יוציאו	earlier	yiqtol 3mp/2mp in -û	True	True	יבינו משפטו וכחמות רבות <<יוציאו>> מלבם איש חכם יטה
+4920	B	B	33:3	B_V_Verso	5v:18	ותורתו	ותורתו	not verb	noun+3ms suffix / imperative	True	True	{[א][ז][נ][ו]} איש נבון יבין דבר <<ותורתו>> {ט°} {ק}
+5112	B	B	36:3	B_VI_Verso	6v:2	ויראו	ויראו	volitive (not counted)	jussive/neg. volitive 2/3mp	True	True	הניף יד על עם נכר <<ויראו>> את גבורתיך כאשר נקדשת לעיניהם
+5133	B	B	36:5	B_VI_Verso	6v:4	וידעו	וידעו	volitive (not counted)	jussive/neg. volitive 2/3mp	True	True	<<וידעו>> כאשר ידענו כי אין אלהים
+5135	B	B	36:5	B_VI_Verso	6v:4	ידענו	ידענו	not counted	yiqtol+object suffix, qatal 3cp of I-y root, imperative or unclear	True	True	וידעו כאשר <<ידענו>> כי אין אלהים זולתך חדש
+5190	B	B	36:13	B_VI_Verso	6v:9	ויתנחלו	ויתנחלו	volitive (not counted)	jussive/neg. volitive 2/3mp	True	True	זולתי אסוף כל שבטי יעקב <<ויתנחלו>> כימי קדם רחם על עם
+5229	B	B	36:21	B_VI_Verso	6v:14	יאמינו	יאמינו	volitive (not counted)	jussive/neg. volitive 2/3mp	True	True	תן את פעלת קוויך ונביאיך <<יאמינו>> תשמע תפלת עבדיך כרצונך
+5238	B	B	36:22	B_VI_Verso	6v:16	וידעו	וידעו	volitive (not counted)	jussive/neg. volitive 2/3mp	True	True	כרצונך על עמך <<וידעו>> כל אפסי ארץ כי
+5239	Bmg	marginalia	36:22	B_VI_Verso	6v:16	ויראו	ויראו	volitive (not counted)	jussive/neg. volitive 2/3mp	True	False	ברצונך <<ויראו>>
+5298	Bmg	marginalia	36:25	B_VII_Recto	7r:2	ישיבנו	ישיבנו	not counted	yiqtol+object suffix, qatal 3cp of I-y root, imperative or unclear	True	False	<<ישיבנו>>
+5642	Bmg	marginalia	37:18	B_VII_Verso	7v:11	יפריחו	יפריחו	earlier	yiqtol 3mp/2mp in -û	True	False	תחבולות לבב ארבעה שבטים <<יפריחו>> טוב ורעה וחיים ומות
+5743	Bmg	marginalia	37:29	B_VIII_Recto	8r:3	תזרו	תזרו	not counted	yiqtol+object suffix, qatal 3cp of I-y root, imperative or unclear	True	False	אל <<תזרו>> אל תענוג ואל תתחנג אל
+5765	B	B	37:31	B_VIII_Recto	8r:5	יגועו	יגועו	earlier	yiqtol 3mp/2mp in -û	True	True	אל זרא בלא מוסר רבים <<יגועו>> ועועו והנשמר יוסיף
+5767	Bmg	marginalia	37:31	B_VIII_Recto	8r:5	יגועו	יגועו	earlier	yiqtol 3mp/2mp in -û	True	False	<<יגועו>> ובהשמר
+6092	Bmg	marginalia	39:16	B_IX_Recto	9r:2	יספיקו	יספיקו	earlier	yiqtol 3mp/2mp in -û	True	False	לכל צריך ב׳ <<יספיקו>>
+6163	B	B	39:24	B_IX_Recto	9r:12	יישרו	יישרו	earlier	yiqtol 3mp/2mp in -û	True	True	ויהפך למלח משקה {ת} תמים <<יישרו>> כן לזרים
+6169	B	B	39:24	B_IX_Recto	9r:12	[י][ס]תוללו	יסתוללו	earlier	yiqtol 3mp/2mp in -û	True	True	כן לזרים <<[י][ס]תוללו>> {[ל][ט]וב} חלק מראש כן לרעים
+6194	B	B	39:27	B_IX_Recto	9r:16	ייטיבו	ייטיבו	earlier	yiqtol 3mp/2mp in -û	True	True	יצהר ובגד כל {°} ל[ט]ובים <<ייטיבו>> כן לרעים לרעה נהפכו
+6202	B	B	39:28	B_IX_Recto	9r:17	יעתיק[ו]	יעתיקו	earlier	yiqtol 3mp/2mp in -û	True	False	לרעה נהפכו {°°°} {°°ם} <<יעתיק[ו]>>
+6230	B	B	39:30	B_IX_Verso	9v:3	יפקדו	יפקדו	earlier	yiqtol 3mp/2mp in -û	True	True	והמה באוצר ולעת <<יפקדו>> בצותו אתם ישישו ובחקם לא
+6233	B	B	39:31	B_IX_Verso	9v:4	ישישו	ישישו	earlier	yiqtol 3mp/2mp in -û	True	True	יפקדו בצותו אתם <<ישישו>> ובחקם לא ימרו פיו
+6236	B	B	39:31	B_IX_Verso	9v:4	ימרו	ימרו	earlier	yiqtol 3mp/2mp in -û	True	True	בצותו אתם ישישו ובחקם לא <<ימרו>> פיו על כן מראש
+6411	B	B	40:14	B_X_Recto	10r:5	יגילו	יגילו	earlier	yiqtol 3mp/2mp in -û	True	True	עם שאתו כפים <<יגילו>> כי פתאם לנצח יתם נוצר
+6458	B	B	40:18	B_X_Recto	10r:9	ימתקו	ימתקו	earlier	yiqtol 3mp/2mp in -û	True	True	חיי יין ושכר <<ימתקו>> ומשניהם מוצא אוצר ילד
+6465	B	B	40:19	B_X_Recto	10r:10	יעמידו	יעמידו	earlier	yiqtol 3mp/2mp in -û	True	True	מוצא אוצר ילד ועיר <<יעמידו>> שם ומשניהם מוצא חכמה שגר
+6472	B	B	40:19	B_X_Recto	10r:11	יפריחו	יפריחו	earlier	yiqtol 3mp/2mp in -û	True	True	ומשניהם מוצא חכמה שגר ונטע <<יפריחו>> שם ומשניהם אשה נחשקת יין
+6479	B	B	40:20	B_X_Recto	10r:12	יעליצו	יעליצו	earlier	yiqtol 3mp/2mp in -û	True	True	ומשניהם אשה נחשקת יין ושכר <<יעליצו>> לב ומשניהם אהבת דודים חל[י]ל
+6487	B	B	40:21	B_X_Recto	10r:13	יעריבו	יעריבו	earlier	yiqtol 3mp/2mp in -û	True	True	אהבת דודים חל[י]ל ונבל <<יעריבו>> שיר ומשניהם לשון ברה {°°}
+6493	B	B	40:22	B_X_Recto	10r:14	°יחמידו	יחמידו	earlier	yiqtol 3mp/2mp in -û	True	True	שיר ומשניהם לשון ברה {°°} <<°יחמידו>> עין ומשניהם צמחי שדה
+6501	B	B	40:23	B_X_Recto	10r:15	ינהגו	ינהגו	earlier	yiqtol 3mp/2mp in -û	True	True	צמחי שדה {°°} {ת} <<ינהגו>> ומשניהם אשה משכלת
+6539	B	B	40:26	B_X_Recto	10r:18	יגי[ל]ו	יגילו	earlier	yiqtol 3mp/2mp in -û	True	True	וכס[ף] {[ר][ג]ל} ומשנ[י][ה][ם] חיל וכח <<יגי[ל]ו>> לב ומשניהם יראת אלהים
+6727	Bmg	marginalia	41:9	B_X_Verso	10v:18	תפרו	תפרו	earlier	yiqtol 3mp/2mp in -û	True	False	<<תפרו>>
+6731	B	B	41:9	B_X_Verso	10v:18	תולידו	תולידו	earlier	yiqtol 3mp/2mp in -û	True	True	{°°°} ידי אסון {°°} <<תולידו>> לאנחה
+6734	Bmg	marginalia	41:9	B_X_Verso	10v:18	תפרו	תפרו	earlier	yiqtol 3mp/2mp in -û	True	False	אם <<תפרו>> על יד אסון ואם מולידו
+6742	B	B	41:9	B_XI_Recto	11r:1	תכשלו	תכשלו	earlier	yiqtol 3mp/2mp in -û	True	True	אם <<תכשלו>> לשמחת עולם ואם תמותו לקללה
+6746	B	B	41:9	B_XI_Recto	11r:1	תמותו	תמותו	earlier	yiqtol 3mp/2mp in -û	True	True	אם תכשלו לשמחת עולם ואם <<תמותו>> לקללה כל מאפס אל
+6904	Bmg	marginalia	41:21	B_XI_Recto	11r:16	התחרישו	התחרישו	not counted	yiqtol+object suffix, qatal 3cp of I-y root, imperative or unclear	True	False	משואל משאול שלום <<התחרישו>> אשה
+7549	B	B	43:24	B_XIII_Recto	13r:9	יספרו	יספרו	earlier	yiqtol 3mp/2mp in -û	True	True	בתהום איים יורדי הים <<יספרו>> קצהו לשמע אזננו נשתומם שם
+7601	B	B	43:30	B_XIII_Recto	13r:15	תוכלו	תוכלו	earlier	yiqtol 3mp/2mp in -û	True	True	{ל} הרימו קול בכל <<תוכלו>> כי יש עוד מרומים תחליפו
+7606	B	B	43:30	B_XIII_Recto	13r:15	תחליפו	תחליפו	earlier	yiqtol 3mp/2mp in -û	True	True	תוכלו כי יש עוד מרומים <<תחליפו>> כח ואל תלאו כי לא
+7609	B	B	43:30	B_XIII_Recto	13r:15	תלאו	תלאו	volitive (not counted)	jussive/neg. volitive 2/3mp	True	True	עוד מרומים תחליפו כח ואל <<תלאו>> כי לא ת׳
+7617	Bmg	marginalia	43:30	B_XIII_Recto	13r:15	תלאו	תלאו	volitive (not counted)	jussive/neg. volitive 2/3mp	True	False	מרוממיו החליפו כח ואל <<תלאו>> כי לא תח
+7712	B	B	44:9	B_XIII_Verso	13v:12	וישבתו	וישבתו	wayyiqtol (not counted)	wayyiqtol 3mp	True	True	מהם אשר אין לו זכר <<וישבתו>> כאשר שבתו כאשר לא היו
+7944	Bmg	marginalia	45:8	B_XIV_Verso	14v:7	תפארתו	תפארתו	not verb	noun+3ms suffix / imperative	True	False	תעופה <<תפארתו>>
+8031	B	B	45:15	B_XV_Recto	15r:2	ידו	ידו	not verb	noun+3ms suffix / imperative	True	True	תמיד פעמים [ו][י]מלא משה את <<ידו>> וימשחהו בשמן הקדש ותהי לו
+8079	B	B	45:18	B_XV_Recto	15r:9	ויחרו	ויחרו	wayyiqtol (not counted)	wayyiqtol 3mp	True	True	חק ומשפט את בני ישראל <<ויחרו>> בו זרים ויקנאו בו במדבר
+8082	B	B	45:18	B_XV_Recto	15r:9	ויקנאו	ויקנאו	wayyiqtol (not counted)	wayyiqtol 3mp	True	True	בני ישראל ויחרו בו זרים <<ויקנאו>> בו במדבר אנשי דתן ואבירם
+8479	B	B	47:4	B_XVI_Verso	16v:8	ידו	ידו	not verb	noun+3ms suffix / imperative	True	True	גבור ויסר {[ח][ר]פת} ע[ו]לם בהניפו <<ידו>> על קלע וישבר תפארת גלית
+8834	B	B	48:15	B_XVIII_Recto	18r:5	ויפצו	ויפצו	wayyiqtol (not counted)	wayyiqtol 3mp	True	True	מחטאתם עד אשר נסחו מארצם <<ויפצו>> בכל הארץ וישאר ליהודה מזער
+8873	B	B	48:18	B_XVIII_Recto	18r:11	ידו	ידו	not verb	noun+3ms suffix / imperative	True	True	וישלח את רב שקה ויט <<ידו>> על ציון ויגדף אל בגאונו
+8882	B	B	48:19	B_XVIII_Recto	18r:12	ויחילו	ויחילו	wayyiqtol (not counted)	wayyiqtol 3mp	True	True	אל בגאונו [ו][נ]מוגו בגאון לבם <<ויחילו>> כיולדה {[ו][י][ק][ר]או} אל אל עליון
+8888	B	B	48:20	B_XVIII_Recto	18r:13	ויפרשו	ויפרשו	wayyiqtol (not counted)	wayyiqtol 3mp	True	True	כיולדה {[ו][י][ק][ר]או} אל אל עליון <<ויפרשו>> אליו כפים {[ו][י][ש][מ][ע]} קול תפלתם
+8957	B	B	49:4	B_XVIII_Verso	18v:8	ויעזבו	ויעזבו	wayyiqtol (not counted)	wayyiqtol 3mp	True	True	מדויד יחזקיהו ויאשיהו כלם השחיתו <<ויעזבו>> תורת עליון מלכי יהודה עד
+8971	B	B	49:6	B_XVIII_Verso	18v:10	ויציתו	ויציתו	wayyiqtol (not counted)	wayyiqtol 3mp	True	True	לאחור וכבודם לגוי נבל נכרי <<ויציתו>> קרית קדש וישמו ארחתיה ביד
+8974	B	B	49:6	B_XVIII_Verso	18v:10	וישמו	וישמו	wayyiqtol (not counted)	wayyiqtol 3mp	True	True	נבל נכרי ויציתו קרית קדש <<וישמו>> ארחתיה ביד ירמיהו כי ענוהו
+9022	B	B	49:12	B_XIX_Recto	19r:1	וירימו	וירימו	wayyiqtol (not counted)	wayyiqtol 3mp	True	True	<<וירימו>> היכל קדש המכונן לכבוד עולם
+9206	B	B	50:16	B_XIX_Verso	19v:8	יריעו	יריעו	earlier	yiqtol 3mp/2mp in -û	True	True	מזבח ולסדר מערכות עליון אז <<יריעו>> בני אהרן הכהנים בחצצרות מקשה
+9212	B	B	50:16	B_XIX_Verso	19v:9	ויריעו	ויריעו	wayyiqtol (not counted)	wayyiqtol 3mp	True	True	בני אהרן הכהנים בחצצרות מקשה <<ויריעו>> וישמיעו קול אדיר להזכיר לפני
+9213	B	B	50:16	B_XIX_Verso	19v:9	וישמיעו	וישמיעו	wayyiqtol (not counted)	wayyiqtol 3mp	True	True	אהרן הכהנים בחצצרות מקשה ויריעו <<וישמיעו>> קול אדיר להזכיר לפני עליון
+9221	B	B	50:17	B_XIX_Verso	19v:10	יחדו	יחדו	not verb	noun+3ms suffix / imperative	True	True	להזכיר לפני עליון כל בשר <<יחדו>> נמהרו ויפלו על פניהם ארצה
+9223	B	B	50:17	B_XIX_Verso	19v:10	ויפלו	ויפלו	wayyiqtol (not counted)	wayyiqtol 3mp	True	True	עליון כל בשר יחדו נמהרו <<ויפלו>> על פניהם ארצה להשתחות לפני
+9240	B	B	50:19	B_XIX_Verso	19v:13	וירנו	וירנו	wayyiqtol (not counted)	wayyiqtol 3mp	True	True	קולו ועל המון העריכו נרו <<וירנו>> כל עם הארץ בתפלה לפני
+9257	B	B	50:20	B_XIX_Verso	19v:15	ידיו	ידיו	not verb	noun+3ms suffix / imperative	True	True	הגיע אליו אז ירד ונשא <<ידיו>> על כל קהל ישראל וברכת
+9268	B	B	50:21	B_XIX_Verso	19v:17	וישנו	וישנו	wayyiqtol (not counted)	wayyiqtol 3mp	True	True	ייי בשפתיו ובשם ייי התפאר <<וישנו>> לנפל שנית {בר[כ][ת]} {[א]ל} מפניו
+9662	B	B	51:21	B_XXI_Verso	21v:1	יהמו	יהמו	earlier	yiqtol 3mp/2mp in -û	True	True	מעי <<יהמו>> כתנור להביט בה בעבור כן
+9681	B	B	51:23	B_XXI_Verso	21v:3	ולינו	ולינו	not counted	yiqtol+object suffix, qatal 3cp of I-y root, imperative or unclear	True	True	ובלשוני אהודנו פנו אלי סכלים <<ולינו>> בבית מדרשי עד מתי תחסרון
+9730	B	B	51:28	B_XXI_Verso	21v:9	תקנו	תקנו	earlier	yiqtol 3mp/2mp in -û	True	True	שמעו למודי בנערותי וכסף וזהב <<תקנו>> בי תשמח נפשי בישיבתי ולא
+9736	B	B	51:29	B_XXI_Verso	21v:10	תבושו	תבושו	earlier	yiqtol 3mp/2mp in -û	True	True	בי תשמח נפשי בישיבתי ולא <<תבושו>> בשירתי מעשיכם עשו בצדקה והוא
+10005	C	C	6:6	C_III_Recto	3r:4	יהיו	יהיו	earlier	yiqtol 3mp/2mp in -û	True	False	חן שואלי שלום אנשי שלומיך <<יהיו>> רבים ובעל סודך אחד מאלף
+10058	C	C	6:12	C_III_Verso	3v:4	תשיגנו	תשיגנו	not counted	yiqtol+object suffix, qatal 3cp of I-y root, imperative or unclear	True	False	ולא יעמד ביום צרה אם <<תשיגנו>> נרפך בך ומפניך יסתר משונאיך
+10223	C	C	19:2	C_V_Recto	5r:7	יפחיזו	יפחיזו	earlier	yiqtol 3mp/2mp in -û	True	True	ובוזה מעוטים יתערער יין ונשים <<יפחיזו>> לב ונפש עזה [ת]שחית בעליה
+10483	C	C	26:1	C_VII_Verso	7v:11	ימיו	ימיו	not verb	noun+3ms suffix / imperative	True	True	אשה טובה אשרי בעלה ומספר <<ימיו>> כפלים אשת חיל תדשן לבעלה
+10731	D	D	8:1	D_I_Recto	1r:18	יד[ו]	ידו	not verb	noun+3ms suffix / imperative	True	False	{[א][י][ש]} {[ג][ד][ו][ל]} {ל[מ][ה]} תשוב על <<יד[ו]>>
+11263	E	E	32:16	E_I_Recto	1r:2	יוצי[א][ו]	יוציאו	earlier	yiqtol 3mp/2mp in -û	True	False	{[י][ר][א][י]} {[י][י][י]} {[י][ב][י]נו} משפטו וחכמות <<יוצי[א][ו]>> מלבם {[א][י][ש]} {[ח][מ][ס]} יטה תוכחות
+11540	E	E	33:27	E_I_Verso	1v:16	תומכו	תומכו	not verb	noun+3ms suffix / imperative	True	True	כי הרבה רעה עו[ן] חוטר <<תומכו>> על עבד רע הרב[ה] אל
+11597	F	F	31:27	F_I_Recto	1r:4	ישתנו	ישתנו	not counted	yiqtol+object suffix, qatal 3cp of I-y root, imperative or unclear	True	False	{[ל][מ][י]} {[ה][י][י][ן]} חיים לאנוש אם <<ישתנו>> {[ב][מ][ת][כ][נ][ת][ו]} {[מ][ה]} {[ח][י][י]ם} חסר היין
+11794	F	F	32:16	F_I_Verso	1v:6	[י]בינו	יבינו	earlier	yiqtol 3mp/2mp in -û	True	False	ותחבולות מנשף {[י][ו][צ][י][א]} {[י][ר][א][י]} ייי <<[י]בינו>> משפטו וחכמות יוציאו מלבם איש
+11797	F	F	32:16	F_I_Verso	1v:6	יוציאו	יוציאו	earlier	yiqtol 3mp/2mp in -û	True	False	{[י][ר][א][י]} ייי [י]בינו משפטו וחכמות <<יוציאו>> מלבם איש חמס יטה תוכחות
+11919	M	M	39:28	Masada_I.pdf	I:3	תיקו	תיקו	earlier	yiqtol 3mp/2mp in -û (fragment יע[ ]תיקו)	True	True	לזרה {נ} פכו ים יע <<תיקו>> הם יניחו ראו °בם {ו}
+11921	M	M	39:28	Masada_I.pdf	I:4	יניחו	יניחו	earlier	yiqtol 3mp/2mp in -û	True	True	פכו ים יע תיקו הם <<יניחו>> ראו °בם {ו} יו {י}
+11962	M	M	40:18	Masada_II.pdf	II:8	ימתקו	ימתקו	earlier	yiqtol 3mp/2mp in -û	True	False	לעד תכן חיי יתר שכר <<ימתקו>> ומשניהם מצא ילד {ו} ידו
+11967	M	M	40:19	Masada_II.pdf	II:9	ידו	ידו	not verb	noun+3ms suffix / imperative	True	False	ימתקו ומשניהם מצא ילד {ו} <<ידו>> שם ומשניהם מצ {ו} שאר
+12081	M	M	41:9	Masada_III.pdf	III:10	תולידו	תולידו	earlier	yiqtol 3mp/2mp in -û	True	False	עזבי תורת עליון {ל} ואם <<תולידו>> לאנחה {°ו} שמחת עם ואם
+12087	M	M	41:9	Masada_III.pdf	III:11	תמותו	תמותו	earlier	yiqtol 3mp/2mp in -û	True	False	לאנחה {°ו} שמחת עם ואם <<תמותו>> לקללה אפס אל אפס ישוב
+12840	11QPsa	11QPsa	51:15	ETCBC/dss	21:12	ישמחו	ישמחו	earlier	yiqtol 3mp/2mp in -û	True	False	גם גרע נץ בבשול ענבים <<ישמחו>> לב דרכה רגלי במישור כי

@@ -1,0 +1,94 @@
+idx	witness	corpus	verse	source_file	line	form	consonantal	decision	note	countable	in_dedup	context
+114	A	A	3:22	A_I_Recto	1r:12	שהורשית	שהורשית	later	relative	True	True	ומכוסה ממך אל תחקור במה <<שהורשית>> התבונן ואין לך עסק בנסתרות
+417	A	A	4:27	A_I_Verso	1v:15	כאשר	כאשר	earlier	compound כ-	True	True	תשב עם שופט עול כי <<כאשר>> כרצונו תשפט עמו עד המות
+884	A	A	6:37	A_II_Verso	2v:6	ואשר	ואשר	earlier	bare	True	True	והגה תמיד והוא יבין לבך <<ואשר>> איותה יחכמך אל תעש לך
+1124	A	A	7:31	A_III_Recto	3r:2	כאשר	כאשר	earlier	compound כ-	True	True	אל והדר כהן ות[ן] [ח]לקם <<כאשר>> צוותה לחם אבירים ותרומת יד
+1265	A	A	8:9	A_III_Recto	3r:17	אשר	אשר	earlier	bare	True	True	שרים אל תמאס בשמיעת שבים <<אשר>> שמעו מאבתם כי ממנו תקח
+1629	A	A	10:9	A_III_Verso	3v:26	אשר	אשר	earlier	bare	True	True	גאוה מה יגאה עפר ואפר <<אשר>> בחייו יורם גויו שמץ מחלה
+2304	A	A	12:15	A_V_Recto	5r:15	כאשר	כאשר	earlier	compound כ-	True	True	יעבר עד תבער בו אש <<כאשר>> יבוא עמך לא יתגלה לך
+2382	A	A	13:2	A_V_Recto	5r:24	אשר	אשר	earlier	bare	True	True	מה יתחבר פרור אל סיר <<אשר>> הוא נוקש בו והוא נשבר
+2413	A	A	13:5	A_V_Recto	5r:27	שלך	שלך	later	"še+l- ""what is yours"" (šel-type)"	True	True	ואם תכרע יחמל עליך אם <<שלך>> ייטיב דבריו עמך וירששך ולא
+2430	A	A	13:7	A_V_Verso	5v:1	אשר	אשר	earlier	bare	True	True	עד <<אשר>> יועיל יהתל בך פעמים שלש
+2773	A	A	14:16	A_VI_Recto	6r:6	שיפה	שיפה	later	relative	True	True	בשאול לבקש תענוג וכל דבר <<שיפה>> לעשות לפני אלהים עשה כל
+2791	A	A	14:18	A_VI_Recto	6r:8	שזה	שזה	later	relative	True	True	כפרח עלה על עץ רענן <<שזה>> נובל ואחר צומח
+2935	A	A	15:11	A_VI_Recto	6r:22	אשר	אשר	earlier	bare	True	False	תאמר מאל פשעי כי את <<אשר>> שנא לא עשה פן תאמר
+2982	A	A	15:16	A_VI_Recto	6r:27	באשר	באשר	earlier	compound ב-	True	False	תחיה מוצק לפניך אש ומים <<באשר>> תחפץ שלח ידיך לפני אדם
+2990	A	A	15:17	A_VI_Recto	6r:28	אשר	אשר	earlier	bare	True	False	ידיך לפני אדם חיים ומוות <<אשר>> יחפץ ינתן לו ספקה חכמת
+3066	A	A	16:3	A_VI_Verso	6v:6	שהיו	שהיו	later	relative	True	False	רצון מאלף ומות ערירי ממי <<שהיו>> לו בנים רבים עולה ומאחרית
+3098	A	A	16:7	A_VI_Verso	6v:10	אשר	אשר	earlier	bare	True	False	אש ובגוי חנף נצתה חמה <<אשר>> לא נשא לנסיכי קדם המורים
+3180	A	A	16:15	A_VI_Verso	6v:18	אשר	אשר	earlier	bare	True	True	ייי הקשה את לב פרעה <<אשר>> לא ידעו שמעשיו מגולין תחת
+3183	A	A	16:15	A_VI_Verso	6v:18	שמעשיו	שמעשיו	later	"complementizer ""that"""	True	True	לב פרעה אשר לא ידעו <<שמעשיו>> מגולין תחת השמים רחמיו יראו
+3645	B	B	15:11	B_II_Recto	2r:11	אשר	אשר	earlier	bare	True	True	תאמר מאל פשעי כי כל <<אשר>> שנא אמר לך אל תאמר
+3655	B	B	15:11	B_II_Recto	2r:12	אשר	אשר	earlier	bare	True	True	תאמר מה פעלתי כי את <<אשר>> שנא לא אעש[ה] תאמר היא
+3709	B	B	15:16	B_II_Recto	2r:18	באשר	באשר	earlier	compound ב-	True	True	תחיה מוצק לפניך מים ואש <<באשר>> תחפץ תשלח ידיך
+3718	B	B	15:17	B_II_Verso	2v:1	שיחפץ	שיחפץ	later	relative (A: אשר יחפץ)	True	True	לפני אדם חיים ומות וכל <<שיחפץ>> יתן לו כי לר[ו]ב
+3813	B	B	16:3	B_II_Verso	2v:12	שיהיו	שיהיו	later	relative	True	True	זדון {[ת][ו]ב} מות ערירי ממי <<שיהיו>> לו בנים רבים בני עולה
+3855	B	B	16:7	B_II_Verso	2v:18	אשר	אשר	earlier	bare	True	True	ובגוי חנף נצתה חמה <<אשר>> לא נשא לנסיכי קדם המורדים
+3876	B	B	30:12	B_III_Recto	3r:2	שעודנו	שעודנו	later	relative/temporal	True	True	על חי תפגע רציץ מתניו <<שעודנו>> נער כיף ראשו בנערותו ובקע
+3883	B	B	30:12	B_III_Recto	3r:3	כשהוא	כשהוא	later	"k+še temporal ""when"""	True	True	כיף ראשו בנערותו ובקע מתניו <<כשהוא>> קטן למה ישקה
+3973	B	B	30:19	B_III_Recto	3r:11	אשר	אשר	earlier	bare	True	True	מה יט[ב] {[ל][א][ל][י][ל]י} הגוים <<אשר>> לא יאכלון ולא {יר[י][ח][ו][ן]} כן
+3980	B	B	30:19	B_III_Recto	3r:11	שיש	שיש	later	relative	True	True	יאכלון ולא {יר[י][ח][ו][ן]} כן מי <<שיש>> לו עושר ואין נהנה ממנו
+3987	B	B	30:20	B_III_Recto	3r:12	כאשר	כאשר	earlier	compound כ-	True	True	עושר ואין נהנה ממנו בעינו <<כאשר>> סירים יחבק נערה ומתאנח כן
+4184	B	B	31:10	B_III_Verso	3v:14	שנדבק	שנדבק	later	relative	True	True	מי הוא זה <<שנדבק>> בו והיה לו שלום
+4309	Bmg	marginalia	31:15	B_IV_Recto	4r:8	אשר	אשר	earlier	bare	True	False	רעה וכל <<אשר>>
+4310	B	B	31:15	B_IV_Recto	4r:8	ששנאת	ששנאת	later	relative	True	True	רעך כנפשך ובכל <<ששנאת>> התבונן הסב כאיש אשר נבחר
+4314	B	B	31:16	B_IV_Recto	4r:9	אשר	אשר	earlier	bare	True	True	ששנאת התבונן הסב כאיש <<אשר>> נבחר ואל תעט פן תגעל
+4329	B	B	31:16	B_IV_Recto	4r:10	שרעך	שרעך	later	"complementizer ""that"""	True	True	דע <<שרעך>> כמוך ואכול כאיש דבר ששם
+4334	B	B	31:16	B_IV_Recto	4r:10	ששם	ששם	later	relative	True	True	שרעך כמוך ואכול כאיש דבר <<ששם>> לפניך ולא תהיה גרגרן פן
+4511	B	B	31:27	B_IV_Verso	4v:11	שהוא	שהוא	later	relative	True	True	במתכנתו מה חיים חסר היין <<שהוא>> מראשית לשמחה נוצר
+5115	B	B	36:4	B_VI_Verso	6v:3	כאשר	כאשר	earlier	compound כ-	True	True	עם נכר ויראו את גבורתיך <<כאשר>> נקדשת לעיניהם בנו כן
+5125	Bmg	marginalia	36:4	B_VI_Verso	6v:3	כאשר	כאשר	earlier	compound כ-	True	False	בם <<כאשר>> לעיניהם נקדשתה בם כן לעיניהם
+5134	B	B	36:5	B_VI_Verso	6v:4	כאשר	כאשר	earlier	compound כ-	True	True	וידעו <<כאשר>> ידענו כי אין אלהים זולתך
+5358	B	B	36:31	B_VII_Recto	7r:9	אשר	אשר	earlier	bare	True	True	מעיר אל עיר כן איש <<אשר>> לא קן
+5360	Bmg	marginalia	36:31	B_VII_Recto	7r:9	[א]שר	אשר	earlier	bare	True	False	<<[א]שר>> אין לו
+5365	B	B	36:31	B_VII_Recto	7r:9	באשר	באשר	earlier	compound ב-	True	True	קן המרגיע <<באשר>> יערב כל אומר אמר אהבתי
+5400	B	B	37:3	B_VII_Recto	7r:11	שאמר	שאמר	later	relative	True	True	היו רע <<שאמר>> מדוע כן נוצרתי
+5560	Bmg	marginalia	37:12	B_VII_Verso	7v:5	אשר	אשר	earlier	bare	True	False	אם יש מפחד תמיד <<אשר>> תדע שומר מצוה אשר
+5565	Bmg	marginalia	37:12	B_VII_Verso	7v:6	אשר	אשר	earlier	bare	True	False	אשר תדע שומר מצוה <<אשר>> עם לבבו כלבבך אם
+5613	Bmg	marginalia	37:15	B_VII_Verso	7v:9	אשר	אשר	earlier	bare	True	False	אלה עתר אל אל <<אשר>> יכין באמת צעדיך ראש כל
+5910	B	B	38:13	B_VIII_Verso	8v:1	אשר	אשר	earlier	bare	True	True	{פ} כי יש עת <<אשר>> בידו מצלחת
+5914	Bmg	marginalia	38:13	B_VIII_Verso	8v:1	אשר	אשר	earlier	bare	True	False	עת <<אשר>> בידו מ׳
+5928	B	B	38:14	B_VIII_Verso	8v:2	אשר	אשר	earlier	bare	True	True	<<אשר>> יצלח לו פשרה ורפאות
+5936	B	B	38:15	B_VIII_Verso	8v:3	אשר	אשר	earlier	bare	True	True	לו פשרה ורפאות למען מחיה <<אשר>> חוטא לפני עושהו יתגבר
+6071	B	B	38:27	B_VIII_Verso	8v:18	אשר	אשר	earlier	bare	True	True	לשד[ד] אף עשה חרש וחושב <<אשר>> לילה
+6387	B	B	40:11	B_X_Recto	10r:3	ואשר	ואשר	earlier	bare	True	True	כל מארץ אל ארץ ישוב <<ואשר>> ממרום אל מרום
+7708	B	B	44:9	B_XIII_Verso	13v:12	אשר	אשר	earlier	bare	True	True	בנחלתם ויש מהם <<אשר>> אין לו זכר וישבתו כאשר
+7713	B	B	44:9	B_XIII_Verso	13v:12	כאשר	כאשר	earlier	compound כ-	True	True	אשר אין לו זכר וישבתו <<כאשר>> שבתו כאשר לא היו היו
+7715	B	B	44:9	B_XIII_Verso	13v:13	כאשר	כאשר	earlier	compound כ-	True	True	לו זכר וישבתו כאשר שבתו <<כאשר>> לא היו היו ובניהם מאחריהם
+7798	B	B	44:20	B_XIV_Recto	14r:5	אשר	אשר	earlier	bare	True	True	לא נתן בכבודו מום <<אשר>> שמר מצות עליון ובא בברית
+8148	B	B	45:23	B_XV_Verso	15v:2	אשר	אשר	earlier	bare	True	True	לאלוהי כל ויעמד בפרץ עמו <<אשר>> נדבו לבו ויכפר על בני
+8164	B	B	45:24	B_XV_Verso	15v:4	אשר	אשר	earlier	bare	True	True	חק ברית שלום לכלכל מקדש <<אשר>> תהיה לו ולזרעו כהונה גדולה
+8217	B	B	46:1	B_XV_Verso	15v:10	אשר	אשר	earlier	bare	True	True	בן נון משרת משה בנבואה <<אשר>> נוצר להיות בימיו תשועה גדלה
+8343	B	B	46:11	B_XVI_Recto	16r:9	אשר	אשר	earlier	bare	True	True	ייי והשופטים איש בשמו כל <<אשר>> לא נשא לבו ולא נסוג
+8592	B	B	47:13	B_XVII_Recto	17r:5	אשר	אשר	earlier	bare	True	True	שלוה ואל הניח לו מסביב <<אשר>> הכין בית לשמו ויצב לעד
+8686	B	B	47:23	B_XVII_Verso	17v:2	אשר	אשר	earlier	bare	True	True	רחבעם הפריע בעצ[ה] עם עד <<אשר>> קם אל יהי לו זכר
+8695	B	B	47:23	B_XVII_Verso	17v:2	אשר	אשר	earlier	bare	True	True	לו זכר ירבעם בן נבט <<אשר>> ח[ט]א ו[י][ח]טיא את ישראל ויתן
+8712	B	B	48:1	B_XVII_Verso	17v:5	אשר	אשר	earlier	bare	True	True	מאד ולכל רעה התמכר עד <<אשר>> קם נביא כאש ודבריו כתנור
+8736	B	B	48:4	B_XVII_Verso	17v:8	ואשר	ואשר	earlier	bare	True	True	אשות מה נורא אתה אליהו <<ואשר>> {כ[מ][ו]ך} יתפאר המקים גוע ממות
+8782	B	B	48:11	B_XVII_Verso	17v:16	אשר	אשר	earlier	bare	True	True	על בנים ולהכין {ש[ב][ט][י]} {[י][ש][ר][א]ל} <<אשר>> ראך ומת {°°°ך} {°} יה
+8831	B	B	48:15	B_XVIII_Recto	18r:5	אשר	אשר	earlier	bare	True	True	העם ולא חדלו מחטאתם עד <<אשר>> נסחו מארצם ויפצו בכל הארץ
+9015	B	B	49:10	B_XVIII_Verso	18v:16	אשר	אשר	earlier	bare	True	True	הנביאים תהי עצמתם {פר[ח][ו][ת]} {[מ][ת][ח]תם} <<אשר>> החלימו את יעקב וישעוהו {ב}
+9073	B	B	50:1	B_XIX_Recto	19r:8	אשר	אשר	earlier	bare	True	True	עמו שמעון בן יוחנן הכהן <<אשר>> בדורו נפקד הבית ובימיו חזק
+9080	B	B	50:3	B_XIX_Recto	19r:9	אשר	אשר	earlier	bare	True	True	נפקד הבית ובימיו חזק היכל <<אשר>> בדורו נכרה מקוה אשיח בם
+9087	B	B	50:2	B_XIX_Recto	19r:10	אשר	אשר	earlier	bare	True	True	נכרה מקוה אשיח בם בהמונו <<אשר>> בימיו נבנה קיר פנות מעון
+9304	B	B	50:24	B_XX_Recto	20r:4	אשר	אשר	earlier	bare	True	True	חסדו ויקם לו ברית פינחס <<אשר>> לא יכרת לו ולזרעו כימי
+9336	B	B	50:27	B_XX_Recto	20r:8	אשר	אשר	earlier	bare	True	True	ישוע בן אלעזר בן סירא <<אשר>> ניבע בפתור לבן ואשר הביע
+9340	B	B	50:27	B_XX_Recto	20r:8	ואשר	ואשר	earlier	bare	True	True	סירא אשר ניבע בפתור לבן <<ואשר>> הביע בתבונות אשרי איש באלה
+9436	B	B	51:8	B_XX_Verso	20v:3	אשר	אשר	earlier	bare	True	True	ואזכרה את רחמי ייי וחסדיו <<אשר>> מעולם המציל את חוסי בו
+9759	B	B	51:30	B_XXI_Verso	21v:13	שנקרא	שנקרא	later	relative (subscription)	True	True	הנה דברי שמעון בן ישוע <<שנקרא>> בן סירא חכמת שמעון בן
+9826	C	C	3:22	C_I_Recto	1r:11	באשר	באשר	earlier	compound ב-	True	False	תחקור ורעים ממך אל תדרוש <<באשר>> הורשיתה
+10203	C	C	18:32	C_V_Recto	5r:2	אשר	אשר	earlier	bare	True	True	אל תשמח אל שמץ תענוג <<אשר>> פי שנים רישו אל תהי
+10391	C	C	25:8	C_VII_Recto	7r:1	שלא	שלא	later	relative	True	True	אשרי <<שלא>> נפל בלשון ולו עבד נקלה
+10577	C	C	36:31	C_VIII_Verso	8v:10	אשר	אשר	earlier	bare	True	False	מעיר אל ע[י]ר {[כ]ן} איש <<אשר>> אין לו קין המרגיע כאשר
+10582	C	C	36:31	C_VIII_Verso	8v:11	כאשר	כאשר	earlier	compound כ-	True	False	אשר אין לו קין המרגיע <<כאשר>> יסביב נסה
+10678	D	D	7:31	D_I_Recto	1r:11	כאשר	כאשר	earlier	compound כ-	True	False	{[א][ל]} {[ו][ה][ד][ר]} {[כ][ה][ן]} ות[ן] חלקם <<כאשר>> צוותה לחם אבירי[ם] [ו][ת][ר]ומתה צדק
+10816	D	D	8:9	D_I_Verso	1v:9	אשר	אשר	earlier	bare	True	False	{[ש][ר][י][ם]} {[א][ל]} {[ת][מ][א][ס]} בשמיעות {ש[ב][י]ם} <<אשר>> {[ש][מ][ע][ו]} {[מ][א][ב][ת][ם]} {[כ][י]} {[מ][מ][נ][ו]} {[ת][ק][ח]}
+10940	D	D	36:31	D_II_Recto	2r:3	אשר	אשר	earlier	bare	True	False	מעיר אל עיר כן איש <<אשר>> אין לו קן המרגיע באשר
+10945	D	D	36:31	D_II_Recto	2r:4	באשר	באשר	earlier	compound ב-	True	False	אשר אין לו קן המרגיע <<באשר>> יערב כל אוהב אומר אהבתי
+11081	D	D	37:12	D_II_Verso	2v:1	אשר	אשר	earlier	bare	True	True	{°°°ת[ד]ע} שומר מצוה <<אשר>> {°°} בלבבו כלבבך ואם יכשל
+11111	D	D	37:15	D_II_Verso	2v:5	אשר	אשר	earlier	bare	True	True	כל אלה העתר אל אל <<אשר>> יכין באמת צעדך ראש כל
+11487	E	E	33:20	E_I_Verso	1v:9	שלך	שלך	later	"še+l- ""what is yours"" (šel-type)"	True	True	בך כל {°} אל תתן <<שלך>> לאחר לשוב לחלות {א[ת]} כי
+11524	E	E	33:26	E_I_Verso	1v:14	שלא	שלא	later	relative/final	True	True	ומרדות מלאכה לע העבד עבדך <<שלא>> יבקש נחת ואם נשא ראשו
+11533	E	E	33:28	E_I_Verso	1v:15	שלא	שלא	later	relative/final	True	True	נשא ראשו יבג[ד] העבד עבדך <<שלא>> ימרוד כי הרבה רעה עו[ן]
+12692	M	M	44:9	Masada_VII.pdf	VII:15	שאין	שאין	later	relative (B: אשר אין)	True	False	הניחו שם לה ויש מהם <<שאין>> לו זכר כאשר לא היו
+12695	M	M	44:9	Masada_VII.pdf	VII:16	כאשר	כאשר	earlier	compound כ-	True	False	ויש מהם שאין לו זכר <<כאשר>> לא היו היו {ו} אולם

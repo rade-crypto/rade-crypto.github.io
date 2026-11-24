@@ -1,0 +1,78 @@
+variable,corpus,n_earlier,n_later,notes
+1cs pronoun,MS A,0,0,words=3246. earlier=אנכי; later=אני.
+1cs pronoun,MS B,0,1,words=5183. earlier=אנכי; later=אני. later: 51:13 אני
+1cs pronoun,MS C,0,0,words=778. earlier=אנכי; later=אני.
+1cs pronoun,MS D,0,0,words=515. earlier=אנכי; later=אני.
+1cs pronoun,MS E,0,2,words=273. earlier=אנכי; later=אני. later: 33:16 אני; 33:17 אני
+1cs pronoun,MS F,0,0,words=295. earlier=אנכי; later=אני.
+1cs pronoun,Mas1h (Masada),0,0,words=746. earlier=אנכי; later=אני.
+1cs pronoun,2Q18,0,0,words=7. earlier=אנכי; later=אני.
+1cs pronoun,"11QPsa (Sir 51:13-20,30)",0,1,words=63. earlier=אנכי; later=אני. later: 51:13 אני
+1cs pronoun,Genizah marginal readings (Bmg/Amg/Dmg/Emg) + Mas1h interlinear (not in totals),0,0,words=1010. earlier=אנכי; later=אני.
+1cs pronoun,deduplicated total (one witness per verse: B>A>Mas>C>D>E>F>11QPsa>2Q18),0,3,words=8662. earlier=אנכי; later=אני. later: 51:13 אני (B); 33:16 אני (E); 33:17 אני (E)
+'kingdom',MS A,0,1,words=3246. earlier=ממלכה/ממלכות family; later=מלכות family. later: 10:8 מלכות
+'kingdom',MS B,3,1,words=5183. earlier=ממלכה/ממלכות family; later=מלכות family. earlier: 46:13 ממלכת; 47:11 ממלכת; 47:21 ממלכת. later: 44:3 במלכותם
+'kingdom',MS C,0,0,words=778. earlier=ממלכה/ממלכות family; later=מלכות family.
+'kingdom',MS D,0,0,words=515. earlier=ממלכה/ממלכות family; later=מלכות family.
+'kingdom',MS E,0,0,words=273. earlier=ממלכה/ממלכות family; later=מלכות family.
+'kingdom',MS F,0,0,words=295. earlier=ממלכה/ממלכות family; later=מלכות family.
+'kingdom',Mas1h (Masada),0,0,words=746. earlier=ממלכה/ממלכות family; later=מלכות family.
+'kingdom',2Q18,0,0,words=7. earlier=ממלכה/ממלכות family; later=מלכות family.
+'kingdom',"11QPsa (Sir 51:13-20,30)",0,0,words=63. earlier=ממלכה/ממלכות family; later=מלכות family.
+'kingdom',Genizah marginal readings (Bmg/Amg/Dmg/Emg) + Mas1h interlinear (not in totals),0,0,words=1010. earlier=ממלכה/ממלכות family; later=מלכות family.
+'kingdom',deduplicated total (one witness per verse: B>A>Mas>C>D>E>F>11QPsa>2Q18),3,2,words=8662. earlier=ממלכה/ממלכות family; later=מלכות family. earlier: 46:13 ממלכת (B); 47:11 ממלכת (B); 47:21 ממלכת (B). later: 10:8 מלכות (A); 44:3 במלכותם (B)
+1cs wayyiqtol,MS A,0,0,words=3246. earlier=short (no -h); later=long ואקטלה.
+1cs wayyiqtol,MS B,3,1,"words=5183. earlier=short (no -h); later=long ואקטלה. earlier: 51:9 וארים; 51:10 וארומם; 51:14 ואתפלל. later: 51:8 ואזכרה. ambiguous, not counted: 51:12 ואהללה; 51:12 ואברכה; 51:19 ואביט. III-he (uninformative): 51:7 ואפנה; 51:7 ואצפה."
+1cs wayyiqtol,MS C,0,0,words=778. earlier=short (no -h); later=long ואקטלה.
+1cs wayyiqtol,MS D,0,0,words=515. earlier=short (no -h); later=long ואקטלה.
+1cs wayyiqtol,MS E,0,0,words=273. earlier=short (no -h); later=long ואקטלה.
+1cs wayyiqtol,MS F,0,0,words=295. earlier=short (no -h); later=long ואקטלה.
+1cs wayyiqtol,Mas1h (Masada),0,0,words=746. earlier=short (no -h); later=long ואקטלה.
+1cs wayyiqtol,2Q18,0,0,words=7. earlier=short (no -h); later=long ואקטלה.
+1cs wayyiqtol,"11QPsa (Sir 51:13-20,30)",0,1,words=63. earlier=short (no -h); later=long ואקטלה. later: 51:18 ואשחקה.
+1cs wayyiqtol,Genizah marginal readings (Bmg/Amg/Dmg/Emg) + Mas1h interlinear (not in totals),0,0,words=1010. earlier=short (no -h); later=long ואקטלה.
+1cs wayyiqtol,deduplicated total (one witness per verse: B>A>Mas>C>D>E>F>11QPsa>2Q18),3,1,"words=8662. earlier=short (no -h); later=long ואקטלה. earlier: 51:9 וארים (B); 51:10 וארומם (B); 51:14 ואתפלל (B). later: 51:8 ואזכרה (B). ambiguous, not counted: 51:12 ואהללה (B); 51:12 ואברכה (B); 51:19 ואביט (B). III-he (uninformative): 51:7 ואפנה (B); 51:7 ואצפה (B)."
+object pronoun,MS A,23,2,"n_later = object marker את/אות+suffix = 2 (0.62 per 1,000 words; 3246 countable words): 3:13 אותו; 7:23 אותם | n_earlier = PARTIAL count: finite verbs (incl. imperatives) with -הו or -ני object suffixes only (other suffixes not separable from nouns without a parse) = 23: 3:12 תעזבהו; 4:8 והשיבהו; 4:19 ונטותיהו; 4:19 ויסרתיהו ... | excluded as preposition ""with"": 5:12 אתך; 16:2 אתם"
+object pronoun,MS B,40,4,"n_later = object marker את/אות+suffix = 4 (0.77 per 1,000 words; 5183 countable words): 38:1 אתו; 39:31 אתם; 45:25 אתכם; 51:26 אתה | n_earlier = PARTIAL count: finite verbs (incl. imperatives) with -הו or -ני object suffixes only (other suffixes not separable from nouns without a parse) = 40: 10:25 יעבדוהו; 15:2 וקדמתהו; 15:3 והאכילתהו; 15:5 ורוממתהו ... | excluded as preposition ""with"": 16:2 אתם; 31:20 אתו"
+object pronoun,MS C,2,1,"n_later = object marker את/אות+suffix = 1 (1.29 per 1,000 words; 778 countable words): 7:23 אותם | n_earlier = PARTIAL count: finite verbs (incl. imperatives) with -הו or -ני object suffixes only (other suffixes not separable from nouns without a parse) = 2: 6:7 קנהו; 37:24 יאשרוהו | excluded as preposition ""with"": 5:12 אתך"
+object pronoun,MS D,2,1,"n_later = object marker את/אות+suffix = 1 (1.94 per 1,000 words; 515 countable words): 7:23 אותם | n_earlier = PARTIAL count: finite verbs (incl. imperatives) with -הו or -ני object suffixes only (other suffixes not separable from nouns without a parse) = 2: 37:6 תעזבהו; 37:24 ויאשריהו"
+object pronoun,MS E,1,1,"n_later = object marker את/אות+suffix = 1 (3.66 per 1,000 words; 273 countable words): 33:11 אותם | n_earlier = PARTIAL count: finite verbs (incl. imperatives) with -הו or -ני object suffixes only (other suffixes not separable from nouns without a parse) = 1: 33:31 חשב[ה][ו]"
+object pronoun,MS F,3,1,"n_later = object marker את/אות+suffix = 1 (3.39 per 1,000 words; 295 countable words): 32:7 אותך | n_earlier = PARTIAL count: finite verbs (incl. imperatives) with -הו or -ני object suffixes only (other suffixes not separable from nouns without a parse) = 3: 31:31 תוגהו; 31:31 תקמיעהו; 32:14 ויענהו"
+object pronoun,Mas1h (Masada),0,0,"n_later = object marker את/אות+suffix = 0 (0.00 per 1,000 words; 746 countable words) | n_earlier = PARTIAL count: finite verbs (incl. imperatives) with -הו or -ני object suffixes only (other suffixes not separable from nouns without a parse) = 0"
+object pronoun,2Q18,0,0,"n_later = object marker את/אות+suffix = 0 (0.00 per 1,000 words; 7 countable words) | n_earlier = PARTIAL count: finite verbs (incl. imperatives) with -הו or -ני object suffixes only (other suffixes not separable from nouns without a parse) = 0"
+object pronoun,"11QPsa (Sir 51:13-20,30)",0,0,"n_later = object marker את/אות+suffix = 0 (0.00 per 1,000 words; 63 countable words) | n_earlier = PARTIAL count: finite verbs (incl. imperatives) with -הו or -ני object suffixes only (other suffixes not separable from nouns without a parse) = 0"
+object pronoun,Genizah marginal readings (Bmg/Amg/Dmg/Emg) + Mas1h interlinear (not in totals),3,2,"n_later = object marker את/אות+suffix = 2 (1.98 per 1,000 words; 1010 countable words): 32:7 אתך (Bmg); 38:1 אותו (Bmg) | n_earlier = PARTIAL count: finite verbs (incl. imperatives) with -הו or -ני object suffixes only (other suffixes not separable from nouns without a parse) = 3: 31:31 תחרפהו (Bmg); 37:24 ויאשרוהו (Bmg); 44:23 ויכנהו (Bmg)"
+object pronoun,deduplicated total (one witness per verse: B>A>Mas>C>D>E>F>11QPsa>2Q18),60,7,"n_later = object marker את/אות+suffix = 7 (0.81 per 1,000 words; 8662 countable words): 3:13 אותו (A); 7:23 אותם (A); 38:1 אתו (B); 39:31 אתם (B); 45:25 אתכם (B); 51:26 אתה (B); 33:11 אותם (E) | n_earlier = PARTIAL count: finite verbs (incl. imperatives) with -הו or -ני object suffixes only (other suffixes not separable from nouns without a parse) = 60: 3:12 תעזבהו (A); 4:8 והשיבהו (A); 4:19 ונטותיהו (A); 4:19 ויסרתיהו (A) ... | excluded as preposition ""with"": 5:12 אתך (A); 16:2 אתם (B); 31:20 אתו (B)"
+relative,MS A,13,6,"words=3246. earlier=אשר (all tokens; bare/ו-אשר=9, compounds כאשר/באשר etc.=4); later=še- (incl. כש-, complementizer, šel-type). še-: 3:22 שהורשית; 13:5 שלך; 14:16 שיפה; 14:18 שזה; 16:3 שהיו; 16:15 שמעשיו. אשר e.g.: 4:27 כאשר; 6:37 ואשר; 7:31 כאשר; 8:9 אשר ..."
+relative,MS B,39,12,"words=5183. earlier=אשר (all tokens; bare/ו-אשר=32, compounds כאשר/באשר etc.=7); later=še- (incl. כש-, complementizer, šel-type). še-: 15:17 שיחפץ; 16:3 שיהיו; 30:12 שעודנו; 30:12 כשהוא; 30:19 שיש; 31:10 שנדבק; 31:15 ששנאת; 31:16 שרעך; 31:16 ששם; 31:27 שהוא; 37:3 שאמר; 51:30 שנקרא. אשר e.g.: 15:11 אשר; 15:11 אשר; 15:16 באשר; 16:7 אשר ... | NB 51:30 שנקרא is in the scribal subscription"
+relative,MS C,4,1,"words=778. earlier=אשר (all tokens; bare/ו-אשר=2, compounds כאשר/באשר etc.=2); later=še- (incl. כש-, complementizer, šel-type). še-: 25:8 שלא. אשר e.g.: 3:22 באשר; 18:32 אשר; 36:31 אשר; 36:31 כאשר"
+relative,MS D,6,0,"words=515. earlier=אשר (all tokens; bare/ו-אשר=4, compounds כאשר/באשר etc.=2); later=še- (incl. כש-, complementizer, šel-type). אשר e.g.: 7:31 כאשר; 8:9 אשר; 36:31 אשר; 36:31 באשר ..."
+relative,MS E,0,3,"words=273. earlier=אשר (all tokens; bare/ו-אשר=0, compounds כאשר/באשר etc.=0); later=še- (incl. כש-, complementizer, šel-type). še-: 33:20 שלך; 33:26 שלא; 33:28 שלא."
+relative,MS F,0,0,"words=295. earlier=אשר (all tokens; bare/ו-אשר=0, compounds כאשר/באשר etc.=0); later=še- (incl. כש-, complementizer, šel-type)."
+relative,Mas1h (Masada),1,1,"words=746. earlier=אשר (all tokens; bare/ו-אשר=0, compounds כאשר/באשר etc.=1); later=še- (incl. כש-, complementizer, šel-type). še-: 44:9 שאין. אשר e.g.: 44:9 כאשר"
+relative,2Q18,0,0,"words=7. earlier=אשר (all tokens; bare/ו-אשר=0, compounds כאשר/באשר etc.=0); later=še- (incl. כש-, complementizer, šel-type)."
+relative,"11QPsa (Sir 51:13-20,30)",0,0,"words=63. earlier=אשר (all tokens; bare/ו-אשר=0, compounds כאשר/באשר etc.=0); later=še- (incl. כש-, complementizer, šel-type)."
+relative,Genizah marginal readings (Bmg/Amg/Dmg/Emg) + Mas1h interlinear (not in totals),7,0,"words=1010. earlier=אשר (all tokens; bare/ו-אשר=6, compounds כאשר/באשר etc.=1); later=še- (incl. כש-, complementizer, šel-type). אשר e.g.: 31:15 אשר (Bmg); 36:4 כאשר (Bmg); 36:31 [א]שר (Bmg); 37:12 אשר (Bmg) ..."
+relative,deduplicated total (one witness per verse: B>A>Mas>C>D>E>F>11QPsa>2Q18),51,21,"words=8662. earlier=אשר (all tokens; bare/ו-אשר=41, compounds כאשר/באשר etc.=10); later=še- (incl. כש-, complementizer, šel-type). še-: 3:22 שהורשית (A); 13:5 שלך (A); 14:16 שיפה (A); 14:18 שזה (A); 16:15 שמעשיו (A); 15:17 שיחפץ (B); 16:3 שיהיו (B); 30:12 שעודנו (B); 30:12 כשהוא (B); 30:19 שיש (B); 31:10 שנדבק (B); 31:15 ששנאת (B) .... אשר e.g.: 4:27 כאשר (A); 6:37 ואשר (A); 7:31 כאשר (A); 8:9 אשר (A) ... | NB 51:30 שנקרא is in the scribal subscription"
+'arise/stand',MS A,1,7,"words=3246. earlier=קום verb forms (all stems); later=עמד verb forms (all stems); nouns (מקום, קומת, עמוד pillar, מעמד) excluded. קום: 11:9 תקומם. עמד: 4:26 תעמוד; 6:8 יעמוד; 7:22 העמידה; 10:4 יעמד; 12:12 תעמידהו; 12:12 ויעמד; 12:15 עמד"
+'arise/stand',MS B,15,11,"words=5183. earlier=קום verb forms (all stems); later=עמד verb forms (all stems); nouns (מקום, קומת, עמוד pillar, מעמד) excluded. קום: 11:9 תקומם; 31:20 וקם; 32:9 תקומם; 36:20 והקם; 37:9 וקם; 41:21 ומהתק[ו][מ][ם]; 44:21 הקים; 44:22 הקים .... עמד: 30:17 עומד; 37:4 יעמד; 40:19 יעמידו; 43:10 יעמד; 44:13 יעמד; 45:23 ויעמד; 46:4 עמד; 46:9 עמדה ..."
+'arise/stand',MS C,0,2,"words=778. earlier=קום verb forms (all stems); later=עמד verb forms (all stems); nouns (מקום, קומת, עמוד pillar, מעמד) excluded. עמד: 6:8 יעמד; 21:22 יעמוד"
+'arise/stand',MS D,1,3,"words=515. earlier=קום verb forms (all stems); later=עמד verb forms (all stems); nouns (מקום, קומת, עמוד pillar, מעמד) excluded. קום: 37:9 וקם. עמד: 7:22 העמידה; 37:4 יעמוד; 37:26 עומד"
+'arise/stand',MS E,0,0,"words=273. earlier=קום verb forms (all stems); later=עמד verb forms (all stems); nouns (מקום, קומת, עמוד pillar, מעמד) excluded."
+'arise/stand',MS F,0,0,"words=295. earlier=קום verb forms (all stems); later=עמד verb forms (all stems); nouns (מקום, קומת, עמוד pillar, מעמד) excluded."
+'arise/stand',Mas1h (Masada),1,4,"words=746. earlier=קום verb forms (all stems); later=עמד verb forms (all stems); nouns (מקום, קומת, עמוד pillar, מעמד) excluded. קום: 41:22 ומהתקומם. עמד: 42:23 ועמ[ד]; 43:10 יעמד; 44:12 עמד; 44:13 יעמד"
+'arise/stand',2Q18,0,0,"words=7. earlier=קום verb forms (all stems); later=עמד verb forms (all stems); nouns (מקום, קומת, עמוד pillar, מעמד) excluded."
+'arise/stand',"11QPsa (Sir 51:13-20,30)",0,0,"words=63. earlier=קום verb forms (all stems); later=עמד verb forms (all stems); nouns (מקום, קומת, עמוד pillar, מעמד) excluded."
+'arise/stand',Genizah marginal readings (Bmg/Amg/Dmg/Emg) + Mas1h interlinear (not in totals),1,0,"words=1010. earlier=קום verb forms (all stems); later=עמד verb forms (all stems); nouns (מקום, קומת, עמוד pillar, מעמד) excluded. קום: 42:23 וקים (Bmg)."
+'arise/stand',deduplicated total (one witness per verse: B>A>Mas>C>D>E>F>11QPsa>2Q18),15,21,"words=8662. earlier=קום verb forms (all stems); later=עמד verb forms (all stems); nouns (מקום, קומת, עמוד pillar, מעמד) excluded. קום: 11:9 תקומם (B); 31:20 וקם (B); 32:9 תקומם (B); 36:20 והקם (B); 37:9 וקם (B); 41:21 ומהתק[ו][מ][ם] (B); 44:21 הקים (B); 44:22 הקים (B) .... עמד: 4:26 תעמוד (A); 6:8 יעמוד (A); 7:22 העמידה (A); 10:4 יעמד (A); 12:12 תעמידהו (A); 12:12 ויעמד (A); 12:15 עמד (A); 30:17 עומד (B) ..."
+paragogic nun (yiqtol 2/3mp),MS A,16,0,"words=3246. earlier=yiqtol 2/3mp in -ו (indicative/modal, no object suffix); later=-ון. earlier e.g.: 3:27 ירבו; 3:30 יכבו; 4:12 יפיקו; 4:13 ימצאו; 4:13 ויחנו ...."
+paragogic nun (yiqtol 2/3mp),MS B,31,3,"words=5183. earlier=yiqtol 2/3mp in -ו (indicative/modal, no object suffix); later=-ון. later: 30:19 יאכלון; 45:21 יאכלון; 51:24 תחסרון. earlier e.g.: 11:5 יעטו; 16:3 שיהיו; 32:16 יבינו; 32:16 יוציאו; 37:31 יגועו .... jussive/volitive not counted: 6. wayyiqtol 3mp not counted: 15."
+paragogic nun (yiqtol 2/3mp),MS C,2,0,"words=778. earlier=yiqtol 2/3mp in -ו (indicative/modal, no object suffix); later=-ון. earlier e.g.: 6:6 יהיו; 19:2 יפחיזו."
+paragogic nun (yiqtol 2/3mp),MS D,0,0,"words=515. earlier=yiqtol 2/3mp in -ו (indicative/modal, no object suffix); later=-ון."
+paragogic nun (yiqtol 2/3mp),MS E,1,0,"words=273. earlier=yiqtol 2/3mp in -ו (indicative/modal, no object suffix); later=-ון. earlier e.g.: 32:16 יוצי[א][ו]."
+paragogic nun (yiqtol 2/3mp),MS F,2,0,"words=295. earlier=yiqtol 2/3mp in -ו (indicative/modal, no object suffix); later=-ון. earlier e.g.: 32:16 [י]בינו; 32:16 יוציאו."
+paragogic nun (yiqtol 2/3mp),Mas1h (Masada),5,0,"words=746. earlier=yiqtol 2/3mp in -ו (indicative/modal, no object suffix); later=-ון. earlier e.g.: 39:28 תיקו; 39:28 יניחו; 40:18 ימתקו; 41:9 תולידו; 41:9 תמותו."
+paragogic nun (yiqtol 2/3mp),2Q18,0,0,"words=7. earlier=yiqtol 2/3mp in -ו (indicative/modal, no object suffix); later=-ון."
+paragogic nun (yiqtol 2/3mp),"11QPsa (Sir 51:13-20,30)",1,0,"words=63. earlier=yiqtol 2/3mp in -ו (indicative/modal, no object suffix); later=-ון. earlier e.g.: 51:15 ישמחו."
+paragogic nun (yiqtol 2/3mp),Genizah marginal readings (Bmg/Amg/Dmg/Emg) + Mas1h interlinear (not in totals),5,0,"words=1010. earlier=yiqtol 2/3mp in -ו (indicative/modal, no object suffix); later=-ון. earlier e.g.: 37:18 יפריחו (Bmg); 37:31 יגועו (Bmg); 39:16 יספיקו (Bmg); 41:9 תפרו (Bmg); 41:9 תפרו (Bmg). jussive/volitive not counted: 2."
+paragogic nun (yiqtol 2/3mp),deduplicated total (one witness per verse: B>A>Mas>C>D>E>F>11QPsa>2Q18),48,3,"words=8662. earlier=yiqtol 2/3mp in -ו (indicative/modal, no object suffix); later=-ון. later: 30:19 יאכלון (B); 45:21 יאכלון (B); 51:24 תחסרון (B). earlier e.g.: 3:27 ירבו (A); 3:30 יכבו (A); 4:12 יפיקו (A); 4:13 ימצאו (A); 4:13 ויחנו (A) .... jussive/volitive not counted: 6. wayyiqtol 3mp not counted: 15."

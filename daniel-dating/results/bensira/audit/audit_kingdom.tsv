@@ -1,0 +1,6 @@
+idx	witness	corpus	verse	source_file	line	form	consonantal	decision	note	countable	in_dedup	context
+1617	A	A	10:8	A_III_Verso	3v:25	מלכות	מלכות	later		True	True	ואנשים גאוה ומשניהם מעל עשק <<מלכות>> מגוי אל גוי תסוב בגלל
+7654	B	B	44:3	B_XIII_Verso	13v:4	במלכותם	במלכותם	later		True	True	מימות עולם דורי ארץ <<במלכותם>> ואנשי שם בגבורתם היועצים
+8373	B	B	46:13	B_XVI_Recto	16r:13	ממלכת	ממלכת	earlier		True	True	שופט ומכהן {נ[ב][י]א} אל הכין <<ממלכת>> וימשח נגידים על עם {ב}
+8572	B	B	47:11	B_XVII_Recto	17r:2	ממלכת	ממלכת	earlier		True	True	לעולם קרנו ויתן לו חק <<ממלכת>> וכסאו הכין על ירושלם ובעבורו
+8650	B	B	47:21	B_XVII_Recto	17r:14	ממלכת	ממלכת	earlier		True	True	על משכבך לשני שבטים ומאפרים <<ממלכת>> חמס {[א]ל} לא יטוש חסד

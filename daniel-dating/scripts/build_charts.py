@@ -234,9 +234,10 @@ def chart_hebrew_vars():
         "qum": ["Qumran non-biblical Hebrew (2nd-1st c. BCE)"],
         "dan": ["DANIEL Hebrew (1:1-2:4a, 8-12)"],
         "rab": ["Rabbinic Hebrew c. 200-250 CE (Pirqe Avot, Mekhilta Shirata)"],
+        "bs": ["Ben Sira (c. 190 BCE; mostly medieval copies)"],
     }
     names = {"c6": "6th c. (Jer, Ezek, Hag, Zech 1-8)", "per": "Persian era (Ezra-Neh, Chr, Esth)", "qum": "Qumran Hebrew",
-             "dan": "Daniel", "rab": "Rabbinic Hebrew (Mishnah, Mekhilta)"}
+             "dan": "Daniel", "rab": "Rabbinic Hebrew (Mishnah, Mekhilta)", "bs": "Ben Sira (c. 190 BCE)"}
     vars_ = [("'kingdom'", "mamlākâ vs malkût"), ("1cs wayyiqtol", "'and I did': short vs long form"),
              ("1cs pronoun", "ʾānōkî vs ʾănî"), ("relative", "ʾăšer vs še- (Mishnaic)")]
     rows = []
@@ -248,7 +249,7 @@ def chart_hebrew_vars():
             if n:
                 vals[k] = (nl / n, n, f"{names[k]}: {nl} of {n} = {nl/n:.0%} later form")
         rows.append((v.replace("1cs", "1st sg.").replace("'kingdom'", "word for 'kingdom'").replace("relative", "relative word"), sub, vals))
-    series = {"c6": ("square", "m-c6"), "per": ("diamond", "m-per"), "qum": ("ring", "m-qum2"), "rab": ("tri", "m-cla"), "dan": ("circle", "m-dan")}
+    series = {"c6": ("square", "m-c6"), "per": ("diamond", "m-per"), "qum": ("ring", "m-qum2"), "bs": ("square", "m-bs"), "rab": ("tri", "m-cla"), "dan": ("circle", "m-dan")}
     return dotplot(rows, series, "Hebrew: share of the later variant", "share of the later variant")
 
 if __name__ == "__main__":

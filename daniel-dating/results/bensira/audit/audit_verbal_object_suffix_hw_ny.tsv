@@ -1,0 +1,123 @@
+idx	witness	corpus	verse	source_file	line	form	consonantal	decision	note	countable	in_dedup	context
+41	A	A	3:12	A_I_Recto	1r:5	תעזבהו	תעזבהו	finite verb + suffix		True	True	בני התחזק בכבוד אביך ואל <<תעזבהו>> כל ימי חייך וגם אם
+259	A	A	4:8	A_I_Recto	1r:27	והשיבהו	והשיבהו	finite verb + suffix		True	True	הכאף ראש הט לעני אזנך <<והשיבהו>> שלום בענוה הושע מוצק ממציקיו
+306	A	A	4:14	A_I_Verso	1v:4	ואלהו	ואלהו	not verb	noun/name/preposition/III-he plural/fragment	True	True	בברכת ייי משרתי קדש משרתיה <<ואלהו>> במא ויהא שומע לי ישפט
+337	A	A	4:19	A_I_Verso	1v:7	ונטותיהו	ונטותיהו	finite verb + suffix		True	True	וגליתי לו מסתרי אם יסור <<ונטותיהו>> ויסרתיהו באסורים אם יסור מאחרי
+338	A	A	4:19	A_I_Verso	1v:7	ויסרתיהו	ויסרתיהו	finite verb + suffix		True	True	לו מסתרי אם יסור ונטותיהו <<ויסרתיהו>> באסורים אם יסור מאחרי אשליכנו
+613	A	A	5:14	A_II_Recto	2r:4	רעהו	רעהו	not verb	noun/name/preposition/III-he plural/fragment	True	True	על גנב נבראה בשת חרפה <<רעהו>> בעל שתים מעט והרבה אל
+676	A	A	6:7	A_II_Recto	2r:11	קנהו	קנהו	finite verb + suffix		True	True	אחד מאלף קנית אוהב בניסין <<קנהו>> ואל תמהר לבטח עליו כי
+745	A	A	6:17	A_II_Recto	2r:18	כמוהו	כמוהו	not verb	noun/name/preposition/III-he plural/fragment	True	True	אמונה ירא אל ישיגם כי <<כמוהו>> כן רעהו וכשמו כן מעשיו
+747	A	A	6:17	A_II_Recto	2r:18	רעהו	רעהו	not verb	noun/name/preposition/III-he plural/fragment	True	True	אל ישיגם כי כמוהו כן <<רעהו>> וכשמו כן מעשיו כחורש וכקוצר
+792	A	A	27:5	A_II_Recto	2r:23	וכמהו	וכמהו	not verb	noun/name/preposition/III-he plural/fragment	True	True	נכוחה כלי יוצר לבער כבשן <<וכמהו>> איש על חשבונו על עבדת
+871	A	A	6:36	A_II_Verso	2v:4	ושחריהו	ושחריהו	finite verb + suffix		True	True	אל יצאך ראה מה יבין <<ושחריהו>> ותשחוק בסיפי רגלך והתבוננת ביראת
+904	A	A	7:3	A_II_Verso	2v:8	תקצרהו	תקצרהו	finite verb + suffix		True	True	תדע חרושי על אח פן <<תקצרהו>> שבעתים אל תבקש מאל ממשלת
+1558	A	A	9:18	A_III_Verso	3v:18	פיהו	פיהו	not verb	noun/name/preposition/III-he plural/fragment	True	True	בעד איש לשון ומשא על <<פיהו>> ישונא שופט עם יוסר עמו
+1652	A	A	10:12	A_IV_Recto	4r:1	ומעשהו	ומעשהו	not verb	noun/name/preposition/III-he plural/fragment	True	True	מועז <<ומעשהו>> יסור מלבו כי מקוה זדון
+1670	A	A	10:13	A_IV_Recto	4r:2	ויכהו	ויכהו	finite verb + suffix		True	True	לבו אלה[י]ם נגעה <<ויכהו>> עד כלה כסא גאים הפך
+1821	A	A	11:2	A_IV_Recto	4r:19	במראהו	במראהו	not verb	noun/name/preposition/III-he plural/fragment	True	False	בתארו ואל תתעב אדם מכ[ו][ע]ר <<במראהו>> אליל בעוף דברה וראש תנובות
+1926	A	A	11:12	A_IV_Verso	4v:2	צפתהו	צפתהו	finite verb + suffix		True	True	כל ויותר א[ו]נש ועין ייי <<צפתהו>> לטוב וינעריהו מעפר צחנה נשא
+1928	A	A	11:12	A_IV_Verso	4v:2	וינעריהו	וינעריהו	finite verb + suffix		True	True	א[ו]נש ועין ייי צפתהו לטוב <<וינעריהו>> מעפר צחנה נשא בראשו וירממהו
+1933	A	A	11:13	A_IV_Verso	4v:3	וירממהו	וירממהו	finite verb + suffix		True	True	וינעריהו מעפר צחנה נשא בראשו <<וירממהו>> ויתמהו עליו רבים טוב ורע
+1934	A	A	11:13	A_IV_Verso	4v:3	ויתמהו	ויתמהו	not verb	noun/name/preposition/III-he plural/fragment	True	True	מעפר צחנה נשא בראשו וירממהו <<ויתמהו>> עליו רבים טוב ורע חיים
+2060	A	A	11:28	A_IV_Verso	4v:17	תאש[ר][ה]ו	תאשרהו	finite verb + suffix		True	True	עליו בטרם תחקר אדם אל <<תאש[ר][ה]ו>> כי אחריתו יאושר אדם לפני
+2264	A	A	12:12	A_V_Recto	5r:11	תעמידהו	תעמידהו	finite verb + suffix		True	True	להשחיתך ודע אחרית קנאה אל <<תעמידהו>> אצלך למה יהדפך ויעמד תחתיך
+2271	A	A	12:12	A_V_Recto	5r:12	תושיבהו	תושיבהו	finite verb + suffix		True	True	למה יהדפך ויעמד תחתיך אל <<תושיבהו>> לימינך למה יבקש מושבך ולאחור
+2599	A	A	13:23	A_V_Verso	5v:18	יהדפוהו	יהדפוהו	finite verb + suffix		True	True	יאמרו ואם נתקל גם הם <<יהדפוהו>> טוב העושר אם אין עון
+2631	A	A	14:1	A_V_Verso	5v:21	פיהו	פיהו	not verb	noun/name/preposition/III-he plural/fragment	True	True	עמל אשרי אנוש לא עצבו <<פיהו>> ולא אבה עליו דין לבו
+2685	A	A	14:9	A_V_Verso	5v:26	רעהו	רעהו	not verb	noun/name/preposition/III-he plural/fragment	True	True	מעט הוא חלקו ולוקח חלק <<רעהו>> מאבד חלקו עין רע עין
+2866	A	A	15:2	A_VI_Recto	6r:15	וקדמתהו	וקדמתהו	finite verb + suffix		True	False	יעשה זאת ותופש תורה ידריכנה <<וקדמתהו>> כאם וכאשת נעורים תקבלנו והאכילתהו
+2871	A	A	15:3	A_VI_Recto	6r:16	והאכילתהו	והאכילתהו	finite verb + suffix		True	False	וקדמתהו כאם וכאשת נעורים תקבלנו <<והאכילתהו>> לחם שכל ומי תבונה תשקנו
+2885	A	A	15:5	A_VI_Recto	6r:18	ורוממתהו	ורוממתהו	finite verb + suffix		True	False	ימוט ובה יבטח ולא יבוש <<ורוממתהו>> מרעהו ובתוך קהל תפתח פיו
+2886	A	A	15:5	A_VI_Recto	6r:18	מרעהו	מרעהו	not verb	noun/name/preposition/III-he plural/fragment	True	False	ובה יבטח ולא יבוש ורוממתהו <<מרעהו>> ובתוך קהל תפתח פיו ששון
+2942	A	A	15:12	A_VI_Recto	6r:23	התקילני	התקילני	finite verb + suffix		True	False	לא עשה פן תאמר הוא <<התקילני>> כי אין צורך באנשי חמס
+2959	A	A	15:14	A_VI_Recto	6r:25	וישתיהו	וישתיהו	finite verb + suffix		True	False	ליראיו אלהים מבראשית ברא אדם <<וישתיהו>> ביד חותפו ויתנהו ביד יצרו
+2962	A	A	15:14	A_VI_Recto	6r:25	ויתנהו	ויתנהו	finite verb + suffix		True	False	ברא אדם וישתיהו ביד חותפו <<ויתנהו>> ביד יצרו אם תחפץ תשמר
+3005	A	A	15:19	A_VI_Verso	6v:1	והו	והו	not verb	noun/name/preposition/III-he plural/fragment	True	False	<<והו>> יכיר כל מפעל איש לא
+3202	A	A	16:17	A_VI_Verso	6v:21	יזכרני	יזכרני	finite verb + suffix		True	True	תאמר מאל נסתרתי ובמרום מי <<יזכרני>> בעם כבד לא אודע ומה
+3245	A	A	16:21	A_VI_Verso	6v:25	תראני	תראני	finite verb + suffix		True	True	מי יתבונן אם חטאתי לא <<תראני>> עין או אם אכזב בכל
+3345	B	B	10:25	B_I_Recto	1r:7	יעבדוהו	יעבדוהו	finite verb + suffix		True	True	כנפש {°°} עבד משכיל חורים <<יעבדוהו>> {וג[ב][ר]} עבד משכיל חביב כנפש
+3430	B	B	11:2	B_I_Recto	1r:18	במראהו	במראהו	not verb	noun/name/preposition/III-he plural/fragment	True	True	מעזב <<במראהו>>
+3572	B	B	15:2	B_II_Recto	2r:2	וקדמתהו	וקדמתהו	finite verb + suffix		True	True	יעשה זאת ותופש תורה ידריכנה <<וקדמתהו>> כאם וכאשת נעורים תקבלנו והאכילתהו
+3577	B	B	15:3	B_II_Recto	2r:3	והאכילתהו	והאכילתהו	finite verb + suffix		True	True	וקדמתהו כאם וכאשת נעורים תקבלנו <<והאכילתהו>> לחם שכל ומי תבונה
+3592	B	B	15:5	B_II_Recto	2r:5	ורוממתהו	ורוממתהו	finite verb + suffix		True	True	ימוט ובה {יב[ט][ח]} [ו]לא י[ב]וש <<ורוממתהו>> מרעהו ובתוך {ק[ה][ל]}
+3593	B	B	15:5	B_II_Recto	2r:5	מרעהו	מרעהו	not verb	noun/name/preposition/III-he plural/fragment	True	True	ובה {יב[ט][ח]} [ו]לא י[ב]וש ורוממתהו <<מרעהו>> ובתוך {ק[ה][ל]} {[ת][פ][ת][ח]}
+3595	Bmg	marginalia	15:5	B_II_Recto	2r:5	ריעהו	ריעהו	not verb	noun/name/preposition/III-he plural/fragment	True	False	בתוך <<ריעהו>>
+3661	B	B	15:12	B_II_Recto	2r:13	התקילני	התקילני	finite verb + suffix		True	True	שנא לא אעש[ה] תאמר היא <<התקילני>> כי אין לי חפץ
+3682	B	B	15:14	B_II_Recto	2r:15	וישיתהו	וישיתהו	finite verb + suffix		True	True	מראש ברא אדם <<וישיתהו>> ביד {[ח][ו][ת][פ][ו]} ויתנהו ביד יצרו
+3685	B	B	15:14	B_II_Recto	2r:15	ויתנהו	ויתנהו	finite verb + suffix		True	True	ברא אדם וישיתהו ביד {[ח][ו][ת][פ][ו]} <<ויתנהו>> ביד יצרו אם תחפץ תשמר
+3864	B	B	30:11	B_III_Recto	3r:1	תמשילהו	תמשילהו	finite verb + suffix		True	True	אל <<תמשילהו>> בנעוריו ואל תשא לשחיתותיו
+4559	B	B	31:31	B_IV_Verso	4v:16	תוגהו	תוגהו	finite verb + suffix		True	False	היין אל {[ת][ו]כח} רע ואל <<תוגהו>> {[ב][ח]ד[ו]תו} דבר חרפה אל
+4560	Bmg	marginalia	31:31	B_IV_Verso	4v:16	תחרפהו	תחרפהו	finite verb + suffix		True	False	<<תחרפהו>>
+4763	B	B	32:14	B_V_Verso	5v:1	ומשחרהו	ומשחרהו	participle (not finite)		True	True	דורש אל יקח מוסר <<ומשחרהו>> ישיג מענה דורש חפצי אל
+4772	B	B	32:14	B_V_Verso	5v:2	ויענהו	ויענהו	finite verb + suffix		True	True	חפצי אל יקח לקח <<ויענהו>> בתפלתו דורש תורה יפיקנה ומתלהלה
+5444	B	B	37:6	B_VII_Recto	7r:13	תעזבהו	תעזבהו	finite verb + suffix		True	True	תשכח חביר בקרב ואל <<תעזבהו>> בשללך
+5698	Bmg	marginalia	37:24	B_VII_Verso	7v:17	ויאשרוהו	ויאשרוהו	finite verb + suffix		True	False	חכם לנפשו {[י][ש][ב]ע} תענוג <<ויאשרוהו>> {[כ][ל]} {[ר][ו][א][י][ה]ו} {°} {ל}
+5700	Bmg	marginalia	37:24	B_VII_Verso	7v:17	[ר][ו][א][י][ה]ו	רואיהו	participle (not finite)		False	False	לנפשו {[י][ש][ב]ע} תענוג ויאשרוהו {[כ][ל]} <<[ר][ו][א][י][ה]ו>> {°} {ל}
+5850	B	B	38:8	B_VIII_Recto	8r:14	מעשהו	מעשהו	not verb	noun/name/preposition/III-he plural/fragment	True	True	מרקחת למען לא ישבות <<מעשהו>> ותושיה מבני אדם
+5939	B	B	38:15	B_VIII_Verso	8v:3	עושהו	עושהו	participle (not finite)		True	True	למען מחיה אשר חוטא לפני <<עושהו>> יתגבר לפני
+6015	B	B	38:21	B_VIII_Verso	8v:11	תזכרהו	תזכרהו	finite verb + suffix		True	True	לו אתמול ולך היום אל <<תזכרהו>> כי אין לו תקוה מה
+6238	Bmg	marginalia	39:31	B_IX_Verso	9v:4	פיהו	פיהו	not verb	noun/name/preposition/III-he plural/fragment	True	False	<<פיהו>>
+6764	B	B	41:10	B_XI_Recto	11r:2	מתהו	מתהו	not verb	noun/name/preposition/III-he plural/fragment	True	True	ישוב כן חנף <<מתהו>> אל תהו הבל אדם
+6766	B	B	41:10	B_XI_Recto	11r:2	תהו	תהו	not verb	noun/name/preposition/III-he plural/fragment	True	True	כן חנף מתהו אל <<תהו>> הבל אדם בגויתו אך
+7344	B	B	43:5	B_XII_Verso	12v:6	עושהו	עושהו	participle (not finite)		True	True	תכוה עין כי גדיל ייי <<עושהו>> ודבריו
+7550	B	B	43:24	B_XIII_Recto	13r:9	קצהו	קצהו	not verb	noun/name/preposition/III-he plural/fragment	True	True	איים יורדי הים יספרו <<קצהו>> לשמע אזננו נשתומם שם פלאות
+7557	B	B	43:25	B_XIII_Recto	13r:10	מעשהו	מעשהו	not verb	noun/name/preposition/III-he plural/fragment	True	True	אזננו נשתומם שם פלאות תמהי <<מעשהו>> מין כל חי וגבורות
+7565	Bmg	marginalia	43:26	B_XIII_Recto	13r:11	למענהו	למענהו	not verb	noun/name/preposition/III-he plural/fragment	True	False	<<למענהו>> למען
+7845	B	B	44:23	B_XIV_Recto	14r:11	ויכוננהו	ויכוננהו	finite verb + suffix		True	True	וברכה נחה על ראש ישראל <<ויכוננהו>> בברכה ויתן לו
+7847	Bmg	marginalia	44:23	B_XIV_Recto	14r:11	ויכנהו	ויכנהו	finite verb + suffix		True	False	<<ויכנהו>> בבכורה
+7852	B	B	44:23	B_XIV_Recto	14r:12	ויציבהו	ויציבהו	finite verb + suffix		True	True	ויתן לו נחלתו <<ויציבהו>> לשבטים לחלק שנים עשר {[ו][י][ו]צ[י]א}
+7876	B	B	45:2	B_XIV_Recto	14r:15	ויאמצהו	ויאמצהו	finite verb + suffix		True	True	לטובה {°°} אלהים <<ויאמצהו>> במרומים {בד[ב][ר][י][ו]} {°°}
+7883	B	B	45:3	B_XIV_Recto	14r:16	ויחזקהו	ויחזקהו	finite verb + suffix		True	True	{בד[ב][ר][י][ו]} {°°} מהר <<ויחזקהו>> לפני מלך ויצוהו {[א]ל} {°°}
+7886	B	B	45:3	B_XIV_Recto	14r:17	ויצוהו	ויצוהו	finite verb + suffix		True	True	{°°} מהר ויחזקהו לפני מלך <<ויצוהו>> {[א]ל} {°°} {ויר[א][ה][ו]°°} באמונתו ובענותו
+7889	B	B	45:3	B_XIV_Recto	14r:17	ויר[א][ה][ו]°°	ויראהו	not verb	noun/name/preposition/III-he plural/fragment	False	False	לפני מלך ויצוהו {[א]ל} {°°} <<ויר[א][ה][ו]°°>> באמונתו ובענותו [ו]אלהים בחר
+7898	B	B	45:5	B_XIV_Verso	14v:1	וישמיעהו	וישמיעהו	finite verb + suffix		True	True	<<וישמיעהו>> את קולו ויגישהו לערפל וישם
+7901	B	B	45:5	B_XIV_Verso	14v:1	ויגישהו	ויגישהו	finite verb + suffix		True	True	וישמיעהו את קולו <<ויגישהו>> לערפל וישם בידו מצוה
+7923	B	B	45:7	B_XIV_Verso	14v:4	וישימהו	וישימהו	finite verb + suffix		True	True	קדוש את אהרן למטה לוי <<וישימהו>> לחק עולם ויתן עליו הוד
+7931	B	B	45:7	B_XIV_Verso	14v:5	וישרתהו	וישרתהו	finite verb + suffix		True	True	ויתן עליו הוד <<וישרתהו>> בכבודו ויאזרהו בתועפות ראם
+7934	B	B	45:7	B_XIV_Verso	14v:6	ויאזרהו	ויאזרהו	finite verb + suffix		True	True	וישרתהו בכבודו <<ויאזרהו>> בתועפות ראם וילבישהו פעמונים
+7938	B	B	45:7	B_XIV_Verso	14v:6	וילבישהו	וילבישהו	finite verb + suffix		True	True	ויאזרהו בתועפות ראם <<וילבישהו>> פעמונים וילבישהו כליל תפארת
+7941	B	B	45:8	B_XIV_Verso	14v:7	וילבישהו	וילבישהו	finite verb + suffix		True	True	ראם וילבישהו פעמונים <<וילבישהו>> כליל תפארת ויפארהו בכ[ב]וד
+7945	B	B	45:8	B_XIV_Verso	14v:7	ויפארהו	ויפארהו	finite verb + suffix		True	True	וילבישהו כליל תפארת <<ויפארהו>> בכ[ב]וד ועוז מכנסים כתנות ומעיל
+7951	B	B	45:9	B_XIV_Verso	14v:8	ויקיפהו	ויקיפהו	finite verb + suffix		True	True	בכ[ב]וד ועוז מכנסים כתנות ומעיל <<ויקיפהו>> פעמונים ורמונים המון סביב לתת
+8032	B	B	45:15	B_XV_Recto	15r:2	וימשחהו	וימשחהו	finite verb + suffix		True	True	פעמים [ו][י]מלא משה את ידו <<וימשחהו>> בשמן הקדש ותהי לו ברית
+8068	B	B	45:17	B_XV_Recto	15r:7	וימשילהו	וימשילהו	finite verb + suffix		True	True	ישראל ויתן לו כל מצותיו <<וימשילהו>> בחוק ומשפט וילמד את עמו
+8260	B	B	46:5	B_XV_Verso	15v:16	ויענהו	ויענהו	finite verb + suffix		True	True	אל אל עליון כאכפה {ל°} <<ויענהו>> אל עליון באבני {°} {ל}
+8360	B	B	46:13	B_XVI_Recto	16r:11	עושהו	עושהו	participle (not finite)		True	True	תחליף לבניהם אוהב עמו ורצוי <<עושהו>> המשואל מבטן אמו נזיר ייי
+8507	B	B	47:6	B_XVI_Verso	16v:11	ויכנוהו	ויכנוהו	finite verb + suffix		True	True	על כן ענו לו בנות <<ויכנוהו>> ברבבה בעטותו צניף נלחם ומסביב
+8523	B	B	47:8	B_XVI_Verso	16v:14	מעשהו	מעשהו	not verb	noun/name/preposition/III-he plural/fragment	True	True	ועד היום שבר {קר[נ][ם]} בכל <<מעשהו>> נתן הודות לאל עליון [כ]בוד
+8533	B	B	47:8	B_XVI_Verso	16v:15	עושהו	עושהו	participle (not finite)		True	True	[כ]בוד בכל לבו אוהב <<עושהו>> ובכל {°°°} {°°} נגינות שיר
+8735	B	B	48:4	B_XVII_Verso	17v:8	אליהו	אליהו	not verb	noun/name/preposition/III-he plural/fragment	True	True	{°°} אשות מה נורא אתה <<אליהו>> ואשר {כ[מ][ו]ך} יתפאר המקים גוע
+8788	B	B	48:12	B_XVII_Verso	17v:17	[א]ל[י][ה][ו]	אליהו	not verb	noun/name/preposition/III-he plural/fragment	False	False	ראך ומת {°°°ך} {°} יה <<[א]ל[י][ה][ו]>> {°°} {ו[א]ל[י][ש][ע]} פי {ש°°°°} {°°°°}
+8798	B	B	48:12	B_XVII_Verso	17v:18	פיהו	פיהו	not verb	noun/name/preposition/III-he plural/fragment	True	True	{°°°°} {°°בה} ומופתים כל מוצא <<פיהו>>
+8852	B	B	48:17	B_XVIII_Recto	18r:8	יחזקיהו	יחזקיהו	not verb	noun/name/preposition/III-he plural/fragment	True	True	יושר ויש מהם הפליאו מעל <<יחזקיהו>> חזק עירו בהטות אל תוכה
+8896	B	B	48:20	B_XVIII_Recto	18r:14	ישעיהו	ישעיהו	not verb	noun/name/preposition/III-he plural/fragment	True	True	{[ו][י][ש][מ][ע]} קול תפלתם ויושיעם ביד <<ישעיהו>> [מ]חנה אשור ויהמם במגפה [י][ח]זקיהו
+8901	B	B	48:22	B_XVIII_Recto	18r:16	[י][ח]זקיהו	יחזקיהו	not verb	noun/name/preposition/III-he plural/fragment	True	True	ישעיהו [מ]חנה אשור ויהמם במגפה <<[י][ח]זקיהו>> את הטו[ב] ויחזק בדרכי דוד
+8922	B	B	49:1	B_XVIII_Verso	18v:3	יאשיהו	יאשיהו	not verb	noun/name/preposition/III-he plural/fragment	True	True	נהיות ונסתרות לפני בואן שם <<יאשיהו>> כקטרת סמים הממלח מעשה רוקח
+8953	B	B	49:4	B_XVIII_Verso	18v:7	יחזקיהו	יחזקיהו	not verb	noun/name/preposition/III-he plural/fragment	True	True	חמס עשה חסד לבד מדויד <<יחזקיהו>> ויאשיהו כלם השחיתו ויעזבו תורת
+8954	B	B	49:4	B_XVIII_Verso	18v:7	ויאשיהו	ויאשיהו	not verb	noun/name/preposition/III-he plural/fragment	True	True	עשה חסד לבד מדויד יחזקיהו <<ויאשיהו>> כלם השחיתו ויעזבו תורת עליון
+8977	B	B	49:7	B_XVIII_Verso	18v:11	ירמיהו	ירמיהו	not verb	noun/name/preposition/III-he plural/fragment	True	True	קרית קדש וישמו ארחתיה ביד <<ירמיהו>> כי ענוהו והוא מרחם נוצר
+8979	B	B	49:7	B_XVIII_Verso	18v:11	ענוהו	ענוהו	finite verb + suffix		True	True	וישמו ארחתיה ביד ירמיהו כי <<ענוהו>> והוא מרחם נוצר נביא לנתוש
+9019	B	B	49:10	B_XVIII_Verso	18v:16	וישעוהו	וישעוהו	finite verb + suffix		True	True	{[מ][ת][ח]תם} אשר החלימו את יעקב <<וישעוהו>> {ב} {ל}
+9184	B	B	50:12	B_XIX_Verso	19v:5	ויקיפוהו	ויקיפוהו	finite verb + suffix		True	True	עטרת בנים כשתילי ארזים בלבנון <<ויקיפוהו>> כערבי נחל כל בני אהרן
+9287	B	B	50:22	B_XX_Recto	20r:1	ויעשהו	ויעשהו	finite verb + suffix		True	True	המגדל אדם מרחם <<ויעשהו>> כרצונו יתן לכם חכמת לבב
+9376	B	B	51:2	B_XX_Recto	20r:13	פציתני	פציתני	finite verb + suffix		True	True	משחת ומיד שאול הצלת רגלי <<פציתני>> מדבת עם משוט דבת לשון
+9389	B	B	51:3	B_XX_Recto	20r:14	עזרתני	עזרתני	finite verb + suffix		True	True	כזב נגד קמי הייתה לי <<עזרתני>> כרוב חסדך ממוקש צופי סלע
+9400	B	B	51:3	B_XX_Recto	20r:16	הושעתני	הושעתני	finite verb + suffix		True	True	ומיד מבקשי נפשי מרבות צרות <<הושעתני>> וממצוקות שלהב[ת] מכבות אש לאין
+9460	B	B	51:10	B_XX_Verso	20v:7	תרפני	תרפני	finite verb + suffix		True	True	כי אתה גבור ישעי אל <<תרפני>> ביום צרה ביום שואה ומשואה
+9478	B	B	51:12	B_XX_Verso	20v:10	ויפדני	ויפדני	finite verb + suffix		True	True	קולי ייי ויאזין אל תחנוני <<ויפדני>> מכל רע וימלטני ביום צרה
+9481	B	B	51:12	B_XX_Verso	20v:10	וימלטני	וימלטני	finite verb + suffix		True	True	אל תחנוני ויפדני מכל רע <<וימלטני>> ביום צרה על כן הודיתי
+9862	C	C	20:23	C_I_Verso	1v:8	רעהו	רעהו	not verb	noun/name/preposition/III-he plural/fragment	True	True	פנים יורישנה יש נכלם ומבטיח <<רעהו>> וקונהו שונא חנם אל תשא
+9863	C	C	20:23	C_I_Verso	1v:8	וקונהו	וקונהו	participle (not finite)		True	True	יורישנה יש נכלם ומבטיח רעהו <<וקונהו>> שונא חנם אל תשא פנים
+10028	C	C	6:7	C_III_Recto	3r:9	קנהו	קנהו	finite verb + suffix		True	False	יהפך לצר קנית אוהב בנסיון <<קנהו>> ואל תמהר לבטוח עליו יש
+10274	C	C	37:24	C_V_Verso	5v:8	יאשרוהו	יאשרוהו	finite verb + suffix		True	True	לנפשו ישבע תענוג וכל ראיו <<יאשרוהו>> חכם {ע[ם]} {[י][נ][ח]ל} כבוד ושמ[ו]
+10997	D	D	37:6	D_II_Recto	2r:10	תעזבהו	תעזבהו	finite verb + suffix		True	False	אל תשכח חבר בקרב ואל <<תעזבהו>> בשללך כל יועץ אומר חזה
+11190	D	D	37:24	D_II_Verso	2v:13	ויאשריהו	ויאשריהו	finite verb + suffix		True	False	חכם לנפשו ישבע תענוג <<ויאשריהו>> כל רואיהו חכם עם ינהל
+11192	D	D	37:24	D_II_Verso	2v:14	רואיהו	רואיהו	participle (not finite)		True	False	לנפשו ישבע תענוג ויאשריהו כל <<רואיהו>> חכם עם ינהל כבוד ושמו
+11412	E	E	33:13	E_I_Recto	1r:23	עושהו	עושהו	participle (not finite)		True	True	ודחפם ממעבד[י][ה]ם יוצר לאחוז כרצון <<עושהו>> להתיצב מפניו חלק טוב ונוכח
+11561	E	E	33:31	E_I_Verso	1v:19	חשב[ה][ו]	חשבהו	finite verb + suffix		True	True	כי במשף אחד עבדך כאח <<חשב[ה][ו]>> {[א]ל} תקנא {ב} כי אם
+11643	F	F	31:31	F_I_Recto	1r:10	תוגהו	תוגהו	finite verb + suffix		True	True	יין אל תוכח רע ואל <<תוגהו>> בחדותו דבר חרפה אל תאמר
+11651	F	F	31:31	F_I_Recto	1r:11	תקמיעהו	תקמיעהו	finite verb + suffix		True	True	חרפה אל תאמר לו ואל <<תקמיעהו>> בנגשה ואל תריב עמו לעיני
+11782	F	F	32:14	F_I_Verso	1v:4	ויענהו	ויענהו	finite verb + suffix		True	False	{[ד][ו][ר][ש]} [ח]פצי {[א][ל]} מוצא לקח <<ויענהו>> בכל {תפ[ל][ת][ו]} {[י][ר][א]} {[י][י][י]} [י]בין
+12095	M	M	41:10	Masada_III.pdf	III:12	מתהו	מתהו	not verb	noun/name/preposition/III-he plural/fragment	True	False	אל אפס ישוב כן חנף <<מתהו>> אל תהו הב {ם} שם
+12097	M	M	41:10	Masada_III.pdf	III:12	תהו	תהו	not verb	noun/name/preposition/III-he plural/fragment	True	False	ישוב כן חנף מתהו אל <<תהו>> הב {ם} שם חסד ללא
+12521	M	M	43:5	Masada_V.pdf	V:22	עשהו	עשהו	participle (not finite)		True	False	מיר נושבת כי גדול אדני <<עשהו>> ודבר וגם רח יאריח עתות

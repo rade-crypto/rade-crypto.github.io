@@ -1,0 +1,5 @@
+idx	witness	corpus	verse	source_file	line	form	consonantal	decision	note	countable	in_dedup	context
+9597	B	B	51:13	B_XXI_Recto	21r:10	אני	אני	later		True	True	ישראל עם קרבו הללו יה <<אני>> נער הייתי וחפצתי בה ובקשתיה
+11438	E	E	33:16	E_I_Verso	1v:3	אני	אני	later		True	True	שנים שנים זה לעומת וגם <<אני>> אחריו שקדתי וכמו עולל אחר
+11447	E	E	33:17	E_I_Verso	1v:4	אני	אני	later		True	True	עולל אחר {ב[ר][כ]ת} אל גם <<אני>> קדמתי וכבוצר מלאתי {°} ראו
+12824	11QPsa	11QPsa	51:13	ETCBC/dss	21:11	אני	אני	later		True	False	<<אני>> נער בטרם תעיתי ובקשתיה באה

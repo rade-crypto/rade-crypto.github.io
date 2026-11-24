@@ -161,3 +161,22 @@ with open(os.path.join(RES, "hebrew_variables.csv"), "w", newline="") as fh:
     wr = csv.DictWriter(fh, fieldnames=list(rows[0])); wr.writeheader(); wr.writerows(rows)
 open(os.path.join(RES, "hebrew_variables.md"), "w").write("\n".join(md) + "\n")
 print("\n".join(md))
+
+# ---- Ben Sira (from results/bensira/bensira_variables.csv, produced by scripts/bensira/); appended so reruns keep it
+_bs = os.path.join(RES, "bensira", "bensira_variables.csv")
+if os.path.exists(_bs):
+    _labels = {v: (o, n) for v, o, n in VARS}
+    _fix_swap = {"object pronoun", "paragogic nun (yiqtol 2/3mp)"}   # helper's columns are reversed for these two
+    _out = []
+    for r in csv.DictReader(open(_bs)):
+        if not r["corpus"].startswith("deduplicated") or r["variable"] not in _labels:
+            continue
+        a, b = int(r["n_earlier"]), int(r["n_later"])
+        if r["variable"] in _fix_swap:
+            a, b = b, a
+        p, lo, hi = wilson(b, a + b)
+        _out.append(dict(variable=r["variable"], earlier=_labels[r["variable"]][0], later=_labels[r["variable"]][1],
+                         corpus="Ben Sira (c. 190 BCE; mostly medieval copies)", n_earlier=a, n_later=b,
+                         share_later=round(p, 3), ci_lo=round(lo, 3), ci_hi=round(hi, 3)))
+    with open(os.path.join(RES, "hebrew_variables.csv"), "a", newline="") as fh:
+        csv.DictWriter(fh, fieldnames=list(rows[0])).writerows(_out)
