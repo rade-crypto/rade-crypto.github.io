@@ -1,0 +1,51 @@
+id,refs,target,P,E,S,M,U,I,note,total
+A01,Isa 7:4-9; 7:16; 8:1-4,Damascus and Samaria,1,3,3,3,1,1,"Tiglath-pileser III: Damascus besieged, 591 cities, 13,520 Israelites deported, Pekah killed, Hoshea installed (733-732); time limit ~1-2 yrs met",12
+A14,Isa 39:5-7,Hezekiah's house and Babylon,0,3,3,3,2,1,Jehoiachin and sons in Babylon ration lists; narrative written later,12
+A05,Amos 5:27; 6:14; 7:17; 9:4,Israel (northern kingdom),1,3,1,3,2,1,Deportations 733-720 confirmed; Amos never names Assyria; 6:14 assumes Jeroboam II's borders,11
+A08,Hos 10:5-8; 11:5; 14:1,Samaria and its calf image,1,3,2,3,1,1,Sargon lists Samaria's gods as spoil; Assyria named,11
+A10,Isa 20:1-6,Egypt and Cush,1,3,2,3,1,1,"Esarhaddon 671 deports Taharqa's wife, crown prince, children; 701 Egyptian/Kushite charioteers captured",11
+B01,Jer 20:4-6; 21:4-10; 25:9-11; 32:28-29; 34:2; 37:8-10; 38:17-18,Jerusalem and Judah,1,3,2,3,1,1,597 Chronicle; 586 destruction layers; announced from 605 (Jer 25:9) though some oracles date to the siege itself,11
+B03,Jer 22:24-30,Coniah (Jehoiachin),1,3,2,3,1,1,Ration tablets: Ya'ukin king of Judah and sons in Babylon; no descendant became king,11
+A12,Isa 37:33-35,Sennacherib and Jerusalem,0,3,3,3,1,1,"No Sennacherib text claims entry, capture or ramp at Jerusalem; but narrative written after 681",11
+A13,Isa 37:7,Sennacherib,0,3,3,3,1,1,'Killed by his son' (Babylonian Chronicle); narrative reports it,11
+B06,Jer 25:1-14; 29:10,Babylon's dominion,1,3,3,2,1,1,"605-539 = 66 yrs, 609-539 = 70; '70 years' is a stock span",11
+A07,Hos 1:4-5,House of Jehu; kingdom of Israel,1,3,1,3,1,1,Kingdom ended 722/720 (Babylonian Chronicle 'ravaged Samaria'; Sargon),10
+A16,Nah 1:8; 1:14; 2:2-14; 3:1-19,Nineveh,1,3,1,3,1,1,"612 siege, plunder, 'ruin-hills' (Babylonian Chronicle); no attacker or date in Nahum; no flood in the record",10
+A17,Zeph 2:13-15,Assyria / Nineveh,1,3,1,3,1,1,612 destruction; later small town (Tacitus 49 CE),10
+A04,Amos 1:3-5,Damascus / Aram,1,3,1,2,2,1,Damascus taken and deported 732; 'Kir' only in 2 Kgs 16:9; written when Assyria was weak (if heading accepted),10
+B08,Jer 44:26-30,Pharaoh Hophra (Apries); Judeans in Egypt,1,2,3,2,1,1,Apries handed over and strangled (Herodotus) - but Judeans in Egypt did not perish (Elephantine),10
+B16a,Isa 13:17-19; 21:2; 21:9; Jer 51:11; 51:27-28; 51:31,Babylon's capture,1,3,2,2,1,1,"539 taken by Cyrus (ruler of Media), 'without battle'; gods returned not shattered",10
+B17,Isa 44:24-28; 45:1-7; 45:13; 46:1-2; 47:1-15; 48:14,Cyrus and Babylon,1,3,3,2,0,1,Gates opened without battle; Bel and Nebo not taken captive; text speaks to Cyrus's own time,10
+D02,Hos 3:4-5,Israel,3,3,1,1,1,1,In 4QXII; but kings and sacrifice existed 515 BCE-70 CE,10
+D01,Dan 9:24-27,Jerusalem and the sanctuary,2,3,2,1,1,1,"Book attested before 70 CE (4Q174; 1 Macc), but 9:24-27 not in any scroll; timeline does not reach 70 CE without a gap",10
+B11,Ezek 26:1-14; 26:19-21; 27:36; 28:19,Tyre,1,2,3,1,2,1,Nebuchadnezzar failed (Ezek 29:18); Alexander used Old Tyre's stones (Curtius); Tyre rebuilt,10
+B05,Ezek 12:12-13,'The prince' (Zedekiah),1,1,2,3,1,1,Blinded before reaching Babylon - biblical record only,9
+B12,Jer 47:1-7,"Philistines (Gaza, Ashkelon)",1,3,1,3,0,1,Ashkelon captured and made a ruin mound 604 (Chronicle),9
+B18,Hab 1:5-11,The Chaldeans,1,3,1,3,0,1,Babylon's rise,9
+D03,Jer 30:11; 46:28; Amos 9:8-9,Jacob/Israel among the nations,3,2,0,2,1,1,Generic,9
+C06,Obad 17-21,"Edom, Philistia, Samaria, Gilead",2,2,2,2,1,0,Ben Sira predates; Hasmonean conquests followed a deliberate 'ancestral land' programme,9
+C07,Isa 19:18-25,Egypt,2,2,2,2,1,0,Onias cited this very prophecy when founding his temple,9
+A11,Isa 10:24-34; 14:24-27; 30:31; 31:8,Assyria at Jerusalem,1,3,1,2,1,1,Sennacherib withdrew without taking Jerusalem; no record of his army destroyed,9
+B13,Jer 49:28-33,Kedar and Hazor (Arabs),1,3,2,2,0,1,599/598 raid on Arabs (Chronicle); Hazor unlocated,9
+C04,Zech 9:1-8,"Syria, Phoenicia, Philistia",1,2,2,2,1,1,Alexander 332 at Tyre and Gaza; Zech 9-14 undated,9
+B16b,Isa 13:19-22; 14:22-23; Jer 50:13; 50:39-40; 51:26; 51:29; 51:37; 51:43; 51:62,Babylon's future,3,2,1,1,1,1,1QIsa-a (205-90 BCE) older than abandonment; desolation came ~600 yrs after the conquest the text names; bricks quarried (Jer 51:26),9
+D04,Isa 11:11-16; Amos 9:14-15; Ezek 37:21-22,Return from dispersion,3,3,1,1,1,0,"Modern movement drew on the texts; same passages: plunder Philistia/Edom/Moab, dry the sea of Egypt",9
+B09,Jer 43:8-13; 46:13-26; Ezek 29:17-20; 30:10-12,Egypt and Nebuchadnezzar,1,3,2,1,1,1,"568/567 campaign (BM 33041, outcome lost); Amasis kept throne",9
+B07,Jer 28:16-17,Hananiah,0,1,2,3,1,1,Narrative reports it,8
+C05,Zech 9:13-16,Zion and Yavan (Greece),2,2,1,2,1,0,Ben Sira's 'twelve prophets' predates 167; Maccabean war vs Seleucids; no scroll of Zech 9,8
+A15,Mic 3:12,Jerusalem / Temple Mount,1,3,0,2,1,1,586 destruction; Jer 26:19 says it was not carried out in Hezekiah's day,8
+A02,Isa 7:8,Ephraim (Israel),1,3,1,1,1,1,"Israel ended as a kingdom after ~13 yrs, not 65; 65 has no clear referent",8
+A18,Isa 23:1-18,Tyre and Sidon,1,3,1,1,1,1,70 years is a stock span (Esarhaddon: 70 reversed to 11),8
+A06,Amos 7:9; 7:11,House of Jeroboam II,1,1,1,2,1,1,Jeroboam's son killed (biblical only); Jeroboam himself not,7
+A19,Zeph 2:4-7,Philistine cities,1,3,0,2,1,0,Ashkelon/Ekron 604 yes; Gaza never deserted; coast taken by Hasmoneans,7
+B14,Jer 48:1-47; 49:1-6; Ezek 25:1-11,Moab and Ammon,1,2,0,2,1,1,Peoples vanished; lands and Rabbah (Amman) stayed inhabited,7
+C03,Zech 4:9; 6:12-13,Zerubbabel and the temple,1,1,2,2,0,1,Biblical record only,7
+C02,Hag 2:6-9,The Second Temple,2,2,1,1,1,0,Herod's temple grander; 'peace in this place' did not follow,7
+A03,Isa 17:1-3,Damascus,1,3,0,1,1,1,Damascus taken 732 but never ceased to be a city,7
+C08,Joel 4:4-8,"Tyre, Sidon, Philistia",1,2,1,1,1,1,"Alexander, not Judah, sold Tyrians and Gazans",7
+A09,Mic 1:6-7,Samaria,1,2,1,1,1,0,720: Samaria rebuilt by Sargon; razed only c.108 BCE by a Jewish ruler,6
+B15,Jer 49:7-22; Ezek 25:12-14; 35:1-15; Obad 1-21; Isa 34:5-17; Mal 1:2-5,Edom,1,2,0,1,1,1,Edomites vanished as a people; land not uninhabited (Petra),6
+B10,Ezek 29:9-16; 30:13,Egypt's future,1,2,1,0,1,1,No 40-yr desolation; Egypt most prosperous under Amasis (Herodotus),6
+C01,Hag 2:20-23,Kingdoms of the nations; Zerubbabel,1,2,1,0,1,1,Persian empire not overthrown; Zerubbabel vanishes,6
+B02,Jer 22:18-19; 36:30,Jehoiakim,1,1,1,0,1,1,2 Kgs 24:6: 'slept with his fathers'; his son reigned,5
+B04,Jer 34:4-5,Zedekiah,1,1,1,0,1,1,"Blinded, died in prison (Jer 52:11)",5
